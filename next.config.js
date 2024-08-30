@@ -10,8 +10,6 @@
 // const basePath = `/${repo}`;
 
 const nextConfig = {
-  basePath:`/new-tab-link`,
-  assetPrefix:`/assetPrefix/`,
   output: "export",
 };
 // const nextConfig = {
