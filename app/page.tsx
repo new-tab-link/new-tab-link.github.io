@@ -1,14 +1,12 @@
 import Link from "next/link";
-
+import 'next'
+import ClippedDrawer from "./components/doc-content";
+import { Container } from "@mui/material";
 const Home = () => {
   return (
-    <div>
-      <h1>Home</h1>
-      <p>Hello World! This is the Home page</p>
-      <p>
-        Visit the <Link href="/about">About3</Link> page.
-      </p>
-    </div>
+    <Container>
+      <ClippedDrawer />
+    </Container>
   );
 };
 

@@ -18,7 +18,15 @@
       {
         "name": "next"
       }
-    ]
+    ],
+    
+    "experimentalDecorators": true,
+    "outDir": "dist",
+    "downlevelIteration": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "allowSyntheticDefaultImports": true,
+    "noImplicitReturns": true
   },
   "include": [
     "next-env.d.ts",
