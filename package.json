@@ -29,6 +29,7 @@
     "immer": "^10.1.1",
     "lodash": "^4.17.21",
     "material-ui-popup-state": "^5.3.1",
+    "next": "^14.2.8",
     "notistack": "^3.0.1",
     "react": "^18.3.1",
     "react-activation": "^0.12.4",
