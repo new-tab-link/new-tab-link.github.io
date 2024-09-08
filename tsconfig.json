@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
@@ -14,12 +15,16 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+    "moduleDetection": "force",
     "plugins": [
       {
         "name": "next"
       }
     ],
     
+    "paths": {
+      "@src/*": ["src/*"]
+    },
     "experimentalDecorators": true,
     "outDir": "dist",
     "downlevelIteration": true,
@@ -34,6 +39,6 @@
     "**/*.tsx",
     "next.config.js",
     ".next/types/**/*.ts"
-  ],
+, "projecr-tools/i18n/fileWatcher/index.js", "project-tools/i18n/fileWatcher/index.js"  ],
   "exclude": ["node_modules"]
 }
