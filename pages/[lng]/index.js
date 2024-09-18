@@ -33,6 +33,8 @@ const HomePage = () => {
         Use client-side routing to change language to 'zh'
       </Link>
       </div>
+      
+      <div>title = {i18n.t('setting.title')}</div>
     </div>
   );
 };

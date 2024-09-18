@@ -6,6 +6,9 @@
     },
     "dashboard": {
       "description": "seo比较友好."
+    },
+    "setting":{
+        "title":"标题"
     }
   }
   
