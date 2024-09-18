@@ -1,12 +1,12 @@
-// @ts-check
-
-/**
- * @type {import('next').NextConfig}
- **/
-
-
-const nextConfig = {
-  output: "export",
+module.exports = {
+  // redirects() {
+  //   return [
+  //     {
+  //       source: "/",
+  //       destination: "/en",
+  //       permanent: true,
+  //     },
+  //   ];
+  // },
+  output:"export"
 };
-
-module.exports = nextConfig;

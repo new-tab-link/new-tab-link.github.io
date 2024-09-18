@@ -1,0 +1,11 @@
+{
+    "intro": {
+      "welcome": "hello, {{username}}!",
+      "text": "你看看中不中.",
+      "description": "优化更新多语言."
+    },
+    "dashboard": {
+      "description": "seo比较友好."
+    }
+  }
+  
