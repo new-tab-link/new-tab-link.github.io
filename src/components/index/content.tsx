@@ -4,7 +4,7 @@ import { Trans, useTranslation } from "react-i18next";
 export const IndexContent = () => {
     const d = __filename
     console.log('dddddddddddd', d)
-    const { t } = useTranslation("doc_components_index")
+    const { t } = useTranslation("doc__components__index")
     return (
      <div>
   
@@ -13,10 +13,10 @@ export const IndexContent = () => {
         <span>空格</span>
         <Link href={"/post"} >ddddd1</Link>
   
-        <Trans i18nKey={"name"} ns="doc_components_index">
+        <Trans i18nKey={"name"} ns="doc__components__index">
   
         </Trans>
-        <div>h22hh2{t('title', { ns: "doc_components_index" })}</div>
+        <div>h22hh2{t('title', { ns: "doc__components__index" })}</div>
       </div>
      </div>
     )
