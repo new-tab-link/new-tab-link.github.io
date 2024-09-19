@@ -4,7 +4,7 @@ import i18next from "i18next"
 
 export default function About(){
 
-    const {t} = useTranslation('')
+    const {t} = useTranslation()
     t('title')
     t('name')
     i18next
