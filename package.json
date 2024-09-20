@@ -34,6 +34,7 @@
     "clipboard": "^2.0.11",
     "core-decorators": "^0.20.0",
     "debounce": "^2.1.1",
+    "eslint-plugin-jest": "^28.8.3",
     "foundation-sites": "^6.8.1",
     "framer-motion": "^6.5.1",
     "i18next": "^23.15.1",
