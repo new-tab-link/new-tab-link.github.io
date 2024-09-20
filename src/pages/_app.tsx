@@ -1,13 +1,16 @@
-import { ChakraProvider } from "@chakra-ui/react";
 
-import theme from "../theme";
+import { pluralMap } from "@0xff336699/js-i18n-lngs";
+import { Container } from "@mui/material";
 import { AppProps } from "next/app";
 
 function MyApp({ Component, pageProps }: AppProps) {
+  console.log(`33333`, pluralMap)
   return (
-    <ChakraProvider theme={theme}>
+    // <ChakraProvider theme={theme}>
+    <Container>
       <Component {...pageProps} />
-    </ChakraProvider>
+    </Container>
+    // </ChakraProvider>
   );
 }
 

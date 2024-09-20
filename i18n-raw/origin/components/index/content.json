@@ -1,4 +1,6 @@
 {
-  "name": "doc",
-  "title": "documentation"
+  "tree": {
+    "name": "doc",
+    "title": "documentation"
+  }
 }

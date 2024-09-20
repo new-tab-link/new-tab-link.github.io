@@ -24,7 +24,7 @@ const backendOptions = {
     lng = 'zh-CN'
     let p = `/options/_locales/${lngs[0].replace("-", "_")}/messages.json`;
     p = `/locales/zh-CN/ns1/content.json`;
-    p = `locales/${lng}/${namespaces[0].replaceAll("__", "/")}/content.json`
+    p = `locales/${lng}/${namespaces[0].replaceAll('___', '-').replaceAll("__", "/")}/content.json`
     // if (isProduction) {
     //   if (typeof window !== "undefined") {
     //     const url = new URL(window.location.href);

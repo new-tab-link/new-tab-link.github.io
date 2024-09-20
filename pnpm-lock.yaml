@@ -9,13 +9,13 @@ importers:
   .:
     dependencies:
       '@chakra-ui/icons':
-        specifier: ^2.0.2
+        specifier: ^2.1.1
         version: 2.1.1(@chakra-ui/system@2.6.2(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(react@18.3.1))(react@18.3.1)
       '@chakra-ui/react':
-        specifier: ^2.2.1
+        specifier: ^2.8.2
         version: 2.8.2(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(framer-motion@6.5.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@chakra-ui/theme-tools':
-        specifier: ^2.0.2
+        specifier: ^2.1.2
         version: 2.1.2(@chakra-ui/styled-system@2.9.2)
       '@emotion/react':
         specifier: ^11.13.3
@@ -24,22 +24,22 @@ importers:
         specifier: ^11.13.0
         version: 11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1)
       '@mui/icons-material':
-        specifier: ^6.0.2
+        specifier: ^6.1.0
         version: 6.1.0(@mui/material@6.1.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/react@18.3.5)(react@18.3.1)
       '@mui/lab':
-        specifier: ^6.0.0-beta.9
+        specifier: 6.0.0-beta.9
         version: 6.0.0-beta.9(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@mui/material@6.1.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/react@18.3.5)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@mui/material':
-        specifier: ^6.0.2
+        specifier: ^6.1.0
         version: 6.1.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@mui/styled-engine-sc':
-        specifier: ^6.0.2
+        specifier: ^6.1.0
         version: 6.1.0(styled-components@6.1.13(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
       '@mui/system':
-        specifier: ^6.0.2
+        specifier: ^6.1.0
         version: 6.1.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1)
       '@mui/x-tree-view':
-        specifier: ^7.16.0
+        specifier: ^7.17.0
         version: 7.17.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@mui/material@6.1.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@mui/system@6.1.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@szhsin/react-menu':
         specifier: ^4.2.2
@@ -57,16 +57,16 @@ importers:
         specifier: ^0.20.0
         version: 0.20.0
       debounce:
-        specifier: ^2.1.0
+        specifier: ^2.1.1
         version: 2.1.1
       foundation-sites:
         specifier: ^6.8.1
         version: 6.8.1(jquery@3.7.1)(what-input@5.2.12)
       framer-motion:
-        specifier: ^6.3.0
+        specifier: ^6.5.1
         version: 6.5.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       i18next:
-        specifier: ^23.14.0
+        specifier: ^23.15.1
         version: 23.15.1
       i18next-browser-languagedetector:
         specifier: ^8.0.0
@@ -84,7 +84,7 @@ importers:
         specifier: ^5.3.1
         version: 5.3.1(@mui/material@6.1.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@emotion/styled@11.13.0(@emotion/react@11.13.3(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react@18.3.1))(@types/react@18.3.5)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
       next:
-        specifier: ^14.2.8
+        specifier: ^14.2.11
         version: 14.2.11(@babel/core@7.25.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(sass@1.78.0)
       next-i18next:
         specifier: ^15.3.1
@@ -92,9 +92,6 @@ importers:
       notistack:
         specifier: ^3.0.1
         version: 3.0.1(csstype@3.1.3)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      package-lock-only:
-        specifier: ^0.0.4
-        version: 0.0.4
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -108,10 +105,10 @@ importers:
         specifier: ^0.9.7
         version: 0.9.7
       react-i18next:
-        specifier: ^15.0.1
+        specifier: ^15.0.2
         version: 15.0.2(i18next@23.15.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react-router-dom:
-        specifier: ^6.26.1
+        specifier: ^6.26.2
         version: 6.26.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       styled-components:
         specifier: ^6.1.13
@@ -122,16 +119,17 @@ importers:
       use-immer:
         specifier: ^0.10.0
         version: 0.10.0(immer@10.1.1)(react@18.3.1)
-    devDependencies:
+    optionalDependencies:
       '@0xff336699/js-i18n-files-detector':
-        specifier: github:0xFF336699/js-i18n-files-detector#v0.0.13
-        version: git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#03aff8b58f27ddd90d161403b0a06106f7180ba1
+        specifier: github:0xFF336699/js-i18n-files-detector#v0.0.18
+        version: git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#8a9e64ad9d2d10c5e98b8164411417d3ef37b2fb
       '@0xff336699/js-i18n-lngs':
-        specifier: github:0xFF336699/js-i18n-lngs
-        version: https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/845633e1d2a5719acc45640b44add7469299ff95
+        specifier: github:0xFF336699/js-i18n-lngs#v1.0.33
+        version: https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d
       '@0xff336699/js-i18n-translator':
         specifier: github:0xff336699/js-i18n-translator#v1.0.1
         version: git+https://git@github.com:0xff336699/js-i18n-translator.git#ad9a9ea2a52f29aab8a49997bce8d01154037409
+    devDependencies:
       '@babel/core':
         specifier: ^7.25.2
         version: 7.25.2
@@ -154,7 +152,7 @@ importers:
         specifier: ^4.17.7
         version: 4.17.7
       '@types/node':
-        specifier: ^22.5.4
+        specifier: ^22.5.5
         version: 22.5.5
       '@types/react':
         specifier: ^18.3.5
@@ -196,19 +194,19 @@ importers:
         specifier: ^5.2.1
         version: 5.2.1(eslint-config-prettier@9.1.0(eslint@8.57.0))(eslint@8.57.0)(prettier@3.3.3)
       eslint-plugin-react:
-        specifier: ^7.35.2
+        specifier: ^7.36.1
         version: 7.36.1(eslint@8.57.0)
       eslint-plugin-react-hooks:
         specifier: ^4.6.2
         version: 4.6.2(eslint@8.57.0)
       husky:
-        specifier: ^9.1.5
+        specifier: ^9.1.6
         version: 9.1.6
       lint-staged:
         specifier: ^15.2.10
         version: 15.2.10
       postcss:
-        specifier: ^8.4.45
+        specifier: ^8.4.47
         version: 8.4.47
       prettier:
         specifier: ^3.3.3
@@ -220,19 +218,19 @@ importers:
         specifier: ^1.78.0
         version: 1.78.0
       tailwindcss:
-        specifier: ^3.4.10
+        specifier: ^3.4.11
         version: 3.4.11
       tslib:
         specifier: ^2.7.0
         version: 2.7.0
       turbo:
-        specifier: ^2.1.1
+        specifier: ^2.1.2
         version: 2.1.2
       typescript:
-        specifier: ^5.5.4
+        specifier: ^5.6.2
         version: 5.6.2
       vite:
-        specifier: ^5.4.3
+        specifier: ^5.4.5
         version: 5.4.5(@types/node@22.5.5)(sass@1.78.0)
       watch:
         specifier: ^1.0.2
@@ -240,17 +238,17 @@ importers:
 
 packages:
 
-  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#03aff8b58f27ddd90d161403b0a06106f7180ba1':
-    resolution: {commit: 03aff8b58f27ddd90d161403b0a06106f7180ba1, repo: git@github.com:0xFF336699/js-i18n-files-detector.git, type: git}
-    version: 0.0.13
+  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#8a9e64ad9d2d10c5e98b8164411417d3ef37b2fb':
+    resolution: {commit: 8a9e64ad9d2d10c5e98b8164411417d3ef37b2fb, repo: git@github.com:0xFF336699/js-i18n-files-detector.git, type: git}
+    version: 0.0.18
+
+  '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d':
+    resolution: {tarball: https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d}
+    version: 1.0.33
 
   '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/3d814024124b2c91b6eca9448fadccb031e977f3':
     resolution: {tarball: https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/3d814024124b2c91b6eca9448fadccb031e977f3}
     version: 1.0.32
-
-  '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/845633e1d2a5719acc45640b44add7469299ff95':
-    resolution: {tarball: https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/845633e1d2a5719acc45640b44add7469299ff95}
-    version: 1.0.31
 
   '@0xff336699/js-i18n-translator@git+https://git@github.com:0xff336699/js-i18n-translator.git#ad9a9ea2a52f29aab8a49997bce8d01154037409':
     resolution: {commit: ad9a9ea2a52f29aab8a49997bce8d01154037409, repo: git@github.com:0xff336699/js-i18n-translator.git, type: git}
@@ -3568,9 +3566,6 @@ packages:
   package-json-from-dist@1.0.0:
     resolution: {integrity: sha512-dATvCeZN/8wQsGywez1mzHtTlP22H8OEfPrVMLNr4/eGa+ijtLn/6M5f0dY8UKNrC2O9UCU6SSoG3qRKnt7STw==}
 
-  package-lock-only@0.0.4:
-    resolution: {integrity: sha512-fV1YHeTMWH5LKmdVqfWskm2/SG0iF2IrxJn3ziaPVx9CnpecGJzt8xXtLV+CYINENZwPFMtbxO5qupz0asNz1A==}
-
   parent-module@1.0.1:
     resolution: {integrity: sha512-GQ2EWRpQV8/o+Aw8YqtfZZPfNRWZYkbidE9k5rpl/hC3vtHHBfGm2Ifi6qWV+coDGkrUKZAxE3Lot5kcsRlh+g==}
     engines: {node: '>=6'}
@@ -4410,9 +4405,8 @@ packages:
 
 snapshots:
 
-  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#03aff8b58f27ddd90d161403b0a06106f7180ba1':
+  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#8a9e64ad9d2d10c5e98b8164411417d3ef37b2fb':
     dependencies:
-      '@0xff336699/js-i18n-lngs': https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/845633e1d2a5719acc45640b44add7469299ff95
       '@types/is-glob': 4.0.4
       '@types/lodash': 4.17.7
       '@types/watch': 1.0.6
@@ -4423,10 +4417,13 @@ snapshots:
       lodash: 4.17.21
       minimatch: 10.0.1
       watch: 1.0.2
+    optional: true
 
-  '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/3d814024124b2c91b6eca9448fadccb031e977f3': {}
+  '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d':
+    optional: true
 
-  '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/845633e1d2a5719acc45640b44add7469299ff95': {}
+  '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/3d814024124b2c91b6eca9448fadccb031e977f3':
+    optional: true
 
   '@0xff336699/js-i18n-translator@git+https://git@github.com:0xff336699/js-i18n-translator.git#ad9a9ea2a52f29aab8a49997bce8d01154037409':
     dependencies:
@@ -4435,6 +4432,7 @@ snapshots:
       glob: 11.0.0
       lodash: 4.17.21
       typescript: 5.6.2
+    optional: true
 
   '@alloc/quick-lru@5.2.0': {}
 
@@ -6141,7 +6139,8 @@ snapshots:
 
   '@floating-ui/utils@0.2.8': {}
 
-  '@google/generative-ai@0.15.0': {}
+  '@google/generative-ai@0.15.0':
+    optional: true
 
   '@humanwhocodes/config-array@0.11.14':
     dependencies:
@@ -6575,7 +6574,8 @@ snapshots:
       '@types/react': 18.3.5
       hoist-non-react-statics: 3.3.2
 
-  '@types/is-glob@4.0.4': {}
+  '@types/is-glob@4.0.4':
+    optional: true
 
   '@types/json5@0.0.29': {}
 
@@ -6611,6 +6611,7 @@ snapshots:
   '@types/watch@1.0.6':
     dependencies:
       '@types/node': 22.5.5
+    optional: true
 
   '@typescript-eslint/eslint-plugin@7.18.0(@typescript-eslint/parser@7.18.0(eslint@8.57.0)(typescript@5.6.2))(eslint@8.57.0)(typescript@5.6.2)':
     dependencies:
@@ -8314,10 +8315,6 @@ snapshots:
       p-limit: 3.1.0
 
   package-json-from-dist@1.0.0: {}
-
-  package-lock-only@0.0.4:
-    dependencies:
-      chalk: 2.4.2
 
   parent-module@1.0.1:
     dependencies:

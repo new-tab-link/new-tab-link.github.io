@@ -1,4 +1,8 @@
 {
-  "title": "about3",
-  "name": "angle2"
+  "about": {
+    "title": "about3"
+  },
+  "content": {
+    "name": "angle2"
+  }
 }
