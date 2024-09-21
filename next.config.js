@@ -7,7 +7,8 @@
 
 const nextConfig = {
   output: "export",
-  distDir:"docs"
+  distDir:"docs",
+  basePath:"/docs"
 };
 
 module.exports = nextConfig;
