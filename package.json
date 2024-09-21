@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "clean:bundle": "pnpx rimraf out",
+    "clean:bundle": "pnpx rimraf docs",
     "clean:node_modules": "pnpx rimraf node_modules",
     "clean": "pnpm clean:bundle && pnpm clean:node_modules",
     "i18n-listen-file": "ts-node ./i18n-raw/scripts/file-listen.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "view": "npx serve@latest out",
+    "view": "npx serve@latest docs",
     "i18n-file-watch": "node ./project-tools/i18n/fileWatcher/index.js"
   },
   "author": "",
@@ -57,6 +57,7 @@
     "use-immer": "^0.10.0"
   },
   "devDependencies": {
+    "@0xff336699/js-i18n-lngs": "github:0xFF336699/js-i18n-lngs#v1.0.33",
     "@babel/core": "^7.25.2",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@babel/plugin-proposal-decorators": "^7.24.7",
@@ -94,8 +95,7 @@
     "watch": "^1.0.2"
   },
   "optionalDependencies": {
-    "@0xff336699/js-i18n-files-detector": "github:0xFF336699/js-i18n-files-detector#v0.0.18",
-    "@0xff336699/js-i18n-lngs": "github:0xFF336699/js-i18n-lngs#v1.0.33",
+    "@0xff336699/js-i18n-files-detector": "github:0xFF336699/js-i18n-files-detector#v0.0.19",
     "@0xff336699/js-i18n-translator": "github:0xff336699/js-i18n-translator#v1.0.1"
   }
 }

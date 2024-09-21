@@ -124,15 +124,15 @@ importers:
         version: 0.10.0(immer@10.1.1)(react@18.3.1)
     optionalDependencies:
       '@0xff336699/js-i18n-files-detector':
-        specifier: github:0xFF336699/js-i18n-files-detector#v0.0.18
-        version: git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#8a9e64ad9d2d10c5e98b8164411417d3ef37b2fb
-      '@0xff336699/js-i18n-lngs':
-        specifier: github:0xFF336699/js-i18n-lngs#v1.0.33
-        version: https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d
+        specifier: github:0xFF336699/js-i18n-files-detector#v0.0.19
+        version: git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#2dd8a88d44bd43966a11a057e68c05248aed2e62
       '@0xff336699/js-i18n-translator':
         specifier: github:0xff336699/js-i18n-translator#v1.0.1
         version: git+https://git@github.com:0xff336699/js-i18n-translator.git#ad9a9ea2a52f29aab8a49997bce8d01154037409
     devDependencies:
+      '@0xff336699/js-i18n-lngs':
+        specifier: github:0xFF336699/js-i18n-lngs#v1.0.33
+        version: https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d
       '@babel/core':
         specifier: ^7.25.2
         version: 7.25.2
@@ -241,9 +241,9 @@ importers:
 
 packages:
 
-  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#8a9e64ad9d2d10c5e98b8164411417d3ef37b2fb':
-    resolution: {commit: 8a9e64ad9d2d10c5e98b8164411417d3ef37b2fb, repo: git@github.com:0xFF336699/js-i18n-files-detector.git, type: git}
-    version: 0.0.18
+  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#2dd8a88d44bd43966a11a057e68c05248aed2e62':
+    resolution: {commit: 2dd8a88d44bd43966a11a057e68c05248aed2e62, repo: git@github.com:0xFF336699/js-i18n-files-detector.git, type: git}
+    version: 0.0.19
 
   '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d':
     resolution: {tarball: https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d}
@@ -4421,7 +4421,7 @@ packages:
 
 snapshots:
 
-  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#8a9e64ad9d2d10c5e98b8164411417d3ef37b2fb':
+  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#2dd8a88d44bd43966a11a057e68c05248aed2e62':
     dependencies:
       '@types/is-glob': 4.0.4
       '@types/lodash': 4.17.7
@@ -4435,8 +4435,7 @@ snapshots:
       watch: 1.0.2
     optional: true
 
-  '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d':
-    optional: true
+  '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/1740779c46e915ad955f76f1e6544ad0b68e3c3d': {}
 
   '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xFF336699/js-i18n-lngs/tar.gz/3d814024124b2c91b6eca9448fadccb031e977f3':
     optional: true
