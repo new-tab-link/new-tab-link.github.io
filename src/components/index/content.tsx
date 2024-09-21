@@ -18,6 +18,8 @@ import Typography from '@mui/material/Typography';
 import { useTranslation } from 'react-i18next';
 import { DocGlobalMenu } from '../doc-parts/global/DocGlobal';
 import { LanguageSelect } from '../language-selector/LanguageSelect';
+import { ThemeModelSetter } from '../theme-model/ThemeModelSetter';
+import { Grid2 } from '@mui/material';
 
 const drawerWidth = 240;
 
@@ -109,7 +111,7 @@ export default function IndexPageContent(props: Props) {
           </IconButton>
           <Typography variant="h6" noWrap component="div">
             <LanguageSelect />
-            Responsive drawer
+            <ThemeModelSetter />
           </Typography>
         </Toolbar>
       </AppBar>

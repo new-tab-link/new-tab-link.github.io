@@ -33,7 +33,7 @@ export function LanguageSelect() {
     setHtmlLang(language);
   }, [language, i18n]);
   return (
-    <Box sx={{pt:"1rem", pb:"0.3rem"}}>
+    <Box sx={{pt:"1rem", pb:"1rem", float:"right"}}>
 
 <FormControl sx={{ minWidth: '150px' }}>
       <InputLabel id="demo-simple-select-label">{t('content.title')}</InputLabel>

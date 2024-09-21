@@ -10,10 +10,12 @@ import LanguageDetector from "i18next-browser-languagedetector";
 import Backend, { HttpBackendOptions } from "i18next-http-backend";
 import i18next from "i18next";
 import { Log } from "@src/libs/fanfanlo";
+import getConfig from "next/config";
 type II18n = typeof i18nResource;
 
 const isProduction = process.env.NODE_ENV === "production";
 const isBrowser = () => typeof window !== "undefined";
+const fileDateVersion = getConfig().publicRuntimeConfig?.version
 export const i18nLogger = new Log(false, `i18n`);
 const backendOptions = {
   // loadPath: '/_locales/{{lng}}/messages.json',
@@ -24,7 +26,7 @@ const backendOptions = {
     lng = 'zh-CN'
     let p = `/options/_locales/${lngs[0].replace("-", "_")}/messages.json`;
     p = `/locales/zh-CN/ns1/content.json`;
-    p = `locales/${lng}/${namespaces[0].replaceAll('___', '-').replaceAll("__", "/")}/content.json`
+    p = `locales/${lng}/${namespaces[0].replaceAll('___', '-').replaceAll("__", "/")}/content.json?v=${fileDateVersion}`
     // if (isProduction) {
     //   if (typeof window !== "undefined") {
     //     const url = new URL(window.location.href);
