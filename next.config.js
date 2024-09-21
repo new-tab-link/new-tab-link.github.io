@@ -8,7 +8,7 @@
 const nextConfig = {
   output: "export",
   distDir:"docs",
-  basePath:"/docs"
+  basePath:"/new-tab-link/docs"
 };
 
 module.exports = nextConfig;
