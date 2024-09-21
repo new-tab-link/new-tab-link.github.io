@@ -17,6 +17,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import { useTranslation } from 'react-i18next';
 import { DocGlobalMenu } from '../doc-parts/global/DocGlobal';
+import { LanguageSelect } from '../language-selector/LanguageSelect';
 
 const drawerWidth = 240;
 
@@ -107,6 +108,7 @@ export default function IndexPageContent(props: Props) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div">
+            <LanguageSelect />
             Responsive drawer
           </Typography>
         </Toolbar>
