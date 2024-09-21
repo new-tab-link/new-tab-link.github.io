@@ -10,8 +10,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "view": "npx serve@latest docs",
-    "i18n-file-watch": "node ./project-tools/i18n/fileWatcher/index.js"
+    "view": "npx serve@latest docs"
   },
   "author": "",
   "license": "ISC",
