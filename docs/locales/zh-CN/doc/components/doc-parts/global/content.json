@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "全局设置",
+    "checkedUseSetting": "1：勾选可以启用此设置。",
+    "excludeDomains": "2：此设置排除的域名。",
+    "script": "3：您还可以用js脚本来实现更精细复杂的控制。",
+    "checkedUseScript": "4：是否启用您的脚本。",
+    "seeScriptExamplesLink": "示例",
+    "scriptExamplesTitle": "脚本示例"
+  },
+  "menu": {
+    "main": "全局global"
+  },
+  "script": {
+    "title": "脚本示例",
+    "script1": {
+      "desc": "xxx"
+    }
+  }
+}
