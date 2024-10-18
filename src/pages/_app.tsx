@@ -1,6 +1,7 @@
 'use client'
-import { Container, createTheme, NoSsr, ThemeProvider } from "@mui/material";
+import { Container, createTheme, CssBaseline, NoSsr, ThemeProvider } from "@mui/material";
 import { AppProps } from "next/app";
+import { Fragment } from "react";
 
 const theme = createTheme({
   colorSchemes: {
@@ -12,13 +13,17 @@ const theme = createTheme({
 });
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <NoSsr>
-      <ThemeProvider theme={theme}>
-        <Container>
-          <Component {...pageProps} />
-        </Container>
-      </ThemeProvider>
-    </NoSsr>
+    <Fragment>
+      <CssBaseline />
+      <NoSsr>
+
+        <ThemeProvider theme={theme}>
+          <Container id={"mui-root-container"} maxWidth="lg"  fixed>
+            <Component {...pageProps} />
+          </Container>
+        </ThemeProvider>
+      </NoSsr>
+    </Fragment>
   );
 }
 export default MyApp;

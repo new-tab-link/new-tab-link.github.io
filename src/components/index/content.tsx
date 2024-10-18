@@ -1,25 +1,27 @@
-import * as React from 'react';
+import MailIcon from '@mui/icons-material/Mail';
+import MenuIcon from '@mui/icons-material/Menu';
+import InboxIcon from '@mui/icons-material/MoveToInbox';
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
 import CssBaseline from '@mui/material/CssBaseline';
 import Divider from '@mui/material/Divider';
 import Drawer from '@mui/material/Drawer';
 import IconButton from '@mui/material/IconButton';
-import InboxIcon from '@mui/icons-material/MoveToInbox';
 import List from '@mui/material/List';
 import ListItem from '@mui/material/ListItem';
 import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
-import MailIcon from '@mui/icons-material/Mail';
-import MenuIcon from '@mui/icons-material/Menu';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
+import * as React from 'react';
 import { useTranslation } from 'react-i18next';
-import { DocGlobalMenu } from '../doc-parts/global/DocGlobal';
+import { Menu } from '../doc-parts/global/DocGlobal';
 import { LanguageSelect } from '../language-selector/LanguageSelect';
 import { ThemeModelSetter } from '../theme-model/ThemeModelSetter';
-import { Grid2 } from '@mui/material';
+import { grey } from '@mui/material/colors';
+import { indexModel } from './Model';
+import { Theme, useMediaQuery } from '@mui/material';
 
 const drawerWidth = 240;
 
@@ -36,7 +38,21 @@ export default function IndexPageContent(props: Props) {
   const [mobileOpen, setMobileOpen] = React.useState(false);
   const [isClosing, setIsClosing] = React.useState(false);
 
-  const { t } = useTranslation("doc__pages__about")
+  // const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
+  
+  const matches = useMediaQuery((theme:Theme) => theme.breakpoints.up('sm'));
+  console.log('matchessssssssssssss', matches)
+  const prefersDarkMode = useMediaQuery((theme:Theme)=>{
+    const x = theme.breakpoints.up('sm')
+
+    console.log(`theme  is`, theme, x)
+    console.log(`x  is`, x)
+    return theme.palette.mode
+  });
+  const darkColor = `#000000`
+  const lightColor = `#FFFFFF`
+  const appBarColor = prefersDarkMode ? darkColor : lightColor
+  console.log('prefersDarkMode prefersDarkMode', prefersDarkMode, appBarColor)
   const handleDrawerClose = () => {
     setIsClosing(true);
     setMobileOpen(false);
@@ -51,12 +67,15 @@ export default function IndexPageContent(props: Props) {
       setMobileOpen(!mobileOpen);
     }
   };
-
+  React.useEffect(()=>{
+    indexModel.anchor.initAnchor()
+  }, [])
   const drawer = (
     <div>
       <Toolbar />
       <Divider />
-      <DocGlobalMenu />
+      {/* <Menu />   */}
+      {/* <Menu anchor={indexModel.anchor} /> */}
       <Divider />
       <List>
         {['Inbox', 'Starred', 'Send email', 'Drafts'].map((text, index) => (
@@ -87,16 +106,19 @@ export default function IndexPageContent(props: Props) {
   );
 
   // Remove this const when copying and pasting into your project.
-  const container = window !== undefined ? () => window().document.body : undefined;
-
+  // const container = window !== undefined ? () => window().document.body : undefined;
+  const container = document.getElementById('mui-root-container')
+  console.log('wwwwwwwwwwwww3', container, document.getElementById('mui-root-container'))
   return (
     <Box sx={{ display: 'flex' }}>
       <CssBaseline />
-      <AppBar
-        position="fixed"
+      <AppBar color={"default"}
+        // position="fixed"
         sx={{
           width: { sm: `calc(100% - ${drawerWidth}px)` },
           ml: { sm: `${drawerWidth}px` },
+          // backgroundColor:grey[100]
+          // backgroundColor:"#00000000"
         }}
       >
         <Toolbar>
@@ -109,15 +131,18 @@ export default function IndexPageContent(props: Props) {
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" noWrap component="div">
+          <Box sx={{flexGrow:1}}>
+            
+          </Box>
+          <Box sx={{alignItems:"center", display:"flex", alignSelf:"center" }}>
             <LanguageSelect />
             <ThemeModelSetter />
-          </Typography>
+          </Box>
         </Toolbar>
       </AppBar>
       <Box
         component="nav"
-        sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }}
+        sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 }, position:"relative" }}
         aria-label="mailbox folders"
       >
         {/* The implementation can be swapped with js to avoid SEO duplication of links. */}
@@ -180,6 +205,9 @@ export default function IndexPageContent(props: Props) {
           eleifend. Commodo viverra maecenas accumsan lacus vel facilisis. Nulla
           posuere sollicitudin aliquam ultrices sagittis orci a.
         </Typography>
+        <Box>
+          {/* <Doc /> */}
+        </Box>
       </Box>
     </Box>
   );

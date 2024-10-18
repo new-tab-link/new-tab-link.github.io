@@ -11,6 +11,9 @@ const nextConfig = {
   publicRuntimeConfig: {
     version:require("./package.json").version,
   },
+  images: {
+    unoptimized: true,
+  },
 };
 
 module.exports = nextConfig;

@@ -1,11 +1,12 @@
 import { Box } from "@mui/material";
-import { DocGlobalMenu } from "../doc-parts/global/DocGlobal";
+import { Menu } from "../doc-parts/global/DocGlobal";
+import { indexModel } from "../index/Model";
 
 
 export function DocMenu(){
     return(
         <Box>
-            <DocGlobalMenu />
+            <Menu  setAnchor={indexModel.anchor.setAnchor}  />
         </Box>
     )
 }
