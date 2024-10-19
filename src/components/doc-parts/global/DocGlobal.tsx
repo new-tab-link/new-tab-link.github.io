@@ -76,9 +76,33 @@ function ScriptControll() {
         </Box>
     )
 }
+
+function ExcludeDomains() {
+    const { t } = useTranslation("doc/components/doc-parts/global/content")
+    return (
+        <Box sx={{ border: '1px solid #ccc', padding: 2, marginTop: 2 }}>
+            <Stack direction={"column"} spacing={1}>
+                <Box className="js-script-background">
+                    <span>
+                    <Trans t={t} i18nKey="doc.exclude.example.domain" values={{ url: "https://example.com" }}></Trans>
+                    </span>
+                    <br />
+                    <span>
+                        <Trans t={t} i18nKey="doc.exclude.example.url" values={{ url: "https://example.com/path" }}></Trans>
+                    </span>
+                    <br />
+                    <span>
+                        <Trans t={t} i18nKey="doc.exclude.example.glob" values={{ glob: "glob", minimatch: "**/example.com/**" }}></Trans>
+                    </span>
+                </Box>
+            </Stack>
+        </Box>
+    )
+}
 export function Doc({ setAnchor }: { setAnchor: TypeSetAnchor }) {
     const { t } = useTranslation("doc/components/doc-parts/global/content")
-    const [showTextBox, setShowTextBox] = useState(true)
+    const [showScriptBox, setShowScriptBox] = useState(true)
+    const [showExcludeBox, setShowExcludeBox] = useState(true)
     return (
         <>
 
@@ -98,20 +122,17 @@ export function Doc({ setAnchor }: { setAnchor: TypeSetAnchor }) {
                             <Box>
 
                                 <Trans t={t} i18nKey="doc.excludeDomains"></Trans>
+                                <Button onClick={() => setShowExcludeBox(!showExcludeBox)}>{t('doc.seeExcludeExamplesLink')}</Button>
                             </Box>
-                            <Box sx={{ marginTop: "0px", textIndent: "0.5rem" }}>
-                                <span className="js-comment">
-                                    https://example.com
-                                </span>
-                            </Box>
+                            {showExcludeBox && <ExcludeDomains />}
                         </Stack>
                     </Box>
                 </li>
                 <li>
                     <Box>
                         <Trans t={t} i18nKey="doc.script"></Trans>
-                        <Button id={anchorGlobalJsScript} onClick={() => setShowTextBox(!showTextBox)}>{t('doc.seeScriptExamplesLink')}</Button>
-                        {showTextBox && <ScriptControll />}
+                        <Button id={anchorGlobalJsScript} onClick={() => setShowScriptBox(!showScriptBox)}>{t('doc.seeScriptExamplesLink')}</Button>
+                        {showScriptBox && <ScriptControll />}
                     </Box>
                 </li>
                 <li>
