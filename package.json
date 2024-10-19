@@ -1,6 +1,6 @@
 {
   "name": "npm-i-package-lock",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "scripts": {
     "clean:bundle": "pnpx rimraf docs",
