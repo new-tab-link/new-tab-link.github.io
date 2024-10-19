@@ -87,7 +87,7 @@
     "watch": "^1.0.2"
   },
   "optionalDependencies": {
-    "@0xff336699/js-i18n-files-detector": "github:0xFF336699/js-i18n-files-detector#v0.0.27",
+    "@0xff336699/js-i18n-files-detector": "github:0xFF336699/js-i18n-files-detector#v0.0.29",
     "@0xff336699/js-i18n-translator": "github:0xff336699/js-i18n-translator#v1.0.1"
   }
 }

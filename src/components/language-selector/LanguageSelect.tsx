@@ -1,13 +1,10 @@
-// import { lngsMapLocale } from '@extension/common';
+
 import { lngsMapLocale } from '@0xff336699/js-i18n-lngs';
 import { Box, FormControl, InputLabel, MenuItem, Select, type SelectChangeEvent } from '@mui/material';
-// import { Box } from '@mui/system';
-// import { i18nKeys } from '@src/i18n/locales/i18n.keys';
 import React, { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 
 export function LanguageSelect() {
-  // const lm = lngsChromeLocale;
   const lm = lngsMapLocale;
   const { t, i18n } = useTranslation('doc/components/language-selector/content');
   let lng = i18n.language;

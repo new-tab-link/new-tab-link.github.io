@@ -1,6 +1,7 @@
 
 import { i18nFileDetectorVersion, watchI18nFiles } from "@0xff336699/js-i18n-files-detector"
 import path from 'path'
+import fs from 'fs'
 
 // const projectRoot = `C:\\work\\js\\fanfanlo\\test\\`
 // const projectRoot = `C:\\work\\chrome-extenstions\\new-tab-link-doc\\`
@@ -20,10 +21,19 @@ const conf = {
     mergeFolderToNs: true,
     i18nResourcesImportFileRoot: "../../i18n-raw/origin",
     folderFileName: "content.json",
+    onChanged:onChanged
     // nsPrefixPath: nsPrefixPath
 }
 // C:\work\tools\nodejs\js-i18n-file-detector\pages\testdata\01\app\zh-CN\about
-
+function onChanged(){
+    console.log(`pppppppppppppppppppppppppppp`)
+    const content = `
+    export const i18nFileVersion = "${Date.now()}"
+    `
+    const p = path.resolve(path.join(projectRoot, 'src', 'i18nconf', 'i18nFileVersion.ts'))
+    fs.writeFileSync(p, content)
+    console.log(`i18nFileVersion file exported`,p, content)
+}
 
 function listen(){
     // console.log(lngsMapLocale, jsI18nLngsVersion)

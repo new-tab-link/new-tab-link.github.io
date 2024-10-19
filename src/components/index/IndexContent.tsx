@@ -1,16 +1,17 @@
-import { Box, CssBaseline, Divider, Stack, styled, Theme, Typography } from "@mui/material";
-import { DocOverview } from "../doc-parts/overview/DocOverview";
-import { indexModel } from "./Model";
+import { Box, CssBaseline, Divider, Stack, styled, Typography } from "@mui/material";
 import { blue, green, red } from "@mui/material/colors";
 import { Appbar } from "../appbar/Appbar";
 import { DocGlobal } from "../doc-parts/global/DocGlobal";
+import { DocOverview } from "../doc-parts/overview/DocOverview";
+import { indexModel } from "./Model";
+import { DocVariables } from "../doc-parts/variables/DocVariables";
 
 
 
 const Root = styled('div')(({ theme }) => {
-    console.log('1', theme.breakpoints.down('md'))
-    console.log('2', theme.breakpoints.up('md'))
-    console.log('3', theme.breakpoints.up('lg'))
+    // console.log('1', theme.breakpoints.down('md'))
+    // console.log('2', theme.breakpoints.up('md'))
+    // console.log('3', theme.breakpoints.up('lg'))
     return {
         padding: theme.spacing(1),
         [theme.breakpoints.down('md')]: {
@@ -65,11 +66,13 @@ export function IndexContent() {
                 <MenuContainer>
                     <DocOverview.Menu setAnchor={indexModel.anchor.setAnchor} />
                     <DocGlobal.Menu setAnchor={indexModel.anchor.setAnchor} />
+                    <DocVariables.Menu setAnchor={indexModel.anchor.setAnchor} />
                 </MenuContainer>
                 <Divider orientation="vertical" variant="middle" flexItem />
                 <Box sx={{ m: "0.5rem", p: "0.5rem" }}>
                     <DocOverview.Doc  />
                     <DocGlobal.Doc setAnchor={indexModel.anchor.setAnchor}/>
+                    <DocVariables.Doc />
                     <MediaQuery />
                 </Box>
             </Stack>

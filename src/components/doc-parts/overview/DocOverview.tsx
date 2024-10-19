@@ -8,8 +8,8 @@ function Menu({setAnchor}:{setAnchor:TypeSetAnchor}){
 
     return(
         <ListItem>
-            <ListItemButton>
-                <ListItemText onClick={()=>setAnchor(titleAnchor)}>
+            <ListItemButton onClick={()=>setAnchor(titleAnchor)}>
+                <ListItemText>
                 {t('menu.main')}
                 </ListItemText>
             </ListItemButton>
@@ -23,7 +23,7 @@ function Doc(){
         <>
             <div id={`${titleAnchor}`}><h2>{t('doc.title')}</h2></div>
             <div>
-                <Trans t={t} i18nKey={"doc.description"}>
+                <Trans t={t} i18nKey="doc.description">
 
                 </Trans>
             </div>

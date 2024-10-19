@@ -39,6 +39,6 @@
     "**/*.tsx",
     "next.config.js",
     ".next/types/**/*.ts"
-, "projecr-tools/i18n/fileWatcher/index.js", "project-tools/i18n/fileWatcher/index.js", "i18n-raw/scripts/file-listen.mjs"  ],
+, "projecr-tools/i18n/fileWatcher/index.js", "project-tools/i18n/fileWatcher/index.js", "i18n-raw/scripts/file-listen.mjs", "tailwind.config.ts"  ],
   "exclude": ["node_modules"]
 }

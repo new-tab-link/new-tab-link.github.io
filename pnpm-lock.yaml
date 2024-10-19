@@ -103,8 +103,8 @@ importers:
         version: 0.10.0(immer@10.1.1)(react@18.3.1)
     optionalDependencies:
       '@0xff336699/js-i18n-files-detector':
-        specifier: github:0xFF336699/js-i18n-files-detector#v0.0.27
-        version: git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#540cf1de080c0c22a48eb232707e15bc9308a789
+        specifier: github:0xFF336699/js-i18n-files-detector#v0.0.29
+        version: git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#acf4ab6742b7615c0e8a332da0096e465c5d1c5b
       '@0xff336699/js-i18n-translator':
         specifier: github:0xff336699/js-i18n-translator#v1.0.1
         version: git+https://git@github.com:0xff336699/js-i18n-translator.git#ad9a9ea2a52f29aab8a49997bce8d01154037409
@@ -220,9 +220,9 @@ importers:
 
 packages:
 
-  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#540cf1de080c0c22a48eb232707e15bc9308a789':
-    resolution: {commit: 540cf1de080c0c22a48eb232707e15bc9308a789, repo: git@github.com:0xFF336699/js-i18n-files-detector.git, type: git}
-    version: 0.0.27
+  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#acf4ab6742b7615c0e8a332da0096e465c5d1c5b':
+    resolution: {commit: acf4ab6742b7615c0e8a332da0096e465c5d1c5b, repo: git@github.com:0xFF336699/js-i18n-files-detector.git, type: git}
+    version: 0.0.29
 
   '@0xff336699/js-i18n-lngs@git+https://git@github.com:0xFF336699/js-i18n-lngs.git#3d814024124b2c91b6eca9448fadccb031e977f3':
     resolution: {commit: 3d814024124b2c91b6eca9448fadccb031e977f3, repo: git@github.com:0xFF336699/js-i18n-lngs.git, type: git}
@@ -3718,7 +3718,7 @@ packages:
 
 snapshots:
 
-  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#540cf1de080c0c22a48eb232707e15bc9308a789':
+  '@0xff336699/js-i18n-files-detector@git+https://git@github.com:0xFF336699/js-i18n-files-detector.git#acf4ab6742b7615c0e8a332da0096e465c5d1c5b':
     dependencies:
       '@types/is-glob': 4.0.4
       '@types/lodash': 4.17.7
