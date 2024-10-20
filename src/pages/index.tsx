@@ -19,11 +19,12 @@ function Loading(){
   )
 }
 function Index() {
-  useEffect(()=>{
-    setTimeout(()=>{
-      indexModel.anchor.initAnchor()
-    }, 300)
-  }, [])
+  indexModel.anchor.initAnchor()
+  // useEffect(()=>{
+  //   setTimeout(()=>{
+  //     indexModel.anchor.initAnchor()
+  //   }, 300)
+  // }, [])
   return (
     <Suspense fallback={<Loading />}>
       <I18nextProvider i18n={i18n} defaultNS={["ns1"]}>

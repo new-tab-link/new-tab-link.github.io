@@ -1,20 +1,45 @@
 import { autobind } from "core-decorators";
 import { Log } from "../../log";
 import { IAnchor } from "./IAnchor";
+
 const lg = new Log(false, 'Anchor')
 lg.pause = true
+
 @autobind
 export class Anchor implements IAnchor{
+    private _laterId:number = -1
     private _anchor:string = ''
-    scrollToView(anchor:string){
-        const elem =document.querySelector(`#${anchor}`)
-        lg.log('elem', elem, `#${anchor}`)
-        if(!elem)return;
+    private _setAnchorTime:number = 0
+    private laterCheckElement(anchor:string){
+        const elem = document.querySelector(`#${anchor}`)
+        if(!elem){
+            setTimeout(() => {
+                this.laterCheckElement(anchor)
+            }, 100 * 1);
+            return;
+        }
         elem.scrollIntoView({behavior:"smooth", block:"start"})
         setTimeout(() => {
             window.location.hash = anchor
             lg.log('hash', anchor)
         }, 1000 * 1.3);
+    }
+    private clearLaterCheckElement(){
+        clearTimeout(this._laterId)
+        this._laterId = -1
+    }
+    scrollToView(anchor:string){
+        this.clearLaterCheckElement()
+        this._setAnchorTime = Date.now()
+        this.laterCheckElement(anchor)
+        // const elem =document.querySelector(`#${anchor}`)
+        // lg.log('elem', elem, `#${anchor}`)
+        // if(!elem)return;
+        // elem.scrollIntoView({behavior:"smooth", block:"start"})
+        // setTimeout(() => {
+        //     window.location.hash = anchor
+        //     lg.log('hash', anchor)
+        // }, 1000 * 1.3);
     }
     setAnchor(anchor:string){
         console.log('anchor is', anchor)
