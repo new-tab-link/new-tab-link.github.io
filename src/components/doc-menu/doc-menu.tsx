@@ -6,7 +6,7 @@ import { indexModel } from "../index/Model";
 export function DocMenu(){
     return(
         <Box>
-            <Menu  setAnchor={indexModel.anchor.setAnchor}  />
+            <Menu   />
         </Box>
     )
 }

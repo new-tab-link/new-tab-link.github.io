@@ -3,9 +3,9 @@ import { blue, green, red } from "@mui/material/colors";
 import { Appbar } from "../appbar/Appbar";
 import { DocGlobal } from "../doc-parts/global/DocGlobal";
 import { DocOverview } from "../doc-parts/overview/DocOverview";
-import { indexModel } from "./Model";
 import { DocVariables } from "../doc-parts/variables/DocVariables";
-
+import { Example } from "./motion";
+import { TransitionTest } from "../doc-components/anchor-animation/transition-group";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -62,16 +62,18 @@ export function IndexContent() {
         <Stack direction={"column"}>
         <CssBaseline /> 
             <Appbar />
+            <Example />
+            <TransitionTest />
             <Stack direction={"row"}>
                 <MenuContainer>
-                    <DocOverview.Menu setAnchor={indexModel.anchor.setAnchor} />
-                    <DocGlobal.Menu setAnchor={indexModel.anchor.setAnchor} />
-                    <DocVariables.Menu setAnchor={indexModel.anchor.setAnchor} />
+                    <DocOverview.Menu />
+                    <DocGlobal.Menu />
+                    <DocVariables.Menu />
                 </MenuContainer>
                 <Divider orientation="vertical" variant="middle" flexItem />
                 <Box sx={{ m: "0.5rem", p: "0.5rem" }}>
                     <DocOverview.Doc  />
-                    <DocGlobal.Doc setAnchor={indexModel.anchor.setAnchor}/>
+                    <DocGlobal.Doc />
                     <DocVariables.Doc />
                     <MediaQuery />
                 </Box>
@@ -80,3 +82,4 @@ export function IndexContent() {
         </Box>
     )
 }
+

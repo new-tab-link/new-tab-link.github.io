@@ -10,9 +10,19 @@ export class Anchor implements IAnchor{
     private _laterId:number = -1
     private _anchor:string = ''
     private _setAnchorTime:number = 0
+    private _animationTriggered:boolean = false
+    get animationTriggered(){
+        return this._animationTriggered
+    }
+    set animationTriggered(value:boolean){
+        this._animationTriggered = value
+    }
     private laterCheckElement(anchor:string){
         const elem = document.querySelector(`#${anchor}`)
         if(!elem){
+            if(Date.now() - this._setAnchorTime > 1000 * 3){
+                return;
+            }
             setTimeout(() => {
                 this.laterCheckElement(anchor)
             }, 100 * 1);
@@ -29,6 +39,7 @@ export class Anchor implements IAnchor{
         this._laterId = -1
     }
     scrollToView(anchor:string){
+        this.animationTriggered = false
         this.clearLaterCheckElement()
         this._setAnchorTime = Date.now()
         this.laterCheckElement(anchor)

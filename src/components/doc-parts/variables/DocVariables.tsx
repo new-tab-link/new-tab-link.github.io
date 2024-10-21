@@ -1,29 +1,25 @@
-import { ListItem, ListItemButton, ListItemText, Stack } from "@mui/material"
-import { TypeSetAnchor } from "@src/libs/fanfanlo/html/anchor/IAnchor"
-import { useTranslation } from "react-i18next"
+import { Stack } from "@mui/material";
+import { MenuAnchorComponent } from "@src/components/doc-components/menu/DocMenu";
+import { DocTitle } from "@src/components/doc-components/title/DocTitle";
+import { useTranslation } from "react-i18next";
 
 const anchorVariables = `variables`
-function Menu({ setAnchor }: { setAnchor: TypeSetAnchor }){
+function Menu() {
     const { t } = useTranslation("doc/components/doc-parts/variables/content")
-    
     return (
-        <ListItem>
-            <ListItemButton onClick={() => { console.log('clicked'); setAnchor(anchorVariables) }}>
-                <ListItemText >
-                    {t('menu.main')}
-                </ListItemText>
-            </ListItemButton>
-        </ListItem>
+        <MenuAnchorComponent anchor={anchorVariables}>
+            {t('menu.main')}
+        </MenuAnchorComponent>
     )
 }
 
-function Doc(){
+function Doc() {
     const { t } = useTranslation("doc/components/doc-parts/variables/content")
     return (
         <>
-        <Stack direction={"column"} spacing={1}>
-            <h2 id={anchorVariables}>{t('doc.title')}</h2>
-        </Stack>
+            <DocTitle anchor={anchorVariables}>{t('doc.title')}</DocTitle>
+            <Stack direction={"column"} spacing={1}>
+            </Stack>
         </>
     )
 }

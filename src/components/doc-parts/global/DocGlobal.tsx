@@ -1,5 +1,8 @@
-import { Box, Button, ListItem, ListItemButton, ListItemText, Stack, Typography } from "@mui/material";
-import { TypeSetAnchor } from "@src/libs/fanfanlo/html/anchor/IAnchor";
+import { Box, Button, Stack, Typography } from "@mui/material";
+import { AnchorAnimation } from "@src/components/doc-components/anchor-animation/AnchorAnimation";
+import { MenuAnchorComponent } from "@src/components/doc-components/menu/DocMenu";
+import { DocTitle } from "@src/components/doc-components/title/DocTitle";
+// import { useInViewport } from "ahooks";
 import { useState } from "react";
 import { Trans, useTranslation } from "react-i18next";
 
@@ -7,32 +10,21 @@ import { Trans, useTranslation } from "react-i18next";
 const anchorGlobalJsScript = `global-js-script`
 const anchorGlobalConfig = `global-config`
 
-export function Menu({ setAnchor }: { setAnchor: TypeSetAnchor }) {
+export function Menu() {
     const { t } = useTranslation("doc/components/doc-parts/global/content")
     return (
-        <ListItem>
-            <ListItemButton onClick={() => { console.log('clicked'); setAnchor(anchorGlobalConfig) }}>
-                <ListItemText >
-                    {t('menu.main')}
-                </ListItemText>
-            </ListItemButton>
-        </ListItem>
+        <MenuAnchorComponent anchor={anchorGlobalConfig}>
+            {t('menu.main')}
+        </MenuAnchorComponent>
     )
 }
-function ScriptExamples({ setAnchor }: { setAnchor: TypeSetAnchor }) {
-    const { t } = useTranslation("doc/components/doc-parts/global/content")
-    return (
-        <Box>
-            <Box><h3>{t("script.title")}</h3></Box>
-        </Box>
-    )
-}
+
 
 function ScriptControll() {
     const { t } = useTranslation("doc/components/doc-parts/global/content")
     return (
 
-        <Box sx={{ border: '1px solid #ccc', padding: 2, marginTop: 2 }}>
+        <AnchorAnimation anchor={anchorGlobalJsScript}>
             <Stack direction={"column"} spacing={1}>
                 <Box className="js-script-background">
                     <Typography>
@@ -40,7 +32,7 @@ function ScriptControll() {
                             <span className="text-gray-500 text-sm" >{t('doc.scriptControll.example1.commentTitle', {youtube:"youtube",watch:"watch",shorts:"shorts"})}</span><br />
                         </span>
                         <br />
-                        <span >if(page.hostname == "www.youtube.com" && isSameSubDomain && (click.pathname.indexOf("/watch") == 0 || minimatch(click.pathname, "/shorts/*")))return rightTab;</span><br />
+                        <span className="js-script-code" >if(page.hostname == "www.youtube.com" && isSameSubDomain && (click.pathname.indexOf("/watch") == 0 || minimatch(click.pathname, "/shorts/*")))return rightTab;</span><br />
                         <br />
                         <span className="js-comment">
                             <span>{t('doc.scriptControll.example1.introVariables')}</span>
@@ -73,7 +65,7 @@ function ScriptControll() {
                     </Typography>
                 </Box>
             </Stack>
-        </Box>
+        </AnchorAnimation>
     )
 }
 
@@ -84,29 +76,38 @@ function ExcludeDomains() {
             <Stack direction={"column"} spacing={1}>
                 <Box className="js-script-background">
                     <span>
-                    <Trans t={t} i18nKey="doc.exclude.example.domain" values={{ url: "https://example.com" }}></Trans>
+                    <Trans t={t} i18nKey="doc.exclude.example.domain" 
+                    values={{ url: "https://example.com"}}
+                    components={{code:<span className="js-script-code" />}}
+                    ></Trans>
                     </span>
                     <br />
                     <span>
-                        <Trans t={t} i18nKey="doc.exclude.example.url" values={{ url: "https://example.com/path" }}></Trans>
+                        <Trans t={t} i18nKey="doc.exclude.example.url"
+                            values={{ url: "https://example.com/path" }}
+                            components={{ code: <span className="js-script-code" /> }}
+                        ></Trans>
                     </span>
                     <br />
                     <span>
-                        <Trans t={t} i18nKey="doc.exclude.example.glob" values={{ glob: "glob", minimatch: "**/example.com/**" }}></Trans>
+                        <Trans t={t} i18nKey="doc.exclude.example.glob"
+                            values={{ glob: "glob", minimatch: "**/example.com/**" }}
+                            components={{ code: <span className="js-script-code" /> }}
+                        ></Trans>
                     </span>
                 </Box>
             </Stack>
         </Box>
     )
 }
-export function Doc({ setAnchor }: { setAnchor: TypeSetAnchor }) {
+function DocContent() {
     const { t } = useTranslation("doc/components/doc-parts/global/content")
     const [showScriptBox, setShowScriptBox] = useState(true)
     const [showExcludeBox, setShowExcludeBox] = useState(true)
+    // const [inViewport, radio] = useInViewport(anchorGlobalConfig)
     return (
-        <>
-
-            <h2 id={anchorGlobalConfig}>{t('doc.title')}</h2>
+        <Box>
+            <DocTitle anchor={"anchorGlobalConfig"}>{t('doc.title')}</DocTitle>
             <p>
                 <img style={{ maxWidth: "100%" }} src={`/images/en/configuration-global.jpg`} />
             </p>
@@ -131,8 +132,7 @@ export function Doc({ setAnchor }: { setAnchor: TypeSetAnchor }) {
                 <li>
                     <Box>
                         <Trans t={t} i18nKey="doc.script"></Trans>
-                        <Button id={anchorGlobalJsScript} onClick={() => setShowScriptBox(!showScriptBox)}>{t('doc.seeScriptExamplesLink')}</Button>
-                        {showScriptBox && <ScriptControll />}
+                        <ScriptControll />
                     </Box>
                 </li>
                 <li>
@@ -141,11 +141,14 @@ export function Doc({ setAnchor }: { setAnchor: TypeSetAnchor }) {
                     </Box>
                 </li>
             </ol>
-            <ScriptExamples setAnchor={setAnchor} />
-        </>
+        </Box>
     )
 }
 
+function Doc(){
+    return <DocContent />
+    // return <AnchorAnimation anchor={anchorGlobalConfig}><DocContent /></AnchorAnimation>
+}
 export const DocGlobal = {
     Menu,
     Doc
