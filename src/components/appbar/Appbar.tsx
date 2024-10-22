@@ -51,9 +51,25 @@ function ScrollTop(props: Props) {
         </Fade>
     );
 }
+export function Appbar2() {
+    return (
+        <Box sx={{position:"static", top:0, left:0, right:0, zIndex:1000}}>
+            <Toolbar>
+                <Box sx={{ flexGrow: 1 }}>
+
+                </Box>
+                <Grid2 spacing={2} sx={{ alignItems: "center", display: "flex", alignSelf: "center" }}>
+                    <LanguageSelect />
+                    <Box sx={{ ml: "1rem" }}></Box>
+                    <ThemeModelSetter />
+                </Grid2>
+            </Toolbar>
+        </Box>
+    )
+}
 export function Appbar() {
     return (
-        <AppBar color={"default"} position='static'>
+        <AppBar color={"default"} sx={{ position: "sticky" }}>
             {/* <Container maxWidth="lg"> */}
 
             <Toolbar>
@@ -61,9 +77,9 @@ export function Appbar() {
 
                 </Box>
                 <Grid2 spacing={2} sx={{ alignItems: "center", display: "flex", alignSelf: "center" }}>
-                <LanguageSelect />
-                <Box sx={{ml:"1rem"}}></Box>
-                <ThemeModelSetter/>
+                    <LanguageSelect />
+                    <Box sx={{ ml: "1rem" }}></Box>
+                    <ThemeModelSetter />
                 </Grid2>
             </Toolbar>
             {/* </Container> */}

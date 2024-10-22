@@ -1,4 +1,4 @@
-import { Stack } from "@mui/material";
+import { Box, Stack } from "@mui/material";
 import { MenuAnchorComponent } from "@src/components/doc-components/menu/DocMenu";
 import { DocTitle } from "@src/components/doc-components/title/DocTitle";
 import { useTranslation } from "react-i18next";
@@ -16,11 +16,11 @@ function Menu() {
 function Doc() {
     const { t } = useTranslation("doc/components/doc-parts/variables/content")
     return (
-        <>
-            <DocTitle anchor={anchorVariables}>{t('doc.title')}</DocTitle>
+        <Box id={anchorVariables}>
+            <DocTitle>{t('doc.title')}</DocTitle>
             <Stack direction={"column"} spacing={1}>
             </Stack>
-        </>
+        </Box>
     )
 }
 

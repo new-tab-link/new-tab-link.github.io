@@ -1,4 +1,6 @@
 
+import { Box } from "@mui/material";
+import { AnchorAnimation } from "@src/components/doc-components/anchor-animation/AnchorAnimation";
 import { MenuAnchorComponent } from "@src/components/doc-components/menu/DocMenu";
 import { DocTitle } from "@src/components/doc-components/title/DocTitle";
 import { Trans, useTranslation } from "react-i18next";
@@ -16,14 +18,14 @@ function Menu(){
 function Doc(){
     const {t} = useTranslation('doc/components/doc-parts/overview/content')
     return (
-        <>
-            <DocTitle anchor={titleAnchor}>{t('doc.title')}</DocTitle>
+        <AnchorAnimation anchor={titleAnchor}>
+            <DocTitle >{t('doc.title')}</DocTitle>
             <div>
                 <Trans t={t} i18nKey="doc.description">
 
                 </Trans>
             </div>
-        </>
+        </AnchorAnimation>
     )
 }
 

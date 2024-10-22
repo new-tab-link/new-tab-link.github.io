@@ -13,9 +13,16 @@ const anchorGlobalConfig = `global-config`
 export function Menu() {
     const { t } = useTranslation("doc/components/doc-parts/global/content")
     return (
-        <MenuAnchorComponent anchor={anchorGlobalConfig}>
-            {t('menu.main')}
-        </MenuAnchorComponent>
+        <>
+            <MenuAnchorComponent anchor={anchorGlobalConfig}>
+                {t('menu.main')}
+            </MenuAnchorComponent>
+            <Box sx={{ textIndent: "1rem" }}>
+                <MenuAnchorComponent anchor={anchorGlobalJsScript}>
+                    <span> </span><span> </span>{t('doc.scriptControll.example1.introVariables')}
+                </MenuAnchorComponent>
+            </Box>
+        </>
     )
 }
 
@@ -29,20 +36,20 @@ function ScriptControll() {
                 <Box className="js-script-background">
                     <Typography>
                         <span className="js-comment">
-                            <span className="text-gray-500 text-sm" >{t('doc.scriptControll.example1.commentTitle', {youtube:"youtube",watch:"watch",shorts:"shorts"})}</span><br />
+                            <span className="text-gray-500 text-sm" >{t('doc.scriptControll.example1.commentTitle', { youtube: "youtube", watch: "watch", shorts: "shorts" })}</span><br />
                         </span>
                         <br />
                         <span className="js-script-code" >if(page.hostname == "www.youtube.com" && isSameSubDomain && (click.pathname.indexOf("/watch") == 0 || minimatch(click.pathname, "/shorts/*")))return rightTab;</span><br />
                         <br />
                         <span className="js-comment">
                             <span>{t('doc.scriptControll.example1.introVariables')}</span>
-                            <br/>
-                            <span><span>page 
+                            <br />
+                            <span><span>page
                                 <Trans t={t} i18nKey="doc.scriptControll.example1.page"
-                                    components={{a:<a href="https://developer.mozilla.org/en-US/docs/Web/API/URL" target="_blank" rel="noreferrer" />}}></Trans>
-                                
-                                </span></span>
-                            <br/>
+                                    components={{ a: <a href="https://developer.mozilla.org/en-US/docs/Web/API/URL" target="_blank" rel="noreferrer" /> }}></Trans>
+
+                            </span></span>
+                            <br />
                             <span><span>page.hostname {t(`doc.scriptControll.example1.pageHost`)}</span></span>
                             <br />
                             <span>{t('doc.scriptControll.example1.isSameSubDomain', { isSameSubDomain: 'isSameSubDomain', youtube: 'https://www.youtube.com', families: 'https://families.youtube.com', mainDomain: "youtube.com", youtubeSubDomain: "www", familiesSubDomain: "families" })}</span>
@@ -55,8 +62,8 @@ function ScriptControll() {
                                 <span>click.pathname {t(`doc.scriptControll.example1.clickpath`)}</span>
                             </span>
                             <br />
-                            <span>minimatch</span><Trans t={t} i18nKey="doc.scriptControll.example1.minimatch" values={{ glob: "glob", minimatch:"minimatch" }}
-                                components={{a:<a href="https://github.com/isaacs/minimatch" target="_blank" rel="noreferrer" />}}></Trans>
+                            <span>minimatch</span><Trans t={t} i18nKey="doc.scriptControll.example1.minimatch" values={{ glob: "glob", minimatch: "minimatch" }}
+                                components={{ a: <a href="https://github.com/isaacs/minimatch" target="_blank" rel="noreferrer" /> }}></Trans>
                             <br />
                             <span>rightTab{t(`doc.scriptControll.example1.rightTab`)}</span>
                             <br />
@@ -76,10 +83,10 @@ function ExcludeDomains() {
             <Stack direction={"column"} spacing={1}>
                 <Box className="js-script-background">
                     <span>
-                    <Trans t={t} i18nKey="doc.exclude.example.domain" 
-                    values={{ url: "https://example.com"}}
-                    components={{code:<span className="js-script-code" />}}
-                    ></Trans>
+                        <Trans t={t} i18nKey="doc.exclude.example.domain"
+                            values={{ url: "https://example.com" }}
+                            components={{ code: <span className="js-script-code" /> }}
+                        ></Trans>
                     </span>
                     <br />
                     <span>
@@ -106,8 +113,8 @@ function DocContent() {
     const [showExcludeBox, setShowExcludeBox] = useState(true)
     // const [inViewport, radio] = useInViewport(anchorGlobalConfig)
     return (
-        <Box>
-            <DocTitle anchor={"anchorGlobalConfig"}>{t('doc.title')}</DocTitle>
+        <Box id={anchorGlobalConfig}>
+            <DocTitle >{t('doc.title')}</DocTitle>
             <p>
                 <img style={{ maxWidth: "100%" }} src={`/images/en/configuration-global.jpg`} />
             </p>
@@ -145,7 +152,7 @@ function DocContent() {
     )
 }
 
-function Doc(){
+function Doc() {
     return <DocContent />
     // return <AnchorAnimation anchor={anchorGlobalConfig}><DocContent /></AnchorAnimation>
 }

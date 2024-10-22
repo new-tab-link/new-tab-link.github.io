@@ -28,7 +28,7 @@ export class Anchor implements IAnchor{
             }, 100 * 1);
             return;
         }
-        elem.scrollIntoView({behavior:"smooth", block:"start"})
+        elem.scrollIntoView({behavior:"smooth", block:"center"})
         setTimeout(() => {
             window.location.hash = anchor
             lg.log('hash', anchor)

@@ -9,7 +9,7 @@ export default class Document extends NextDocument {
     return (
       <Html lang={lng} dir={'dir'}>
         <Head />
-        <body>
+        <body style={{ margin:0, height:"100%" }}>
           <Main />
           <NextScript />
         </body>

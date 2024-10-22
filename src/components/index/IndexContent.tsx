@@ -56,29 +56,74 @@ const MenuContainer = styled('div')(({ theme }) => {
         margin: 1//theme.spacing(1)
     }
 })
+
+function LeftMenu() {
+    return <MenuContainer sx={{ overflowY: "scroll" }}>
+        <DocOverview.Menu />
+        <DocGlobal.Menu />
+        <DocVariables.Menu />
+    </MenuContainer>
+}
 export function IndexContent() {
     return (
-        <Box>
-        <Stack direction={"column"}>
-        <CssBaseline /> 
-            <Appbar />
-            <Example />
-            <TransitionTest />
-            <Stack direction={"row"}>
-                <MenuContainer>
-                    <DocOverview.Menu />
-                    <DocGlobal.Menu />
-                    <DocVariables.Menu />
-                </MenuContainer>
-                <Divider orientation="vertical" variant="middle" flexItem />
-                <Box sx={{ m: "0.5rem", p: "0.5rem" }}>
-                    <DocOverview.Doc  />
-                    <DocGlobal.Doc />
-                    <DocVariables.Doc />
-                    <MediaQuery />
-                </Box>
-            </Stack>
-        </Stack>
+        <Box sx={{ width: "100%", height: "100vh" }}>
+            <Box sx={{
+                height:"100%", 
+                }}>
+                {/* <CssBaseline /> */}
+                {/* <Box sx={{ width:"100%"}}> 
+                    <Appbar />
+                </Box> */}
+                <Appbar />
+                <Stack direction={"row"} sx={{ width: "100%",
+                    height:"100%",
+                    }} >
+                    <Box sx={{ maxWidth: "300px" }}>
+                        <Box sx={{ position: "fixed" }}>
+                            <LeftMenu />
+                        </Box>
+                        <Box sx={{ visibility: "hidden" }}>
+                            <LeftMenu />
+                        </Box>
+                    </Box>
+                    <Divider orientation="vertical" variant="middle" flexItem />
+                    <div style={{ margin: "0.5rem", padding: "0.5rem",
+                          width: "100%" 
+                          }}>
+                        <DocOverview.Doc />
+                        <DocGlobal.Doc />
+                        <DocVariables.Doc />
+                        <MediaQuery />
+                    </div>
+                </Stack>
+            </Box>
+        </Box>
+    )
+}
+export function IndexContent2() {
+    return (
+        <Box sx={{ width: "100%", height: "100%" }}>
+            <Box>
+                <CssBaseline />
+                <Appbar />
+                <Stack direction={"row"} sx={{ position: "relative" }}>
+                    <Box>
+                        <Box sx={{ position: "fixed" }}>
+                            <LeftMenu />
+                        </Box>
+                        <Box sx={{ visibility: "hidden" }}>
+                            <LeftMenu />
+                        </Box>
+                    </Box>
+                    <Divider orientation="vertical" variant="middle" flexItem />
+                    <Box sx={{ m: "0.5rem", p: "0.5rem"}}>
+                        <DocOverview.Doc />
+                        <DocGlobal.Doc />
+                        <DocVariables.Doc />
+                        <MediaQuery />
+                    </Box>
+                </Stack>
+            </Box>
         </Box>
     )
 }
