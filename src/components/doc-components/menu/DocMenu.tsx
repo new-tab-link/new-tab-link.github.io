@@ -10,7 +10,7 @@ export function MenuAnchorComponent({anchor, children }: MenuComponentProps) {
     return (
         <>
             <ListItem>
-                <ListItemButton onClick={() => { console.log('clicked'); indexModel.anchor.setAnchor(anchor) }}>
+                <ListItemButton onClick={() => {indexModel.anchor.setAnchor(anchor) }}>
                     <ListItemText >
                         {children}
                     </ListItemText>

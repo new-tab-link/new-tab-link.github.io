@@ -1,32 +1,44 @@
 import { Box } from "@mui/material";
 import { useSpring, animated } from "@react-spring/web";
-import { indexModel } from "@src/components/index/Model";
+import { indexModel, useAnchor } from "@src/components/index/Model";
 import { useMemoizedFn, useInViewport } from "ahooks";
-import { PropsWithChildren, useRef } from "react";
+import { PropsWithChildren, useEffect, useRef, useSyncExternalStore } from "react";
 
 export function AnchorAnimation({anchor, children}:{anchor:string} & PropsWithChildren){
     const ref = useRef<HTMLDivElement>(null)
+    const {anchor:anchorString, animationTriggered, setAnchorComplete} = indexModel.useAnchor()
+    console.log('anchorData23rrrccccddd=', anchorString,'animationTriggered', animationTriggered, 'setAnchorComplete', setAnchorComplete)
     const callback = useMemoizedFn((entry)=>{
-        console.log('entry=', entry)
-        console.log('radio=', radio)
-        console.log('inViewport=', inViewport)
+        // console.log('entry=', entry)
+        // console.log('radio=', radio)
+        // console.log('inViewport=', inViewport)
         if(!entry.isIntersecting)return;
-        if(indexModel.anchor.animationTriggered)return;
-        indexModel.anchor.animationTriggered = true
-        handleClick()
+        checkAnchor()
     })
     const [inViewport, radio] = useInViewport(ref, {callback})
     
+    const checkAnchor = ()=>{
+        // console.log('checkAnchor',indexModel.anchor.animationTriggered, inViewport, indexModel.anchor.anchor)
+        if(indexModel.anchor.animationTriggered)return;
+        if(indexModel.anchor.anchor !== anchor)return;
+        // indexModel.anchor.animationTriggered = true
+        indexModel.anchor.setHash(anchor)
+        handleClick()
+    }
+    useEffect(()=>{
+        if(!inViewport)return;
+        checkAnchor()
+    }, [inViewport])
     const [springs, api] = useSpring(() => ({
         from: {
-          border: "2px solid rgba(255,0,0,1)", borderRadius:3 },
+          border: "2px solid rgba(255,0,0,0)", borderRadius:3 },
       }))
     
       const handleClick = () => {
-        console.log('clicked')
+        // console.log('handleClick')
         api.start({
           from: {
-             border: "2px solid rgba(255,0,0,1)"
+             border: "2px solid rgba(255,0,0,0)"
           },
           to: [
             {border: "2px solid rgba(255,0,0,1)"},
@@ -42,15 +54,9 @@ export function AnchorAnimation({anchor, children}:{anchor:string} & PropsWithCh
           ],
         })
       }
-      console.log('SpringTest',springs)
     return (<>
     <Box id={anchor} ref={ref}>
-        <div>
-            {inViewport?.toString()}<br/>{radio?.toString()}
-        </div>
-        
       <animated.div
-        onClick={handleClick}
         style={{
           ...springs,
         }}
@@ -86,7 +92,6 @@ function Spring({children}:PropsWithChildren){
         ],
       })
     }
-    console.log('SpringTest',springs)
     return (
       <animated.div
         onClick={handleClick}

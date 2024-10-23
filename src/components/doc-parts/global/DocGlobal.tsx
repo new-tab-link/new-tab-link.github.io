@@ -109,11 +109,9 @@ function ExcludeDomains() {
 }
 function DocContent() {
     const { t } = useTranslation("doc/components/doc-parts/global/content")
-    const [showScriptBox, setShowScriptBox] = useState(true)
     const [showExcludeBox, setShowExcludeBox] = useState(true)
-    // const [inViewport, radio] = useInViewport(anchorGlobalConfig)
     return (
-        <Box id={anchorGlobalConfig}>
+        <Box >
             <DocTitle >{t('doc.title')}</DocTitle>
             <p>
                 <img style={{ maxWidth: "100%" }} src={`/images/en/configuration-global.jpg`} />
@@ -153,8 +151,8 @@ function DocContent() {
 }
 
 function Doc() {
-    return <DocContent />
-    // return <AnchorAnimation anchor={anchorGlobalConfig}><DocContent /></AnchorAnimation>
+    // return <DocContent />
+    return <AnchorAnimation anchor={anchorGlobalConfig}><DocContent /></AnchorAnimation>
 }
 export const DocGlobal = {
     Menu,

@@ -15,7 +15,7 @@ const theme = createTheme({
 });
 function MyApp({ Component, pageProps }: AppProps) {
   // Router.reload(window.location.pathname);
-  console.log(`i18nFileVersion=`, i18nFileVersion)
+  // console.log(`i18nFileVersion=`, i18nFileVersion)
   return (
     <Fragment>
       <CssBaseline />

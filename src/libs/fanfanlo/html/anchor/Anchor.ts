@@ -1,14 +1,31 @@
 import { autobind } from "core-decorators";
 import { Log } from "../../log";
 import { IAnchor } from "./IAnchor";
+import { ISyncExternalStore, SyncExternalStore } from "../../react/hooks/externalstore/SyncExternalStore";
 
 const lg = new Log(false, 'Anchor')
 lg.pause = true
-
+export interface IAnchorData{
+    anchor:string
+    setAnchorComplete:boolean
+    animationTriggered:boolean
+}
 @autobind
-export class Anchor implements IAnchor{
+export class Anchor implements IAnchor, IAnchorData{
+    getData():IAnchorData{
+        return {
+            anchor:this._anchor,
+            setAnchorComplete:this.setAnchorComplete,
+            animationTriggered:this._animationTriggered
+        }
+    }
     private _laterId:number = -1
     private _anchor:string = ''
+    anchorStore?:ISyncExternalStore<IAnchorData|undefined>
+    get anchor(){
+        return this._anchor
+    }
+    setAnchorComplete = false
     private _setAnchorTime:number = 0
     private _animationTriggered:boolean = false
     get animationTriggered(){
@@ -16,6 +33,7 @@ export class Anchor implements IAnchor{
     }
     set animationTriggered(value:boolean){
         this._animationTriggered = value
+        this.anchorStore?.updateSnapshot(this.getData())
     }
     private laterCheckElement(anchor:string){
         const elem = document.querySelector(`#${anchor}`)
@@ -30,31 +48,33 @@ export class Anchor implements IAnchor{
         }
         elem.scrollIntoView({behavior:"smooth", block:"center"})
         setTimeout(() => {
-            window.location.hash = anchor
-            lg.log('hash', anchor)
+            this.setHash(anchor)
+            // window.location.hash = anchor
+            // this.setAnchorComplete = true
+            // that.anchorStore?.updateSnapshot(this.getData())
         }, 1000 * 1.3);
+    }
+    setHash(anchor:string){
+        if(this.anchor !=  anchor)return;
+        window.location.hash = anchor
+        if(this.setAnchorComplete)return;
+        this.setAnchorComplete = true
+        this.anchorStore?.updateSnapshot(this.getData())
     }
     private clearLaterCheckElement(){
         clearTimeout(this._laterId)
         this._laterId = -1
     }
-    scrollToView(anchor:string){
-        this.animationTriggered = false
+    private scrollToView(anchor:string){
         this.clearLaterCheckElement()
         this._setAnchorTime = Date.now()
         this.laterCheckElement(anchor)
-        // const elem =document.querySelector(`#${anchor}`)
-        // lg.log('elem', elem, `#${anchor}`)
-        // if(!elem)return;
-        // elem.scrollIntoView({behavior:"smooth", block:"start"})
-        // setTimeout(() => {
-        //     window.location.hash = anchor
-        //     lg.log('hash', anchor)
-        // }, 1000 * 1.3);
     }
     setAnchor(anchor:string){
-        console.log('anchor is', anchor)
         this._anchor = anchor
+        this.animationTriggered = false
+        this.setAnchorComplete = false
+        this.anchorStore?.updateSnapshot(this.getData())
         this.scrollToView(anchor)
     }
     initAnchor(){
@@ -64,3 +84,4 @@ export class Anchor implements IAnchor{
         this.setAnchor(window.location.hash.replace('#', ''))
     }
 }
+

@@ -1,11 +1,9 @@
-import { Box, CssBaseline, Divider, Stack, styled, Typography } from "@mui/material";
+import { Box, createTheme, CssBaseline, Divider, Stack, styled, Typography } from "@mui/material";
 import { blue, green, red } from "@mui/material/colors";
 import { Appbar } from "../appbar/Appbar";
 import { DocGlobal } from "../doc-parts/global/DocGlobal";
 import { DocOverview } from "../doc-parts/overview/DocOverview";
 import { DocVariables } from "../doc-parts/variables/DocVariables";
-import { Example } from "./motion";
-import { TransitionTest } from "../doc-components/anchor-animation/transition-group";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -51,29 +49,25 @@ const MenuContainer = styled('div')(({ theme }) => {
             width: 220,
             borderColor: "green"
         },
-        border: "1px solid",
+        // border: "1px solid",
         // borderColor: theme.palette.success.main,
         margin: 1//theme.spacing(1)
     }
 })
 
 function LeftMenu() {
-    return <MenuContainer sx={{ overflowY: "scroll" }}>
+    return <MenuContainer sx={{ overflowY: "auto" }}>
         <DocOverview.Menu />
         <DocGlobal.Menu />
         <DocVariables.Menu />
     </MenuContainer>
 }
 export function IndexContent() {
+    // console.log('o=', o)
     return (
         <Box sx={{ width: "100%", height: "100vh" }}>
             <Box sx={{
-                height:"100%", 
                 }}>
-                {/* <CssBaseline /> */}
-                {/* <Box sx={{ width:"100%"}}> 
-                    <Appbar />
-                </Box> */}
                 <Appbar />
                 <Stack direction={"row"} sx={{ width: "100%",
                     height:"100%",
@@ -86,7 +80,8 @@ export function IndexContent() {
                             <LeftMenu />
                         </Box>
                     </Box>
-                    <Divider orientation="vertical" variant="middle" flexItem />
+                    {/* <Divider sx={{height:"100%"}} orientation="vertical" variant="middle" flexItem /> */}
+                    <Box sx={{height:"100%", width:"10px", backgroundColor:"red"}}></Box>
                     <div style={{ margin: "0.5rem", padding: "0.5rem",
                           width: "100%" 
                           }}>
@@ -128,3 +123,8 @@ export function IndexContent2() {
     )
 }
 
+const theme = createTheme({ cssVariables: { cssVarPrefix: 'any' } });
+console.log('theme', theme)
+
+// generated stylesheet:
+// --any-palette-primary-main: ...;
