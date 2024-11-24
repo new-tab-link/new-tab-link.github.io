@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Omówienie rozszerzenia Link Otwórz za pomocą",
+    "description": "<p>To rozszerzenie pozwala wygodnie kontrolować sposób otwierania hiperłączy.</p><p>Okno: inne przeglądarki, wyskakujące okna, nowe okna, nowe okna incognito, bieżące okno (domyślne)</p> <p >Karty: na lewo od bieżącej karty, bieżąca karta, na prawo od bieżącej karty (domyślnie)</p><p>Stan aktywacji: nieaktywny, aktywuj natychmiast (domyślnie)</p>"
+  },
+  "menu": {
+    "main": "Przegląd"
+  }
+}

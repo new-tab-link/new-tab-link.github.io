@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Panoramica dell'estensione Link Open With",
+    "description": "<p>Questa estensione ti consente di controllare comodamente il modo in cui vengono aperti i collegamenti ipertestuali.</p><p>Finestra: altri browser, finestre pop-up, nuove finestre, nuove finestre di navigazione in incognito, finestra corrente (predefinita)</p> <p >Schede: a sinistra della scheda corrente, scheda corrente, a destra della scheda corrente (impostazione predefinita)</p><p>Stato di attivazione: inattivo, attiva immediatamente (impostazione predefinita)</p>"
+  },
+  "menu": {
+    "main": "Panoramica"
+  }
+}

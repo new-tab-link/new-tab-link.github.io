@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "I Link Open With na ekstension",
+    "description": "<p>Este na ekstension ha na'i hao siñat para un na'siguru na ma'abri i hyperlinks.</p><p>Window: otro na browser siha, pop-up windows, nuebu na windows, nuebu na incognito windows, current window (default)</p> <p >Tabs: sanhilo' gi i tab på'go, tab på'go, sanhilo' gi tab på'go (default)</p><p>I estao inaktibåsion: ti aktibu, aktiba ensegidas (default)</p>"
+  },
+  "menu": {
+    "main": "Overview"
+  }
+}

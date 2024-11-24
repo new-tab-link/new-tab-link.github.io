@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Igenamiterere ryisi yose",
+    "checkedUseSetting": "Reba kugirango ushoboze igenamiterere.",
+    "excludeDomains": "Ongeramo amazina ya domaine kugirango usibye. Izina rimwe gusa rishobora kongerwaho icyarimwe.",
+    "seeExcludeExamplesLink": "Urugero",
+    "exclude": {
+      "example": {
+        "domain": "Urashobora kongeramo izina rya domaine, nka <code> {{url}} </code>, kugirango ukureho izina ryose.",
+        "url": "Urashobora gukuramo amahuza yihariye wongeyeho umurongo, nka <code> {{url}} </code>.",
+        "glob": "Urashobora kongeramo {{glob}} icyitegererezo, nka <code> {{minimatch}} </code>, kugirango uhuze fuzzy."
+      }
+    },
+    "script": "Urashobora kandi gukoresha inyandiko za js kugirango ugere kubuhanga buhanitse.",
+    "checkedUseScript": "Niba ushobora gukora inyandiko yawe, menya ko ugomba kugenzura ibisanduku byombi icyarimwe kugirango ushoboze inyandiko.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Kugeza ubu kurubuga rwa {{youtube}}, ugomba gufungura {{youtube}} '{{kureba}} cyangwa {{ikabutura}} kurupapuro rushya.",
+        "introVariables": "Intangiriro kubihinduka",
+        "page": ": Impinduka ni URL ya page yurubuga rwubu. Kubisobanuro birambuye, <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' intego = '_ ubusa' rel = 'noreferrer'> Nyamuneka reba </ a>",
+        "pageHost": ": Izina ryurubuga rwurupapuro rwubu",
+        "isSameSubDomain": ". imiryangoSubDomain}} uko bikurikirana. Amazina yabo ya domaine aratandukanye.",
+        "click": ": ihuriro ryakanze",
+        "clickpath": ": Inzira yo gukanda",
+        "minimatch": ": {{glob}} uburyo bwo guhuza, ukoresheje isomero rya {{minimatch}}, uburyo bwo gukoresha <a href = 'https: //github.com/isaacs/minimatch' intego = '_ ubusa' rel = 'noreferrer'> Nyamuneka Reba </a>, cyangwa urashobora gushakisha uburyo wakoresha {{glob}}.",
+        "rightTab": ": Ihuza rifungura muri tab nshya iburyo",
+        "wholeCode": "Ibisobanuro bya code yose ni uko kuri ubu kuri page ya {{www}} page yizina ya YouTube, niba kanda ihuza ni izina rimwe kandi inzira itangirana na {{kureba}} cyangwa {{ikabutura}}, hanyuma tab nshya urupapuro iburyo ruzakingurwa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Iboneza ryisi yose"
+  }
+}

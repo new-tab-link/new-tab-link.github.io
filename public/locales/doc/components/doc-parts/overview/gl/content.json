@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Visión xeral da extensión Link Open With",
+    "description": "<p>Esta extensión permítelle controlar de xeito cómodo como se abren as hipervínculos.</p><p>Xanela: outros navegadores, ventás emerxentes, ventás novas, ventás novas de incógnito, ventá actual (predeterminada)</p> <p >Pestanas: esquerda da pestana actual, pestana actual, dereita da pestana actual (predeterminada)</p><p>Estado de activación: inactivo, actívase inmediatamente (predeterminado)</p>"
+  },
+  "menu": {
+    "main": "Visión xeral"
+  }
+}

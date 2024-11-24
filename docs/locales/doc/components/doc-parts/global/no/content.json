@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globale innstillinger",
+    "checkedUseSetting": "Merk av for å aktivere denne innstillingen.",
+    "excludeDomains": "Legg til domenenavn som skal ekskluderes Kun ett domenenavn kan legges til om gangen.",
+    "seeExcludeExamplesLink": "Eksempel",
+    "exclude": {
+      "example": {
+        "domain": "Du kan legge til et domenenavn, for eksempel <code>{{url}}</code>, for å ekskludere hele domenenavnet.",
+        "url": "Du kan ekskludere spesifikke koblinger ved å legge til en kobling, for eksempel <code>{{url}}</code>.",
+        "glob": "Du kan legge til et {{glob}}-mønster, for eksempel <code>{{minimatch}}</code>, for uklar matching."
+      }
+    },
+    "script": "Du kan også bruke js-skript for å oppnå mer sofistikert kontroll.",
+    "checkedUseScript": "Merk at du må merke av i begge boksene samtidig for å aktivere skriptet.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "For øyeblikket på {{youtube}}-nettstedet, må du åpne {{youtube}}s {{watch}}- eller {{shorts}}-side i en ny fane.",
+        "introVariables": "Introduksjon til variabler",
+        "page": ": Variabelen er URL-objektet til gjeldende nettside. For detaljer, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Vennligst se</a >",
+        "pageHost": ": Domenenavnet til gjeldende nettside",
+        "isSameSubDomain": "{{isSameSubDomain}}: Det samme domenenavnet Merk at selv om hoveddomenenavnene til {{youtube}} og {{families}} begge er {{mainDomain}}, er underdomenenavnene {{youtubeSubDomain}} og {{. familiesSubDomain}}, så deres domenenavn er forskjellige.",
+        "click": ": lenken som ble klikket på",
+        "clickpath": ": Banen til den klikkede koblingen",
+        "minimatch": ": {{glob}} samsvarsmetode, bruker {{minimatch}}-biblioteket, bruksmetoden <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vennligst Se</a>, eller du kan søke etter hvordan du bruker {{glob}}.",
+        "rightTab": ": Linken åpnes i en ny fane til høyre",
+        "wholeCode": "Betydningen av hele koden er at for øyeblikket på YouTubes {{www}} domenenavnside, hvis den klikkede koblingen er det samme domenenavnet og banen starter med {{watch}} eller {{shorts}}, så den nye fanen siden til høyre vil være Åpen."
+      }
+    }
+  },
+  "menu": {
+    "main": "Global konfigurasjon"
+  }
+}

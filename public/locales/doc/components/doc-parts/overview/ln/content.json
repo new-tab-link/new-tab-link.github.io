@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Botali ya mozindo ya extension ya Lien Fungola Na",
+    "description": "<p>Extension oyo epesi yo nzela ya ko contrôler na ndenge ya malamu ndenge nini ba hyperliens efungwamaka.</p><p>Fenêtre : ba navigateurs mosusu, ba fenêtres pop-up, ba fenêtres ya sika, ba fenêtres ya sika ya incognite, fenêtre ya lelo (par défaut)</p> <p >Onglet : gauche ya onglet ya lelo, onglet ya lelo, droite ya onglet ya lelo (par défaut)</p><p>Etat ya activation : inactive, activer mbala moko (par défaut)</p>"
+  },
+  "menu": {
+    "main": "Botali ya mozindo"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Qlobal parametrlər",
+    "checkedUseSetting": "Bu ayarı aktivləşdirmək üçün yoxlayın.",
+    "excludeDomains": "Xaric ediləcək domen adlarını əlavə edin.",
+    "seeExcludeExamplesLink": "Misal",
+    "exclude": {
+      "example": {
+        "domain": "Bütün domen adını istisna etmək üçün <code>{{url}}</code> kimi bir domen adı əlavə edə bilərsiniz.",
+        "url": "<code>{{url}}</code> kimi bir keçid əlavə etməklə xüsusi keçidləri istisna edə bilərsiniz.",
+        "glob": "Qeyri-səlis uyğunluq üçün <code>{{minimatch}}</code> kimi {{glob}} model əlavə edə bilərsiniz."
+      }
+    },
+    "script": "Daha mürəkkəb nəzarət əldə etmək üçün js skriptlərindən də istifadə edə bilərsiniz.",
+    "checkedUseScript": "Skriptinizi işə salmaqdan asılı olmayaraq, qeyd edin ki, skripti aktivləşdirmək üçün hər iki xananı eyni anda qeyd etməlisiniz.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Hazırda {{youtube}} saytında {{youtube}}-in {{watch}} və ya {{shorts}} səhifəsini yeni tabda açmalısınız.",
+        "introVariables": "Dəyişənlərə giriş",
+        "page": ": Dəyişən cari veb səhifənin URL obyektidir. Ətraflı məlumat üçün <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Baxın</a >",
+        "pageHost": ": Cari veb səhifənin domen adı",
+        "isSameSubDomain": "{{isSameSubDomain}}: Eyni domen adıdır ki, {{youtube}} və {{families}} əsas domen adlarının hər ikisi {{mainDomain}} olmasına baxmayaraq, subdomen adları {{youtubeSubDomain}} və {{-dir. familySubDomain}} müvafiq olaraq onların domen adları fərqlidir.",
+        "click": ": kliklənmiş link",
+        "clickpath": ": Kliklənən keçidin yolu",
+        "minimatch": ": {{glob}} uyğunlaşdırma metodu, {{minimatch}} kitabxanasından istifadə edərək, istifadə üsulu <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Lütfən Baxın</a> və ya {{glob}} istifadə qaydasını axtara bilərsiniz.",
+        "rightTab": ": Link sağdakı yeni tabda açılır",
+        "wholeCode": "Bütün kodun mənası odur ki, hazırda YouTube-un {{www}} domen adı səhifəsində, əgər kliklənmiş link eyni domen adıdırsa və yol {{watch}} və ya {{shorts}} ilə başlayırsa, o zaman yeni tab sağdakı səhifə Açıq olacaq."
+      }
+    }
+  },
+  "menu": {
+    "main": "Qlobal konfiqurasiya"
+  }
+}

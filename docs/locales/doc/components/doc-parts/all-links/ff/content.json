@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Jokkondire ɗee kala",
+    "checkedUseSetting": "Ƴeewto ngam softinde ngoo doggol.",
+    "excludeDomains": "Ɓeydu inɗe domen ngam ittude Ko innde domen wootere tan waawi ɓeydeede e sahaa gooto.",
+    "seeExcludeExamplesLink": "Sappinol",
+    "exclude": {
+      "example": {
+        "domain": "Aɗa waawi ɓeydude innde domen, hono <code>{{url}}</code>, ngam ittude innde domen ndee fof.",
+        "url": "Aɗa waawi ittude jokkorɗe keertiiɗe so a ɓeydii heen jokkorde, hono <code>{{url}}</code>.",
+        "glob": "Aɗa waawi ɓeydude heen mbaydi {{glob}}, hono <kode>{{jokkondire tokoose}}</kode>, ngam jokkondire ɓuuɓɗe."
+      }
+    }
+  },
+  "menu": {
+    "main": "Jokkondire ɗee kala"
+  }
+}

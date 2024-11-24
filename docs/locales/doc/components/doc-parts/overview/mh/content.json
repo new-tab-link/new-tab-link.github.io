@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Kōllaajrak in Link eo Open With extension",
+    "description": "<p>Extension in ej kōtlok am maroñ in lale ewi wawein an hyperlink ko bellok.</p><p>Window: browser ko jet, window ko rej walok, window ko rekãl, window ko rekãl, window eo kiõ (default)</p> <p >Tabs: anbijmaroñ in tab eo kiõ, tab eo kiõ, anbijmaroñ in tab eo kiõ (default)</p><p>Activation state: jab jerbal, activate immediately (default)</p>"
+  },
+  "menu": {
+    "main": "Lale"
+  }
+}

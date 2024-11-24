@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Paràmetri globale",
+    "checkedUseSetting": "Verificate per attivà sta paràmetra.",
+    "excludeDomains": "Aghjunghjite nomi di duminiu per esse escluditi solu un nome di duminiu pò esse aghjuntu à u tempu.",
+    "seeExcludeExamplesLink": "Esempiu",
+    "exclude": {
+      "example": {
+        "domain": "Pudete aghjunghje un nome di duminiu, cum'è <code>{{url}}</code>, per escludiri tuttu u nome di duminiu.",
+        "url": "Pudete escludiri ligami specifichi aghjunghjendu un ligame, cum'è <code>{{url}}</code>.",
+        "glob": "Pudete aghjunghje un mudellu {{glob}}, cum'è <code>{{minimatch}}</code>, per fuzzy matching."
+      }
+    },
+    "script": "Pudete ancu aduprà script js per ottene un cuntrollu più sofisticatu.",
+    "checkedUseScript": "Sia per attivà u vostru script, nota chì avete bisognu di verificà e duie caselle à u stessu tempu per attivà u script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Attualmente nant'à u situ di {{youtube}}, avete bisognu di apre a pagina {{watch}} o {{shorts}} di {{youtube}} in una nova tabulazione.",
+        "introVariables": "Introduzione à i variàbili",
+        "page": ": A variàbile hè l'ughjettu URL di a pagina web attuale Per i dettagli, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Per piacè vede</a>",
+        "pageHost": ": U nome di duminiu di a pagina web attuale",
+        "isSameSubDomain": "{{isSameSubDomain}}: U stessu nome di duminiu Nota chì ancu i nomi di domini principali di {{youtube}} è {{famiglie}} sò tramindui {{mainDomain}}, i nomi di subdomain sò {{youtubeSubDomain}} è {{. famiglieSubDomain}} rispettivamente.",
+        "click": ": u ligame chì hè stata clicatu",
+        "clickpath": ": U percorsu di u ligame clicatu",
+        "minimatch": ": {{glob}} metudu di currispondenza, utilizendu a libreria {{minimatch}}, u metudu d'usu <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Per piacè Vede</a>, o pudete cercà cumu utilizà {{glob}}.",
+        "rightTab": ": U ligame si apre in una nova tabulazione à a diritta",
+        "wholeCode": "U significatu di tuttu u codice hè quellu chì attualmente in a pagina di u nome di duminiu di YouTube {{www}}, se u ligame clicatu hè u listessu nome di duminiu è a strada principia cù {{ watch}} o {{ shorts }}, allora a nova tabulazione pagina à a diritta sarà Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Cunfigurazione globale"
+  }
+}

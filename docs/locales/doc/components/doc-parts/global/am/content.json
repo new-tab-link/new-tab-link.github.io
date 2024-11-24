@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "ዓለም አቀፍ ቅንብሮች",
+    "checkedUseSetting": "ይህን ቅንብር ለማንቃት ያረጋግጡ።",
+    "excludeDomains": "የሚገለሉ የጎራ ስሞችን ያክሉ በአንድ ጊዜ አንድ የጎራ ስም ብቻ ነው።",
+    "seeExcludeExamplesLink": "ለምሳሌ",
+    "exclude": {
+      "example": {
+        "domain": "ሙሉውን የጎራ ስም ለማግለል እንደ <code>{{url}}</code> ያለ የጎራ ስም ማከል ይችላሉ።",
+        "url": "እንደ <code>{{url}}</code> ያሉ አገናኞችን በማከል የተወሰኑ አገናኞችን ማግለል ይችላሉ።",
+        "glob": "እንደ <code>{{minimatch}}</code> ያለ {{glob}} ስርዓተ ጥለት ማከል ትችላለህ።"
+      }
+    },
+    "script": "እንዲሁም የበለጠ የተራቀቀ ቁጥጥርን ለማግኘት js ስክሪፕቶችን መጠቀም ይችላሉ።",
+    "checkedUseScript": "የእርስዎን ስክሪፕት ለማንቃት ይሁን፣ ስክሪፕቱን ለማንቃት ሁለቱንም ሳጥኖች በተመሳሳይ ጊዜ ምልክት ማድረግ እንዳለቦት ልብ ይበሉ።",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "በአሁኑ ጊዜ በ{{youtube}} ድር ጣቢያ ላይ የ{{youtube}}ን {{watch}} ወይም {{ shorts}} ገጽ በአዲስ ትር ውስጥ መክፈት አለቦት።",
+        "introVariables": "ለተለዋዋጮች መግቢያ",
+        "page": "ተለዋዋጩ የአሁኑ ድረ-ገጽ የዩአርኤል ነገር ነው ለዝርዝሮች <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> እባክዎን ይመልከቱ</a>",
+        "pageHost": "አሁን ያለው የድረ-ገጽ ስም",
+        "isSameSubDomain": "{{isSameSubDomain}}፡ ተመሳሳይ የጎራ ስም የ{{youtube}} እና {{families}} ሁለቱም {{mainDomain}} ቢሆኑም የንዑስ ጎራ ስሞች {{youtubeSubDomain}} እና {{ ቤተሰቦችSubDomain}} እንደቅደም ተከተላቸው።",
+        "click": ": ጠቅ የተደረገው ሊንክ",
+        "clickpath": ": ጠቅ የተደረገው አገናኝ መንገድ",
+        "minimatch": ": {{glob}} ተዛማጅ ዘዴ፣ {{minimatch}} ቤተ-መጽሐፍትን በመጠቀም፣ የአጠቃቀም ዘዴ <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>እባክዎ ይመልከቱ</a>፣ ወይም {{glob}}ን እንዴት መጠቀም እንዳለቦት መፈለግ ይችላሉ።",
+        "rightTab": ": አገናኙ በቀኝ በኩል ባለው አዲስ ትር ውስጥ ይከፈታል",
+        "wholeCode": "የመላው ኮድ ትርጉም በአሁኑ ጊዜ በዩቲዩብ {{www}} የጎራ ስም ገጽ ላይ ጠቅ የተደረገው ሊንክ ተመሳሳይ የጎራ ስም ከሆነ እና መንገዱ በ{{watch}} ወይም {{shorts}} የሚጀምር ከሆነ አዲሱ ትር ነው። በቀኝ በኩል ያለው ገጽ ክፍት ይሆናል።"
+      }
+    }
+  },
+  "menu": {
+    "main": "ዓለም አቀፍ ውቅር"
+  }
+}

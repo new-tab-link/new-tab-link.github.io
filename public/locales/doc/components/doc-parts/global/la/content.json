@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Global occasus",
+    "checkedUseSetting": "Reprehendo ut hanc occasum.",
+    "excludeDomains": "Nomina domain excludenda addere. Unicum nomen dominii ad tempus addi potest.",
+    "seeExcludeExamplesLink": "Exemplum",
+    "exclude": {
+      "example": {
+        "domain": "Nomen nationis addere potes, ut <code>{{url}}</code>, ad totam domain nomen excludendum.",
+        "url": "Nexus specificos excludere potes addendo nexum, ut <code>{{url}}</code>.",
+        "glob": "Potes addere {glob}} exemplar, ut <code>{{minimatch}}</code>, quamquam congruens."
+      }
+    },
+    "script": "Potest etiam uti js scriptoribus, ut urbanus imperium assequatur.",
+    "checkedUseScript": "Utrum scripturam tuam efficias, nota te necesse est utrasque cistas eodem tempore inspicias ut scripturam efficias.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "In statu in loco {youtube}}, debes aperire {{youtube}}s {{vigilare}} vel {{brevia}} paginam in nova tab.",
+        "introVariables": "Introductio ad variabiles",
+        "page": ": Commutabile est domicilium obiectum paginae hodiernae. Ad singula, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Vide quaeso</a>",
+        "pageHost": ": Nomen domain nomen paginae hodiernae",
+        "isSameSubDomain": "{{isSameSubDomain}}: Eadem domain nomen. Nota quod quamvis nomina principalia de {{youtube}} et {{familias}} ambo sint {{mainDomain}}, nomina subdomaina sunt {{youtubeSubDomain}} et {{ familiasSubDomain}} respectively.",
+        "click": "Vinculum quod clicked",
+        "clickpath": ": Semita nexus coniuctionis",
+        "minimatch": ": {{glob}} methodus adaptans, utens ad {{minimatch}} bibliothecam, methodum usus <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Quaeso Vide</a>, vel exquirere potes quomodo utendi {{glob}}.",
+        "rightTab": "Vinculum opens in nova tab dextra",
+        "wholeCode": "Sensus totius codicis est qui nunc pagina in YouTube's {{www}} nominis dominii est, si nexus coniunetus idem domain nomen est et semita incipit cum {{vigilare}} vel {{breves}}, deinde nova tab pagina dextra patebit."
+      }
+    }
+  },
+  "menu": {
+    "main": "Global configuratione"
+  }
+}

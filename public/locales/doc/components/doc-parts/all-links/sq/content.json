@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Të gjitha lidhjet",
+    "checkedUseSetting": "Kontrolloni për të aktivizuar këtë cilësim.",
+    "excludeDomains": "Shto emra domenesh për t'u përjashtuar Vetëm një emër domaini mund të shtohet në të njëjtën kohë.",
+    "seeExcludeExamplesLink": "Shembull",
+    "exclude": {
+      "example": {
+        "domain": "Mund të shtoni një emër domeni, të tillë si <code>{{url}}</code>, për të përjashtuar të gjithë emrin e domenit.",
+        "url": "Ju mund të përjashtoni lidhje specifike duke shtuar një lidhje, si p.sh. <code>{{url}}</code>.",
+        "glob": "Mund të shtoni një model {{glob}}, të tillë si <code>{{minimatch}}</code>, për përputhje të paqartë."
+      }
+    }
+  },
+  "menu": {
+    "main": "Të gjitha lidhjet"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Vista generala de l'extension Ligam Dobrir amb",
+    "description": "<p>Aquesta extension vos permet de contrarotlar aisidament cossí los iperligams son dobèrts.</p><p>Fenèstra : autres navigadors, fenèstras pop-up, fenèstras novèlas, fenèstras incognitas novèlas, fenèstra actuala (per defaut)</p> <p >Onglets : esquèrra de l'onglet actual, onglet actual, drecha de l'onglet actual (per defaut)</p><p>Estat d'activacion : inactiu, activar immediatament (per defaut)</p>"
+  },
+  "menu": {
+    "main": "Apercebut"
+  }
+}

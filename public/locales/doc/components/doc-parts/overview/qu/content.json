@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "T'inki Open With mast'ariymanta tukuy qhaway",
+    "description": "<p>Kay mast'ariyqa allinta kamachiyta atikun imayna hipert'inkikuna kichasqa kaqta.</p><p>Ventana: huk maskaqkuna, pop-up ventanas, musuq ventanas, musuq mana riqsisqa ventanas, kunan ventana (ñawpaqmanta)</p> <p >Tabkuna: kunan tablamanta lluq'i, kunan tabla, paña kunan tabla (ñawpaqmanta)</p><p>Ruraypa kaynin: mana llamk'achisqa, chaylla llamk'achiy (ñawpaqmanta)</p>"
+  },
+  "menu": {
+    "main": "Tukuy qhawariy"
+  }
+}

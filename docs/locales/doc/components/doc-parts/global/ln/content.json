@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Ba paramètres ya mokili mobimba",
+    "checkedUseSetting": "Tala mpo na kofungola paramètre oyo.",
+    "excludeDomains": "Bakisa ba kombo ya domaine oyo esengeli kolongolama Kaka kombo ya domaine moko nde ekoki kobakisa na mbala moko.",
+    "seeExcludeExamplesLink": "Ndakisa",
+    "exclude": {
+      "example": {
+        "domain": "Okoki kobakisa nkombo ya domaine, lokola <code>{{url}}</code>, mpo na kolongola nkombo ya domaine mobimba.",
+        "url": "Okoki kolongola ba liens ya sikisiki na kobakisa lien, lokola <code>{{url}}</code>.",
+        "glob": "Okoki kobakisa motindo ya {{glob}}, lokola <code>{{minimatch}}</code>, mpo na boyokani ya flou."
+      }
+    },
+    "script": "Okoki pe kosalela ba scripts js pona kozua contrôle ya sophistiqué mingi.",
+    "checkedUseScript": "Ezala okofungola script na yo, yebá ete osengeli kotya bilembo na bakɛsi nyonso mibale na mbala moko mpo na kofungola script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Sikoyo na site internet ya {{youtube}}, esengeli ofungola lokasa ya {{youtube}} {{watch}} to {{shorts}} na onglet ya sika.",
+        "introVariables": "Bobandi ya ba variables",
+        "page": ": Variable ezali objet URL ya page web ya lelo Pona ba détails, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Svp tala</a >",
+        "pageHost": ": Nkombo ya domaine ya lokasa ya web oyo ezali lelo",
+        "isSameSubDomain": "{{isSameSubDomain}}: Nkombo ya domaine moko Yeba ete atako ba kombo ya domaine ya minene ya {{youtube}} mpe {{families}} ezali nionso mibale {{mainDomain}}, ba kombo ya sous-domaine ezali {{youtubeSubDomain}} mpe {{. familiesSubDomain}} respectivement.",
+        "click": ": lien oyo ba cliqué",
+        "clickpath": ": Nzela ya lien oyo o cliqué",
+        "minimatch": ": {{glob}} lolenge ya boyokani, kosalelaka bibliotɛkɛ {{minimatch}}, lolenge ya bosaleli <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Svp Tala</a>, to okoki koluka ndenge ya kosalela {{glob}}.",
+        "rightTab": ": Lien ekofungwama na onglet ya sika na loboko ya mobali",
+        "wholeCode": "Ndimbola ya code mobimba ezali ete na tango oyo na lokasa ya kombo ya domaine {{www}} ya YouTube, soki lien oyo o cliqué ezali kombo ya domaine moko mpe nzela ebandi na {{watch}} to {{shorts}}, sima onglet ya sika lokasa na lobɔkɔ ya mobali ekozala Fungola."
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuration ya mokili mobimba"
+  }
+}

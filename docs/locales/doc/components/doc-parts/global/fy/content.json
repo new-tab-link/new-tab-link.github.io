@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globale ynstellings",
+    "checkedUseSetting": "Kontrolearje om dizze ynstelling yn te skeakeljen.",
+    "excludeDomains": "Foegje domeinnammen ta om út te sluten Allinnich ien domeinnamme kin tagelyk wurde tafoege.",
+    "seeExcludeExamplesLink": "Foarbyld",
+    "exclude": {
+      "example": {
+        "domain": "Jo kinne in domeinnamme tafoegje, lykas <code>{{url}}</code>, om de hiele domeinnamme út te sluten.",
+        "url": "Jo kinne spesifike keppelings útslute troch in keppeling ta te foegjen, lykas <code>{{url}}</code>.",
+        "glob": "Jo kinne in {{glob}} patroan tafoegje, lykas <code>{{minimatch}}</code>, foar fuzzy matching."
+      }
+    },
+    "script": "Jo kinne ek js-skripts brûke om mear ferfine kontrôle te berikken.",
+    "checkedUseScript": "Of jo jo skript ynskeakelje moatte, tink derom dat jo beide fakjes tagelyk moatte kontrolearje om it skript yn te skeakeljen.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Op it stuit op 'e {{youtube}} webside moatte jo de {{watch}} of {{shorts}} side fan {{youtube}} iepenje yn in nij ljepblêd.",
+        "introVariables": "Ynlieding ta fariabelen",
+        "page": ": De fariabele is it URL-objekt fan de aktuele webside Foar details, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Sjoch asjebleaft</a >",
+        "pageHost": ": De domeinnamme fan de aktuele webside",
+        "isSameSubDomain": "{{isSameSubDomain}}: Deselde domeinnamme Tink derom dat hoewol de haaddomeinnammen fan {{youtube}} en {{families}} beide {{mainDomain}} binne, binne de subdomeinnammen {{youtubeSubDomain}} en {{. familiesSubDomain}} respektivelik. Dus harren domeinnammen binne oars.",
+        "click": ": de keppeling dy't waard oanklikt",
+        "clickpath": ": It paad fan de oanklikte keppeling",
+        "minimatch": ": {{glob}} oerienkommende metoade, mei de {{minimatch}} bibleteek, de gebrûksmetoade <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Please Sjoch</a>, of jo kinne sykje nei hoe't jo {{glob}} brûke kinne.",
+        "rightTab": ": De keppeling iepenet yn in nij ljepblêd rjochts",
+        "wholeCode": "De betsjutting fan de hiele koade is dat op it stuit op YouTube's {{www}} domeinnamme side, as de oanklikte keppeling deselde domeinnamme is en it paad begjint mei {{watch}} of {{shorts}}, dan it nije ljepblêd side oan de rjochterkant sil wêze Iepen."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globale konfiguraasje"
+  }
+}

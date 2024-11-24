@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globālie iestatījumi",
+    "checkedUseSetting": "Atzīmējiet, lai iespējotu šo iestatījumu.",
+    "excludeDomains": "Pievienojiet izslēdzamus domēna vārdus. Vienlaikus var pievienot tikai vienu domēna nosaukumu.",
+    "seeExcludeExamplesLink": "Piemērs",
+    "exclude": {
+      "example": {
+        "domain": "Varat pievienot domēna nosaukumu, piemēram, <code>{{url}}</code>, lai izslēgtu visu domēna nosaukumu.",
+        "url": "Varat izslēgt konkrētas saites, pievienojot saiti, piemēram, <code>{{url}}</code>.",
+        "glob": "Varat pievienot {{glob}} modeli, piemēram, <code>{{minimatch}}</code>, lai nodrošinātu neskaidru atbilstību."
+      }
+    },
+    "script": "Varat arī izmantot js skriptus, lai iegūtu sarežģītāku kontroli.",
+    "checkedUseScript": "Neatkarīgi no tā, vai iespējot skriptu, ņemiet vērā, ka, lai iespējotu skriptu, ir jāatzīmē abas izvēles rūtiņas vienlaikus.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Pašlaik {{youtube}} vietnē jums ir jāatver {{youtube}} lapa {{watch}} vai {{shorts}} jaunā cilnē.",
+        "introVariables": "Ievads mainīgajos",
+        "page": ": mainīgais ir pašreizējās tīmekļa lapas URL objekts, lai iegūtu sīkāku informāciju: <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Lūdzu, skatiet</a>",
+        "pageHost": ": pašreizējās tīmekļa lapas domēna nosaukums",
+        "isSameSubDomain": "{{isSameSubDomain}}: viens un tas pats domēna nosaukums, lai gan {{youtube}} un {{families}} galvenie domēna nosaukumi ir {{mainDomain}}, apakšdomēnu nosaukumi ir {{youtubeSubDomain}} un {{. FamilySubDomain}}, tāpēc to domēnu nosaukumi ir atšķirīgi.",
+        "click": ": saite, uz kuras tika noklikšķināts",
+        "clickpath": ": noklikšķinātās saites ceļš",
+        "minimatch": ": {{glob}} atbilstības metode, izmantojot bibliotēku {{minimatch}}, lietošanas metode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Lūdzu Skatiet</a> vai arī varat meklēt, kā lietot {{glob}}.",
+        "rightTab": ": saite tiek atvērta jaunā cilnē labajā pusē",
+        "wholeCode": "Visa koda nozīme ir tāda, ka pašlaik YouTube domēna nosaukuma lapā {{www}}, ja noklikšķinātā saite ir tas pats domēna nosaukums un ceļš sākas ar {{watch}} vai {{shorts}}, tad jaunā cilne lapa labajā pusē būs atvērta."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globālā konfigurācija"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Omnes nexus",
+    "checkedUseSetting": "Reprehendo ut hanc occasum.",
+    "excludeDomains": "Nomina domain excludenda addere. Unicum nomen dominii ad tempus addi potest.",
+    "seeExcludeExamplesLink": "Exemplum",
+    "exclude": {
+      "example": {
+        "domain": "Nomen nationis addere potes, ut <code>{{url}}</code>, ad totam domain nomen excludendum.",
+        "url": "Nexus specificos excludere potes addendo nexum, ut <code>{{url}}</code>.",
+        "glob": "Potes addere {glob}} exemplar, ut <code>{{minimatch}}</code>, quamquam congruens."
+      }
+    }
+  },
+  "menu": {
+    "main": "Omnes nexus"
+  }
+}

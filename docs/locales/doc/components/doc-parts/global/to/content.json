@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Ngaahi fokotuʻutuʻu fakamāmani lahí",
+    "checkedUseSetting": "Siaki ke fakaʻatā ʻa e fokotuʻutuʻu ko ʻení.",
+    "excludeDomains": "Tānaki atu ha ngaahi hingoa tomeini ke tuku ki tuʻa Ko e hingoa tomeini pē ʻe taha ʻe lava ke tānaki atu ʻi ha taimi.",
+    "seeExcludeExamplesLink": "Fakatātā",
+    "exclude": {
+      "example": {
+        "domain": "Te ke lava ʻo tānaki atu ha hingoa tomeini, hangē ko e <code>{{url}}</code>, ke tuku ki tuʻa ʻa e hingoa tomeini kotoa.",
+        "url": "Te ke lava ʻo tuku ki tuʻa ha ngaahi fehokotakiʻanga pau ʻaki haʻo tānaki atu ha fehokotakiʻanga, hangē ko e <code>{{url}}</code>.",
+        "glob": "Te ke lava ʻo tānaki atu ha sīpinga {{glob}}, hangē ko e <code>{{minimatch}}</code>, ki he fakafehoanaki ʻoku ʻikai mahino."
+      }
+    },
+    "script": "Te ke lava foki 'o faka'aonga'i 'a e ngaahi tohi js ke a'usia 'a e pule 'oku toe fakapotopoto ange.",
+    "checkedUseScript": "Pe ke faka'ata ho'o script, fakatokanga'i 'oku fie ma'u ke ke vakai'i 'a e ongo puha 'i he taimi tatau ke faka'ata 'a e script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Lolotonga 'i he uepisaiti {{youtube}}, 'oku fie ma'u ke ke fakaava 'a e peesi {{sio}} pe {{nounou}} 'a e {{youtube}} 'i ha tab fo'ou.",
+        "introVariables": "Fakafe'iloaki ki he ngaahi me'a kehekehe .",
+        "page": ": Ko e kehekehe ko e me'a URL 'o e peesi uepi lolotonga Ki he fakaikiiki, <a href='https://developer. Kātaki ʻo sio</a > .",
+        "pageHost": ": Ko e hingoa tomeini 'o e peesi uepi lolotonga .",
+        "isSameSubDomain": "{{isSameSubDomain}}: Ko e hingoa tomeini tatau Fakatokanga'i ange neongo ko e ngaahi hingoa tomeini tefito 'o e {{youtube}} mo e {{ngaahi famili}} 'oku fakatou {{mainDomain}}, ko e ngaahi hingoa tomeini si'isi'i ko e {{youtubeSubDomain}} mo e {{. familiSubDomain}} fakahokohoko Ko ia 'oku kehekehe honau ngaahi hingoa tomeini.",
+        "click": ": ko e fehokotaki'anga na'e lomi'i",
+        "clickpath": ": Ko e hala 'o e fehokotaki'anga kuo lomi'i .",
+        "minimatch": ": {{glob}} founga fakafehoanaki, 'o faka'aonga'i 'a e {{minimatch}} laipeli, 'a e founga hono faka'aonga'i 'o e taumu'a = '_'ata'ataa' rel='noreferrer'>Kataki Vakai</a>, pe te ke lava ʻo fekumi ki he founga hono fakaʻaongaʻi ʻo e {{glob}}.",
+        "rightTab": ": 'Oku fakaava 'a e fehokotaki'anga 'i ha tab fo'ou 'i he to'omata'u .",
+        "wholeCode": "Ko e 'uhinga 'o e code kotoa ko e lolotonga 'i he peesi hingoa tomeini 'o e {{www}} 'o e YouTube, kapau ko e fehokotaki'anga 'oku lomi'i ko e hingoa tomeini tatau pea 'oku kamata 'a e hala 'aki 'a e {{sio}} pe {{nounou}}, pea ko e tab fo'ou . peesi ʻi he toʻomataʻú ʻe Fakaava."
+      }
+    }
+  },
+  "menu": {
+    "main": "Fakatonutonu fakamamani lahi"
+  }
+}

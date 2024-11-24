@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Superrigardo de la etendaĵo Link Open With",
+    "description": "<p>Ĉi tiu etendaĵo permesas vin oportune kontroli kiel hiperligiloj estas malfermitaj.</p><p>Fenestro: aliaj foliumiloj, ŝprucfenestroj, novaj fenestroj, novaj inkognitaj fenestroj, nuna fenestro (defaŭlte)</p> <p >Lapetoj: maldekstre de la aktuala langeto, aktuala langeto, dekstre de la aktuala langeto (defaŭlte)</p><p>Aktiviga stato: neaktiva, tuj aktivigu (defaŭlte)</p>"
+  },
+  "menu": {
+    "main": "Superrigardo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Panoramica di l'estensione Link Open With",
+    "description": "<p>Questa estensione vi permette di cuntrullà convenientemente cumu si apre l'hyperlinks.</p><p>Finestra: altri navigatori, finestre pop-up, novi finestri, novi finestre incognito, finestra attuale (predeterminata)</p> <p >Tabs: a sinistra di a tabulazione attuale, a tabulazione attuale, à a diritta di a tabulazione attuale (predefinitu)</p><p>Statu di attivazione: inattivu, attivate immediatamente (predefinitu)</p>"
+  },
+  "menu": {
+    "main": "Panoramica"
+  }
+}

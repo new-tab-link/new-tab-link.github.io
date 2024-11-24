@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Ba lien yonso",
+    "checkedUseSetting": "Tala sambu na kupesa nzila na parametre yai.",
+    "excludeDomains": "Yika bazina ya domaine yina fwete katuka Zina mosi mpamba ya domaine lenda yikama na mbala mosi.",
+    "seeExcludeExamplesLink": "Mbandu",
+    "exclude": {
+      "example": {
+        "domain": "Nge lenda yika zina ya kisika, bonso <code>{{url}}</code>, sambu na kukatula zina ya kisika ya mvimba.",
+        "url": "Nge lenda katula ba nzila ya sikisiki na kuyikaka nzila mosi, bonso <code>{{url}}</code>.",
+        "glob": "Nge lenda yika mbandu {{glob}}, bonso <kode>{{kufwanana ya fioti}}</kode>, sambu na kuwakana ya kukonda kuzaba."
+      }
+    }
+  },
+  "menu": {
+    "main": "Ba lien yonso"
+  }
+}

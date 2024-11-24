@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Iwwersiicht vun der Link Open With Extension",
+    "description": "<p>Dës Extensioun erlaabt Iech bequem ze kontrolléieren wéi Hyperlinks opgemaach ginn.</p><p>Fënster: aner Browser, Pop-upfenster, nei Fënsteren, nei Inkognitofenster, aktuell Fënster (Standard)</p> <p >Tabs: lénks vun der aktueller Tab, aktueller Tab, riets vun der aktueller Tab (Standard)</p><p>Aktivéierungsstatus: inaktiv, direkt aktivéieren (Standard)</p>"
+  },
+  "menu": {
+    "main": "Iwwersiicht"
+  }
+}

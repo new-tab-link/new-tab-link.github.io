@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Alle Links",
+    "checkedUseSetting": "Aktivieren Sie diese Einstellung, um sie zu aktivieren.",
+    "excludeDomains": "Auszuschließende Domänennamen hinzufügen. Es kann jeweils nur ein Domänenname hinzugefügt werden.",
+    "seeExcludeExamplesLink": "Beispiel",
+    "exclude": {
+      "example": {
+        "domain": "Sie können einen Domänennamen hinzufügen, z. B. <code>{{url}}</code>, um den gesamten Domänennamen auszuschließen.",
+        "url": "Sie können bestimmte Links ausschließen, indem Sie einen Link hinzufügen, z. B. <code>{{url}}</code>.",
+        "glob": "Sie können ein {{glob}}-Muster wie <code>{{minimatch}}</code> für den Fuzzy-Abgleich hinzufügen."
+      }
+    }
+  },
+  "menu": {
+    "main": "Alle Links"
+  }
+}

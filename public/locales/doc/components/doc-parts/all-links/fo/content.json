@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Allar leinkjur",
+    "checkedUseSetting": "Kanna fyri at virkja hesa innstillingina.",
+    "excludeDomains": "Legg økisnøvn til, sum skulu útihýsast Bert eitt økisnavn kann leggjast til í senn.",
+    "seeExcludeExamplesLink": "Dømi",
+    "exclude": {
+      "example": {
+        "domain": "Tú kanst leggja eitt økisnavn til, so sum <koda>{{url}}</koda>, fyri at útihýsa øllum økisnavninum.",
+        "url": "Tú kanst útihýsa ávísum leinkjum við at leggja leinkju til, so sum <code>{{url}}</code>.",
+        "glob": "Tú kanst leggja eitt {{glob}} mynstur til, so sum <koda>{{minmatch}}</koda>, til týðiliga samsvar."
+      }
+    }
+  },
+  "menu": {
+    "main": "Allar leinkjur"
+  }
+}

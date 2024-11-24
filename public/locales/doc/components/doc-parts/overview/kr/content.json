@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Bayan kəla Link Openbedən",
+    "description": "<p>Nzəra adəye nyiro futu hyperlinks katəye futu kəskelan kaltəyin.</p><p>Window: browsers gadeso, window pop-upbe, window bəlin, window incognitobe bəlin, window kərmabe (default)</p> <p >Tabs: wofila tab kərmabe, tab kərmabe, kəmburam tab kərmabe (default)</p><p>Kəndaramma cidatəbe: cidajinba, tinyi cidajin (default)</p>"
+  },
+  "menu": {
+    "main": "Samno"
+  }
+}

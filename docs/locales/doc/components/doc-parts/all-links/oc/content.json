@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Totes los ligams",
+    "checkedUseSetting": "Marcatz per activar aqueste paramètre.",
+    "excludeDomains": "Apondre de noms de domeni per èsser excluses Sonque un nom de domeni pòt èsser apondut a l'encòp.",
+    "seeExcludeExamplesLink": "Exemple",
+    "exclude": {
+      "example": {
+        "domain": "Podètz apondre un nom de domeni, coma <code>{{url}}</code>, per exclure lo nom de domeni entièr.",
+        "url": "Podètz exclure de ligams especifics en apondent un ligam, coma <code>{{url}}</code>.",
+        "glob": "Podètz apondre un modèl {{glob}}, coma <code>{{minimatch}}</code>, per una correspondéncia difusa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Totes los ligams"
+  }
+}

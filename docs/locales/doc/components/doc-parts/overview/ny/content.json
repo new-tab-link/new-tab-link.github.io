@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Chidule cha Link Open With extension",
+    "description": "<p>Kuwonjezeraku kumakupatsani mwayi wowongolera momwe ma hyperlink amatsegukira mosavuta.</p><p>Zenera: asakatuli ena, mawindo owonekera, mazenera atsopano, mazenera a incognito, zenera lapano (lofikira)</p> <p >Machubu: kumanzere kwa tabu yamakono, tsamba lapano, kumanja kwa tsamba lapano (losasintha)</p><p>Mkhalidwe wotsegula: wasiya, yambitsani nthawi yomweyo (zofikira)</p>"
+  },
+  "menu": {
+    "main": "Mwachidule"
+  }
+}

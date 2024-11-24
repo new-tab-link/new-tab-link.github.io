@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Overziech vaan de Link Open With",
+    "description": "<p>Mèt deze oetbreiing kins se gemakkelik controlere wie hyperlinks weure geopend.</p><p>Venster: aandere browsers, pop-upvensters, nuie vensters, nuie incognitovensters, huidig ​​venster (standaard)</p> <p >Tabs: links vaan ‘t huidige tab, ‘t huidige tab, rechs vaan ‘t huidige tab (standaard)</p><p>Activatiestatus: inactief, activeer direk (standaard)</p>"
+  },
+  "menu": {
+    "main": "Overzicht"
+  }
+}

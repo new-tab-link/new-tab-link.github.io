@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Configurações globais",
+    "checkedUseSetting": "Marque para ativar esta configuração.",
+    "excludeDomains": "Adicione nomes de domínio a serem excluídos Somente um nome de domínio pode ser adicionado por vez.",
+    "seeExcludeExamplesLink": "Exemplo",
+    "exclude": {
+      "example": {
+        "domain": "Você pode adicionar um nome de domínio, como <code>{{url}}</code>, para excluir todo o nome de domínio.",
+        "url": "Você pode excluir links específicos adicionando um link, como <code>{{url}}</code>.",
+        "glob": "Você pode adicionar um padrão {{glob}}, como <code>{{minimatch}}</code>, para correspondência difusa."
+      }
+    },
+    "script": "Você também pode usar scripts js para obter um controle mais sofisticado.",
+    "checkedUseScript": "Seja para habilitar seu script, observe que você precisa marcar as duas caixas ao mesmo tempo para habilitar o script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Atualmente no site do {{youtube}}, você precisa abrir a página {{watch}} ou {{shorts}} do {{youtube}} em uma nova aba.",
+        "introVariables": "Introdução às variáveis",
+        "page": ": a variável é o objeto URL da página da web atual. Para obter detalhes, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Por favor veja</a >",
+        "pageHost": ": O nome de domínio da página da web atual",
+        "isSameSubDomain": "{{isSameSubDomain}}: o mesmo nome de domínio. Observe que, embora os nomes de domínio principais de {{youtube}} e {{families}} sejam ambos {{mainDomain}}, os nomes de subdomínio são {{youtubeSubDomain}} e {{ familySubDomain}} respectivamente.",
+        "click": ": o link que foi clicado",
+        "clickpath": ": O caminho do link clicado",
+        "minimatch": ": método de correspondência {{glob}}, usando a biblioteca {{minimatch}}, o método de uso <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Por favor Veja</a>, ou você pode pesquisar como usar {{glob}}.",
+        "rightTab": ": O link abre em uma nova guia à direita",
+        "wholeCode": "O significado de todo o código é que atualmente na página de nome de domínio {{www}} do YouTube, se o link clicado for o mesmo nome de domínio e o caminho começar com {{watch}} ou {{shorts}}, então a nova guia a página à direita será aberta."
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuração global"
+  }
+}

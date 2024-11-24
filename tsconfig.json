@@ -1,15 +1,19 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
-    "target": "es6",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "target": "ES6",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "esModuleInterop": true,
-    "module": "esnext",
+    // "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
@@ -21,9 +25,13 @@
         "name": "next"
       }
     ],
-    
     "paths": {
-      "@src/*": ["src/*"]
+      "@src/*": [
+        "src/*"
+      ],
+      "@i18n-raw/*": [
+        "i18n-raw/*"
+      ]
     },
     "experimentalDecorators": true,
     "outDir": "dist",
@@ -31,14 +39,22 @@
     "noImplicitAny": true,
     "strictNullChecks": true,
     "allowSyntheticDefaultImports": true,
-    "noImplicitReturns": true
+    "noImplicitReturns": true,
+    "module": "esnext"
   },
   "include": [
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
     "next.config.js",
-    ".next/types/**/*.ts"
-, "projecr-tools/i18n/fileWatcher/index.js", "project-tools/i18n/fileWatcher/index.js", "i18n-raw/scripts/file-listen.mjs", "tailwind.config.ts"  ],
-  "exclude": ["node_modules"]
+    ".next/types/**/*.ts",
+    "projecr-tools/i18n/fileWatcher/index.js",
+    "project-tools/i18n/fileWatcher/index.js",
+    "i18n-raw/scripts/file-listen.mjs",
+    "tailwind.config.ts",
+    "i18n-raw/scripts/translate.mjs"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }

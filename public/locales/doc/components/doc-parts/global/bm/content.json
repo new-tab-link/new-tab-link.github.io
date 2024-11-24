@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Duniya bɛɛ ka sigicogo",
+    "checkedUseSetting": "Aw ye a lajɛ walasa ka nin sigida in baara.",
+    "excludeDomains": "Domani tɔgɔw fara a kan walasa ka bɔ yen.",
+    "seeExcludeExamplesLink": "Misaliya",
+    "exclude": {
+      "example": {
+        "domain": "Aw bɛ se ka domani tɔgɔ dɔ fara a kan, i n’a fɔ <code>{{url}}</code>, walasa ka domani tɔgɔ bɛɛ bɔ kɛnɛ kan.",
+        "url": "I bɛ se ka jɛgɛn kɛrɛnkɛrɛnnenw bɔ kɛnɛ kan ni jɛgɛnsira dɔ farali ye, i n’a fɔ <code>{{url}}</code>.",
+        "glob": "Aw bɛ se ka {{glob}} misali dɔ fara a kan, i n’a fɔ <code>{{minimatch}}</code>, walasa ka bɛnkan fuw sɔrɔ."
+      }
+    },
+    "script": "Aw bɛ se fana ka baara kɛ ni js sɛbɛnniw ye walasa ka kunnafoni-falen-falen caman sɔrɔ.",
+    "checkedUseScript": "Ni i bɛna i ka sɛbɛnnikɛlan baara, i k’a kɔlɔsi ko i ka kan ka o yɔrɔ fila bɛɛ lajɛ waati kelen na walasa ka sɛbɛnni daminɛ.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Sisan {{youtube}} siti kan, i ka kan ka {{youtube}} ka {{watch}} walima {{shorts}} ɲɛ da wuli tab kura kɔnɔ.",
+        "introVariables": "Dajirali fɛn caman b’a la ka fɛn caman sɛmɛntiya",
+        "page": ": Yɛlɛma in ye sisan ɛntɛrinɛti yɔrɔ URL fɛn ye Walasa ka kunnafoni wɛrɛw sɔrɔ, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Aw ye a lajɛ</a >",
+        "pageHost": ": Sisan ɛntɛrinɛti yɔrɔ in ka domɛni tɔgɔ",
+        "isSameSubDomain": "{{isSameSubDomain}}: Domani tɔgɔ kelen de y’a kɔlɔsi ko hali ni {{youtube}} ni {{families}} ka domani tɔgɔba fila bɛɛ ye {{mainDomain}} ye, domani tɔgɔw ye {{youtubeSubDomain}} ani {{ familiesSubDomain}} kelen-kelen bɛɛ la.",
+        "click": ": jɛgɛnsira min digilen don",
+        "clickpath": ": Jɛɲɔgɔnya min digilen don, o sira",
+        "minimatch": ": {{glob}} bɛnkan fɛɛrɛ, ka baara kɛ ni {{minimatch}} gafemarayɔrɔ ye, baarakɛcogo fɛɛrɛ <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>N b'aw deli Aw ye</a> lajɛ, walima aw bɛ se ka {{glob}} baaracogo ɲini.",
+        "rightTab": ": Jɛɲɔgɔnya bɛ da wuli tab kura kɔnɔ kinin fɛ",
+        "wholeCode": "Kode bɛɛ kɔrɔ ye ko sisan YouTube ka {{www}} domani tɔgɔ ɲɛ kan, ni jɛgɛnsira digilen ye domani tɔgɔ kelen ye ani ni sira bɛ daminɛ ni {{watch}} walima {{shorts}} ye, o tuma na tab kura ɲɛ min bɛ kinin fɛ, o bɛna kɛ Open ye."
+      }
+    }
+  },
+  "menu": {
+    "main": "Duniya bɛɛ ka labɛncogo"
+  }
+}

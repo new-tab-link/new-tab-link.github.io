@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Alle links",
+    "checkedUseSetting": "Marker for at aktivere denne indstilling.",
+    "excludeDomains": "Tilføj domænenavne, der skal udelukkes. Der kan kun tilføjes ét domænenavn ad gangen.",
+    "seeExcludeExamplesLink": "Eksempel",
+    "exclude": {
+      "example": {
+        "domain": "Du kan tilføje et domænenavn, såsom <code>{{url}}</code>, for at udelukke hele domænenavnet.",
+        "url": "Du kan ekskludere specifikke links ved at tilføje et link, såsom <code>{{url}}</code>.",
+        "glob": "Du kan tilføje et {{glob}}-mønster, såsom <code>{{minimatch}}</code>, for fuzzy matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Alle links"
+  }
+}

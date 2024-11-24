@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Overzicht van de Link Open Met extensie",
+    "description": "<p>Met deze extensie kunt u gemakkelijk bepalen hoe hyperlinks worden geopend.</p><p>Venster: andere browsers, pop-upvensters, nieuwe vensters, nieuwe incognitovensters, huidig ​​venster (standaard)</p> <p >Tabbladen: links van huidig ​​tabblad, huidig ​​tabblad, rechts van huidig ​​tabblad (standaard)</p><p>Activeringsstatus: inactief, onmiddellijk activeren (standaard)</p>"
+  },
+  "menu": {
+    "main": "Overzicht"
+  }
+}

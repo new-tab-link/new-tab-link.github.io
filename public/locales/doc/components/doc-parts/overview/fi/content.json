@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Yleiskatsaus linkistä Avaa laajennuksella",
+    "description": "<p>Tämän laajennuksen avulla voit kätevästi hallita hyperlinkkien avaamista.</p><p>Ikkuna: muut selaimet, ponnahdusikkunat, uudet ikkunat, uudet incognito-ikkunat, nykyinen ikkuna (oletus)</p> <p >Välilehdet: nykyisen välilehden vasen, nykyinen välilehti, nykyisen välilehden oikea puoli (oletus)</p><p>Aktivointitila: ei-aktiivinen, aktivoi heti (oletus)</p>"
+  },
+  "menu": {
+    "main": "Yleiskatsaus"
+  }
+}

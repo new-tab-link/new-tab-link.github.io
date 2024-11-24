@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Ngaahi fehokotaki'anga kotoa pe",
+    "checkedUseSetting": "Siaki ke fakaʻatā ʻa e fokotuʻutuʻu ko ʻení.",
+    "excludeDomains": "Tānaki atu ha ngaahi hingoa tomeini ke tuku ki tuʻa Ko e hingoa tomeini pē ʻe taha ʻe lava ke tānaki atu ʻi ha taimi.",
+    "seeExcludeExamplesLink": "Fakatātā",
+    "exclude": {
+      "example": {
+        "domain": "Te ke lava ʻo tānaki atu ha hingoa tomeini, hangē ko e <code>{{url}}</code>, ke tuku ki tuʻa ʻa e hingoa tomeini kotoa.",
+        "url": "Te ke lava ʻo tuku ki tuʻa ha ngaahi fehokotakiʻanga pau ʻaki haʻo tānaki atu ha fehokotakiʻanga, hangē ko e <code>{{url}}</code>.",
+        "glob": "Te ke lava ʻo tānaki atu ha sīpinga {{glob}}, hangē ko e <code>{{minimatch}}</code>, ki he fakafehoanaki ʻoku ʻikai mahino."
+      }
+    }
+  },
+  "menu": {
+    "main": "Ngaahi fehokotaki'anga kotoa pe"
+  }
+}

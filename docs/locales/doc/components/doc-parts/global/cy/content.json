@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Gosodiadau byd-eang",
+    "checkedUseSetting": "Gwiriwch i alluogi'r gosodiad hwn.",
+    "excludeDomains": "Ychwanegu enwau parth i'w hepgor.",
+    "seeExcludeExamplesLink": "Enghraifft",
+    "exclude": {
+      "example": {
+        "domain": "Gallwch ychwanegu enw parth, megis <code>{{url}}</code>, i eithrio'r enw parth cyfan.",
+        "url": "Gallwch eithrio dolenni penodol drwy ychwanegu dolen, megis <code>{{url}}</code>.",
+        "glob": "Gallwch ychwanegu patrwm {{glob}}, megis <code>{{minimatch}}</code>, ar gyfer paru niwlog."
+      }
+    },
+    "script": "Gallwch hefyd ddefnyddio sgriptiau js i gyflawni rheolaeth fwy soffistigedig.",
+    "checkedUseScript": "P'un ai i alluogi eich sgript, sylwch fod angen i chi wirio'r ddau flwch ar yr un pryd i alluogi'r sgript.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ar wefan {{youtube}} ar hyn o bryd, mae angen i chi agor tudalen {{watch}} neu {{shorts}} {{youtube}} mewn tab newydd.",
+        "introVariables": "Cyflwyniad i newidynnau",
+        "page": ": Y newidyn yw gwrthrych URL y dudalen we gyfredol. Gweler</a> os gwelwch yn dda",
+        "pageHost": ": Enw parth y dudalen we gyfredol",
+        "isSameSubDomain": "{{isSameSubDomain}}: Yr un enw parth. Sylwch, er mai prif enwau parth {{youtube}} a {{families}} yw {{mainDomain}}, yr enwau is-barth yw {{youtubeSubDomain}} a {{ teuluoeddSubDomain}} yn y drefn honno.",
+        "click": ": y ddolen a gliciwyd",
+        "clickpath": ": Llwybr y ddolen a gliciwyd",
+        "minimatch": ": {{ glob}} dull paru, gan ddefnyddio'r llyfrgell {{minimatch}}, y dull defnydd <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Os gwelwch yn dda Gweler</a>, neu gallwch chwilio am sut i ddefnyddio {{glob}}.",
+        "rightTab": ": Mae'r ddolen yn agor mewn tab newydd ar y dde",
+        "wholeCode": "Ystyr y cod cyfan yw bod yn nhudalen enw parth {{www}} YouTube ar hyn o bryd, os yw'r ddolen a gliciwyd yr un enw parth a bod y llwybr yn dechrau gyda {{watch}} neu {{shorts}}, yna'r tab newydd bydd y dudalen ar y dde yn Agored."
+      }
+    }
+  },
+  "menu": {
+    "main": "Cyfluniad byd-eang"
+  }
+}

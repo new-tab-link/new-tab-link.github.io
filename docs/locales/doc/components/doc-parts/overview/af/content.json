@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Oorsig van die skakel oop met uitbreiding",
+    "description": "<p>Hierdie uitbreiding laat jou toe om gerieflik te beheer hoe hiperskakels oopgemaak word.</p><p>Venster: ander blaaiers, opspringvensters, nuwe vensters, nuwe incognitovensters, huidige venster (verstek)</p> <p >Oortjies: links van huidige oortjie, huidige oortjie, regs van huidige oortjie (verstek)</p><p>Aktiveringstatus: onaktief, aktiveer onmiddellik (verstek)</p>"
+  },
+  "menu": {
+    "main": "Oorsig"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Yvirlit yvir Leinkjuna Opin Við víðkan",
+    "description": "<p>Við hesi útbyggingini kanst tú lættliga stýra, hvussu leinkjur verða latnar upp.</p><p>Vindeyga: aðrir kagar, pop-up vindeygu, nýggj vindeygu, nýggj incognito vindeygu, núverandi vindeyga (standard)</p> <p >Flipar: vinstrumegin núverandi flipa, núverandi flipa, høgrumegin núverandi flipa (standard)</p><p>Aktiveringsstøða: óvirkin, virkja beinanvegin (standard)</p>"
+  },
+  "menu": {
+    "main": "Yvirlit"
+  }
+}

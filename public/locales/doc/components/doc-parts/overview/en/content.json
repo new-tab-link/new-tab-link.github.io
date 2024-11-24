@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Overview of the Link Open With extension",
+    "description": "<p>This extension allows you to conveniently control how hyperlinks are opened.</p><p>Window: other browsers, pop-up windows, new windows, new incognito windows, current window (default)</p> <p>Tabs: left of current tab, current tab, right of current tab (default)</p><p>Activation status: inactive, activate immediately (default)</p>"
+  },
+  "menu": {
+    "main": "Overview"
+  }
+}

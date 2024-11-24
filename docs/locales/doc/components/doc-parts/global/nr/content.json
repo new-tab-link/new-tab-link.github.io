@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Amasethingi wephasi loke",
+    "checkedUseSetting": "Hlola ukuvumela isethingi le.",
+    "excludeDomains": "Faka amagama wesizinda ukuthi angafakwa.",
+    "seeExcludeExamplesLink": "Isibonelo",
+    "exclude": {
+      "example": {
+        "domain": "Ungangezelela ibizo lesizinda, njenge-<code>{{url}}</code>, ukukhipha loke ibizo lesizinda.",
+        "url": "Ungakhipha amalinki athileko ngokufaka isixhumanisi, njenge-<code>{{url}}</code>.",
+        "glob": "Ungangeza iphetheni ye-{{glob}}, njenge-<code>{{minimatch}}</code>, ukumadanisa okungakacaci."
+      }
+    },
+    "script": "Ungasebenzisa namaskripthi we-js ukufikelela ukulawula okuyinkimbinkimbi.",
+    "checkedUseScript": "Ukuthi uvumela iskripthi sakho na, tjheja bona kufuze utjheje womabili amabhokisi ngesikhathi sinye ukuvumela iskripthi.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Njenganje kuwebhusayithi ye-{{youtube}}, udinga ukuvula ikhasi le-{{bukela}} nofana le-{{i-shorts}} le-{{youtube}} kuthebhu etja.",
+        "introVariables": "Isingeniso samatjhuguluko",
+        "page": ": I-variable yinto ye-URL yekhasi lewebhu lamanje. Sibawa ubone</a >",
+        "pageHost": ": Ibizo lesizinda sekhasi lewebhu lamanje",
+        "isSameSubDomain": "{{isSameSubDomain}}: Ibizo lesizinda elifanako. amabizo wabo wesizinda ahlukile.",
+        "click": ": isixhumanisi esichofoziweko",
+        "clickpath": ": Indlela yesixhumanisi esitlikithiweko",
+        "minimatch": ": {{glob}} indlela yokumadanisa, ngokusebenzisa ilayibrari ye-{{minimatch}}, indlela yokusebenzisa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Sibawa Bona</a>, namkha ungasesha bona i-{{glob}} ingayisebenzisa njani.",
+        "rightTab": ": Isixhumanisi sivuleka kuthebhu etja ngakwesokudla",
+        "wholeCode": "Ihlathululo yekhodi yoke kukuthi njenganje ekhasini lebizo lesizinda le-YouTube {{www}}, nangabe isixhumanisi esichofoziweko ligama lesizinda elifanako begodu indlela ithoma ngo-{{bukela}} nofana {{amafitjhani}}, khona-ke ithebhu etja ikhasi elingakwesokudla lizokuvulwa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Ukuhlelwa kwephasi loke"
+  }
+}

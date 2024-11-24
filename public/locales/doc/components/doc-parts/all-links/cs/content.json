@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Všechny odkazy",
+    "checkedUseSetting": "Zaškrtnutím povolíte toto nastavení.",
+    "excludeDomains": "Přidat názvy domén, které mají být vyloučeny, lze přidat pouze jeden název domény.",
+    "seeExcludeExamplesLink": "Příklad",
+    "exclude": {
+      "example": {
+        "domain": "Chcete-li vyloučit celý název domény, můžete přidat název domény, například <code>{{url}}</code>.",
+        "url": "Konkrétní odkazy můžete vyloučit přidáním odkazu, například <code>{{url}}</code>.",
+        "glob": "Pro fuzzy shodu můžete přidat vzor {{glob}}, například <code>{{minimatch}}</code>."
+      }
+    }
+  },
+  "menu": {
+    "main": "Všechny odkazy"
+  }
+}

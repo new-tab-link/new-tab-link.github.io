@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Overview ny Rohy misokatra miaraka amin'ny fanitarana",
+    "description": "<p>Ity fanitarana ity dia ahafahanao mifehy mora foana ny fomba fanokafana ny rohibe.</p><p>Vendrika: navigateur hafa, fikandrana pop-up, fikandrana vaovao, fikandrana incognito vaovao, fikandrana ankehitriny (default)</p> <p >Tab: ankavian'ny tabilao misy ankehitriny, kiheba misy ankehitriny, havanana amin'ny tabilao misy ankehitriny (default)</p><p>Sata fampahavitrihana: tsy mavitrika, activated avy hatrany (default)</p>"
+  },
+  "menu": {
+    "main": "Overview"
+  }
+}

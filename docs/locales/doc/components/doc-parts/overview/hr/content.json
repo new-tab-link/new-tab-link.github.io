@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Pregled proširenja Link Open With",
+    "description": "<p>Ovo proširenje vam omogućuje praktičnu kontrolu načina otvaranja hiperveza.</p><p>Prozor: drugi preglednici, skočni prozori, novi prozori, novi anonimni prozori, trenutni prozor (zadano)</p> <p >Kartice: lijevo od trenutne kartice, trenutne kartice, desno od trenutne kartice (zadano)</p><p>Status aktivacije: neaktivno, aktiviraj odmah (zadano)</p>"
+  },
+  "menu": {
+    "main": "Pregled"
+  }
+}

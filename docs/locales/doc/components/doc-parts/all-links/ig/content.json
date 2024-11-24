@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Njikọ niile",
+    "checkedUseSetting": "Lelee iji mee ntọala a.",
+    "excludeDomains": "Tinye ngalaba aha ka ewepụrụ naanị otu ngalaba aha nwere ike ịgbakwunye n'otu oge.",
+    "seeExcludeExamplesLink": "Ọmụmaatụ",
+    "exclude": {
+      "example": {
+        "domain": "Ị nwere ike tinye ngalaba aha, dị ka <code>{{url}}</code>, ka ewepu aha ngalaba niile.",
+        "url": "Ị nwere ike wepu njikọ dị iche iche site na ịgbakwunye njikọ, dị ka <code>{{url}}</code>.",
+        "glob": "Ị nwere ike itinye ụkpụrụ {{glob}}, dị ka <code>{{minimatch}}</code>, maka ndakọrịta na-enweghị isi."
+      }
+    }
+  },
+  "menu": {
+    "main": "Njikọ niile"
+  }
+}

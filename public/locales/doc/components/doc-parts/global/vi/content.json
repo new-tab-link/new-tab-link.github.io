@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Cài đặt chung",
+    "checkedUseSetting": "Chọn để bật cài đặt này.",
+    "excludeDomains": "Thêm tên miền cần loại trừ. Chỉ có thể thêm một tên miền tại một thời điểm.",
+    "seeExcludeExamplesLink": "Ví dụ",
+    "exclude": {
+      "example": {
+        "domain": "Bạn có thể thêm tên miền, chẳng hạn như <code>{{url}</code>, để loại trừ toàn bộ tên miền.",
+        "url": "Bạn có thể loại trừ các liên kết cụ thể bằng cách thêm một liên kết, chẳng hạn như <code>{{url}</code>.",
+        "glob": "Bạn có thể thêm mẫu {{glob}}, chẳng hạn như <code>{{minimatch}</code>, để khớp mờ."
+      }
+    },
+    "script": "Bạn cũng có thể sử dụng tập lệnh js để đạt được khả năng kiểm soát phức tạp hơn.",
+    "checkedUseScript": "Cho dù có bật tập lệnh của bạn hay không, hãy lưu ý rằng bạn cần chọn cả hai hộp cùng lúc để bật tập lệnh.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Hiện tại trên trang web {{youtube}}, bạn cần mở trang {{watch}} hoặc {{shorts}} của {{youtube}} trong tab mới.",
+        "introVariables": "Giới thiệu về các biến",
+        "page": ": Biến là đối tượng URL của trang web hiện tại. Để biết chi tiết, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Vui lòng xem</a >",
+        "pageHost": ": Tên miền của trang web hiện tại",
+        "isSameSubDomain": "{{isSameSubDomain}}: Cùng một tên miền. Lưu ý rằng mặc dù tên miền chính của {{youtube}} và {{families}} đều là {{mainDomain}}, nhưng tên miền phụ là {{youtubeSubDomain}} và {{ familySubDomain}} tương ứng nên tên miền của họ khác nhau.",
+        "click": ": liên kết đã được nhấp vào",
+        "clickpath": ": Đường dẫn của liên kết được nhấp vào",
+        "minimatch": ": Phương thức đối sánh {{glob}}, sử dụng thư viện {{minimatch}}, phương thức sử dụng <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vui lòng Xem</a> hoặc bạn có thể tìm kiếm cách sử dụng {{glob}}.",
+        "rightTab": ": Liên kết mở trong tab mới ở bên phải",
+        "wholeCode": "Ý nghĩa của toàn bộ mã là hiện tại trong trang tên miền {{www}} của YouTube, nếu liên kết được nhấp vào là cùng một tên miền và đường dẫn bắt đầu bằng {{watch}} hoặc {{shorts}} thì tab mới trang bên phải sẽ được mở."
+      }
+    }
+  },
+  "menu": {
+    "main": "Cấu hình toàn cầu"
+  }
+}

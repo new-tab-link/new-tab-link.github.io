@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Semua pautan",
+    "checkedUseSetting": "Semak untuk mendayakan tetapan ini.",
+    "excludeDomains": "Tambahkan nama domain untuk dikecualikan Hanya satu nama domain boleh ditambah pada satu masa.",
+    "seeExcludeExamplesLink": "Contoh",
+    "exclude": {
+      "example": {
+        "domain": "Anda boleh menambah nama domain, seperti <code>{{url}}</code>, untuk mengecualikan keseluruhan nama domain.",
+        "url": "Anda boleh mengecualikan pautan tertentu dengan menambahkan pautan, seperti <code>{{url}}</code>.",
+        "glob": "Anda boleh menambah corak {{glob}}, seperti <code>{{minimatch}}</code>, untuk padanan kabur."
+      }
+    }
+  },
+  "menu": {
+    "main": "Semua pautan"
+  }
+}

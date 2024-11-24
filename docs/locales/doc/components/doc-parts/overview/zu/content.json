@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Uhlolojikelele lwe-Link Open With extension",
+    "description": "<p>Lesi sandiso sikuvumela ukuthi ulawule kalula ukuthi izixhumanisi zivulwa kanjani.</p><p>Iwindi: ezinye iziphequluli, amawindi ezigelekeqe, amawindi amasha, amawindi e-incognito amasha, iwindi lamanje (okuzenzakalelayo)</p> <p >Amathebhu: kwesokunxele sethebhu yamanje, ithebhu yamanje, kwesokudla sethebhu yamanje (okuzenzakalelayo)</p><p>Isimo sokwenza kusebenze: akusebenzi, yenza kusebenze ngokushesha (okuzenzakalelayo)</p>"
+  },
+  "menu": {
+    "main": "Uhlolojikelele"
+  }
+}

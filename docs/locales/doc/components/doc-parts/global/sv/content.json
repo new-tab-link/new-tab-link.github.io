@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globala inställningar",
+    "checkedUseSetting": "Markera för att aktivera den här inställningen.",
+    "excludeDomains": "Lägg till domännamn som ska uteslutas Endast ett domännamn kan läggas till i taget.",
+    "seeExcludeExamplesLink": "Exempel",
+    "exclude": {
+      "example": {
+        "domain": "Du kan lägga till ett domännamn, till exempel <code>{{url}}</code>, för att utesluta hela domännamnet.",
+        "url": "Du kan utesluta specifika länkar genom att lägga till en länk, till exempel <code>{{url}}</code>.",
+        "glob": "Du kan lägga till ett {{glob}}-mönster, till exempel <code>{{minimatch}}</code>, för otydlig matchning."
+      }
+    },
+    "script": "Du kan också använda js-skript för att uppnå mer sofistikerad kontroll.",
+    "checkedUseScript": "Oavsett om du vill aktivera ditt skript, notera att du måste markera båda rutorna samtidigt för att aktivera skriptet.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "För närvarande på {{youtube}}-webbplatsen måste du öppna {{youtube}}s {{watch}}- eller {{shorts}}-sida på en ny flik.",
+        "introVariables": "Introduktion till variabler",
+        "page": ": Variabeln är URL-objektet för den aktuella webbsidan För detaljer, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Se gärna</a >",
+        "pageHost": ": Domännamnet för den aktuella webbsidan",
+        "isSameSubDomain": "{{isSameSubDomain}}: Samma domännamn Observera att även om huvuddomännamnen för {{youtube}} och {{families}} båda är {{mainDomain}}, är underdomännamnen {{youtubeSubDomain}} och {{. familjerSubDomain}} respektive Så deras domännamn är olika.",
+        "click": ": länken som klickades på",
+        "clickpath": ": Sökvägen till den klickade länken",
+        "minimatch": ": {{glob}} matchningsmetod, med hjälp av {{minimatch}}-biblioteket, användningsmetoden <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vänligen Se</a>, eller så kan du söka efter hur du använder {{glob}}.",
+        "rightTab": ": Länken öppnas i en ny flik till höger",
+        "wholeCode": "Innebörden av hela koden är att för närvarande på YouTubes {{www}} domännamnssida, om den klickade länken är samma domännamn och sökvägen börjar med {{watch}} eller {{shorts}}, då den nya fliken sidan till höger kommer att vara Öppna."
+      }
+    }
+  },
+  "menu": {
+    "main": "Global konfiguration"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Tautuhinga o te ao",
+    "checkedUseSetting": "Takina kia taea ai tenei tautuhinga.",
+    "excludeDomains": "Tāpirihia nga ingoa rohe ka taea te taapiri kia kotahi anake te ingoa rohe.",
+    "seeExcludeExamplesLink": "Tauira",
+    "exclude": {
+      "example": {
+        "domain": "Ka taea e koe te taapiri ingoa rohe, penei i te <code>{{url}}</code>, hei whakakore i te ingoa rohe katoa.",
+        "url": "Ka taea e koe te whakakore i nga hononga motuhake ma te taapiri hononga, penei i <code>{{url}}</code>.",
+        "glob": "Ka taea e koe te taapiri i tetahi tauira {{glob}}, penei i te <code>{{minimatch}}</code>, mo te taurite puhoi."
+      }
+    },
+    "script": "Ka taea hoki e koe te whakamahi i nga tuhinga js kia pai ake ai te whakahaere.",
+    "checkedUseScript": "Ki te whakaahei i to tuhinga, mahara me tirotiro e koe nga pouaka e rua i te wa kotahi kia taea ai te tuhi.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "I tenei wa kei te paetukutuku {{youtube}}, me whakatuwhera e koe te wharangi {{watch}}, {{shorts}} ranei ki tetahi ripa hou.",
+        "introVariables": "He kupu whakataki ki nga taurangi",
+        "page": ": Ko te taurangi ko te ahanoa URL o te wharangi tukutuku o naianei mo nga taipitopito, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Tirohia koa</a >",
+        "pageHost": ": Te ingoa rohe o te wharangi tukutuku o naianei",
+        "isSameSubDomain": "{{isSameSubDomain}}: He rite tonu te ingoa rohe ahakoa ko nga ingoa rohe matua o {{youtube}} me {{families}} he {{mainDomain}}, ko nga ingoa roheroto ko {{youtubeSubDomain}} me {{ whānauSubDomain}} Na he rereke o ratou ingoa rohe.",
+        "click": ": te hono i pawhiria",
+        "clickpath": ": Ko te ara o te hononga kua paatohia",
+        "minimatch": ": {{glob}} tikanga whakarite, ma te whakamahi i te whare pukapuka {{minimatch}}, te tikanga whakamahi <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Tena koa Tirohia</a>, ka taea ranei e koe te rapu me pehea te whakamahi i te {{glob}}.",
+        "rightTab": ": Ka tuwhera te hono ki tetahi ripa hou kei te taha matau",
+        "wholeCode": "Ko te tikanga o te waehere katoa kei roto i te wharangi ingoa rohe {{www}} YouTube i tenei wa, mena he rite te ingoa rohe o te hononga kua paatohia, ka timata te huarahi ki te {{watch}} ki te {{shorts}} ranei, katahi ko te ripa hou. ka tuwhera te wharangi kei te taha matau."
+      }
+    }
+  },
+  "menu": {
+    "main": "whirihoranga o te ao"
+  }
+}

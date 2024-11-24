@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Ntọala zuru ụwa ọnụ",
+    "checkedUseSetting": "Lelee iji mee ntọala a.",
+    "excludeDomains": "Tinye ngalaba aha ka ewepụrụ naanị otu ngalaba aha nwere ike ịgbakwunye n'otu oge.",
+    "seeExcludeExamplesLink": "Ọmụmaatụ",
+    "exclude": {
+      "example": {
+        "domain": "Ị nwere ike tinye ngalaba aha, dị ka <code>{{url}}</code>, ka ewepu aha ngalaba niile.",
+        "url": "Ị nwere ike wepu njikọ dị iche iche site na ịgbakwunye njikọ, dị ka <code>{{url}}</code>.",
+        "glob": "Ị nwere ike itinye ụkpụrụ {{glob}}, dị ka <code>{{minimatch}}</code>, maka ndakọrịta na-enweghị isi."
+      }
+    },
+    "script": "Ị nwekwara ike iji scripts js iji nweta njikwa ọkaibe karịa.",
+    "checkedUseScript": "Ma iji mee ka edemede gị nwee ike, rịba ama na ịkwesịrị ịlele igbe abụọ n'otu oge iji mee ka edemede ahụ nwee ike.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ugbu a na {{youtube}} webụsaịtị, ịkwesịrị imepe ibe {{youtube}} {{watch}} ma ọ bụ {{mkpirisi}} na taabụ ọhụrụ.",
+        "introVariables": "Okwu mmalite nke mgbanwe",
+        "page": ": Ngbanwe bụ URL ihe nke ibe weebụ dị ugbu a, maka nkọwa, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Biko hụ</a>",
+        "pageHost": ": Aha ngalaba nke ibe weebụ dị ugbu a",
+        "isSameSubDomain": "{{isSameSubDomain}}: Otu ngalaba aha ahụ mara na n'agbanyeghị na ngalaba aha {{youtube}} na {{families}} bụ ma {{mainDomain}}, aha subdomain bụ {{youtubeSubDomain}} na {{ familySubDomain}} n'otu n'otu, aha ngalaba ha dị iche.",
+        "click": ": njikọ nke pịrị",
+        "clickpath": ": Ụzọ nke njikọ pịa",
+        "minimatch": ": {{glob}} usoro dakọtara, na-eji {{minimatch}} ọba akwụkwọ, usoro ojiji <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Biko Hụ</a>, ma ọ bụ ị nwere ike ịchọ ka esi eji {{glob}}.",
+        "rightTab": ": Njikọ ahụ ga-emepe na taabụ ọhụrụ n'aka nri",
+        "wholeCode": "Ihe koodu ahụ dum pụtara bụ na ugbu a na ibe ngalaba aha YouTube {{www}}, ọ bụrụ na njikọ a pịrị bụ otu aha ngalaba ahụ wee malite na {{ekiri}} ma ọ bụ {{mkpirisi}}, wee taabụ ọhụrụ. ibe n'aka nri ga-emeghe."
+      }
+    }
+  },
+  "menu": {
+    "main": "Nhazi zuru ụwa ọnụ"
+  }
+}

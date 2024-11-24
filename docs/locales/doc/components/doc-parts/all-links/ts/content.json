@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Swihlanganisi hinkwaswo",
+    "checkedUseSetting": "Languta ku endla leswaku xiyimiso lexi xi tirha.",
+    "excludeDomains": "Engetelani mavito ya domain lama nga ta susiwa eka vito rin’we ntsena ra domain leri nga engeteriwa hi nkarhi wun’we.",
+    "seeExcludeExamplesLink": "Xikombiso",
+    "exclude": {
+      "example": {
+        "domain": "U nga engetela vito ra domain, ku fana na <code>{{url}}</code>, ku susa vito hinkwaro ra domain.",
+        "url": "U nga susa swihlanganisi swo karhi hi ku engetela xihlanganisi, ku fana na <code>{{url}}</code>.",
+        "glob": "U nga engetela xivumbeko xa {{glob}}, ku fana na <code>{{minimatch}}</code>, ku fambisana loku nga twisisekiki."
+      }
+    }
+  },
+  "menu": {
+    "main": "Swihlanganisi hinkwaswo"
+  }
+}

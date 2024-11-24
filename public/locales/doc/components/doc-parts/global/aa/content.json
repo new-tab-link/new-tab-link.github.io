@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Baad guddaaqa",
+    "checkedUseSetting": "cubbus ta farmo takkuh.",
+    "excludeDomains": "ossotinah domain migaaqitte dubuk inki domain migaq ossimeh uddurut.",
+    "seeExcludeExamplesLink": "Ceelallo",
+    "exclude": {
+      "example": {
+        "domain": "Atu domain migaq osissam duddah, axcih <koox>{{url}}</koox>, inkih tan domain migaq edde anuk.",
+        "url": "Atu baxsa le yasgaarawi edde osissam duuddah, axcih <koox>{{url}}</koox>.",
+        "glob": "Atu osissam duddah {{baadal}} maysabaka, axcih <mudenta>{{dago ramad}}</mudenta>, baxxaqqa sinni ramaddos."
+      }
+    },
+    "script": "atu kalah js kutbet duqaysimtam duddah mango lowsis guftuh.",
+    "checkedUseScript": "isi kutbe taamittam faxxek, kutbe taamittuh namma sandug inki uddur cubbussam faxxam cubbus.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Awayih uddur {{youtube}} weebsaayitil, {{youtube}}'s {{wagit}} hinnay {{uxxuk}} gali qusba tab faktam faxxinta.",
+        "introVariables": "milallaagimiyyi culma",
+        "page": ": milallaagi URL abto awakih qarok qari gali addatinoh, <a href='https://dadlise.mozilla.org/senad/qarok qari/API/URL' hadaf='_foyya' rel='mabla'>. Ku maganak wagit</a>",
+        "pageHost": ": Awayî qarok-qariitâ galih domain migaq",
+        "isSameSubDomain": "{{isSameSubDomain}}: Inki qaynatih domain migaq kinnim cubbus, {{youtube}} kee {{buxah mara}} inkih tan domain migaq kinnim takkay immay, qunxa domain migaq {{youtube}} kee {{. buxa marih guddaaqa}} yaakumik ciggiilil ken gubaak migaaqitte baxsa le.",
+        "click": ": xukkusen yasgaarawi",
+        "clickpath": ": xukkuten yasgaarawih gita",
+        "minimatch": ": {{global}} ramad cogdah, {{qunxa ramad}} kitoobah buxat duqaysimak, cogdah xoqoyso <a href='https://github.com/isaacs/qunxa ramad' hadaf='_foyya' rel='noreferrer'>kumaganak ubul</a>, akkek atu gorrissam mannal edde tantifiqqem {{glob}}.",
+        "rightTab": ": Yasgaarawi migdi gabuuk qusba abalso fakkiima",
+        "wholeCode": "Inkih yan kooxih maqna awayih uddur Youtube {{www}} domain migaq galil, qimmoh addah wagitak, qimmoh addah wagitak, qimmoh addah wagitak, qimmoh addah wagitak, qimmoh addah wagitak, qusba tab . migdi gabuk yan gali fakkiimele."
+      }
+    }
+  },
+  "menu": {
+    "main": "Baadak xikne"
+  }
+}

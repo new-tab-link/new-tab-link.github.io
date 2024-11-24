@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Pasqyrë e lidhjes Open With Extension",
+    "description": "<p>Kjo shtesë ju lejon të kontrolloni me lehtësi se si hapen lidhjet.</p><p>Dritarja: shfletues të tjerë, dritare kërcyese, dritare të reja, dritare të reja të fshehta, dritarja aktuale (parazgjedhja)</p> <p >Skedat: majtas i skedës aktuale, skeda aktuale, djathtas i skedës aktuale (e parazgjedhur)</p><p>Statusi i aktivizimit: joaktiv, aktivizo menjëherë (e parazgjedhur)</p>"
+  },
+  "menu": {
+    "main": "Vështrim i përgjithshëm"
+  }
+}

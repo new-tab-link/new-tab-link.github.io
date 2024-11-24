@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Přehled rozšíření Link Open With",
+    "description": "<p>Toto rozšíření vám umožňuje pohodlně ovládat způsob otevírání hypertextových odkazů.</p><p>Okno: jiné prohlížeče, vyskakovací okna, nová okna, nová anonymní okna, aktuální okno (výchozí)</p> <p >Karty: vlevo od aktuální karty, aktuální karta, vpravo od aktuální karty (výchozí)</p><p>Stav aktivace: neaktivní, aktivovat okamžitě (výchozí)</p>"
+  },
+  "menu": {
+    "main": "Přehled"
+  }
+}

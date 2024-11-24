@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Všetky odkazy",
+    "checkedUseSetting": "Začiarknutím aktivujete toto nastavenie.",
+    "excludeDomains": "Pridajte názvy domén, ktoré chcete vylúčiť. Naraz je možné pridať iba jeden názov domény.",
+    "seeExcludeExamplesLink": "Príklad",
+    "exclude": {
+      "example": {
+        "domain": "Ak chcete vylúčiť celý názov domény, môžete pridať názov domény, napríklad <code>{{url}}</code>.",
+        "url": "Konkrétne odkazy môžete vylúčiť pridaním odkazu, napríklad <code>{{url}}</code>.",
+        "glob": "Môžete pridať vzor {{glob}}, napríklad <code>{{minimatch}}</code>, pre fuzzy párovanie."
+      }
+    }
+  },
+  "menu": {
+    "main": "Všetky odkazy"
+  }
+}

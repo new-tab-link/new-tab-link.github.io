@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Configuración global",
+    "checkedUseSetting": "Marque para activar esta configuración.",
+    "excludeDomains": "Engade nomes de dominio para excluír. Só se pode engadir un nome de dominio á vez.",
+    "seeExcludeExamplesLink": "Exemplo",
+    "exclude": {
+      "example": {
+        "domain": "Podes engadir un nome de dominio, como <code>{{url}}</code>, para excluír todo o nome de dominio.",
+        "url": "Podes excluír ligazóns específicas engadindo unha ligazón, como <code>{{url}}</code>.",
+        "glob": "Podes engadir un patrón {{glob}}, como <code>{{minimatch}}</code>, para unha coincidencia difusa."
+      }
+    },
+    "script": "Tamén podes usar scripts js para conseguir un control máis sofisticado.",
+    "checkedUseScript": "Se debes activar o teu script, ten en conta que cómpre marcar as dúas caixas ao mesmo tempo para activalo.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Actualmente no sitio web de {{youtube}}, debes abrir a páxina {{watch}} ou {{shorts}} de {{youtube}} nunha nova pestana.",
+        "introVariables": "Introdución ás variables",
+        "page": ": a variable é o obxecto URL da páxina web actual, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Consulte</a >",
+        "pageHost": ": O nome de dominio da páxina web actual",
+        "isSameSubDomain": "{{isSameSubDomain}}: o mesmo nome de dominio, aínda que os nomes de dominio principais de {{youtube}} e {{families}} son {{mainDomain}}, os nomes de subdominio son {{youtubeSubDomain}} e {{. familiesSubDomain}}, polo que os seus nomes de dominio son diferentes.",
+        "click": ": a ligazón na que se fixo clic",
+        "clickpath": ": o camiño da ligazón seleccionada",
+        "minimatch": ": método de coincidencia {{glob}}, usando a biblioteca {{minimatch}}, o método de uso <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Por favor Consulta</a> ou podes buscar como usar {{glob}}.",
+        "rightTab": ": a ligazón ábrese nunha nova pestana á dereita",
+        "wholeCode": "O significado de todo o código é que actualmente na páxina do nome de dominio {{www}} de YouTube, se a ligazón na que se fixo clic é o mesmo nome de dominio e o camiño comeza por {{watch}} ou {{shorts}}, entón a nova pestana páxina da dereita estará aberta."
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuración global"
+  }
+}

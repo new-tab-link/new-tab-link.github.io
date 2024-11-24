@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Alþjóðlegar stillingar",
+    "checkedUseSetting": "Hakaðu við til að virkja þessa stillingu.",
+    "excludeDomains": "Bættu við lénsheitum til að útiloka. Aðeins er hægt að bæta við einu léni í einu.",
+    "seeExcludeExamplesLink": "Dæmi",
+    "exclude": {
+      "example": {
+        "domain": "Þú getur bætt við lén, eins og <code>{{url}}</code>, til að útiloka allt lénið.",
+        "url": "Þú getur útilokað tiltekna tengla með því að bæta við tengli, eins og <code>{{url}}</code>.",
+        "glob": "Þú getur bætt við {{glob}} mynstri, eins og <code>{{minimatch}}</code>, fyrir óljósa samsvörun."
+      }
+    },
+    "script": "Þú getur líka notað js forskriftir til að ná háþróaðri stjórn.",
+    "checkedUseScript": "Athugaðu að þú þarft að haka við báða reitina á sama tíma til að virkja handritið hvort sem þú vilt virkja smáforritið þitt.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Eins og er á {{youtube}} vefsíðunni þarftu að opna {{watch}} eða {{shorts}} síðu {{youtube}} á nýjum flipa.",
+        "introVariables": "Kynning á breytum",
+        "page": ": Breytan er URL hlutur núverandi vefsíðu Fyrir frekari upplýsingar, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Vinsamlegast sjáðu</a >",
+        "pageHost": ": Lén núverandi vefsíðu",
+        "isSameSubDomain": "{{isSameSubDomain}}: Sama lén Athugaðu að þó að aðallén {{youtube}} og {{families}} séu bæði {{mainDomain}}, þá eru undirlénin {{youtubeSubDomain}} og {{ familiesSubDomain}} í sömu röð. Svo lén þeirra eru önnur.",
+        "click": ": tengilinn sem smellt var á",
+        "clickpath": ": Slóð hlekksins sem smellt er á",
+        "minimatch": ": {{glob}} samsvörunaraðferð, með því að nota {{minimatch}} bókasafnið, notkunaraðferðina <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vinsamlegast Sjá</a>, eða þú getur leitað að því hvernig á að nota {{glob}}.",
+        "rightTab": ": Tengillinn opnast í nýjum flipa hægra megin",
+        "wholeCode": "Merking alls kóðans er sú að á YouTube {{www}} lénssíðu YouTube, ef smellt er á hlekkinn er sama lén og slóðin byrjar á {{watch}} eða {{shorts}}, þá er nýi flipinn síða til hægri verður Opið."
+      }
+    }
+  },
+  "menu": {
+    "main": "Alþjóðleg uppsetning"
+  }
+}

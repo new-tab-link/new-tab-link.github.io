@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Tout lyen",
+    "checkedUseSetting": "Tcheke pou pèmèt paramèt sa a.",
+    "excludeDomains": "Ajoute non domèn yo dwe eskli sèlman yon non domèn ka ajoute nan yon moman.",
+    "seeExcludeExamplesLink": "Egzanp",
+    "exclude": {
+      "example": {
+        "domain": "Ou ka ajoute yon non domèn, tankou <code>{{url}}</code>, pou eskli tout non domèn.",
+        "url": "Ou ka eskli lyen espesifik lè w ajoute yon lyen, tankou <code>{{url}}</code>.",
+        "glob": "Ou ka ajoute yon modèl {{glob}}, tankou <code>{{minimatch}}</code>, pou matche flou."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tout lyen"
+  }
+}

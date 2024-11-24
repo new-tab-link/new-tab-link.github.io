@@ -1,12 +1,15 @@
 .js-script-code {
   // font-style: italic;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.1rem;
-  padding-bottom: 0.1rem;
+  // margin-left: 1rem;
+  // margin-right: 1rem;
+  // padding-left: 0.5rem;
+  // padding-right: 0.5rem;
+  // padding-top: 0.1rem;
+  // padding-bottom: 0.1rem;
   text-decoration: underline red 1px;
-  background-color: #1a1a1a;
-  color: white;
+  // background-color: #1a1a1a;
+  // color: white;
+  // border: 2px solid #f0adc0;
 }
 .js-comment {
   // color:#808080;
@@ -40,3 +43,10 @@
 }
 
 html, body{ margin:0; height:100%; }
+
+.autoImage{
+  // width: 100%;
+  max-width: 100%;
+  // height: auto;
+  // object-fit: contain;
+}

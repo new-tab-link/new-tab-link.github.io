@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Kaikki linkit",
+    "checkedUseSetting": "Ota tämä asetus käyttöön valitsemalla tämä.",
+    "excludeDomains": "Lisää poissuljettavia verkkotunnuksia Vain yksi verkkotunnus voidaan lisätä kerrallaan.",
+    "seeExcludeExamplesLink": "Esimerkki",
+    "exclude": {
+      "example": {
+        "domain": "Voit lisätä verkkotunnuksen nimen, kuten <code>{{url}}</code>, sulkeaksesi pois koko verkkotunnuksen nimen.",
+        "url": "Voit sulkea pois tiettyjä linkkejä lisäämällä linkin, kuten <code>{{url}}</code>.",
+        "glob": "Voit lisätä {{glob}}-kuvion, kuten <code>{{minimatch}}</code>, sumeaa vastaavuutta varten."
+      }
+    }
+  },
+  "menu": {
+    "main": "Kaikki linkit"
+  }
+}

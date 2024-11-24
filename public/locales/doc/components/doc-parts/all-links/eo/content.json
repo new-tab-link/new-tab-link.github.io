@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Ĉiuj ligiloj",
+    "checkedUseSetting": "Kontrolu por ebligi ĉi tiun agordon.",
+    "excludeDomains": "Aldonu domajnajn nomojn por esti ekskludita. Nur unu domajna nomo povas esti aldonita samtempe.",
+    "seeExcludeExamplesLink": "Ekzemplo",
+    "exclude": {
+      "example": {
+        "domain": "Vi povas aldoni domajnan nomon, kiel <code>{{url}}</code>, por ekskludi la tutan domajnan nomon.",
+        "url": "Vi povas ekskludi specifajn ligilojn aldonante ligilon, kiel <code>{{url}}</code>.",
+        "glob": "Vi povas aldoni {{glob}} ŝablonon, kiel <code>{{minimatch}}</code>, por neklara kongruo."
+      }
+    }
+  },
+  "menu": {
+    "main": "Ĉiuj ligiloj"
+  }
+}

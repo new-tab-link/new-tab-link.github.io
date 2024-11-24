@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Kakaretso ea Link Open With extension",
+    "description": "<p>Katoloso ena e o thusa ho laola ka tsela e bonolo hore na lihokelo li buloa joang.</p><p>Fensetere: libatli tse ling, lifensetere tse pop-up, lifenstere tse ncha, lifenstere tse ncha tsa incognito, fensetere ea hajoale (ea kamehla)</p> <p >Li-tabs: ka ho le letšehali ho ea hajoale, tab ea hajoale, ka ho le letona ho ea hajoale (ea kamehla)</p><p>Maemo a ho kenya tšebetsong: ha a sebetse, kenya tšebetsong hang-hang (ka ho sa feleng)</p>"
+  },
+  "menu": {
+    "main": "Kakaretso"
+  }
+}

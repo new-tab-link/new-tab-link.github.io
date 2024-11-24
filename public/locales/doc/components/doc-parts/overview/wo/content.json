@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Xeetu lëkkalekaay bi ubbeeku ak yokk",
+    "description": "<p>Bii yokk daf lay may nga mëna tànn ni hyperlink yi di ubbeeku.</p><p>Palanteer: yeneen nawigatër, palanteer yuy jameet, palanteer yu bees, palanteer yu bees yu nëbbu, palanteer bi fi nekk (default)</p> <p >Onglet yi: cammoy onglet bi fi nekk, onglet bi fi nekk, ndijoor onglet bi fi nekk (default)</p><p>Tolluwaayu tàmbali: deful, tàmbali ci saasi (default)</p>"
+  },
+  "menu": {
+    "main": "Résumé"
+  }
+}

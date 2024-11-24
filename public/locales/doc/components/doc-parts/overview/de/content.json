@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Übersicht über die Erweiterung „Link öffnen mit“.",
+    "description": "<p>Mit dieser Erweiterung können Sie bequem steuern, wie Hyperlinks geöffnet werden.</p><p>Fenster: andere Browser, Popup-Fenster, neue Fenster, neue Inkognito-Fenster, aktuelles Fenster (Standard)</p> <p >Tabs: links vom aktuellen Tab, aktueller Tab, rechts vom aktuellen Tab (Standard)</p><p>Aktivierungsstatus: inaktiv, sofort aktivieren (Standard)</p>"
+  },
+  "menu": {
+    "main": "Überblick"
+  }
+}

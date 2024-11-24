@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Alle keppelings",
+    "checkedUseSetting": "Kontrolearje om dizze ynstelling yn te skeakeljen.",
+    "excludeDomains": "Foegje domeinnammen ta om út te sluten Allinnich ien domeinnamme kin tagelyk wurde tafoege.",
+    "seeExcludeExamplesLink": "Foarbyld",
+    "exclude": {
+      "example": {
+        "domain": "Jo kinne in domeinnamme tafoegje, lykas <code>{{url}}</code>, om de hiele domeinnamme út te sluten.",
+        "url": "Jo kinne spesifike keppelings útslute troch in keppeling ta te foegjen, lykas <code>{{url}}</code>.",
+        "glob": "Jo kinne in {{glob}} patroan tafoegje, lykas <code>{{minimatch}}</code>, foar fuzzy matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Alle keppelings"
+  }
+}

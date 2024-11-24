@@ -70,19 +70,17 @@ export function Appbar2() {
 export function Appbar() {
     return (
         <AppBar color={"default"} sx={{ position: "sticky" }}>
-            {/* <Container maxWidth="lg"> */}
-
             <Toolbar>
                 <Box sx={{ flexGrow: 1 }}>
 
                 </Box>
-                <Grid2 spacing={2} sx={{ alignItems: "center", display: "flex", alignSelf: "center" }}>
+                
+                <Grid2  sx={{ alignItems: "center", display: "flex", alignSelf: "center" }}>
                     <LanguageSelect />
                     <Box sx={{ ml: "1rem" }}></Box>
                     <ThemeModelSetter />
                 </Grid2>
             </Toolbar>
-            {/* </Container> */}
         </AppBar>
     )
 }

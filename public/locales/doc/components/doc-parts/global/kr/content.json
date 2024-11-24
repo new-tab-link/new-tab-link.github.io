@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Settings dunyabe",
+    "checkedUseSetting": "Kulasne setting adəga yitagattəgəro.",
+    "excludeDomains": "Su domainbe yiradə shima Su domainbe faldəma loktu fallan kəltəyin.",
+    "seeExcludeExamplesLink": "Misal",
+    "exclude": {
+      "example": {
+        "domain": "Raktə su korkorbe yiramin, misallo <code>{{url}}</code>, su korkorbe sammaso surodən gənatəyin.",
+        "url": "Raktə kəltəram laa taganasbe surodən gənatəyin, misallo <code>{{url}}</code>.",
+        "glob": "Rangnəm futu {{glob}} yiramin, misallo <code>{{saməntə gana}}</code>, saməntə fuzzybe nankaro."
+      }
+    },
+    "script": "Kuruson js scripts faidatə awowa ngəwu notobe fandolan.",
+    "checkedUseScript": "Scriptnəm yitagattəgəro waljiya, notə nyiye sanduwu indiso loktu fallan kulasnəm scriptdəga yitagattəgəro.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Kǝrma dǝro suro {{youtube}} ye dǝlan, nyiye {{youtube}} ye waraknzǝ {{watch}} au {{shorts}} ye dǝga suro tab bǝlin yen katǝ mǝradǝnǝma.",
+        "introVariables": "Badiyaram awoa fafaltayinne",
+        "page": ": Shi awo gade-gadedə shima awo URLbe warak webbe kərmabedəwo Bayan kəzəkkəro, <a href=' Martəgəne ruyi</a >",
+        "pageHost": ": Su korkorbe warak webbe kərmabedə",
+        "isSameSubDomain": "{{isSameSubDomain}}: Su korkorbe faldə notə su korkorbe kuradə {{youtube}} kuru {{yallanzə}} sammaso {{korkor kura}}, su korkorbedə {{youtubeSubDomain}} kuru {{. familiesSubDomain}} sammaso su korkornzabedə gade.",
+        "click": ": link do ratkata dǝ",
+        "clickpath": ": Diwal do link do tǝkǝna dǝ",
+        "minimatch": ": {{glob}} dawari saməntəbe, faidatin {{samunnam gana}} kərabe, dawari faidatəbe <a href = 'https Wune</a>, au raknǝm futu {{glob}} faidatǝye kulasnǝmin.",
+        "rightTab": ": Link də suro tab bəlinyen kəmburamlan katin",
+        "wholeCode": "Ma'ana code sammasoyedə shima kərmaaro suro YouTubebe {{www}} warak su korkorbedən, link do rattənadə su korkorbe fal kuru diwaldə {{watch}} au {{shorts}} lan badijin, daji tab bəlində warak kəmburamyedə Open ro waljin."
+      }
+    }
+  },
+  "menu": {
+    "main": "Sasərtə dunyabe"
+  }
+}

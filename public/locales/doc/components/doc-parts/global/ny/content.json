@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Zokonda padziko lonse lapansi",
+    "checkedUseSetting": "Chongani kuti mutsegule zochunirazi.",
+    "excludeDomains": "Onjezani mayina ankalamulira kuti asaphatikizidwe.",
+    "seeExcludeExamplesLink": "Chitsanzo",
+    "exclude": {
+      "example": {
+        "domain": "Mutha kuwonjezera dzina ladomeni, monga <code>{{url}}</code>, kuti musakhale ndi dzina lonse.",
+        "url": "Mungathe kuchotsa maulalo enaake powonjezera ulalo, monga <code>{{url}}</code>.",
+        "glob": "Mutha kuwonjezera {{glob}} pateni, monga <code>{{minimatch}}</code>, kuti mufanane movutikira."
+      }
+    },
+    "script": "Mutha kugwiritsanso ntchito js scripts kuti mukwaniritse kuwongolera mwaukadaulo.",
+    "checkedUseScript": "Kaya mutsegule zolemba zanu, dziwani kuti muyenera kuyang'ana mabokosi onse nthawi imodzi kuti mutsegule.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Panopa pa tsamba la {{youtube}}, mukuyenera kutsegula tsamba la {{youtube}} la {{watch}} kapena {{akabudula}} mu tabu yatsopano.",
+        "introVariables": "Chiyambi cha zosintha",
+        "page": ": Ulalo ndi chinthu chomwe chili patsamba latsambali kuti mudziwe zambiri, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Chonde onani</a>",
+        "pageHost": ": Dzina lachidziwitso la tsamba lamakono",
+        "isSameSubDomain": "{{isSameSubDomain}}: Dzina la domeni lomwelo, ngakhale mayina akuluakulu a {{youtube}} ndi {{families}} onse ndi {{mainDomain}}, mayina a subdomain ndi {{youtubeSubDomain}} ndi {{ familySubDomain}} motsatana.",
+        "click": ": ulalo womwe wadina",
+        "clickpath": ": Njira ya ulalo womwe wadina",
+        "minimatch": ": {{glob}} njira yofananira, pogwiritsa ntchito laibulale ya {{minimatch}}, njira yogwiritsira ntchito <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Chonde Onani</a>, kapena mutha kusaka momwe mungagwiritsire ntchito {{glob}}.",
+        "rightTab": ": Ulalo umatsegulidwa mu tabu yatsopano kumanja",
+        "wholeCode": "Tanthauzo la nambala yonseyi ndikuti patsamba la YouTube la {{www}} la mayina, ngati ulalo womwe wadina uli womwewo ndipo njira imayamba ndi {{watch}} kapena {{shorts}}, ndiye tsamba latsopano. tsamba kumanja adzakhala Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Kukonzekera kwapadziko lonse"
+  }
+}

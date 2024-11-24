@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Switirhisiwa swa misava hinkwayo",
+    "checkedUseSetting": "Languta ku endla leswaku xiyimiso lexi xi tirha.",
+    "excludeDomains": "Engetelani mavito ya domain lama nga ta susiwa eka vito rin’we ntsena ra domain leri nga engeteriwa hi nkarhi wun’we.",
+    "seeExcludeExamplesLink": "Xikombiso",
+    "exclude": {
+      "example": {
+        "domain": "U nga engetela vito ra domain, ku fana na <code>{{url}}</code>, ku susa vito hinkwaro ra domain.",
+        "url": "U nga susa swihlanganisi swo karhi hi ku engetela xihlanganisi, ku fana na <code>{{url}}</code>.",
+        "glob": "U nga engetela xivumbeko xa {{glob}}, ku fana na <code>{{minimatch}}</code>, ku fambisana loku nga twisisekiki."
+      }
+    },
+    "script": "U nga ha tlhela u tirhisa swikripti swa js ku fikelela vulawuri lebyi rharhanganeke swinene.",
+    "checkedUseScript": "Ku nga khathariseki leswaku u ta pfumelela tsalwa ra wena, xiya leswaku u fanele u cheka mabokisi hamambirhi hi nkarhi wun’we leswaku u endla leswaku tsalwa ri tirha.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Sweswi eka webusayiti ya {{youtube}}, u fanele ku pfula tluka ra {{youtube}} ra {{watch}} kumbe {{shorts}} eka thebhu leyintshwa.",
+        "introVariables": "Ku nghenelela eka swilo leswi cinca-cincaka",
+        "page": ": Xihlawulekisi i nchumu wa URL wa tluka ra webu ra sweswi Ku kuma vuxokoxoko, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Hi kombela u vona</a >",
+        "pageHost": ": Vito ra domain ra pheji ya webu ya sweswi",
+        "isSameSubDomain": "{{isSameSubDomain}}: Vito ra domain rin’we Xiya leswaku hambileswi mavito lamakulu ya domain ya {{youtube}} na {{families}} havumbirhi bya wona ya nga {{mainDomain}}, mavito ya domain ya le hansi i {{youtubeSubDomain}} na {{. familiesSubDomain}} hi ku landzelelana.",
+        "click": ": xihlanganisi lexi a xi clickiwa",
+        "clickpath": ": Ndlela ya xihlanganisi lexi tsindziyeriweke",
+        "minimatch": ": {{glob}} ndlela yo fambelanisa, hi ku tirhisa layiburari ya {{minimatch}}, ndlela ya matirhiselo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ndzi kombela Vona</a>, kutani u nga lavisisa ndlela yo tirhisa {{glob}}.",
+        "rightTab": ": Xihlanganisi xi pfula eka thebhu leyintshwa etlhelo ra xinene",
+        "wholeCode": "Nhlamuselo ya khodi hinkwayo hi leswaku sweswi eka tluka ra vito ra domain ra {{www}} ra YouTube, loko xihlanganisi lexi tsindziyeriweke xi ri vito ra domain leri fanaka naswona ndlela yi sungula hi {{watch}} kumbe {{shorts}}, kutani thebhu leyintshwa tluka leri nga exineneni ri ta va Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Ku lulamisiwa ka misava hinkwayo"
+  }
+}

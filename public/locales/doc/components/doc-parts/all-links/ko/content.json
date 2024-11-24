@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "모든 링크",
+    "checkedUseSetting": "이 설정을 활성화하려면 선택하세요.",
+    "excludeDomains": "제외할 도메인 이름을 추가하세요. 한 번에 하나의 도메인 이름만 추가할 수 있습니다.",
+    "seeExcludeExamplesLink": "예",
+    "exclude": {
+      "example": {
+        "domain": "<code>{{url}}</code>과 같은 도메인 이름을 추가하여 전체 도메인 이름을 제외할 수 있습니다.",
+        "url": "<code>{{url}}</code>과 같은 링크를 추가하여 특정 링크를 제외할 수 있습니다.",
+        "glob": "퍼지 일치를 위해 <code>{{minimatch}}</code>와 같은 {{glob}} 패턴을 추가할 수 있습니다."
+      }
+    }
+  },
+  "menu": {
+    "main": "모든 링크"
+  }
+}

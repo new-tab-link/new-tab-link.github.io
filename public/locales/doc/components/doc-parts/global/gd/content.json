@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Suidhichidhean cruinne",
+    "checkedUseSetting": "Dèan cinnteach gus an suidheachadh seo a chomasachadh.",
+    "excludeDomains": "Cuir ainmean-fearainn a-steach gus nach tèid ach aon ainm àrainn a chur ris aig aon àm.",
+    "seeExcludeExamplesLink": "eisimpleir",
+    "exclude": {
+      "example": {
+        "domain": "'S urrainn dhut ainm àrainn a chur ris, mar <code>{{url}}</code>, gus an t-ainm àrainn gu lèir a thoirmeasg.",
+        "url": "'S urrainn dhut ceanglaichean sònraichte a thoirmeasg le bhith a' cur ceangal ris, mar <code>{{url}}</code>.",
+        "glob": "'S urrainn dhut pàtran {{glob}} a chur ris, mar <code>{{minimatch}}</code>, airson a bhith a' maidseadh fuzzy."
+      }
+    },
+    "script": "Faodaidh tu cuideachd sgriobtaichean js a chleachdadh gus smachd nas ionnsaichte fhaighinn.",
+    "checkedUseScript": "Co-dhiù an cuir thu an sgriobt agad an comas, thoir an aire gum feum thu sùil a thoirt air an dà bhogsa aig an aon àm gus an sgriobt a chomasachadh.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Air an làrach-lìn {{youtube}} an-dràsta, feumaidh tu duilleag {{watch}} no {{shorts}} {{youtube}} fhosgladh ann an taba ùr.",
+        "introVariables": "Ro-ràdh caochladairean",
+        "page": ": 'S e an caochladair cuspair URL na duilleige-lìn làithreach. Airson mion-fhiosrachadh, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Feuch</a>",
+        "pageHost": ": Ainm àrainn na duilleige lìn làithreach",
+        "isSameSubDomain": "{{isSameSubDomain}}: An aon ainm àrainn. teaghlaicheanSubDomain}} fa leth.",
+        "click": ": an ceangal a chaidh a bhriogadh",
+        "clickpath": ": Slighe a’ cheangail a chaidh a bhriogadh",
+        "minimatch": ": {{glob}} modh maidsidh, a' cleachdadh an leabharlainn {{minimatch}}, an dòigh cleachdaidh <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'> Feuch Faic</a>, no 's urrainn dhut lorg mar a chleachdas tu {{glob}}.",
+        "rightTab": ": Tha an ceangal a' fosgladh ann an taba ùr air an taobh dheas",
+        "wholeCode": "Is e brìgh a’ chòd gu lèir gu bheil sin air duilleag ainm fearainn {{www}} YouTube an-dràsta, mas e an aon ainm àrainn a th’ anns a’ cheangal a chaidh a bhriogadh agus gu bheil an t-slighe a’ tòiseachadh le {{watch}} no {{shorts}}, an uairsin an taba ùr bidh an duilleag air an taobh dheas fosgailte."
+      }
+    }
+  },
+  "menu": {
+    "main": "Suidheachadh cruinne"
+  }
+}

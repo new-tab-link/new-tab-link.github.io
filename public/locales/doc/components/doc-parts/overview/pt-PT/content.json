@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Visão geral da extensão Link aberto com",
+    "description": "<p>Esta extensão permite controlar convenientemente a forma como as hiperligações são abertas.</p><p>Janela: outros browsers, janelas pop-up, novas janelas, novas janelas anónimas, janela actual (padrão)</p> <p > Separadores: esquerda do separador atual, separador atual, direita do separador atual (padrão)</p><p>Estado de ativação: inativo, ativar imediatamente (padrão)</p>"
+  },
+  "menu": {
+    "main": "Visão geral"
+  }
+}

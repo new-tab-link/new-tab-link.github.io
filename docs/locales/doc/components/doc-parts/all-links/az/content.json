@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Bütün bağlantılar",
+    "checkedUseSetting": "Bu ayarı aktivləşdirmək üçün yoxlayın.",
+    "excludeDomains": "Xaric ediləcək domen adlarını əlavə edin.",
+    "seeExcludeExamplesLink": "Misal",
+    "exclude": {
+      "example": {
+        "domain": "Bütün domen adını istisna etmək üçün <code>{{url}}</code> kimi bir domen adı əlavə edə bilərsiniz.",
+        "url": "<code>{{url}}</code> kimi bir keçid əlavə etməklə xüsusi keçidləri istisna edə bilərsiniz.",
+        "glob": "Qeyri-səlis uyğunluq üçün <code>{{minimatch}}</code> kimi {{glob}} model əlavə edə bilərsiniz."
+      }
+    }
+  },
+  "menu": {
+    "main": "Bütün bağlantılar"
+  }
+}

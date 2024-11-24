@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Mga pandaigdigang setting",
+    "checkedUseSetting": "Lagyan ng check upang paganahin ang setting na ito.",
+    "excludeDomains": "Magdagdag ng mga domain name na ibubukod. Isang domain name lang ang maaaring idagdag sa isang pagkakataon.",
+    "seeExcludeExamplesLink": "Halimbawa",
+    "exclude": {
+      "example": {
+        "domain": "Maaari kang magdagdag ng domain name, gaya ng <code>{{url}}</code>, upang ibukod ang buong domain name.",
+        "url": "Maaari mong ibukod ang mga partikular na link sa pamamagitan ng pagdaragdag ng link, gaya ng <code>{{url}}</code>.",
+        "glob": "Maaari kang magdagdag ng pattern ng {{glob}}, gaya ng <code>{{minimatch}}</code>, para sa malabo na pagtutugma."
+      }
+    },
+    "script": "Maaari ka ring gumamit ng mga js script para makamit ang mas sopistikadong kontrol.",
+    "checkedUseScript": "Kung paganahin ang iyong script, tandaan na kailangan mong lagyan ng tsek ang parehong mga kahon sa parehong oras upang paganahin ang script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Sa kasalukuyan sa website ng {{youtube}}, kailangan mong buksan ang pahina ng {{youtube}} o {{shorts}} sa isang bagong tab.",
+        "introVariables": "Panimula sa mga variable",
+        "page": ": Ang variable ay ang URL object ng kasalukuyang web page Para sa mga detalye, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Pakitingnan</a >",
+        "pageHost": ": Ang domain name ng kasalukuyang web page",
+        "isSameSubDomain": "{{isSameSubDomain}}: Ang parehong domain name ay tandaan na bagama't ang mga pangunahing domain name ng {{youtube}} at {{families}} ay parehong {{mainDomain}}, ang mga subdomain name ay {{youtubeSubDomain}} at {{ familiesSubDomain}} kaya magkaiba ang kanilang mga domain name.",
+        "click": ": ang link na na-click",
+        "clickpath": ": Ang landas ng na-click na link",
+        "minimatch": ": {{glob}} na paraan ng pagtutugma, gamit ang {{minimatch}} library, ang paraan ng paggamit <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Pakiusap Tingnan</a>, o maaari mong hanapin kung paano gamitin ang {{glob}}.",
+        "rightTab": ": Ang link ay bubukas sa isang bagong tab sa kanan",
+        "wholeCode": "Ang kahulugan ng buong code ay kasalukuyang nasa {{www}} domain name page ng YouTube, kung ang na-click na link ay parehong domain name at ang path ay nagsisimula sa {{watch}} o {{shorts}}, pagkatapos ay ang bagong tab magiging Bukas ang pahina sa kanan."
+      }
+    }
+  },
+  "menu": {
+    "main": "Pandaigdigang pagsasaayos"
+  }
+}

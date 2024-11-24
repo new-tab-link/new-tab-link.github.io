@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Arventennoù hollek",
+    "checkedUseSetting": "Gwiriit evit gweredekaat an arventennoù-mañ.",
+    "excludeDomains": "Ouzhpennañ anvioù domani da vezañ skarzhet.",
+    "seeExcludeExamplesLink": "Skouer",
+    "exclude": {
+      "example": {
+        "domain": "Gallout a rit ouzhpennañ un anv domani, evel <code>{{url}}</code>, evit dilemel an anv domani a-bezh.",
+        "url": "Gallout a rit dilemel liammoù resis en ur ouzhpennañ ul liamm, evel <code>{{url}}</code>.",
+        "glob": "Gallout a rit ouzhpennañ ur patrom {{glob}}, evel <code>{{minimatch}}</code>, evit ar c'hefluniadur displann."
+      }
+    },
+    "script": "Gallout a rit implijout skriptoù js ivez evit tizhout ur c'hontrol sofistiketoc'h.",
+    "checkedUseScript": "Mar fell deoc'h gweredekaat ho skript, notit e rankit merkañ an daou voest war un dro evit gweredekaat ar skript.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "War lec'hienn {{youtube}} bremañ, ret eo deoc'h digeriñ pajenn {{sellet}} pe {{shorts}} {{youtube}} en un ivinell nevez.",
+        "introVariables": "Digoradur d'an argemmennoù",
+        "page": ": An argemmenn eo an ergorenn URL eus ar bajenn genrouedad bremanel. Gwelet</a > mar plij",
+        "pageHost": ": Anv domani ar bajenn Genrouedad bremanel",
+        "isSameSubDomain": "{{isSameSubDomain}}: An hevelep anv domani. familysSubDomain}} hervez an urzh. Disheñvel eo o anvioù domani.",
+        "click": ": al liamm a oa bet kliket",
+        "clickpath": ": Hent al liamm kliket",
+        "minimatch": ": {{glob}} doare keñveriañ, gant al levraoueg {{minimatch}}, an doare implij <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Mar plij Sellit</a>, pe e c'hallit klask penaos implijout {{glob}}.",
+        "rightTab": ": Al liamm a zigor en un ivinell nevez a-zehoù",
+        "wholeCode": "Ster ar c'hod a-bezh eo e pajenn anv domani {{www}} YouTube, ma'z eo al liamm kliket war an hevelep anv domani ha ma krog an hent gant {{watch}} pe {{shorts}}, neuze e vo lakaet an ivinell nevez digor e vo ar bajenn a-zehoù."
+      }
+    }
+  },
+  "menu": {
+    "main": "Kefluniadur hollek"
+  }
+}

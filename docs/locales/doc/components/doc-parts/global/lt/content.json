@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Visuotiniai nustatymai",
+    "checkedUseSetting": "Pažymėkite, kad įjungtumėte šį nustatymą.",
+    "excludeDomains": "Pridėti domeno vardus, kuriuos norite išskirti, vienu metu galima pridėti tik vieną.",
+    "seeExcludeExamplesLink": "Pavyzdys",
+    "exclude": {
+      "example": {
+        "domain": "Galite pridėti domeno pavadinimą, pvz., <code>{{url}}</code>, kad neįtrauktumėte viso domeno pavadinimo.",
+        "url": "Galite išskirti konkrečias nuorodas pridėję nuorodą, pvz., <code>{{url}}</code>.",
+        "glob": "Galite pridėti {{glob}} šabloną, pvz., <code>{{minimatch}}</code>, kad atitiktumėte neaiškią atitiktį."
+      }
+    },
+    "script": "Taip pat galite naudoti js scenarijus, kad pasiektumėte sudėtingesnį valdymą.",
+    "checkedUseScript": "Nesvarbu, ar įgalinti scenarijų, atminkite, kad vienu metu turite pažymėti abu langelius, kad įgalintumėte scenarijų.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Šiuo metu {{youtube}} svetainėje turite atidaryti {{youtube}} {{watch}} arba {{shorts}} puslapį naujame skirtuke.",
+        "introVariables": "Įvadas į kintamuosius",
+        "page": ": kintamasis yra dabartinio tinklalapio URL objektas Norėdami gauti daugiau informacijos, žr. <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Žr.</a>",
+        "pageHost": ": dabartinio tinklalapio domeno pavadinimas",
+        "isSameSubDomain": "{{isSameSubDomain}}: tas pats domeno pavadinimas, nors pagrindiniai {{youtube}} ir {{families}} domenų pavadinimai yra {{mainDomain}}, padomenių pavadinimai yra {{youtubeSubDomain}} ir {{. FamilySubDomain}}, todėl jų domenų pavadinimai skiriasi.",
+        "click": ": nuoroda, kuri buvo paspausta",
+        "clickpath": ": Paspaustos nuorodos kelias",
+        "minimatch": ": {{glob}} atitikties metodas, naudojant {{minimatch}} biblioteką, naudojimo metodą <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Prašome Žr.</a> arba galite ieškoti, kaip naudoti {{glob}}.",
+        "rightTab": ": nuoroda atidaroma naujame skirtuke dešinėje",
+        "wholeCode": "Viso kodo reikšmė yra ta, kad šiuo metu „YouTube“ {{www}} domeno vardo puslapyje, jei spustelėta nuoroda yra tas pats domeno pavadinimas ir kelias prasideda {{watch}} arba {{shorts}}, tada naujas skirtukas puslapis dešinėje bus Atidarytas."
+      }
+    }
+  },
+  "menu": {
+    "main": "Visuotinė konfigūracija"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Links samma",
+    "checkedUseSetting": "Kulasne setting adəga yitagattəgəro.",
+    "excludeDomains": "Su domainbe yiradə shima Su domainbe faldəma loktu fallan kəltəyin.",
+    "seeExcludeExamplesLink": "Misal",
+    "exclude": {
+      "example": {
+        "domain": "Raktə su korkorbe yiramin, misallo <code>{{url}}</code>, su korkorbe sammaso surodən gənatəyin.",
+        "url": "Raktə kəltəram laa taganasbe surodən gənatəyin, misallo <code>{{url}}</code>.",
+        "glob": "Rangnəm futu {{glob}} yiramin, misallo <code>{{saməntə gana}}</code>, saməntə fuzzybe nankaro."
+      }
+    }
+  },
+  "menu": {
+    "main": "Links samma"
+  }
+}

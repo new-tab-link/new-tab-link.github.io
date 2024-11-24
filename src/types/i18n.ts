@@ -1,5 +1,6 @@
 
 import "i18next";
+import type doc__components__doc___parts__all___links from '../../i18n-raw/origin/components/doc-parts/all-links/content.json'
 import type doc__components__doc___parts__global from '../../i18n-raw/origin/components/doc-parts/global/content.json'
 import type doc__components__doc___parts__overview from '../../i18n-raw/origin/components/doc-parts/overview/content.json'
 import type doc__components__doc___parts__variables from '../../i18n-raw/origin/components/doc-parts/variables/content.json'
@@ -11,6 +12,7 @@ import type doc__pages__about from '../../i18n-raw/origin/pages/about/content.js
 declare module 'i18next' {
   interface CustomTypeOptions {
     resources: {
+      ["doc/components/doc-parts/all-links/content"]: typeof doc__components__doc___parts__all___links,
       ["doc/components/doc-parts/global/content"]: typeof doc__components__doc___parts__global,
       ["doc/components/doc-parts/overview/content"]: typeof doc__components__doc___parts__overview,
       ["doc/components/doc-parts/variables/content"]: typeof doc__components__doc___parts__variables,

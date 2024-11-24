@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globale instellings",
+    "checkedUseSetting": "Merk om hierdie instelling te aktiveer.",
+    "excludeDomains": "Voeg domeinname by om uitgesluit te word Slegs een domeinnaam kan op 'n slag bygevoeg word.",
+    "seeExcludeExamplesLink": "Voorbeeld",
+    "exclude": {
+      "example": {
+        "domain": "Jy kan 'n domeinnaam byvoeg, soos <code>{{url}}</code>, om die hele domeinnaam uit te sluit.",
+        "url": "Jy kan spesifieke skakels uitsluit deur 'n skakel by te voeg, soos <code>{{url}}</code>.",
+        "glob": "Jy kan 'n {{glob}}-patroon byvoeg, soos <code>{{minimatch}}</code>, vir fuzzy passing."
+      }
+    },
+    "script": "Jy kan ook js-skrifte gebruik om meer gesofistikeerde beheer te verkry.",
+    "checkedUseScript": "Of jy jou skrip wil aktiveer, let daarop dat jy albei blokkies gelyktydig moet merk om die skrip te aktiveer.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Tans op die {{youtube}}-webwerf, moet jy {{youtube}} se {{watch}} of {{shorts}}-bladsy in 'n nuwe oortjie oopmaak.",
+        "introVariables": "Inleiding tot veranderlikes",
+        "page": ": Die veranderlike is die URL-objek van die huidige webblad Vir besonderhede, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Sien asseblief</a >",
+        "pageHost": ": Die domeinnaam van die huidige webblad",
+        "isSameSubDomain": "{{isSameSubDomain}}: Dieselfde domeinnaam Let daarop dat alhoewel die hoofdomeinname van {{youtube}} en {{families}} beide {{mainDomain}} is, is die subdomeinname {{youtubeSubDomain}} en {{. familiesSubDomain}} onderskeidelik Dus hul domeinname verskil.",
+        "click": ": die skakel wat geklik is",
+        "clickpath": ": Die pad van die geklikte skakel",
+        "minimatch": ": {{glob}}-pasmetode, deur die {{minimatch}}-biblioteek te gebruik, die gebruiksmetode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>asseblief Sien</a>, of jy kan soek hoe om {{glob}} te gebruik.",
+        "rightTab": ": Die skakel maak in 'n nuwe oortjie aan die regterkant oop",
+        "wholeCode": "Die betekenis van die hele kode is dat tans in YouTube se {{www}} domeinnaambladsy, as die geklikte skakel dieselfde domeinnaam is en die pad begin met {{watch}} of {{kortbroek}}, dan die nuwe oortjie bladsy aan die regterkant sal oop wees."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globale konfigurasie"
+  }
+}

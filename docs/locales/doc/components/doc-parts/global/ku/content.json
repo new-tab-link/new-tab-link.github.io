@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Mîhengên gerdûnî",
+    "checkedUseSetting": "Ji bo çalakkirina vê mîhengê kontrol bikin.",
+    "excludeDomains": "Navên domainê lê zêde bikin ku werin derxistin Tenê yek navek domain dikare were zêdekirin.",
+    "seeExcludeExamplesLink": "Mînak",
+    "exclude": {
+      "example": {
+        "domain": "Hûn dikarin navek domainê lê zêde bikin, wekî <code>{{url}}</code>, da ku tevahiya navê domainê derxînin.",
+        "url": "Hûn dikarin lînkên taybetî bi lêzêdekirina lînkê derxin, wek <code>{{url}}</code>.",
+        "glob": "Hûn dikarin nimûneyeke {{glob}}, wek <code>{{minimatch}}</code>, ji bo lihevhatina nezelal lê zêde bikin."
+      }
+    },
+    "script": "Her weha hûn dikarin nivîsarên js-ê bikar bînin da ku bigihîjin kontrolek sofîstîke.",
+    "checkedUseScript": "Ma hûn skrîpta xwe çalak bikin, bala xwe bidin ku hûn hewce ne ku her du qutiyan di heman demê de kontrol bikin da ku skrîptê çalak bikin.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Niha li ser malpera {{youtube}}, divê hûn rûpela {{temaşekirin}} an jî {{kurte}} ya {{youtube}} di tabloyek nû de vekin.",
+        "introVariables": "Destpêka guherbaran",
+        "page": ": Guherbar objeya URL ya malpera heyî ye Ji bo hûragahiyan, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Ji kerema xwe bibînin</a >",
+        "pageHost": ": Navê domaina malpera heyî",
+        "isSameSubDomain": "{{isSameSubDomain}}: Navê heman domainê Bala xwe bidinê ku her çend navên serekî yên {{youtube}} û {{malbatan}} her du jî {{mainDomain}} bin, navên jêrdomain {{youtubeSubDomain}} û {{{{ FamilySubDomain}} bi rêzê ve ji ber vê yekê navên domainê wan cuda ne.",
+        "click": ": lînka ku hat tikandin",
+        "clickpath": ": Rêya lînka kilkirî",
+        "minimatch": ": {{glob}} rêbaza hevberdanê, bi kar anîna pirtûkxaneya {{minimatch}}, rêbaza bikaranînê <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ji kerema xwe re Binêre</a>, yan jî tu dikarî li çawaniya bikaranîna {{glob}} bigerî.",
+        "rightTab": ": Girêdan di tabloyek nû ya rastê de vedibe",
+        "wholeCode": "Wateya tevahiya kodê ev e ku niha di rûpela navê domainê ya {{www}} ya YouTube-ê de ye, ger zencîreya hatî klîk kirin heman navê domainê be û rê bi {{temaşekirin}} an jî {{kurte}} dest pê bike, wê hingê tabloya nû. rûpela li rastê dê vekirî be."
+      }
+    }
+  },
+  "menu": {
+    "main": "Veavakirina gerdûnî"
+  }
+}

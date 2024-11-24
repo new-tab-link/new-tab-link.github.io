@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Visas saites",
+    "checkedUseSetting": "Atzīmējiet, lai iespējotu šo iestatījumu.",
+    "excludeDomains": "Pievienojiet izslēdzamus domēna vārdus. Vienlaikus var pievienot tikai vienu domēna nosaukumu.",
+    "seeExcludeExamplesLink": "Piemērs",
+    "exclude": {
+      "example": {
+        "domain": "Varat pievienot domēna nosaukumu, piemēram, <code>{{url}}</code>, lai izslēgtu visu domēna nosaukumu.",
+        "url": "Varat izslēgt konkrētas saites, pievienojot saiti, piemēram, <code>{{url}}</code>.",
+        "glob": "Varat pievienot {{glob}} modeli, piemēram, <code>{{minimatch}}</code>, lai nodrošinātu neskaidru atbilstību."
+      }
+    }
+  },
+  "menu": {
+    "main": "Visas saites"
+  }
+}

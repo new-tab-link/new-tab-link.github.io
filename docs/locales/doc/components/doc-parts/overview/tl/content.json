@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Pangkalahatang-ideya ng Link Open With extension",
+    "description": "<p>Binibigyang-daan ka ng extension na ito na maginhawang kontrolin kung paano binubuksan ang mga hyperlink.</p><p>Window: iba pang browser, pop-up window, bagong window, bagong incognito window, kasalukuyang window (default)</p> <p >Mga Tab: kaliwa ng kasalukuyang tab, kasalukuyang tab, kanan ng kasalukuyang tab (default)</p><p>Status ng pag-activate: hindi aktibo, i-activate kaagad (default)</p>"
+  },
+  "menu": {
+    "main": "Pangkalahatang-ideya"
+  }
+}

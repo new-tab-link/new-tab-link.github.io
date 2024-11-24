@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Baparametre ya ntoto ya mvimba",
+    "checkedUseSetting": "Tala sambu na kupesa nzila na parametre yai.",
+    "excludeDomains": "Yika bazina ya domaine yina fwete katuka Zina mosi mpamba ya domaine lenda yikama na mbala mosi.",
+    "seeExcludeExamplesLink": "Mbandu",
+    "exclude": {
+      "example": {
+        "domain": "Nge lenda yika zina ya kisika, bonso <code>{{url}}</code>, sambu na kukatula zina ya kisika ya mvimba.",
+        "url": "Nge lenda katula ba nzila ya sikisiki na kuyikaka nzila mosi, bonso <code>{{url}}</code>.",
+        "glob": "Nge lenda yika mbandu {{glob}}, bonso <kode>{{kufwanana ya fioti}}</kode>, sambu na kuwakana ya kukonda kuzaba."
+      }
+    },
+    "script": "Nge lenda sadila mpi ba script ya js sambu na kulungisa kiyeka ya kuluta mbote.",
+    "checkedUseScript": "Kana nge ke zola kukangula script na nge, zaba nde nge fwete tula bidimbu na bisika yonso zole na ntangu mosi sambu na kukangula script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Na ntangu yai na site internet {{youtube}}, nge fwete kangula {{tala}} to {{bafilme ya nkufi}} ya {{youtube}} na kisika mosi ya mpa.",
+        "introVariables": "Kukota na mambu ya ke sobaka",
+        "page": ": Kima ya ke sobaka kele kima ya URL ya lutiti ya internet ya ntangu yai Sambu na kuzaba mambu mingi, <a href='_blank' rel='norererrer'>. Tala</a >",
+        "pageHost": ": Zina ya kisika ya lutiti ya Internet ya sesepi",
+        "isSameSubDomain": "{{isSameSubDomain}}: Zina ya kisika mosi Zaba nde ata bazina ya kisika ya nene ya {{youtube}} ti {{mabuta}} kele yonso zole {{Kisika yaNtete}}, bazina ya kisika ya fioti kele {{Kisika yaNtete}} ti {{. mabutaSubDomain}} na kulandana Yo yina bazina na bo ya domaine kele ya kuswaswana.",
+        "click": ": lien yina bo me niema",
+        "clickpath": ": Nzila ya lien yina bo me niema",
+        "minimatch": ": mutindu ya kufwanana ya {{glob}}, na kusadilaka biblioteke ya {{minimatch}}, mutindu ya kusadila <a href=' Tala</a>, to nge lenda sosa mpila ya kusadila {{glob}}.",
+        "rightTab": ": Lien ke kanguka na tab ya mpa na diboko ya kitata .",
+        "wholeCode": "Ntendula ya kode ya mvimba kele nde ntangu yai na lutiti ya zina ya domaine {{www}} ya YouTube, kana lien yina nge me niema kele zina ya domaine mosi mpi nzila ke yantika na {{tala}} to {{shorts}}, pana tab ya mpa . lutiti yina kele na diboko ya kitata ta vanda Kukangula."
+      }
+    }
+  },
+  "menu": {
+    "main": "Kuyidika ya ntoto ya mvimba"
+  }
+}

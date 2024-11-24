@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globalne nastavitve",
+    "checkedUseSetting": "Označite, da omogočite to nastavitev.",
+    "excludeDomains": "Dodajte imena domen, ki jih želite izključiti.",
+    "seeExcludeExamplesLink": "Primer",
+    "exclude": {
+      "example": {
+        "domain": "Dodate lahko ime domene, na primer <code>{{url}}</code>, da izključite celotno ime domene.",
+        "url": "Določene povezave lahko izključite tako, da dodate povezavo, na primer <code>{{url}}</code>.",
+        "glob": "Dodate lahko vzorec {{glob}}, kot je <code>{{minimatch}}</code>, za mehko ujemanje."
+      }
+    },
+    "script": "Za bolj izpopolnjen nadzor lahko uporabite tudi skripte js.",
+    "checkedUseScript": "Če želite omogočiti skript, upoštevajte, da morate potrditi obe polji hkrati, da omogočite skript.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Trenutno na spletnem mestu {{youtube}} morate odpreti {{watch}} ali {{shorts}} stran {{youtube}} v novem zavihku.",
+        "introVariables": "Uvod v spremenljivke",
+        "page": ": Spremenljivka je predmet URL trenutne spletne strani. Za podrobnosti <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Poglejte</a >",
+        "pageHost": ": ime domene trenutne spletne strani",
+        "isSameSubDomain": "{{isSameSubDomain}}: Upoštevajte, da sta glavni imeni domen {{youtube}} in {{families}} {{mainDomain}}, imeni poddomen {{youtubeSubDomain}} in {{. FamilySubDomain}} torej so njihova imena domen drugačna.",
+        "click": ": povezava, ki je bila kliknjena",
+        "clickpath": ": Pot kliknjene povezave",
+        "minimatch": ": metoda ujemanja {{glob}}, uporaba knjižnice {{minimatch}}, metoda uporabe <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Prosimo Glejte</a> ali pa poiščite, kako uporabljati {{glob}}.",
+        "rightTab": ": povezava se odpre v novem zavihku na desni",
+        "wholeCode": "Pomen celotne kode je, da trenutno na YouTubovi strani z imenom domene {{www}}, če je kliknjena povezava isto ime domene in se pot začne z {{watch}} ali {{shorts}}, potem nov zavihek stran na desni bo odprta."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globalna konfiguracija"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Ezarpen globalak",
+    "checkedUseSetting": "Egiaztatu ezarpen hau gaitzeko.",
+    "excludeDomains": "Gehitu baztertu beharreko domeinu-izenak. Domeinu-izen bakarra gehitu daiteke aldi berean.",
+    "seeExcludeExamplesLink": "Adibidea",
+    "exclude": {
+      "example": {
+        "domain": "Domeinu-izen bat gehi dezakezu, adibidez, <code>{{url}}</code>, domeinu-izen osoa baztertzeko.",
+        "url": "Esteka zehatzak bazter ditzakezu esteka bat gehituz, adibidez, <code>{{url}}</code>.",
+        "glob": "{{glob}} eredu bat gehi dezakezu, adibidez, <code>{{minimatch}}</code>, parekatze lausoa izateko."
+      }
+    },
+    "script": "Js script-ak ere erabil ditzakezu kontrol sofistikatuagoa lortzeko.",
+    "checkedUseScript": "Zure scripta gaitu ala ez, kontuan izan bi laukitxoak aldi berean markatu behar dituzula scripta gaitzeko.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Une honetan {{youtube}} webgunean, {{youtube}} erabiltzailearen {{watch}} edo {{labur laburrak}} orria fitxa berri batean ireki behar duzu.",
+        "introVariables": "Aldagaien sarrera",
+        "page": ": aldagaia uneko web orriaren URL objektua da Xehetasunetarako, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Mesedez, ikusi</a >",
+        "pageHost": ": Uneko web orriaren domeinu-izena",
+        "isSameSubDomain": "{{isSameSubDomain}}: domeinu-izen bera {{youtube}} eta {{families}} domeinu-izen nagusiak {{mainDomain}} izan arren, azpidomeinu-izenak {{youtubeSubDomain}} eta {{ dira. familiesSubDomain}} hurrenez hurren Beraz, haien domeinu-izenak desberdinak dira.",
+        "click": ": klik egin den esteka",
+        "clickpath": ": klikatutako estekaren bidea",
+        "minimatch": ": {{glob}} bat etortzeko metodoa, {{minimatch}} liburutegia erabiliz, erabilera metodoa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Mesedez Ikusi</a>, edo {{glob}} nola erabili bila dezakezu.",
+        "rightTab": ": Esteka eskuineko fitxa berri batean irekiko da",
+        "wholeCode": "Kode osoaren esanahia hauxe da: une honetan YouTube-ren {{www}} domeinu-izen orrian, klikatutako esteka domeinu-izen bera bada eta bidea {{watch}} edo {{laburtzak}}-rekin hasten bada, orduan fitxa berria eskuineko orrialdea Ireki izango da."
+      }
+    }
+  },
+  "menu": {
+    "main": "Konfigurazio globala"
+  }
+}

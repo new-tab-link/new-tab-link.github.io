@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Yfirlit yfir Link Open With viðbótina",
+    "description": "<p>Þessi viðbót gerir þér kleift að stjórna á þægilegan hátt hvernig tenglar eru opnaðir.</p><p>Gluggi: aðrir vafrar, sprettigluggar, nýir gluggar, nýir huliðsgluggar, núverandi gluggi (sjálfgefinn)</p> <p >Flipar: vinstri við núverandi flipa, núverandi flipa, hægri við núverandi flipa (sjálfgefið)</p><p>Virkjastaða: óvirk, virkja strax (sjálfgefið)</p>"
+  },
+  "menu": {
+    "main": "Yfirlit"
+  }
+}

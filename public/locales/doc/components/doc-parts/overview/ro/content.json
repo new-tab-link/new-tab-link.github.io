@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Prezentare generală a extensiei Link Open With",
+    "description": "<p>Această extensie vă permite să controlați convenabil modul în care sunt deschise hyperlinkurile.</p><p>Fereastră: alte browsere, ferestre pop-up, ferestre noi, ferestre incognito noi, fereastra curentă (implicit)</p> <p >File: stânga filei curente, fila curentă, dreapta filei curente (implicit)</p><p>Starea de activare: inactiv, activați imediat (implicit)</p>"
+  },
+  "menu": {
+    "main": "Prezentare generală"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "All links",
+    "checkedUseSetting": "Tarisa kuti ugone kuseta iyi.",
+    "excludeDomains": "Wedzera mazita emadomasi kuti arege kubatanidzwa.",
+    "seeExcludeExamplesLink": "Muenzaniso",
+    "exclude": {
+      "example": {
+        "domain": "Unogona kuwedzera zita redomeini, sekuti <code>{{url}}</code>, kusasanganisa zita redomeini rese.",
+        "url": "Unogona kusabatanidza mamwe malink nekuwedzera chinongedzo, senge <code>{{url}}</code>.",
+        "glob": "Unogona kuwedzera {{glob}} patani, senge <code>{{minimatch}}</code>, kuitira kuenzanisa kusinganzwisisike."
+      }
+    }
+  },
+  "menu": {
+    "main": "All links"
+  }
+}

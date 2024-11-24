@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ülevaade linkist Ava laiendiga",
+    "description": "<p>See laiendus võimaldab teil mugavalt juhtida hüperlinkide avamist.</p><p>Aken: muud brauserid, hüpikaknad, uued aknad, uued inkognito aknad, praegune aken (vaikimisi)</p> <p >Vahekaardid: praegusest vahekaardist vasak, praegune vahekaart, praegusest vahekaardist paremal (vaikimisi)</p><p>Aktiveerimisolek: passiivne, aktiveeri kohe (vaikeseade)</p>"
+  },
+  "menu": {
+    "main": "Ülevaade"
+  }
+}

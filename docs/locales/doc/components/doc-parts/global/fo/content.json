@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Alheims innstillingar",
+    "checkedUseSetting": "Kanna fyri at virkja hesa innstillingina.",
+    "excludeDomains": "Legg økisnøvn til, sum skulu útihýsast Bert eitt økisnavn kann leggjast til í senn.",
+    "seeExcludeExamplesLink": "Dømi",
+    "exclude": {
+      "example": {
+        "domain": "Tú kanst leggja eitt økisnavn til, so sum <koda>{{url}}</koda>, fyri at útihýsa øllum økisnavninum.",
+        "url": "Tú kanst útihýsa ávísum leinkjum við at leggja leinkju til, so sum <code>{{url}}</code>.",
+        "glob": "Tú kanst leggja eitt {{glob}} mynstur til, so sum <koda>{{minmatch}}</koda>, til týðiliga samsvar."
+      }
+    },
+    "script": "Tú kanst eisini brúka js scripts til at fáa meira sofistikerad stýring.",
+    "checkedUseScript": "Um tú skalt virkja títt skrift, skalt tú leggja til merkis, at tú skalt merkja báðar teigarnar samstundis fyri at virkja skriftina.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Í løtuni á heimasíðuni hjá {{youtube}}, mást tú lata {{hyggja}} ella {{stuttfilmar}} síðuna upp í einum nýggjum flipa.",
+        "introVariables": "Inngangur í breytir .",
+        "page": ": Breytin er URL-objektið á verandi vevsíðu Fyri nærri upplýsingar, <a href='https://mennari. Vinarliga sí</a >",
+        "pageHost": ": Økisnavnið á verandi heimasíðu",
+        "isSameSubDomain": "{{isSameSubDomain}}: Sama økisnavn Legg til merkis, at hóast høvuðsøkisnøvnini hjá {{youtube}} og {{familjur}} eru bæði {{mainDomain}}, so eru undirøkisnøvnini {{youtubeSubDomain}} og {{. familiesSubDomain}} ávikavist So teirra økisnøvn eru ymisk.",
+        "click": ": leinkjan, sum varð trýst á",
+        "clickpath": ": Slóðin til klikkaðu leinkjuna",
+        "minimatch": ": {{glob}} samsvarandi háttur, við at brúka {{minimatch}} bókasavnið, nýtsluhátturin <a href='https://github.com/isaacs/minimatch' mark='_tómt' rel='norereferrer'>Vinarliga Sí</a>, ella tú kanst leita eftir hvussu tú brúkar {{glob}}.",
+        "rightTab": ": Leinkjan letur upp í einum nýggjum flipa til høgru",
+        "wholeCode": "Týdningurin av allari kodini er, at í løtuni á {{www}} økisnavnasíðuni hjá YouTube, um klikkaða leinkjan er sama økisnavn og leiðin byrjar við {{watch}} ella {{shorts}}, so er nýggi flipin síðu til høgru verður Opið."
+      }
+    }
+  },
+  "menu": {
+    "main": "Alheims uppseting"
+  }
+}

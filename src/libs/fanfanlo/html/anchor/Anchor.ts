@@ -2,6 +2,8 @@ import { autobind } from "core-decorators";
 import { Log } from "../../log";
 import { IAnchor } from "./IAnchor";
 import { ISyncExternalStore, SyncExternalStore } from "../../react/hooks/externalstore/SyncExternalStore";
+import { atom } from "jotai";
+import { store } from "../../jotai/store";
 
 const lg = new Log(false, 'Anchor')
 lg.pause = true
@@ -19,12 +21,13 @@ export class Anchor implements IAnchor, IAnchorData{
             animationTriggered:this._animationTriggered
         }
     }
+    anchorStore?:ISyncExternalStore<IAnchorData|undefined>
     private _laterId:number = -1
     private _anchor:string = ''
-    anchorStore?:ISyncExternalStore<IAnchorData|undefined>
     get anchor(){
         return this._anchor
     }
+    readonly atomAnchor = atom('')
     setAnchorComplete = false
     private _setAnchorTime:number = 0
     private _animationTriggered:boolean = false
@@ -46,7 +49,7 @@ export class Anchor implements IAnchor, IAnchorData{
             }, 100 * 1);
             return;
         }
-        elem.scrollIntoView({behavior:"smooth", block:"center"})
+        elem.scrollIntoView({behavior:"smooth", block:"start"})
         setTimeout(() => {
             this.setHash(anchor)
             // window.location.hash = anchor
@@ -72,6 +75,7 @@ export class Anchor implements IAnchor, IAnchorData{
     }
     setAnchor(anchor:string){
         this._anchor = anchor
+        store.set(this.atomAnchor, anchor)
         this.animationTriggered = false
         this.setAnchorComplete = false
         this.anchorStore?.updateSnapshot(this.getData())

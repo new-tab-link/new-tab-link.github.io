@@ -7,7 +7,7 @@ import { PropsWithChildren, useEffect, useRef, useSyncExternalStore } from "reac
 export function AnchorAnimation({anchor, children}:{anchor:string} & PropsWithChildren){
     const ref = useRef<HTMLDivElement>(null)
     const {anchor:anchorString, animationTriggered, setAnchorComplete} = indexModel.useAnchor()
-    console.log('anchorData23rrrccccddd=', anchorString,'animationTriggered', animationTriggered, 'setAnchorComplete', setAnchorComplete)
+    // console.log('anchorData23rrrccccddd=', anchorString,'animationTriggered', animationTriggered, 'setAnchorComplete', setAnchorComplete)
     const callback = useMemoizedFn((entry)=>{
         // console.log('entry=', entry)
         // console.log('radio=', radio)
@@ -16,7 +16,7 @@ export function AnchorAnimation({anchor, children}:{anchor:string} & PropsWithCh
         checkAnchor()
     })
     const [inViewport, radio] = useInViewport(ref, {callback})
-    
+    // console.log('anchor', anchor, 'inViewport', inViewport, 'radio', radio, 'same anchor', anchorString === anchor, anchor, anchorString)
     const checkAnchor = ()=>{
         // console.log('checkAnchor',indexModel.anchor.animationTriggered, inViewport, indexModel.anchor.anchor)
         if(indexModel.anchor.animationTriggered)return;
@@ -27,8 +27,11 @@ export function AnchorAnimation({anchor, children}:{anchor:string} & PropsWithCh
     }
     useEffect(()=>{
         if(!inViewport)return;
+        if(anchorString !== anchor)return;
+        if(animationTriggered)return;
+        if(setAnchorComplete)return;
         checkAnchor()
-    }, [inViewport])
+    }, [inViewport, anchor, anchorString, animationTriggered, setAnchorComplete])
     const [springs, api] = useSpring(() => ({
         from: {
           border: "2px solid rgba(255,0,0,0)", borderRadius:3 },

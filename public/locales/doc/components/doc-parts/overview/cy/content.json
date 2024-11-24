@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Trosolwg o'r Cyswllt Agor Gydag estyniad",
+    "description": "<p>Mae'r estyniad hwn yn eich galluogi i reoli'n gyfleus sut mae hypergysylltiadau'n cael eu hagor.</p><p>Ffenestr: porwyr eraill, ffenestri naid, ffenestri newydd, ffenestri anhysbys newydd, ffenestr gyfredol (rhagosodedig)</p> <p >Tabs: i'r chwith o'r tab cyfredol, tab cyfredol, i'r dde o'r tab cyfredol (rhagosodedig)</p><p>Statws actifadu: anactif, actifadu ar unwaith (rhagosodedig)</p>"
+  },
+  "menu": {
+    "main": "Trosolwg"
+  }
+}

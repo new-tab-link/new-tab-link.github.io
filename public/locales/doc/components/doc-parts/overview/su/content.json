@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Tinjauan Link Buka Jeung ekstensi",
+    "description": "<p>Ekstensi ieu ngidinan Anjeun pikeun gampang ngadalikeun kumaha hyperlink dibuka.</p><p>Jandela: browser séjén, jandéla pop-up, jandéla anyar, jandéla incognito anyar, jandéla ayeuna (standar)</p> <p >Tab: kénca ti tab ayeuna, tab ayeuna, katuhu tina tab ayeuna (standar)</p><p>Status aktivasina: teu aktip, langsung aktip (standar)</p>"
+  },
+  "menu": {
+    "main": "Tinjauan"
+  }
+}

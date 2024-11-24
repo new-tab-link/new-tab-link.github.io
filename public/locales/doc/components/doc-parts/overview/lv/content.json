@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Pārskats par saiti Atvērt ar paplašinājumu",
+    "description": "<p>Šis paplašinājums ļauj ērti kontrolēt, kā tiek atvērtas hipersaites.</p><p>Logs: citas pārlūkprogrammas, uznirstošie logi, jauni logi, jauni inkognito režīma logi, pašreizējais logs (noklusējums)</p> <p >Cilnes: pa kreisi no pašreizējās cilnes, pašreizējā cilne, pa labi no pašreizējās cilnes (noklusējums)</p><p>Aktivizācijas statuss: neaktīvs, aktivizēt nekavējoties (noklusējums)</p>"
+  },
+  "menu": {
+    "main": "Pārskats"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Allir tenglar",
+    "checkedUseSetting": "Hakaðu við til að virkja þessa stillingu.",
+    "excludeDomains": "Bættu við lénsheitum til að útiloka. Aðeins er hægt að bæta við einu léni í einu.",
+    "seeExcludeExamplesLink": "Dæmi",
+    "exclude": {
+      "example": {
+        "domain": "Þú getur bætt við lén, eins og <code>{{url}}</code>, til að útiloka allt lénið.",
+        "url": "Þú getur útilokað tiltekna tengla með því að bæta við tengli, eins og <code>{{url}}</code>.",
+        "glob": "Þú getur bætt við {{glob}} mynstri, eins og <code>{{minimatch}}</code>, fyrir óljósa samsvörun."
+      }
+    }
+  },
+  "menu": {
+    "main": "Allir tenglar"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Kadodowo katã",
+    "checkedUseSetting": "Kpɔe ɖa be nàwɔ ɖoɖo sia ŋudɔ.",
+    "excludeDomains": "Tsɔ domenyiŋkɔ siwo woaɖe ɖa kpee.",
+    "seeExcludeExamplesLink": "Kpɔɖeŋu",
+    "exclude": {
+      "example": {
+        "domain": "Àteŋu atsɔ domenyiŋkɔ akpe ɖe eŋu, abe <code>{{url}}</code> ene, be nàɖe domenyiŋkɔ bliboa ɖa.",
+        "url": "Àteŋu aɖe kadodo tɔxɛwo ɖa to kadodo aɖe tsɔtsɔ kpee me, abe <code>{{url}}</code> ene.",
+        "glob": "Àteŋu atsɔ {{glob}} ƒe kpɔɖeŋu, abe <code>{{minimatch}}</code>, akpe ɖe eŋu hena wɔwɔ ɖekae si me mekɔ o."
+      }
+    }
+  },
+  "menu": {
+    "main": "Kadodowo katã"
+  }
+}

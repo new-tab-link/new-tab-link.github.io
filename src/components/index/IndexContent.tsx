@@ -1,9 +1,13 @@
-import { Box, createTheme, CssBaseline, Divider, Stack, styled, Typography } from "@mui/material";
+import { Box, CssBaseline, Divider, Stack, styled, Typography } from "@mui/material";
 import { blue, green, red } from "@mui/material/colors";
+import { useAtomValue } from "jotai";
 import { Appbar } from "../appbar/Appbar";
 import { DocGlobal } from "../doc-parts/global/DocGlobal";
 import { DocOverview } from "../doc-parts/overview/DocOverview";
 import { DocVariables } from "../doc-parts/variables/DocVariables";
+import { Counter } from "./jotaitest";
+import { indexModel } from "./Model";
+import { DocAllLinks } from "../doc-parts/all-links/DocAllLinks";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -58,20 +62,31 @@ const MenuContainer = styled('div')(({ theme }) => {
 function LeftMenu() {
     return <MenuContainer sx={{ overflowY: "auto" }}>
         <DocOverview.Menu />
+        <DocAllLinks.Menu />
         <DocGlobal.Menu />
         <DocVariables.Menu />
     </MenuContainer>
+}
+
+function JotaiAnchor() {
+    const anchor = useAtomValue(indexModel.anchor.atomAnchor)
+    return (
+        <div>
+            jotai anchor = {anchor}
+        </div>
+    )
 }
 export function IndexContent() {
     // console.log('o=', o)
     return (
         <Box sx={{ width: "100%", height: "100vh" }}>
             <Box sx={{
-                }}>
+            }}>
                 <Appbar />
-                <Stack direction={"row"} sx={{ width: "100%",
-                    height:"100%",
-                    }} >
+                <Stack direction={"row"} sx={{
+                    width: "100%",
+                    height: "100%",
+                }} >
                     <Box sx={{ maxWidth: "300px" }}>
                         <Box sx={{ position: "fixed" }}>
                             <LeftMenu />
@@ -81,11 +96,15 @@ export function IndexContent() {
                         </Box>
                     </Box>
                     {/* <Divider sx={{height:"100%"}} orientation="vertical" variant="middle" flexItem /> */}
-                    <Box sx={{height:"100%", width:"10px", backgroundColor:"red"}}></Box>
-                    <div style={{ margin: "0.5rem", padding: "0.5rem",
-                          width: "100%" 
-                          }}>
+                    <Box sx={{ height: "100%", width: "10px", backgroundColor: "red" }}></Box>
+                    <div style={{
+                        margin: "0.5rem", padding: "0.5rem",
+                        width: "100%"
+                    }}>
+                        <JotaiAnchor />
+                        <Counter />
                         <DocOverview.Doc />
+                        <DocAllLinks.Doc />
                         <DocGlobal.Doc />
                         <DocVariables.Doc />
                         <MediaQuery />
@@ -111,7 +130,7 @@ export function IndexContent2() {
                         </Box>
                     </Box>
                     <Divider orientation="vertical" variant="middle" flexItem />
-                    <Box sx={{ m: "0.5rem", p: "0.5rem"}}>
+                    <Box sx={{ m: "0.5rem", p: "0.5rem" }}>
                         <DocOverview.Doc />
                         <DocGlobal.Doc />
                         <DocVariables.Doc />
@@ -123,8 +142,9 @@ export function IndexContent2() {
     )
 }
 
-const theme = createTheme({ cssVariables: { cssVarPrefix: 'any' } });
-console.log('theme', theme)
+// const theme = createTheme({ cssVariables: { cssVarPrefix: 'any' } });
+// console.log('theme', theme)
 
 // generated stylesheet:
 // --any-palette-primary-main: ...;
+

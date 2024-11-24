@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Cilësimet globale",
+    "checkedUseSetting": "Kontrolloni për të aktivizuar këtë cilësim.",
+    "excludeDomains": "Shto emra domenesh për t'u përjashtuar Vetëm një emër domaini mund të shtohet në të njëjtën kohë.",
+    "seeExcludeExamplesLink": "Shembull",
+    "exclude": {
+      "example": {
+        "domain": "Mund të shtoni një emër domeni, të tillë si <code>{{url}}</code>, për të përjashtuar të gjithë emrin e domenit.",
+        "url": "Ju mund të përjashtoni lidhje specifike duke shtuar një lidhje, si p.sh. <code>{{url}}</code>.",
+        "glob": "Mund të shtoni një model {{glob}}, të tillë si <code>{{minimatch}}</code>, për përputhje të paqartë."
+      }
+    },
+    "script": "Ju gjithashtu mund të përdorni skriptet js për të arritur kontroll më të sofistikuar.",
+    "checkedUseScript": "Nëse do të aktivizoni skriptin tuaj, vini re se duhet të kontrolloni të dyja kutitë në të njëjtën kohë për të aktivizuar skriptin.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Aktualisht në faqen e internetit të {{youtube}}, ju duhet të hapni faqen {{watch}} ose {{shorts}} të {{youtube}} në një skedë të re.",
+        "introVariables": "Hyrje në variablat",
+        "page": ": Ndryshorja është objekti URL i faqes aktuale të internetit për detaje, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Ju lutemi shikoni</a >",
+        "pageHost": ": Emri i domenit të faqes aktuale të internetit",
+        "isSameSubDomain": "{{isSameSubDomain}}: I njëjti emër domeni, megjithëse emrat kryesorë të domenit të {{youtube}} dhe {{familjeve}} janë të dy {{mainDomain}}, emrat e nëndomaineve janë {{youtubeSubDomain}} dhe {{. FamilySubDomain}}, pra emrat e tyre të domain-it janë të ndryshëm.",
+        "click": ": lidhja që u klikua",
+        "clickpath": ": Rruga e lidhjes së klikuar",
+        "minimatch": ": {{glob}} metodë e përputhjes, duke përdorur bibliotekën {{minimatch}}, metodën e përdorimit <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ju lutemi Shih</a>, ose mund të kërkoni se si të përdorni {{glob}}.",
+        "rightTab": ": Lidhja hapet në një skedë të re në të djathtë",
+        "wholeCode": "Kuptimi i të gjithë kodit është se aktualisht në faqen e emrit të domenit të YouTube {{www}}, nëse lidhja e klikuar është i njëjti emër domeni dhe rruga fillon me {{watch}} ose {{shorts}}, atëherë skeda e re faqja në të djathtë do të jetë e hapur."
+      }
+    }
+  },
+  "menu": {
+    "main": "Konfigurimi global"
+  }
+}

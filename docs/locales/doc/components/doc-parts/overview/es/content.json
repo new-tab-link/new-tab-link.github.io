@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Descripción general de la extensión Enlace abierto con",
+    "description": "<p>Esta extensión le permite controlar cómodamente cómo se abren los hipervínculos.</p><p>Ventana: otros navegadores, ventanas emergentes, ventanas nuevas, nuevas ventanas de incógnito, ventana actual (predeterminada)</p> <p >Pestañas: izquierda de la pestaña actual, pestaña actual, derecha de la pestaña actual (predeterminado)</p><p>Estado de activación: inactivo, activar inmediatamente (predeterminado)</p>"
+  },
+  "menu": {
+    "main": "Descripción general"
+  }
+}

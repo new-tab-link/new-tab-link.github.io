@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Global settings",
+    "checkedUseSetting": "Tarisa kuti ugone kuseta iyi.",
+    "excludeDomains": "Wedzera mazita emadomasi kuti arege kubatanidzwa.",
+    "seeExcludeExamplesLink": "Muenzaniso",
+    "exclude": {
+      "example": {
+        "domain": "Unogona kuwedzera zita redomeini, sekuti <code>{{url}}</code>, kusasanganisa zita redomeini rese.",
+        "url": "Unogona kusabatanidza mamwe malink nekuwedzera chinongedzo, senge <code>{{url}}</code>.",
+        "glob": "Unogona kuwedzera {{glob}} patani, senge <code>{{minimatch}}</code>, kuitira kuenzanisa kusinganzwisisike."
+      }
+    },
+    "script": "Iwe unogona zvakare kushandisa js zvinyorwa kuti uwane zvakanyanya kuomarara kutonga.",
+    "checkedUseScript": "Ungave uchigonesa script yako, ziva kuti unofanirwa kutarisa mabhokisi ese ari maviri panguva imwe chete kuti script ishande.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Parizvino pawebhusaiti ye{{youtube}}, unofanira kuvhura {{youtube}}'s {{watch}} kana {{shorts}} peji mune imwe tab itsva.",
+        "introVariables": "Nhanganyaya kune zvinoshanduka",
+        "page": ": Musiyano ndicho chinhu cheURL chepeji yewebhu yazvino, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Ndapota ona</a>",
+        "pageHost": ": The domain name of the current web page",
+        "isSameSubDomain": "{{isSameSubDomain}}: Iro zita renzvimbo imwe cheteyo. familySubDomain}} saka mazita enzvimbo dzavo akasiyana.",
+        "click": ": link yakadzvanywa",
+        "clickpath": ": Nzira yekudzvanya link",
+        "minimatch": ": {{glob}} nzira yekuenzanisa, uchishandisa {{minimatch}} raibhurari, nzira yekushandisa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ndapota Ona</a>, kana kuti unogona kutsvaga mashandisirwo e{{glob}}.",
+        "rightTab": ": Iyo link inovhura mune nyowani tab kurudyi",
+        "wholeCode": "Zvinorehwa nekodhi yese ndezvekuti parizvino muYouTube {{www}} zita rezita rezita, kana chinongedzo chadzvanywa chiri chimwechete chezita uye nzira inotanga na{{watch}} kana {{shorts}}, ipapo tebhu itsva. peji kurudyi ichava Vhura."
+      }
+    }
+  },
+  "menu": {
+    "main": "Global configuration"
+  }
+}

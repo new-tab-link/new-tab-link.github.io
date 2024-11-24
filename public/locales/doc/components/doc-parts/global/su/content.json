@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Setélan global",
+    "checkedUseSetting": "Pariksa pikeun ngaktipkeun setelan ieu.",
+    "excludeDomains": "Nambahkeun ngaran domain pikeun dikaluarkeun ngan hiji ngaran domain bisa ditambahkeun dina hiji waktu.",
+    "seeExcludeExamplesLink": "Conto",
+    "exclude": {
+      "example": {
+        "domain": "Anjeun tiasa nambihan nami domain, sapertos <code>{{url}}</code>, pikeun ngaluarkeun nami domain sadayana.",
+        "url": "Anjeun tiasa ngaluarkeun tautan khusus ku cara nambihan tautan, sapertos <code>{{url}}</code>.",
+        "glob": "Anjeun tiasa nambihan pola {{glob}}, sapertos <code>{{minimatch}}</code>, kanggo cocog kabur."
+      }
+    },
+    "script": "Anjeun ogé tiasa nganggo skrip js pikeun ngahontal kontrol anu langkung canggih.",
+    "checkedUseScript": "Naha ngaktipkeun skrip anjeun, perhatikeun yén anjeun kedah mariksa duanana kotak sakaligus pikeun ngaktifkeun naskah.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ayeuna dina situs wéb {{youtube}}, anjeun kedah muka halaman {{watch}} atanapi {{shorts}} {{youtube}} dina tab énggal.",
+        "introVariables": "Bubuka pikeun variabel",
+        "page": ": Variabel nyaéta obyék URL kaca wéb ayeuna, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Mangga tingali</a >",
+        "pageHost": ": Ngaran domain kaca wéb ayeuna",
+        "isSameSubDomain": "{{isSameSubDomain}}: Ngaran domain anu sarua Catet yén sanajan ngaran domain utama {{youtube}} jeung {{families}} duanana {{mainDomain}}, ngaran subdomain nyaéta {{youtubeSubDomain}} jeung {{ familiesSubDomain}} jadi ngaran domain maranéhanana béda.",
+        "click": ": link anu diklik",
+        "clickpath": ": Jalur tina link diklik",
+        "minimatch": ": {{glob}} métode cocog, maké perpustakaan {{minimatch}}, métode pamakéan <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Mangga Tingali</a>, atanapi anjeun tiasa milarian cara ngagunakeun {{glob}}.",
+        "rightTab": ": Tautan dibuka dina tab anyar di sisi katuhu",
+        "wholeCode": "Harti sakabéh kode nyaéta ayeuna aya dina kaca ngaran domain {{www}} YouTube, lamun tumbu nu diklik nyaéta ngaran domain anu sarua jeung jalurna dimimitian ku {{watch}} atawa {{shorts}}, teras tab anyar. kaca di katuhu bakal kabuka."
+      }
+    }
+  },
+  "menu": {
+    "main": "Konfigurasi global"
+  }
+}

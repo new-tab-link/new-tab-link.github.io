@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Goobaha caalamiga ah",
+    "checkedUseSetting": "Hubi si aad awood ugu yeelatid dejintan.",
+    "excludeDomains": "Ku dar magacyo domain in laga reebo hal magac oo kaliya ayaa lagu dari karaa markiiba.",
+    "seeExcludeExamplesLink": "Tusaale",
+    "exclude": {
+      "example": {
+        "domain": "Waxaad ku dari kartaa magac domain, sida <code>{{url}}</code>, si aad uga saarto dhammaan magaca domainka.",
+        "url": "Waxaad ka saari kartaa xiriiriyeyaasha gaarka ah adiga oo ku dara xiriiriye, sida <code>{{url}}</code>.",
+        "glob": "Waxaad ku dari kartaa qaab {{glob}} ah, sida <code>{{minimatch}}</code>, si aad u dhigma."
+      }
+    },
+    "script": "Waxa kale oo aad isticmaali kartaa js scripts si aad u gaadho koontarool aad u casrisan.",
+    "checkedUseScript": "Haddii aad awood u leedahay qoraalkaaga, ogow inaad u baahan tahay inaad labada sanduuq isku mar saxdo si aad awood u siiso qoraalka.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Hadda ku sugan {{youtube}} degelka, waxaad u baahan tahay inaad furto {{youtube}} {{watch}} ama {{gaaban}} bogga tab cusub.",
+        "introVariables": "Hordhac doorsoomayaal",
+        "page": ": Doorsoomuhu waa shayga URL ee bogga shabakadda ee hadda, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Fadlan eeg</a>",
+        "pageHost": "Magaca domainka ee bogga shabakadda ee hadda jira",
+        "isSameSubDomain": "{{isSameSubDomain}}: Waa isla magaca domain qoysaskaSubDomain}} siday u kala horreeyaan.",
+        "click": ": linkiga la gujiyay",
+        "clickpath": ": Waddada isku xirka la gujiyay",
+        "minimatch": ": {{glob}} habka u dhigma, iyadoo la isticmaalayo {{minimatch}} maktabadda, habka isticmaalka <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Fadlan Eeg</a>, ama waxaad raadin kartaa sida loo isticmaalo {{glob}}",
+        "rightTab": "Xidhiidhku wuxuu ku furmay tab cusub oo dhanka midig ah",
+        "wholeCode": "Macnaha koodka oo dhami waa kan hadda ku jira YouTube-kiisa {{www}} bogga magaca domain, haddii xidhiidhka la gujiyay uu yahay isla magac domain oo dariiqu ka bilaabmayo {{watch}} ama {{gaaban}}, ka dibna tab cusub bogga midig wuxuu noqon doonaa Furan."
+      }
+    }
+  },
+  "menu": {
+    "main": "Qaabeynta caalamiga ah"
+  }
+}

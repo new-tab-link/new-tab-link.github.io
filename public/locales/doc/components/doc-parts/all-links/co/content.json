@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Tutti i ligami",
+    "checkedUseSetting": "Verificate per attivà sta paràmetra.",
+    "excludeDomains": "Aghjunghjite nomi di duminiu per esse escluditi solu un nome di duminiu pò esse aghjuntu à u tempu.",
+    "seeExcludeExamplesLink": "Esempiu",
+    "exclude": {
+      "example": {
+        "domain": "Pudete aghjunghje un nome di duminiu, cum'è <code>{{url}}</code>, per escludiri tuttu u nome di duminiu.",
+        "url": "Pudete escludiri ligami specifichi aghjunghjendu un ligame, cum'è <code>{{url}}</code>.",
+        "glob": "Pudete aghjunghje un mudellu {{glob}}, cum'è <code>{{minimatch}}</code>, per fuzzy matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tutti i ligami"
+  }
+}

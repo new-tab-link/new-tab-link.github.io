@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Setări globale",
+    "checkedUseSetting": "Bifați pentru a activa această setare.",
+    "excludeDomains": "Adăugați nume de domeniu pentru a fi excluse.",
+    "seeExcludeExamplesLink": "Exemplu",
+    "exclude": {
+      "example": {
+        "domain": "Puteți adăuga un nume de domeniu, cum ar fi <code>{{url}}</code>, pentru a exclude întregul nume de domeniu.",
+        "url": "Puteți exclude anumite linkuri adăugând un link, cum ar fi <code>{{url}}</code>.",
+        "glob": "Puteți adăuga un model {{glob}}, cum ar fi <code>{{minimatch}}</code>, pentru potrivirea neclară."
+      }
+    },
+    "script": "De asemenea, puteți utiliza scripturi js pentru a obține un control mai sofisticat.",
+    "checkedUseScript": "Indiferent dacă vă activați scriptul, rețineți că trebuie să bifați ambele casete în același timp pentru a activa scriptul.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "În prezent, pe site-ul web {{youtube}}, trebuie să deschideți pagina {{watch}} sau {{shorts}} a lui {{youtube}} într-o filă nouă.",
+        "introVariables": "Introducere în variabile",
+        "page": ": variabila este obiectul URL al paginii web curente. Pentru detalii, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Vă rugăm să vedeți</a >",
+        "pageHost": ": Numele de domeniu al paginii web curente",
+        "isSameSubDomain": "{{isSameSubDomain}}: același nume de domeniu Rețineți că, deși numele de domenii principale ale {{youtube}} și {{families}} sunt ambele {{mainDomain}}, numele de subdomeniu sunt {{youtubeSubDomain}} și {{. familiesSubDomain}}, deci, numele lor de domenii sunt diferite.",
+        "click": ": linkul pe care s-a făcut clic",
+        "clickpath": ": Calea linkului pe care s-a făcut clic",
+        "minimatch": ": {{glob}} metoda de potrivire, folosind biblioteca {{minimatch}}, metoda de utilizare <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vă rugăm Vedeți</a> sau puteți căuta cum să utilizați {{glob}}.",
+        "rightTab": ": Linkul se deschide într-o filă nouă din dreapta",
+        "wholeCode": "Semnificația întregului cod este că, în prezent, în pagina de nume de domeniu {{www}} YouTube, dacă linkul pe care s-a făcut clic este același nume de domeniu și calea începe cu {{watch}} sau {{shorts}}, atunci fila nouă pagina din dreapta va fi Deschis."
+      }
+    }
+  },
+  "menu": {
+    "main": "Configurație globală"
+  }
+}

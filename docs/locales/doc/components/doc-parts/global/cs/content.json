@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globální nastavení",
+    "checkedUseSetting": "Zaškrtnutím povolíte toto nastavení.",
+    "excludeDomains": "Přidat názvy domén, které mají být vyloučeny, lze přidat pouze jeden název domény.",
+    "seeExcludeExamplesLink": "Příklad",
+    "exclude": {
+      "example": {
+        "domain": "Chcete-li vyloučit celý název domény, můžete přidat název domény, například <code>{{url}}</code>.",
+        "url": "Konkrétní odkazy můžete vyloučit přidáním odkazu, například <code>{{url}}</code>.",
+        "glob": "Pro fuzzy shodu můžete přidat vzor {{glob}}, například <code>{{minimatch}}</code>."
+      }
+    },
+    "script": "K dosažení sofistikovanějšího ovládání můžete také použít skripty js.",
+    "checkedUseScript": "Pokud chcete skript povolit, uvědomte si, že k povolení skriptu musíte zaškrtnout obě políčka současně.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "V současné době na webu {{youtube}} musíte otevřít stránku {{watch}} nebo {{shorts}} uživatele {{youtube}} na nové kartě.",
+        "introVariables": "Úvod do proměnných",
+        "page": ": Proměnná je objekt adresy URL aktuální webové stránky Podrobnosti naleznete na <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Viz</a >",
+        "pageHost": ": Název domény aktuální webové stránky",
+        "isSameSubDomain": "{{isSameSubDomain}}: Stejný název domény, ačkoli hlavní názvy domén {{youtube}} a {{families}} jsou obě {{mainDomain}}, názvy subdomén jsou {{youtubeSubDomain}} a {{. familySubDomain}} tedy jejich názvy domén jsou různé.",
+        "click": ": odkaz, na který jste klikli",
+        "clickpath": ": Cesta odkazu, na který bylo kliknuto",
+        "minimatch": ": {{glob}} metoda shody, pomocí knihovny {{minimatch}}, metoda použití <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Prosím Viz</a> nebo můžete vyhledat, jak používat {{glob}}.",
+        "rightTab": ": Odkaz se otevře na nové kartě vpravo",
+        "wholeCode": "Význam celého kódu spočívá v tom, že pokud je aktuálně na stránce názvu domény YouTube {{www}} odkaz se stejným názvem domény a cesta začíná {{watch}} nebo {{shorts}}, pak nová karta stránka vpravo bude Otevřít."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globální konfigurace"
+  }
+}

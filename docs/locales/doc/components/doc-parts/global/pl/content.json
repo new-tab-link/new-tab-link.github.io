@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Ustawienia globalne",
+    "checkedUseSetting": "Zaznacz, aby włączyć to ustawienie.",
+    "excludeDomains": "Dodaj nazwy domen, które mają zostać wykluczone. Jednocześnie można dodać tylko jedną nazwę domeny.",
+    "seeExcludeExamplesLink": "Przykład",
+    "exclude": {
+      "example": {
+        "domain": "Możesz dodać nazwę domeny, na przykład <code>{{url}}</code>, aby wykluczyć całą nazwę domeny.",
+        "url": "Możesz wykluczyć określone linki, dodając link, taki jak <code>{{url}}</code>.",
+        "glob": "Możesz dodać wzorzec {{glob}}, taki jak <code>{{minimatch}</code>, dla dopasowania rozmytego."
+      }
+    },
+    "script": "Możesz także użyć skryptów js, aby uzyskać bardziej zaawansowaną kontrolę.",
+    "checkedUseScript": "Niezależnie od tego, czy chcesz włączyć skrypt, pamiętaj, że musisz zaznaczyć oba pola jednocześnie, aby włączyć skrypt.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Obecnie na stronie {{youtube}} musisz otworzyć stronę {{watch}} lub {{shorts}} {{youtube}} w nowej karcie.",
+        "introVariables": "Wprowadzenie do zmiennych",
+        "page": ": zmienna jest obiektem adresu URL bieżącej strony internetowej. Aby uzyskać szczegółowe informacje, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Proszę zobaczyć</a >",
+        "pageHost": ": Nazwa domeny bieżącej strony internetowej",
+        "isSameSubDomain": "{{isSameSubDomain}}: Ta sama nazwa domeny. Pamiętaj, że chociaż główne nazwy domen {{youtube}} i {{families}} to {{mainDomain}}, nazwy subdomen to {{youtubeSubDomain}} i {{ FamilySubDomain}}, więc ich nazwy domen są różne.",
+        "click": ": link, który został kliknięty",
+        "clickpath": ": Ścieżka klikniętego łącza",
+        "minimatch": ": metoda dopasowywania {{glob}}, przy użyciu biblioteki {{minimatch}}, metoda użycia <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Proszę Zobacz</a> lub możesz poszukać, jak używać {{glob}}.",
+        "rightTab": ": Link otwiera się w nowej karcie po prawej stronie",
+        "wholeCode": "Znaczenie całego kodu jest takie, że aktualnie na stronie nazwy domeny YouTube {{www}}, jeśli kliknięty link ma tę samą nazwę domeny, a ścieżka zaczyna się od {{watch}} lub {{shorts}}, to nowa karta strona po prawej stronie będzie otwarta."
+      }
+    }
+  },
+  "menu": {
+    "main": "Konfiguracja globalna"
+  }
+}

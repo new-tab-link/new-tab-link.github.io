@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Wiase nyinaa nhyehyɛe ahorow",
+    "checkedUseSetting": "Hwɛ sɛ wobɛma nhyehyɛe yi atumi ayɛ adwuma.",
+    "excludeDomains": "Fa domain din a wɔbɛyi afiri mu ka ho.",
+    "seeExcludeExamplesLink": "Nhwɛsoɔ",
+    "exclude": {
+      "example": {
+        "domain": "Wubetumi de domain din bi aka ho, te sɛ <code>{{url}}</code>, de ayi domain din no nyinaa afi mu.",
+        "url": "Wubetumi ayi nkitahodi pɔtee bi afi mu denam nkitahodi bi a wode bɛka ho, te sɛ <code>{{url}}</code>.",
+        "glob": "Wubetumi de {{glob}} nhwɛsode bi aka ho, te sɛ <code>{{minimatch}}</code>, ama fuzzy matching."
+      }
+    },
+    "script": "Wubetumi nso de js scripts adi dwuma de anya control a ɛyɛ nwonwa kɛse.",
+    "checkedUseScript": "Sɛ́ ebia wobɛma wo script no ayɛ adwuma no, hyɛ no nsow sɛ ɛsɛ sɛ wohyɛ nnaka abien no nyinaa agyirae bere koro mu na ama script no ayɛ adwuma.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Mprempren wɔ {{youtube}} wɛbsaet no so no, ɛsɛ sɛ wubue {{youtube}} {{watch}} anaa {{shorts}} krataafa no wɔ tab foforo mu.",
+        "introVariables": "Nnianim asɛm a ɛfa nneɛma a ɛsakra ho",
+        "page": ": Nsakraeɛ no yɛ URL adeɛ a ɛwɔ wɛb krataafa a ɛwɔ hɔ mprempren no mu Yɛsrɛ wo hwɛ</a >",
+        "pageHost": ": Domain din a ɛwɔ wɛbsaet krataafa a ɛwɔ hɔ mprempren no so",
+        "isSameSubDomain": "{{isSameSubDomain}}: Domain din koro no ara Hyɛ no nsow sɛ ɛwom sɛ {{youtube}} ne {{abusua}} domain din titiriw no nyinaa yɛ {{mainDomain}} de, nanso subdomain din no yɛ {{youtubeSubDomain}} ne {{. familiesSubDomain}} sɛnea ɛte biara Enti wɔn domain din no yɛ soronko.",
+        "click": ": link a wɔde kliki so no",
+        "clickpath": ": Ɔkwan a link a wɔakliki no fa so",
+        "minimatch": ": {{glob}} kwan a ɛne ne ho hyia, de {{minimatch}} nhomakorabea di dwuma, ɔkwan a wɔfa so de di dwuma <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Mesrɛ wo Hwɛ</a>, anaa wobɛtumi ahwehwɛ sɛdeɛ wode {{glob}} bedi dwuma.",
+        "rightTab": ": Link no bebue wɔ tab foforo bi mu wɔ nifa so",
+        "wholeCode": "Nkyerɛaseɛ a ɛwɔ koodu no nyinaa mu ne sɛ mprempren ɛwɔ YouTube {{www}} domain din krataafa no so, sɛ link a wɔakliki no yɛ domain din koro na ɔkwan no fi ase wɔ {{watch}} anaa {{shorts}} a, ɛnde tab foforo no kratafa a ɛwɔ nifa so no bɛyɛ Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Wiase nyinaa nhyehyɛe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Oversigt over Link Open With-udvidelsen",
+    "description": "<p>Denne udvidelse giver dig mulighed for nemt at kontrollere, hvordan hyperlinks åbnes.</p><p>Vindue: andre browsere, pop op-vinduer, nye vinduer, nye inkognitovinduer, aktuelt vindue (standard)</p> <p >Faner: venstre for aktuel fane, aktuel fane, højre for aktuel fane (standard)</p><p>Aktiveringsstatus: inaktiv, aktiver straks (standard)</p>"
+  },
+  "menu": {
+    "main": "Oversigt"
+  }
+}

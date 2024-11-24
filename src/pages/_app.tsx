@@ -3,6 +3,8 @@ import '../../globals.css'
 import '../css/app.scss'
 import { Container, createTheme, CssBaseline, NoSsr, ThemeProvider } from "@mui/material";
 import { i18nFileVersion } from '@src/i18nconf/i18nFileVersion';
+import { store } from '@src/libs/fanfanlo/jotai/store';
+import { Provider } from 'jotai';
 import { AppProps } from "next/app";
 import { Fragment } from "react";
 const theme = createTheme({
@@ -20,12 +22,13 @@ function MyApp({ Component, pageProps }: AppProps) {
     <Fragment>
       <CssBaseline />
       <NoSsr>
-
+        <Provider store={store}>
         <ThemeProvider theme={theme}>
           <Container id={"mui-root-container"} maxWidth="lg"  fixed>
             <Component {...pageProps} />
           </Container>
         </ThemeProvider>
+        </Provider>
       </NoSsr>
     </Fragment>
   );

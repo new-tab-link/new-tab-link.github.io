@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Paramètres globals",
+    "checkedUseSetting": "Marcatz per activar aqueste paramètre.",
+    "excludeDomains": "Apondre de noms de domeni per èsser excluses Sonque un nom de domeni pòt èsser apondut a l'encòp.",
+    "seeExcludeExamplesLink": "Exemple",
+    "exclude": {
+      "example": {
+        "domain": "Podètz apondre un nom de domeni, coma <code>{{url}}</code>, per exclure lo nom de domeni entièr.",
+        "url": "Podètz exclure de ligams especifics en apondent un ligam, coma <code>{{url}}</code>.",
+        "glob": "Podètz apondre un modèl {{glob}}, coma <code>{{minimatch}}</code>, per una correspondéncia difusa."
+      }
+    },
+    "script": "Podètz tanben utilizar d'escripts js per obténer un contraròtle mai sofisticat.",
+    "checkedUseScript": "Se volètz activar vòstre escript, notatz que vos cal marcar las doas bóstias al meteis temps per activar l'escript.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Actualament sul sit web {{youtube}}, vos cal dobrir la pagina {{regardar}} o {{shorts}} de {{youtube}} dins un onglet novèl.",
+        "introVariables": "Introduccion a las variablas",
+        "page": ": La variabla es l'objècte URL de la pagina web actuala Per de detalhs, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Vejatz</a >",
+        "pageHost": ": Lo nom de domeni de la pagina web actuala",
+        "isSameSubDomain": "{{isSameSubDomain}} : Lo meteis nom de domeni. familysSubDomain}} respectivament.",
+        "click": ": lo ligam que foguèt clicat",
+        "clickpath": ": Lo camin del ligam clicat",
+        "minimatch": ": {{glob}} metòde de correspondéncia, en utilizant la bibliotèca {{minimatch}}, lo metòde d'utilizacion <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Please Vejatz</a>, o podètz recercar cossí utilizar {{glob}}.",
+        "rightTab": ": Lo ligam se dobrís dins un onglet novèl a drecha",
+        "wholeCode": "Lo sens del còde entièr es qu'actualament dins la pagina de nom de domeni {{www}} de YouTube, se lo ligam clicat es lo meteis nom de domeni e lo camin comença per {{watch}} o {{shorts}}, alara lo novèl onglet la pagina a la drecha serà Dobèrta."
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuracion globala"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Aolep link ko",
+    "checkedUseSetting": "Lale bwe en maroñ in jerbal setting in.",
+    "excludeDomains": "Kobaik etan domain ko ñan jolok. Juon wōt etan domain emaron in kobaiktok ilo juon ien.",
+    "seeExcludeExamplesLink": "Waan joñak",
+    "exclude": {
+      "example": {
+        "domain": "Kwomaroñ kobaik juon etan domain, einwot <code>{{url}}</code>, ñan jolok aolep etan domain eo.",
+        "url": "Kwomaroñ jolok jet link ko ilo am kobaik juon link, einwot <code>{{url}}</code>.",
+        "glob": "Kwomaroñ kobaik juon {{glob}} pattern, einwot <code>{{minimatch}}</code>, ñan fuzzy matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Aolep link ko"
+  }
+}

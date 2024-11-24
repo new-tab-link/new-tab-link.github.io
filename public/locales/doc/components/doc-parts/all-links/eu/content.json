@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Esteka guztiak",
+    "checkedUseSetting": "Egiaztatu ezarpen hau gaitzeko.",
+    "excludeDomains": "Gehitu baztertu beharreko domeinu-izenak. Domeinu-izen bakarra gehitu daiteke aldi berean.",
+    "seeExcludeExamplesLink": "Adibidea",
+    "exclude": {
+      "example": {
+        "domain": "Domeinu-izen bat gehi dezakezu, adibidez, <code>{{url}}</code>, domeinu-izen osoa baztertzeko.",
+        "url": "Esteka zehatzak bazter ditzakezu esteka bat gehituz, adibidez, <code>{{url}}</code>.",
+        "glob": "{{glob}} eredu bat gehi dezakezu, adibidez, <code>{{minimatch}}</code>, parekatze lausoa izateko."
+      }
+    }
+  },
+  "menu": {
+    "main": "Esteka guztiak"
+  }
+}

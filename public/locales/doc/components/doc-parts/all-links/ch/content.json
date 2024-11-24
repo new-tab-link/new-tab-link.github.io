@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Todu i liñguahe",
+    "checkedUseSetting": "Chek para un na'siña este na setbisio.",
+    "excludeDomains": "Adda' i na'an i lugåt para u ma na'suha. Unu ha' na na'an i lugåt siña ma addåpta gi kada biåhi.",
+    "seeExcludeExamplesLink": "Ehemplu",
+    "exclude": {
+      "example": {
+        "domain": "Siña un addåpta un na'an i lugåt, taiguihi <code>{{url}}</code>, para un na'suha i enteru na na'an i lugåt.",
+        "url": "Siña un na'suha i espesiåt na liñguahe siha yanggen un addåpta un liñguahe, taiguihi <code>{{url}}</code>.",
+        "glob": "Siña un addåpta un {{glob}} na håfa, taiguihi <code>{{minimatch}}</code>, para i fuzzy matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Todu i liñguahe"
+  }
+}

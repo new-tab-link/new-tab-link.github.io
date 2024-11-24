@@ -1,12 +1,12 @@
 {
   "name": "npm-i-package-lock",
   "version": "1.0.9",
-  "main": "index.js",
   "scripts": {
     "clean:bundle": "pnpx rimraf docs",
     "clean:node_modules": "pnpx rimraf node_modules",
     "clean": "pnpm clean:bundle && pnpm clean:node_modules",
-    "i18n-listen-file": "ts-node ./i18n-raw/scripts/file-listen.mjs",
+    "i18n": "ts-node ./i18n-raw/scripts/file-listen.mjs",
+    "trans": "node ./i18n-raw/scripts/t.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -38,6 +38,7 @@
     "i18next-browser-languagedetector": "^8.0.0",
     "i18next-http-backend": "^2.6.1",
     "immer": "^10.1.1",
+    "jotai": "^2.10.1",
     "lodash": "^4.17.21",
     "material-ui-popup-state": "^5.3.1",
     "motion-ui": "^2.0.8",
@@ -52,12 +53,16 @@
     "react-move": "^6.5.0",
     "react-router-dom": "^6.26.2",
     "react-transition-group": "^4.4.5",
+    "rxjs": "^7.8.1",
     "styled-components": "^6.1.13",
+    "typescript": "^5.6.2",
     "ulid": "^2.3.0",
     "use-immer": "^0.10.0"
   },
   "devDependencies": {
-    "@0xff336699/js-i18n-lngs": "github:0xFF336699/js-i18n-lngs#v1.0.33",
+    "@0xff336699/js-i18n-files-detector": "github:0xFF336699/js-i18n-files-detector#v0.0.31",
+    "@0xff336699/js-i18n-lngs": "github:0xff336699/js-i18n-lngs",
+    "@0xff336699/js-i18n-translator": "github:0xff336699/js-i18n-translator",
     "@babel/core": "^7.25.2",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@babel/plugin-proposal-decorators": "^7.24.7",
@@ -65,9 +70,10 @@
     "@babel/preset-env": "^7.25.4",
     "@types/chrome": "^0.0.270",
     "@types/lodash": "^4.17.7",
-    "@types/node": "^22.5.5",
+    "@types/node": "^20.17.6",
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
+    "@types/typescript": "^2.0.0",
     "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/parser": "^7.18.0",
     "@vitejs/plugin-react-swc": "^3.7.0",
@@ -93,9 +99,5 @@
     "typescript": "^5.6.2",
     "vite": "^5.4.5",
     "watch": "^1.0.2"
-  },
-  "optionalDependencies": {
-    "@0xff336699/js-i18n-files-detector": "github:0xFF336699/js-i18n-files-detector#v0.0.29",
-    "@0xff336699/js-i18n-translator": "github:0xff336699/js-i18n-translator#v1.0.1"
   }
 }

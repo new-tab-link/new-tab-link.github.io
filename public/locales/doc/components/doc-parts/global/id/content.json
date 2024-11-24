@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Pengaturan global",
+    "checkedUseSetting": "Centang untuk mengaktifkan pengaturan ini.",
+    "excludeDomains": "Tambahkan nama domain yang akan dikecualikan. Hanya satu nama domain yang dapat ditambahkan dalam satu waktu.",
+    "seeExcludeExamplesLink": "Contoh",
+    "exclude": {
+      "example": {
+        "domain": "Anda bisa menambahkan nama domain, seperti <code>{{url}}</code>, untuk mengecualikan seluruh nama domain.",
+        "url": "Anda dapat mengecualikan tautan tertentu dengan menambahkan tautan, misalnya <code>{{url}}</code>.",
+        "glob": "Anda bisa menambahkan pola {{glob}}, seperti <code>{{minimatch}}</code>, untuk pencocokan fuzzy."
+      }
+    },
+    "script": "Anda juga dapat menggunakan skrip js untuk mendapatkan kontrol yang lebih canggih.",
+    "checkedUseScript": "Apakah akan mengaktifkan skrip Anda, perhatikan bahwa Anda perlu mencentang kedua kotak secara bersamaan untuk mengaktifkan skrip.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Saat ini di situs web {{youtube}}, Anda perlu membuka laman {{watch}} atau {{shorts}} {{youtube}} di tab baru.",
+        "introVariables": "Pengenalan variabel",
+        "page": ": Variabelnya adalah objek URL halaman web saat ini. Untuk detailnya, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Silakan lihat</a>",
+        "pageHost": ": Nama domain halaman web saat ini",
+        "isSameSubDomain": "{{isSameSubDomain}}: Nama domain yang sama. Perlu diperhatikan bahwa meskipun nama domain utama {{youtube}} dan {{families}} keduanya adalah {{mainDomain}}, nama subdomainnya adalah {{youtubeSubDomain}} dan {{ familySubDomain}} masing-masing. Jadi nama domainnya berbeda.",
+        "click": ": tautan yang diklik",
+        "clickpath": ": Jalur tautan yang diklik",
+        "minimatch": ": Metode pencocokan {{glob}}, menggunakan pustaka {{minimatch}}, metode penggunaan <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Tolong Lihat</a>, atau Anda dapat menelusuri cara menggunakan {{glob}}.",
+        "rightTab": ": Tautan terbuka di tab baru di sebelah kanan",
+        "wholeCode": "Arti keseluruhan kodenya adalah saat ini ada di halaman nama domain {{www}} YouTube, jika link yang diklik adalah nama domain yang sama dan jalurnya dimulai dengan {{watch}} atau {{shorts}}, maka tab baru halaman di sebelah kanan akan Terbuka."
+      }
+    }
+  },
+  "menu": {
+    "main": "Konfigurasi global"
+  }
+}

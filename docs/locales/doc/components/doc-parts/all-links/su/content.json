@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Kabéh Tumbu",
+    "checkedUseSetting": "Pariksa pikeun ngaktipkeun setelan ieu.",
+    "excludeDomains": "Nambahkeun ngaran domain pikeun dikaluarkeun ngan hiji ngaran domain bisa ditambahkeun dina hiji waktu.",
+    "seeExcludeExamplesLink": "Conto",
+    "exclude": {
+      "example": {
+        "domain": "Anjeun tiasa nambihan nami domain, sapertos <code>{{url}}</code>, pikeun ngaluarkeun nami domain sadayana.",
+        "url": "Anjeun tiasa ngaluarkeun tautan khusus ku cara nambihan tautan, sapertos <code>{{url}}</code>.",
+        "glob": "Anjeun tiasa nambihan pola {{glob}}, sapertos <code>{{minimatch}}</code>, kanggo cocog kabur."
+      }
+    }
+  },
+  "menu": {
+    "main": "Kabéh Tumbu"
+  }
+}

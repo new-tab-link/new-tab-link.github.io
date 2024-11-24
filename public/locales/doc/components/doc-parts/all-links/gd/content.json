@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "A h-uile ceanglaichean",
+    "checkedUseSetting": "Dèan cinnteach gus an suidheachadh seo a chomasachadh.",
+    "excludeDomains": "Cuir ainmean-fearainn a-steach gus nach tèid ach aon ainm àrainn a chur ris aig aon àm.",
+    "seeExcludeExamplesLink": "eisimpleir",
+    "exclude": {
+      "example": {
+        "domain": "'S urrainn dhut ainm àrainn a chur ris, mar <code>{{url}}</code>, gus an t-ainm àrainn gu lèir a thoirmeasg.",
+        "url": "'S urrainn dhut ceanglaichean sònraichte a thoirmeasg le bhith a' cur ceangal ris, mar <code>{{url}}</code>.",
+        "glob": "'S urrainn dhut pàtran {{glob}} a chur ris, mar <code>{{minimatch}}</code>, airson a bhith a' maidseadh fuzzy."
+      }
+    }
+  },
+  "menu": {
+    "main": "A h-uile ceanglaichean"
+  }
+}

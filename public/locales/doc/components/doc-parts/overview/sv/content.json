@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Översikt över tillägget Link Open With",
+    "description": "<p>Det här tillägget låter dig enkelt kontrollera hur hyperlänkar öppnas.</p><p>Fönster: andra webbläsare, popup-fönster, nya fönster, nya inkognitofönster, aktuellt fönster (standard)</p> <p >Flikar: vänster om aktuell flik, aktuell flik, höger om aktuell flik (standard)</p><p>Aktiveringsstatus: inaktiv, aktivera omedelbart (standard)</p>"
+  },
+  "menu": {
+    "main": "Översikt"
+  }
+}

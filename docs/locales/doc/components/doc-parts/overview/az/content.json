@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Genişlənmə ilə Açıq Linkə İcmal",
+    "description": "<p>Bu artırma sizə hiperlinklərin necə açıldığını rahat şəkildə idarə etməyə imkan verir.</p><p>Pəncərə: digər brauzerlər, pop-up pəncərələr, yeni pəncərələr, yeni gizli pəncərələr, cari pəncərə (defolt)</p> <p >Tablar: cari tabın solunda, cari tab, cari tabın sağında (defolt)</p><p>Aktivləşdirmə statusu: aktiv deyil, dərhal aktivləşdirin (defolt)</p>"
+  },
+  "menu": {
+    "main": "Ümumi baxış"
+  }
+}

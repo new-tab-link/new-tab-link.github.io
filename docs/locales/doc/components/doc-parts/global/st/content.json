@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Litlhophiso tsa lefats'e",
+    "checkedUseSetting": "Sheba ho bulela tlhophiso ena.",
+    "excludeDomains": "Kenya mabitso a marang-rang a lokelang ho qheleloa ka thoko.",
+    "seeExcludeExamplesLink": "Mohlala",
+    "exclude": {
+      "example": {
+        "domain": "U ka kenya lebitso la domain, joalo ka <code>{{url}}</code>, ho qhelela ka thoko lebitso la domain kaofela.",
+        "url": "U ka kenyelletsa likhokahano tse ikhethileng ka ho kenya sehokelo, joalo ka <code>{{url}}</code>.",
+        "glob": "O ka kenya {{glob}} paterone, joalo ka <code>{{minimatch}}</code>, bakeng sa ho nyallana ho sa hlakang."
+      }
+    },
+    "script": "U ka sebelisa js scripts ho fihlela taolo e tsoetseng pele.",
+    "checkedUseScript": "Hore na o bulela mongolo oa hau, hlokomela hore o hloka ho hlahloba mabokose ka bobeli ka nako e le 'ngoe ho lumella mongolo.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Hajoale o teng sebakeng sa Marang-rang sa {{youtube}}, o hloka ho bula leqephe la {{youtube}} la {{watch}} kapa la {{shorts}} ho tab e ncha.",
+        "introVariables": "Selelekela ho mefuta-futa",
+        "page": ": Ntho e fapaneng ke URL ea leqephe la hajoale la tepo Bakeng sa lintlha, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Ka kopo bona</a>",
+        "pageHost": ": Lebitso la domain la leqephe la hajoale la webo",
+        "isSameSubDomain": "{{isSameSubDomain}}: Lebitso la domain e le 'ngoe le hoja mabitso a sehlooho a {{youtube}} le {{families}} e le {{mainDomain}}, mabitso a li-domain ke {{youtubeSubDomain}} le {{ malapaSubDomain}} ka ho latellana.",
+        "click": ": sehokelo se tobetsoeng",
+        "clickpath": ": Tsela ea sehokelo se tobetse",
+        "minimatch": ": {{glob}} mokhoa oa ho nyallana, ho sebelisoa {{minimatch}} laebrari, mokhoa oa tšebeliso <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ka kopo Bona</a>, kapa u ka batla mokhoa oa ho sebelisa {{glob}}.",
+        "rightTab": ": Sehokelo se bula tab e ncha ka ho le letona",
+        "wholeCode": "Moelelo oa khoutu kaofela ke hore hajoale e leqepheng la lebitso la YouTube la {{www}}, haeba sehokelo se tobetseng e le lebitso le le leng mme tsela e qala ka {{watch}} kapa {{shorts}}, ebe tab e ncha. leqephe le ka ho le letona e tla ba Bula."
+      }
+    }
+  },
+  "menu": {
+    "main": "Phetoho ea lefatše lohle"
+  }
+}

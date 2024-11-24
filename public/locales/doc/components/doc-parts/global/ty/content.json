@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Te mau faanahoraa o te ao nei",
+    "checkedUseSetting": "Hi'opo'a no te faati'a i teie faanahoraa.",
+    "excludeDomains": "Hoê ana'e i'oa tuhaa fenua e nehenehe e faaô atu i te hoê taime.",
+    "seeExcludeExamplesLink": "Tū'ā'āhuru",
+    "exclude": {
+      "example": {
+        "domain": "No te faaore i te i'oa tuhaa fenua taatoa, e nehenehe ta outou e tuu i te hoê i'oa tuhaa fenua mai te <code>{{url}}</code>.",
+        "url": "Na roto i te faaôraa mai i te hoê hono, mai te <code>{{url}}</code>, e nehenehe ta outou e faaore i te mau hono taa ê.",
+        "glob": "No te faaau i te hoê hoho'a, e nehenehe ta outou e faaô mai i te hoê hoho'a {{glob}}, mai te <code>{{ha'uti}}</code>."
+      }
+    },
+    "script": "No te faatere rahi a'e, e nehenehe atoa outou e faaohipa i te mau papa'iraa js.",
+    "checkedUseScript": "A tapao na e e tia ia outou ia hi'opoa i na afata e piti i te hoê â taime no te faatia i ta outou papai.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "I teie nei, i ni'a i te tahua itenati {{youtube}}, e ti'a ia outou ia iriti i te api {{mata'ita'i}} e aore râ, {{mau hoho'a poto}} i roto i te hoê api apî.",
+        "introVariables": "Te hoê omuaraa parau no ni'a i te mau tauiraa",
+        "page": ": Te tauiraa o te tao'a URL ïa o te api itenati i teie nei, a hi'o i te <a href='https://developer.org/docs/Web/API/URL'. A hi'o na</a >",
+        "pageHost": ": Te i'oa tuhaa fenua o te api itenati i teie nei",
+        "isSameSubDomain": "{{isSameSubDomain}}: Hoê â i'oa tuhaa fenua A tapao na e, noa'tu e, te mau i'oa tuhaa fenua rahi o {{youtube}} e {{mau utuafare}}, o te mau i'oa ïa {{tuhaa fenua rahi}} e {{youtubeSubDomain}}. No reira, e mea taa ê to ratou mau i'oa tuhaa fenua.",
+        "click": ": te hono i tairihia",
+        "clickpath": ": Te e'a o te hono i tairihia",
+        "minimatch": ": {{glob}} rave'a tu'ati, ma te faaohipa i te fare buka {{minimatch}}, te rave'a faaohiparaa <a href='https://github.com/isaacs/minimatch' Hi'o</a>, e aore râ, e nehenehe ta outou e imi nahea ia faaohipa i te {{glob}}.",
+        "rightTab": ": E matara te hono i roto i te hoê api apî i te pae atau",
+        "wholeCode": "Te auraa o te taato'araa o te waehere, oia ho'i ïa, i roto i te api i'oa tuhaa fenua no YouTube {{www}}, mai te mea e, hoê â te i'oa tuhaa fenua o te hono i hi'opo'ahia e e haamata te e'a na roto i te {{hi'o}} e aore râ, {{shorts}}, i muri iho i te api apî E matara te api i te pae atau."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tahoêraa o te ao nei"
+  }
+}

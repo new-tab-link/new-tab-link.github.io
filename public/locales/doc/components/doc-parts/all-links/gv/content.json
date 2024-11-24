@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Ooilley ceaghley",
+    "checkedUseSetting": "Check dy vel y rheynn shoh er ny choyrt.",
+    "excludeDomains": "Cur rish ainmyn domain dy ve er nyn skyn Cha nel agh un ainm domain ry-chur rish y traa.",
+    "seeExcludeExamplesLink": "Sambyl",
+    "exclude": {
+      "example": {
+        "domain": "Faggys da'n ennym-chreck y chur rish, myr sampleyr <code>{{url}}</code>, dy chur magh yn ennym-chreck ooilley.",
+        "url": "Foddee oo cur magh kianglaghyn er-lheh liorish cur kiangley stiagh, myr sampleyr <code>{{url}}</code>.",
+        "glob": "Foddee oo cur pattyr {{glob}} er, myr sampleyr <code>{{coardail beg}}</code>, son co-choardail doaltattym."
+      }
+    }
+  },
+  "menu": {
+    "main": "Ooilley ceaghley"
+  }
+}

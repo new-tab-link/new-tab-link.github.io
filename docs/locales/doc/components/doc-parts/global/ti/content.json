@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "ዓለምለኻዊ ቅጥዕታት",
+    "checkedUseSetting": "ነዚ ቅጥዒ ንምንቅስቓስ ኣረጋግጽ።",
+    "excludeDomains": "ንኽግለሉ ዝግበኦም ኣስማት ዓውዲ ምውሳኽ ኣብ ሓደ እዋን ሓደ ስም ዓውዲ ጥራይ እዩ ክውሰኽ ዝኽእል።",
+    "seeExcludeExamplesLink": "ኣብነት",
+    "exclude": {
+      "example": {
+        "domain": "ንብምሉኡ ስም ዓውዲ ንምግላል ከም <code>{{url}}</code> ዝኣመሰለ ስም ዓውዲ ክትውስኽ ትኽእል ኢኻ።",
+        "url": "ፍሉያት መላግቦታት ከም <code>{{url}}</code> ዝኣመሰሉ መላግቦ ብምውሳኽ ከተግልል ትኽእል ኢኻ።",
+        "glob": "ንዘይንጹር ምትእስሳር {{glob}} ቅዲ ክትውስኽ ትኽእል ኢኻ፣ ከም <code>{{minimatch}}</code>።"
+      }
+    },
+    "script": "ዝያዳ ዝተራቐቐ ቁጽጽር ንምርካብ js ስክሪፕትታት እውን ክትጥቀም ትኽእል ኢኻ።",
+    "checkedUseScript": "ስክሪፕትካ ከተኽእሎ ድዩ ኣይኮንካን፡ ነቲ ስክሪፕት ንምንቅስቓስ ንኽልቲኡ ሳጹናት ብሓንሳብ ምልክት ክትገብር ከምዘለካ ኣስተውዕል።",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "ኣብዚ እዋን ኣብ {{youtube}} መርበብ ሓበሬታ፡ ናይ {{youtube}} ገጽ {{watch}} ወይ {{shorts}} ኣብ ሓድሽ ትብ ክትከፍቶ ኣለካ።",
+        "introVariables": "ሌላ ምስ ተለዋዋጢ ረቛሒታት",
+        "page": ": እቲ ተለዋዋጢ ናይቲ ሕጂ ዘሎ መርበብ ሓበሬታ ገጽ URL እዩ። በጃኹም ርኣዩ</a >",
+        "pageHost": ": ናይቲ ሕጂ ዘሎ መርበብ ሓበሬታ ገጽ ዶመይን ስም",
+        "isSameSubDomain": "{{isSameSubDomain}}: ሓደ ዓይነት ስም ዓውዲ ኣስተውዕል ዋላ እኳ እቶም ቀንዲ ኣስማት ዓውዲ {{youtube}}ን {{families}}ን ክልቲኦም {{mainDomain}} እንተኾኑ እቶም ንኡሳን ዓውድታት ግን {{youtubeSubDomain}}ን {{ን እዮም። familiesSubDomain}} ብቕደም ተኸተል ስለዚ ኣስማት ዶመይንኦም ዝተፈላለየ እዩ።",
+        "click": ": እቲ ጠዊቑ ዝነበረ ሊንክ",
+        "clickpath": "፦ መንገዲ ናይቲ ዝተጠውቐ ሊንክ",
+        "minimatch": ": {{glob}} ኣገባብ ምትእስሳር፣ {{minimatch}} ቤተ-መጻሕፍቲ ብምጥቃም፣ ኣገባብ ኣጠቓቕማ <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>በጃኻ ርአ</a>፣ ወይ ድማ ከመይ ጌርካ {{glob}} ትጥቀመሉ ክትደሊ ትኽእል ኢኻ።",
+        "rightTab": "፦ እቲ ሊንክ ኣብ የማን ኣብ ሓድሽ ትብ ይኽፈት",
+        "wholeCode": "ትርጉም ናይቲ ምሉእ ኮድ ኣብዚ እዋን ኣብ ናይ ዩቱብ {{www}} ናይ ዶሜይን ስም ገጽ፡ እቲ ዝተጠወቐ ሊንክ ሓደ ዓይነት ዶሜይን ስም እንተኾይኑን እቲ መንገዲ ብ {{watch}} ወይ {{shorts}} እንተጀሚሩን፡ ሽዑ እቲ ሓድሽ ትብ እዩ። ኣብ የማን ዘሎ ገጽ Open ክኸውን እዩ።"
+      }
+    }
+  },
+  "menu": {
+    "main": "ዓለምለኻዊ ውቅር"
+  }
+}

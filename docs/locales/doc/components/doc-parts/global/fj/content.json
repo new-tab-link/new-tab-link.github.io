@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Tuvatuva raraba",
+    "checkedUseSetting": "Raica me rawa kina na ituvatuva oqo.",
+    "excludeDomains": "Vakacuruma na yaca ni vanua me vakatabui E dua ga na yaca ni vanua e rawa ni vakacurumi ena dua na gauna.",
+    "seeExcludeExamplesLink": "IVakaraitaki",
+    "exclude": {
+      "example": {
+        "domain": "E rawa ni o vakacuruma e dua na yaca ni vanua, me vaka na <code>{{url}}</code>, me kakua ni okati kina na yaca taucoko ni vanua.",
+        "url": "E rawa ni o vakatabuya na veitaratara vakatabakidua ena nomu vakacuruma e dua na veitaratara, me vaka na <code>{{url}}</code>.",
+        "glob": "E rawa ni o vakacuruma e dua na ivakarau ni {{glob}}, me vaka na <kode>{{veiganiti lailai}}</kode>, me baleta na veiganiti fuzzy."
+      }
+    },
+    "script": "E rawa talega ni o vakayagataka na js volavola me rawati kina na lewa vakaitamera cake.",
+    "checkedUseScript": "Se me vakatarai na nomu volavola, raica ni dodonu mo vakadeitaka na kato ruarua ena dua ga na gauna me rawa kina na volavola.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ena gauna oqo ena {{youtube}} itukutuku, e dodonu mo dolava na {{raica}} se {{lekaleka}} na draunipepa ena dua na tabana vou.",
+        "introVariables": "ivakamacala taumada ni veisau",
+        "page": ": Na veisau sai koya na ka ni URL ni tabana ni itukutuku ena gauna oqo Me baleta na kena matailalai, <a href = 'vakatorocaketaka. Kerekere mo raica</a >",
+        "pageHost": ": Na yaca ni vanua ni itukutuku ni gauna oqo .",
+        "isSameSubDomain": "{{isSameSubDomain}}: Na yaca ni vanua vata ga Raica ni dina ga ni yaca ni vanua levu ni {{youtube}} kei na {{matavuvale}} e rua na {{vanua levu}}, na yaca ni vanua lailai e {{youtubeSubDomain}} kei na {{. matavuvaleSubDomain}} vakatautauvata Sa duidui kina na nodra yaca ni vanua.",
+        "click": ": na isema e kilikitaki",
+        "clickpath": ": Na sala ni veitaratara kiliki .",
+        "minimatch": ": {{global}} ivakarau ni veiganiti, vakayagataka na {{minimatch}} valenivolavola, na iwalewale ni vakayagataki <a href = ' Raica</a>, se rawa ni o vakasaqara na ivakarau ni kena vakayagataki na {{glob}}.",
+        "rightTab": ": Na isema e dolavi ena dua na tabana vou ena imatau .",
+        "wholeCode": "Na ibalebale ni code taucoko sai koya ena gauna oqo ena YouTube ni {{www}} tabana ni yaca ni vanua, kevaka na veitaratara kilikitaki na yaca ni vanua vata ga kei na sala e tekivu ena {{raica}} se {{lekaleka}}, sa qai na tabana vou . tabana ena imatau ena Dolavi."
+      }
+    }
+  },
+  "menu": {
+    "main": "Veivakarautaki raraba"
+  }
+}

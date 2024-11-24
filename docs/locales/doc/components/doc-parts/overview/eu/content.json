@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ireki Estekarekin luzapenaren ikuspegi orokorra",
+    "description": "<p>Luzapen honek hiperestekak nola irekitzen diren eroso kontrolatzeko aukera ematen du.</p><p>Leihoa: beste arakatzaile batzuk, leiho leiho berriak, leiho berriak, ezkutuko leiho berriak, uneko leihoa (lehenetsia)</p> <p >Fitxak: uneko fitxaren ezkerrean, uneko fitxan, uneko fitxaren eskuinean (lehenetsia)</p><p>Aktibazio egoera: inaktibo, berehala aktibatu (lehenetsia)</p>"
+  },
+  "menu": {
+    "main": "Ikuspegi orokorra"
+  }
+}

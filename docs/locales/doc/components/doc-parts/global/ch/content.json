@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "I setbisio siha gi enteru mundo",
+    "checkedUseSetting": "Chek para un na'siña este na setbisio.",
+    "excludeDomains": "Adda' i na'an i lugåt para u ma na'suha. Unu ha' na na'an i lugåt siña ma addåpta gi kada biåhi.",
+    "seeExcludeExamplesLink": "Ehemplu",
+    "exclude": {
+      "example": {
+        "domain": "Siña un addåpta un na'an i lugåt, taiguihi <code>{{url}}</code>, para un na'suha i enteru na na'an i lugåt.",
+        "url": "Siña un na'suha i espesiåt na liñguahe siha yanggen un addåpta un liñguahe, taiguihi <code>{{url}}</code>.",
+        "glob": "Siña un addåpta un {{glob}} na håfa, taiguihi <code>{{minimatch}}</code>, para i fuzzy matching."
+      }
+    },
+    "script": "Siña lokkue' un usa i js scripts para un na'guaha mas sofistikao na kontodu.",
+    "checkedUseScript": "Yanggen para un na'setbe i script-mu, debi di un chek i dos na kahon gi parehu na tiempo para un na'setbe i script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Gi i {{youtube}} na website på'go, debi di un abri i {{watch}} pat {{shorts}} na pahina gi {{youtube}} gi un nuebu na tab.",
+        "introVariables": "Introduksion put i båriåbles siha",
+        "page": ": I variåble i URL na kosas gi i web page på'go. Para i detalle, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> På'go, atan</a >",
+        "pageHost": ": I na'an i lugåt gi i web page på'go",
+        "isSameSubDomain": "{{isSameSubDomain}}: I mismo na na'an i lugåt. Na'tungo' na achokka' i na'an i {{youtube}} yan i {{families}} {{mainDomain}}, i na'an i subdomain siha {{youtubeSubDomain}} yan {{ familysSubDomain}} respektibu. Pues diferentes i na'an-ñiha.",
+        "click": ": i link ni' ma'a'atan",
+        "clickpath": ": I chalan i ma'a'atan na link",
+        "minimatch": ": {{glob}} matching method, using the {{minimatch}} library, the usage method <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>På'go Atan</a>, pat siña un sodda' taimanu un usa {{glob}}.",
+        "rightTab": ": I link ha abri gi un nuebu na tab gi agapa'",
+        "wholeCode": "I siniente-ña i enteru na kodu, na på'go gi i {{www}} na pahina gi YouTube, yanggen i link ni' ma'a'atan i mismo na na'an i lugåt ya i chalan ha tutuhon gi {{watch}} pat {{shorts}}, pues i nuebu na tab i pahina gi agapa' para u ma'abri."
+      }
+    }
+  },
+  "menu": {
+    "main": "Konfigurasion gi enteru mundo"
+  }
+}

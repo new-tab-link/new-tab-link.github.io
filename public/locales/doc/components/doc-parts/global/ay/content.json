@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Uraqpachan utt’ayatanaka",
+    "checkedUseSetting": "Aka wakicht’awix ch’amanchañatakiw uñakipt’aña.",
+    "excludeDomains": "Dominio sutinakax jan uñt’ayatäñapatakix mä dominio sutikiw yapxatasispa.",
+    "seeExcludeExamplesLink": "Uñanchawi",
+    "exclude": {
+      "example": {
+        "domain": "Mä dominio sutimpiw yapxatasma, kunjamatix <code>{{url}}</code>, taqpach dominio sutimp jan uñt’ayasiñataki.",
+        "url": "Mä chimpu yapxatasaxa, mä chiqaru uñt’ayaña, kunjamatixa <code>{{url}}</code>.",
+        "glob": "Mä {{glob}} uñacht’awimp yapxatasma, kunjamatix <code>{{minimatch}}</code>, jan qhanpach uñt’ayañataki."
+      }
+    },
+    "script": "Ukhamaraki js scripts ukax juk’amp sofisticado control ukar puriñatakiwa.",
+    "checkedUseScript": "Script ukar ch’amanchañatakiti janicha, amuyañamawa, panpacha chimpunak mä pachan chimpuntañamawa script ukar ch’amanchañataki.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Jichhax {{youtube}} sitio web ukanx {{youtube}} ukan {{watch}} jan ukax {{shorts}} ukan machaq tabla ukan jist’arañaw wakisi.",
+        "introVariables": "Variables ukanakat uñt’ayaña",
+        "page": ": Variable ukax jichha web ukan URL ukan yänakapawa, juk’amp yatxatañatakix, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Uñakipt’apxañani</a >",
+        "pageHost": ": Jichha web ukan dominio sutipa",
+        "isSameSubDomain": "{{isSameSubDomain}}: Pachpa dominio sutini, {{youtube}} ukat {{families}} uka jach’a dominio sutinakax {{mainDomain}} ukhamäkchisa, subdominio sutinakax {{youtubeSubDomain}} ukat {{ familiesSubDomain}} ukhamax jupanakan dominio sutinakapax mayj mayjawa.",
+        "click": ": uka link ukax ch’iqt’atawa",
+        "clickpath": ": Uka thakhix ch’iqt’atawa",
+        "minimatch": ": {{glob}} chikancht’asiñ thakhi, {{minimatch}} biblioteca apnaqasa, apnaqañ thakhi <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Askiw Uñxatt’aña</a>, jan ukax kunjams {{glob}} apnaqañax uk thaqhasma.",
+        "rightTab": ": Uka link ukax machaq tabla ukanw ch’iqa tuqin jist’arasi",
+        "wholeCode": "Taqi codigo ukan amuyupax jichhax YouTube ukan {{www}} dominio sutip uñt’ayatawa, ukax ch’iqt’at link ukax pachpa dominio sutimp ukhamarak thakhix {{watch}} jan ukax {{shorts}} ukamp qalltatawa, ukatx machaq tabla ch’iqa tuqinkir pankax Jist’aratawa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Uraqpachan uñt’ayawipa"
+  }
+}

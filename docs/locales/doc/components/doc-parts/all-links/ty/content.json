@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Te mau hono atoa",
+    "checkedUseSetting": "Hi'opo'a no te faati'a i teie faanahoraa.",
+    "excludeDomains": "Hoê ana'e i'oa tuhaa fenua e nehenehe e faaô atu i te hoê taime.",
+    "seeExcludeExamplesLink": "Tū'ā'āhuru",
+    "exclude": {
+      "example": {
+        "domain": "No te faaore i te i'oa tuhaa fenua taatoa, e nehenehe ta outou e tuu i te hoê i'oa tuhaa fenua mai te <code>{{url}}</code>.",
+        "url": "Na roto i te faaôraa mai i te hoê hono, mai te <code>{{url}}</code>, e nehenehe ta outou e faaore i te mau hono taa ê.",
+        "glob": "No te faaau i te hoê hoho'a, e nehenehe ta outou e faaô mai i te hoê hoho'a {{glob}}, mai te <code>{{ha'uti}}</code>."
+      }
+    }
+  },
+  "menu": {
+    "main": "Te mau hono atoa"
+  }
+}

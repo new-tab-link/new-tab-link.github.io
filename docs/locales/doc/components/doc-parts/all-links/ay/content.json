@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Taqi uka links ukanakaw utji",
+    "checkedUseSetting": "Aka wakicht’awix ch’amanchañatakiw uñakipt’aña.",
+    "excludeDomains": "Dominio sutinakax jan uñt’ayatäñapatakix mä dominio sutikiw yapxatasispa.",
+    "seeExcludeExamplesLink": "Uñanchawi",
+    "exclude": {
+      "example": {
+        "domain": "Mä dominio sutimpiw yapxatasma, kunjamatix <code>{{url}}</code>, taqpach dominio sutimp jan uñt’ayasiñataki.",
+        "url": "Mä chimpu yapxatasaxa, mä chiqaru uñt’ayaña, kunjamatixa <code>{{url}}</code>.",
+        "glob": "Mä {{glob}} uñacht’awimp yapxatasma, kunjamatix <code>{{minimatch}}</code>, jan qhanpach uñt’ayañataki."
+      }
+    }
+  },
+  "menu": {
+    "main": "Taqi uka links ukanakaw utji"
+  }
+}

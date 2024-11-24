@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Socruithe domhanda",
+    "checkedUseSetting": "Seiceáil chun an socrú seo a chumasú.",
+    "excludeDomains": "Cuir ainmneacha fearainn leis nach féidir ach ainm fearainn amháin a chur leis ag an am céanna.",
+    "seeExcludeExamplesLink": "Sampla",
+    "exclude": {
+      "example": {
+        "domain": "Is féidir leat ainm fearainn a chur leis, mar <code>{{url}}</code>, chun an t-ainm fearainn iomlán a eisiamh.",
+        "url": "Is féidir leat naisc ar leith a eisiamh trí nasc a chur leis, mar <code>{{url}}</code>.",
+        "glob": "Is féidir leat patrún {{glob}} a chur leis, mar <code>{{minimatch}}</code>, le haghaidh meaitseáil doiléir."
+      }
+    },
+    "script": "Is féidir leat scripteanna js a úsáid freisin chun rialú níos sofaisticiúla a bhaint amach.",
+    "checkedUseScript": "Cibé an bhfuil tú chun do script a chumasú, tabhair faoi deara go gcaithfidh tú an dá bhosca a sheiceáil ag an am céanna chun an script a chumasú.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ar shuíomh Gréasáin {{youtube}} faoi láthair, ní mór duit leathanach {{watch}} nó {{shorts}} {{youtube}} a oscailt i gcluaisín nua.",
+        "introVariables": "Réamhrá ar athróga",
+        "page": ": Is é an t-athróg oibiacht URL an leathanaigh ghréasáin reatha. Féach</a> le do thoil",
+        "pageHost": ": Ainm fearainn an leathanaigh ghréasáin reatha",
+        "isSameSubDomain": "{{ isSameSubDomain}}: An t-ainm fearainn céanna. teaghlaighSubDomain}} faoi seach, mar sin tá a n-ainmneacha fearainn difriúil.",
+        "click": ": an nasc ar chliceáil air",
+        "clickpath": ": Conair an naisc chliceáilte",
+        "minimatch": ": {{glob}} modh meaitseála, ag baint úsáid as an leabharlann {{minimatch}}, an modh úsáide <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Le do thoil Féach</a>, nó is féidir leat cuardach a dhéanamh ar conas {{glob}} a úsáid.",
+        "rightTab": ": Osclaíonn an nasc i gcluaisín nua ar dheis",
+        "wholeCode": "Is é brí an chóid iomláin ná go bhfuil an t-ainm fearainn céanna ar an leathanach ainm fearainn {{www}} ar YouTube faoi láthair, más é an nasc a chliceáiltear an t-ainm fearainn céanna agus má thosaíonn an cosán le {{watch}} nó {{shorts}}, ansin an cluaisín nua beidh an leathanach ar dheis Oscailte."
+      }
+    }
+  },
+  "menu": {
+    "main": "Cumraíocht dhomhanda"
+  }
+}

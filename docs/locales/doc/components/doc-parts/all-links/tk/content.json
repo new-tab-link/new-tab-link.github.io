@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Linkshli baglanyşyklar",
+    "checkedUseSetting": "Bu sazlamany işletmek üçin barlaň.",
+    "excludeDomains": "Aýyryljak domen atlaryny goşuň.",
+    "seeExcludeExamplesLink": "Mysal",
+    "exclude": {
+      "example": {
+        "domain": "Domainhli domen adyny aýyrmak üçin <code> {{url}} </code> ýaly domen adyny goşup bilersiňiz.",
+        "url": "<code> {{url}} </code> ýaly baglanyşyk goşup, belli baglanyşyklary aýryp bilersiňiz.",
+        "glob": "Bulaşyk gabat gelmek üçin <code> {im minimatch}} </code> ýaly {{glob}} nagşyny goşup bilersiňiz."
+      }
+    }
+  },
+  "menu": {
+    "main": "Linkshli baglanyşyklar"
+  }
+}

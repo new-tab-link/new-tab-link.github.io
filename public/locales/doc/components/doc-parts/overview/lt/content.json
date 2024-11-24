@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Nuorodos Atidaryti naudojant plėtinį apžvalga",
+    "description": "<p>Šis plėtinys leidžia patogiai valdyti, kaip atidaromi hipersaitai.</p><p>Langas: kitos naršyklės, iššokantys langai, nauji langai, nauji inkognito langai, dabartinis langas (numatytasis)</p> <p >Skirtukai: dabartinio skirtuko kairėje, dabartiniame skirtuke, dabartinio skirtuko dešinėje (numatytasis)</p><p>Suaktyvinimo būsena: neaktyvi, suaktyvinti nedelsiant (numatytasis)</p>"
+  },
+  "menu": {
+    "main": "Apžvalga"
+  }
+}

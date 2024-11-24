@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Dhammaan xiriiriyeyaasha",
+    "checkedUseSetting": "Hubi si aad awood ugu yeelatid dejintan.",
+    "excludeDomains": "Ku dar magacyo domain in laga reebo hal magac oo kaliya ayaa lagu dari karaa markiiba.",
+    "seeExcludeExamplesLink": "Tusaale",
+    "exclude": {
+      "example": {
+        "domain": "Waxaad ku dari kartaa magac domain, sida <code>{{url}}</code>, si aad uga saarto dhammaan magaca domainka.",
+        "url": "Waxaad ka saari kartaa xiriiriyeyaasha gaarka ah adiga oo ku dara xiriiriye, sida <code>{{url}}</code>.",
+        "glob": "Waxaad ku dari kartaa qaab {{glob}} ah, sida <code>{{minimatch}}</code>, si aad u dhigma."
+      }
+    }
+  },
+  "menu": {
+    "main": "Dhammaan xiriiriyeyaasha"
+  }
+}

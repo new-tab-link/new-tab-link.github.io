@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Apèsi sou ekstansyon Link Open With a",
+    "description": "<p>Ektansyon sa a pèmèt ou byen kontwole kijan lyen ipèr yo louvri.</p><p>Fenèt: lòt navigatè, fenèt pop-up, nouvo fenèt, nouvo fenèt enkoyito, fenèt aktyèl la (default)</p> <p >Onglet: agoch ​​tab aktyèl la, tab aktyèl la, adwat tab aktyèl la (default)</p><p>Eta aktivasyon: inaktif, aktive imedyatman (default)</p>"
+  },
+  "menu": {
+    "main": "Apèsi sou lekòl la"
+  }
+}

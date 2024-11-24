@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Link ahorow no nyinaa",
+    "checkedUseSetting": "Hwɛ sɛ wobɛma nhyehyɛe yi atumi ayɛ adwuma.",
+    "excludeDomains": "Fa domain din a wɔbɛyi afiri mu ka ho.",
+    "seeExcludeExamplesLink": "Nhwɛsoɔ",
+    "exclude": {
+      "example": {
+        "domain": "Wubetumi de domain din bi aka ho, te sɛ <code>{{url}}</code>, de ayi domain din no nyinaa afi mu.",
+        "url": "Wubetumi ayi nkitahodi pɔtee bi afi mu denam nkitahodi bi a wode bɛka ho, te sɛ <code>{{url}}</code>.",
+        "glob": "Wubetumi de {{glob}} nhwɛsode bi aka ho, te sɛ <code>{{minimatch}}</code>, ama fuzzy matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Link ahorow no nyinaa"
+  }
+}

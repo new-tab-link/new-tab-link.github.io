@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Pregled razširitve Link Open With",
+    "description": "<p>Ta razširitev vam omogoča priročno upravljanje načina odpiranja hiperpovezav.</p><p>Okno: drugi brskalniki, pojavna okna, nova okna, nova okna brez beleženja zgodovine, trenutno okno (privzeto)</p> <p >Zavihki: levo od trenutnega zavihka, trenutni zavihek, desno od trenutnega zavihka (privzeto)</p><p>Stanje aktiviranja: neaktivno, aktiviraj takoj (privzeto)</p>"
+  },
+  "menu": {
+    "main": "Pregled"
+  }
+}

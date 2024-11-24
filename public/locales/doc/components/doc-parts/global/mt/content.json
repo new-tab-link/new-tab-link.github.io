@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Settings globali",
+    "checkedUseSetting": "Iċċekkja biex tippermetti dan is-setting.",
+    "excludeDomains": "Żid ismijiet tad-dominju biex jiġu esklużi Isem tad-dominju wieħed biss jista' jiżdied kull darba.",
+    "seeExcludeExamplesLink": "Eżempju",
+    "exclude": {
+      "example": {
+        "domain": "Tista' żżid isem tad-dominju, bħal <code>{{url}}</code>, biex teskludi l-isem tad-dominju kollu.",
+        "url": "Tista' teskludi links speċifiċi billi żżid link, bħal <code>{{url}}</code>.",
+        "glob": "Tista' żżid mudell {{glob}}, bħal <code>{{minimatch}}</code>, għal tqabbil fuzzy."
+      }
+    },
+    "script": "Tista 'wkoll tuża skripts js biex tikseb kontroll aktar sofistikat.",
+    "checkedUseScript": "Jekk tattivax l-iskrittura tiegħek, innota li għandek bżonn tiċċekkja ż-żewġ kaxxi fl-istess ħin biex tippermetti l-iskrittura.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Bħalissa fuq il-websajt ta' {{youtube}}, trid tiftaħ il-paġna {{watch}} jew {{shorts}} ta' {{youtube}} f'tab ġdida.",
+        "introVariables": "Introduzzjoni għall-varjabbli",
+        "page": ": Il-varjabbli hija l-oġġett tal-URL tal-paġna web attwali Għad-dettalji, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Jekk jogħġbok ara</a >",
+        "pageHost": ": L-isem tad-dominju tal-paġna web attwali",
+        "isSameSubDomain": "{{isSameSubDomain}}: L-istess isem tad-dominju Innota li għalkemm l-ismijiet tad-dominju prinċipali ta' {{youtube}} u {{families}} huma t-tnejn {{mainDomain}}, l-ismijiet tas-sottodominju huma {{youtubeSubDomain}} u {{. familiesSubDomain}} rispettivament. Allura l-ismijiet tad-dominju tagħhom huma differenti.",
+        "click": ": il-link li għafast",
+        "clickpath": ": Il-mogħdija tal-link ikklikkjat",
+        "minimatch": ": {{glob}} metodu ta' tqabbil, bl-użu tal-librerija {{minimatch}}, il-metodu ta' użu <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Jekk jogħġbok Ara</a>, jew tista' tfittex kif tuża {{glob}}.",
+        "rightTab": ": Il-link tiftaħ f'tab ġdida fuq il-lemin",
+        "wholeCode": "It-tifsira tal-kodiċi kollu hija li bħalissa fil-paġna tal-isem tad-dominju {{www}} ta’ YouTube, jekk il-link ikklikkjat tkun l-istess isem tad-dominju u l-mogħdija tibda b’{{watch}} jew {{shorts}}, allura t-tab il-ġdida paġna fuq il-lemin se tkun Miftuħa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Konfigurazzjoni globali"
+  }
+}

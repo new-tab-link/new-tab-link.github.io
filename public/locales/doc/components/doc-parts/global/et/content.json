@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globaalsed seaded",
+    "checkedUseSetting": "Märkige selle sätte lubamiseks.",
+    "excludeDomains": "Lisage välistatavaid domeeninimesid. Korraga saab lisada ainult ühe domeeninime.",
+    "seeExcludeExamplesLink": "Näide",
+    "exclude": {
+      "example": {
+        "domain": "Saate lisada domeeninime, näiteks <code>{{url}}</code>, et välistada kogu domeeninimi.",
+        "url": "Konkreetsed lingid saate välistada, lisades lingi, näiteks <code>{{url}}</code>.",
+        "glob": "Häguseks sobitamiseks saate lisada mustri {{glob}}, näiteks <code>{{minimatch}}</code>."
+      }
+    },
+    "script": "Täpsema juhtimise saavutamiseks saate kasutada ka js-skripte.",
+    "checkedUseScript": "Kas soovite skripti lubada, pange tähele, et skripti lubamiseks peate märkima mõlemad ruudud korraga.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Praegu veebisaidil {{youtube}} peate avama {{youtube}} lehe {{watch}} või {{shorts}} uuel vahelehel.",
+        "introVariables": "Sissejuhatus muutujatesse",
+        "page": ": muutuja on praeguse veebilehe URL-i objekt. Üksikasju leiate aadressilt <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Vaadake</a >",
+        "pageHost": ": praeguse veebilehe domeeninimi",
+        "isSameSubDomain": "{{isSameSubDomain}}: sama domeeninimi, kuigi domeenide {{youtube}} ja {{families}} peamised domeeninimed on mõlemad {{mainDomain}}, on alamdomeeninimed {{youtubeSubDomain}} ja {{. FamilySubDomain}}, seega on nende domeeninimed erinevad.",
+        "click": ": link, millel klõpsati",
+        "clickpath": ": klõpsatud lingi tee",
+        "minimatch": ": {{glob}} vastemeetod, kasutades teeki {{minimatch}}, kasutusmeetodit <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Palun Vaadake</a> või otsige, kuidas {{glob}} kasutada.",
+        "rightTab": ": link avaneb paremal uuel vahelehel",
+        "wholeCode": "Kogu koodi tähendus seisneb selles, et kui klõpsatud lingil on praegu YouTube'i domeeninime {{www}} domeeninimi ja tee algab tähega {{watch}} või {{shorts}}, siis uus vahekaart Paremal olev leht on Avatud."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globaalne konfiguratsioon"
+  }
+}

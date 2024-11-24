@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Todos os links",
+    "checkedUseSetting": "Marque para ativar esta definição.",
+    "excludeDomains": "Adicione nomes de domínio a eliminar Apenas pode ser adicionado um nome de domínio de cada vez.",
+    "seeExcludeExamplesLink": "Exemplo",
+    "exclude": {
+      "example": {
+        "domain": "Pode adicionar um nome de domínio, como <code>{{url}}</code>, para eliminar todo o nome de domínio.",
+        "url": "Pode eliminar links específicos adicionando um link, como <code>{{url}}</code>.",
+        "glob": "Pode adicionar um padrão {{glob}}, como <code>{{minimatch}}</code>, para correspondência difusa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Todos os links"
+  }
+}

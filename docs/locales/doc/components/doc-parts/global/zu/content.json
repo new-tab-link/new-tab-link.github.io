@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Izilungiselelo zomhlaba jikelele",
+    "checkedUseSetting": "Hlola ukuze unike amandla lesi silungiselelo.",
+    "excludeDomains": "Engeza amagama wesizinda ukuba akhishwe Lilodwa kuphela igama lesizinda kungenziwa wanezela ngesikhathi.",
+    "seeExcludeExamplesLink": "Isibonelo",
+    "exclude": {
+      "example": {
+        "domain": "Ungakwazi ukwengeza igama lesizinda, elifana ne-<code>{{url}}</code>, ukuze ukhiphe lonke igama lesizinda.",
+        "url": "Ungakhipha izixhumanisi ezithile ngokungeza isixhumanisi, esifana ne-<code>{{url}}</code>.",
+        "glob": "Ungangeza iphethini ye-{{glob}}, efana ne-<code>{{minimatch}}</code>, ukuze uthole ukufanisa okungaqondakali."
+      }
+    },
+    "script": "Ungasebenzisa futhi imibhalo ye-js ukuze uzuze ukulawula okuyinkimbinkimbi.",
+    "checkedUseScript": "Ukuthi uvumela iskripthi sakho, qaphela ukuthi udinga ukuthikha womabili amabhokisi ngesikhathi esisodwa ukuze unike iskripthi amandla.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Okwamanje kuwebhusayithi ye-{{youtube}}, udinga ukuvula ikhasi le-{{youtube}} {{watch}} noma {{shorts}} kuthebhu entsha.",
+        "introVariables": "Isingeniso sokuguquguquka",
+        "page": ": Okuguquguqukayo into ye-URL yekhasi lewebhu lamanje Ukuze uthole imininingwane, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Sicela ubone</a>",
+        "pageHost": ": Igama lesizinda lekhasi lewebhu lamanje",
+        "isSameSubDomain": "{{isSameSubDomain}}: Igama lesizinda elifanayo. Qaphela ukuthi nakuba amagama esizinda se-{{youtube}} kanye ne-{{families}} kokubili {{mainDomain}}, amagama esizinda esincane athi {{youtubeSubDomain}} kanye nokuthi {{ familiesSubDomain}} Ngakho amagama abo esizinda ahlukile.",
+        "click": ": isixhumanisi esichofoziwe",
+        "clickpath": ": Indlela yesixhumanisi esichofoziwe",
+        "minimatch": ": {{glob}} indlela yokufanisa, kusetshenziswa ilabhulali ye-{{minimatch}}, indlela yokusebenzisa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Sicela Bona</a>, noma ungasesha indlela yokusebenzisa i-{{glob}}.",
+        "rightTab": ": Isixhumanisi sivula kuthebhu entsha kwesokudla",
+        "wholeCode": "Incazelo yayo yonke ikhodi ukuthi okwamanje ekhasini lesizinda se-{{www}} le-YouTube, uma isixhumanisi esichofoziwe siyigama lesizinda elifanayo futhi indlela iqala ngokuthi {{watch}} noma {{shorts}}, bese kuba ithebhu entsha. ikhasi kwesokudla lizoba Vula."
+      }
+    }
+  },
+  "menu": {
+    "main": "Ukucushwa komhlaba wonke"
+  }
+}

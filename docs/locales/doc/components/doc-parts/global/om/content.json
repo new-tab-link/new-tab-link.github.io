@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Sajoo addunyaa",
+    "checkedUseSetting": "Sajoo kana dandeessisuuf ilaali.",
+    "excludeDomains": "Maqaa domeenii akka hin dabalamne dabali Yeroo tokkotti maqaa domeenii tokko qofatu dabalamuu danda'a.",
+    "seeExcludeExamplesLink": "Fakkeenya",
+    "exclude": {
+      "example": {
+        "domain": "Maqaa domeenii, kan akka <code>{{url}}</code>, guutuu maqaa domeenii hambisuuf dabaluu dandeessa.",
+        "url": "Hidhamtoota murtaa'oo hidhaa dabaluudhaan, kan akka <code>{{url}}</code>, hambisuu dandeessa.",
+        "glob": "Walsimsiisa fuzzy'f shaakala {{glob}}, kan akka <code>{{minimatch}}</code>, dabaluu dandeessa."
+      }
+    },
+    "script": "Akkasumas too'annoo caalaatti ulfaataa ta'e galmaan ga'uuf iskiriiptii js fayyadamuu dandeessa.",
+    "checkedUseScript": "Iskiriiptii kee dandeessisuuf moo, iskiriiptii dandeessisuuf yeroo tokkotti sanduuqa lamaan mallatteessuu akka qabdu hubadhu.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Yeroo ammaa marsariitii {{youtube}} irratti, fuula {{youtube}} {{watch}} ykn {{shorts}} caancala haaraa keessatti banuun si barbaachisa.",
+        "introVariables": "Seensa jijjiiramootaa",
+        "page": ": Jijjiiramaan wanta URL fuula weeb ammaati Bal'inaaf, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Mee ilaalaa</a >",
+        "pageHost": ": Maqaa domeenii fuula weebsaayitii ammaa",
+        "isSameSubDomain": "{{isSameSubDomain}}: Maqaa domeenii walfakkaataa Hubadhu maqaan domeenii ijoo {{youtube}} fi {{families}} lamaan isaanii {{mainDomain}} ta'anis, maqaan domeenii xiqqaa {{youtubeSubDomain}} fi {{ti. familiesSubDomain}} akkaataa walduraa duubaan Kanaafuu maqaan domeenii isaanii adda adda.",
+        "click": ": hidhaa cuqaafame",
+        "clickpath": ": Daandii hidhaa cuqaafame",
+        "minimatch": ": {{glob}} mala walsimsiisaa, mana kitaabaa {{minimatch}} fayyadamuun, mala itti fayyadama <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Maaloo Ilaali</a>, ykn akkaataa itti fayyadama {{glob}} barbaaduu dandeessa.",
+        "rightTab": ": Hidhiin kun caancala haaraa mirga irratti banama",
+        "wholeCode": "Hiikni koodii guutuu yeroo ammaa fuula maqaa domeenii YouTube {{www}} keessa jiru, yoo hidhiin cuqaafame maqaa domeenii walfakkaataa ta'ee fi daandii {{watch}} ykn {{shorts}} jalqabe, sana booda caancala haaraa fuula mirgaa irratti banaa ta'a."
+      }
+    }
+  },
+  "menu": {
+    "main": "Qindaa'ina addunyaa"
+  }
+}

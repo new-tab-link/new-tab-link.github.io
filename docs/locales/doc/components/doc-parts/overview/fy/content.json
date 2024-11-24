@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Oersjoch fan de Link Open With extension",
+    "description": "<p>Dizze tafoeging lit jo maklik kontrolearje hoe't hyperlinks iepene wurde.</p><p>Finster: oare browsers, pop-upfinsters, nije finsters, nije incognito-finsters, aktueel finster (standert)</p> <p >Ljeppers: lofts fan aktuele ljepper, aktuele ljepper, rjochts fan aktuele ljepper (standert)</p><p>Aktivaasjestatus: ynaktyf, direkt aktivearje (standert)</p>"
+  },
+  "menu": {
+    "main": "Oersicht"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ochiq havola kengaytmasining umumiy ko'rinishi",
+    "description": "<p>Ushbu kengaytma giperhavolalar qanday ochilishini qulay boshqarish imkonini beradi.</p><p>Oyna: boshqa brauzerlar, qalqib chiquvchi oynalar, yangi oynalar, yangi inkognito oynalari, joriy oyna (standart)</p> <p >Yorliqlar: joriy varaqning chap tomoni, joriy varaq, joriy varaqning o‘ng tomoni (standart)</p><p>Faollanish holati: faol emas, darhol faollashtiring (standart)</p>"
+  },
+  "menu": {
+    "main": "Umumiy koʻrinish"
+  }
+}

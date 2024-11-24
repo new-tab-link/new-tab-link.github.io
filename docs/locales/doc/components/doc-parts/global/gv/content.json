@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Soitçhyn cruinney",
+    "checkedUseSetting": "Check dy vel y rheynn shoh er ny choyrt.",
+    "excludeDomains": "Cur rish ainmyn domain dy ve er nyn skyn Cha nel agh un ainm domain ry-chur rish y traa.",
+    "seeExcludeExamplesLink": "Sambyl",
+    "exclude": {
+      "example": {
+        "domain": "Faggys da'n ennym-chreck y chur rish, myr sampleyr <code>{{url}}</code>, dy chur magh yn ennym-chreck ooilley.",
+        "url": "Foddee oo cur magh kianglaghyn er-lheh liorish cur kiangley stiagh, myr sampleyr <code>{{url}}</code>.",
+        "glob": "Foddee oo cur pattyr {{glob}} er, myr sampleyr <code>{{coardail beg}}</code>, son co-choardail doaltattym."
+      }
+    },
+    "script": "Ta scriptyn js ry-chlashtyn myrgeddin son stiurey smoo sophisticated.",
+    "checkedUseScript": "As my shegin dhyt y script y ghleiy, jean toiggal dy vel feme ort da'n daa bhox y ghleiy 'sy traa cheddin dy ghleiy y script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ec y traa t'ayn er yn ynnyd-eggey {{youtube}}, shegin dhyt foshley yn duillag {{yeeaghyn}} ny {{shorts}} {{youtube}} ayns tab noa.",
+        "introVariables": "Roish-ymmyd jeh caghlaaghyn",
+        "page": ": Ta'n obbyr URL jeh'n duillag web t'ayn nish Son fys, <a href='blank' rel='noreferrer'>. Cur-my-ner</a >",
+        "pageHost": ": Yn ennym domain jeh'n duillag web ry-hoi",
+        "isSameSubDomain": "{{isSameSubDomain}}: Yn un ainm-chreck Tastey dy vel ny p'raad-chreck {{youtube}} as {{family}} ny p'raad-chreck {{pryssoo-chreck}} as {{youtubeSubDomain}} as {{. familiesSubDomain}} myr-t'eh, t'ad ry-cheilley.",
+        "click": ": yn linney v'er ny cliaghtey",
+        "clickpath": ": Yn raad jeh'n linney cliaghtey",
+        "minimatch": ": moddey co-chosney {{glob}}, liorish ymmyd jeh'n leibrey {{minimatch}}, moddey ymmyd <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Please Jeeagh</a>, ny foddee oo shirrey myr jannoo ymmyd jeh {{glob}}.",
+        "rightTab": ": Ta'n linney foshlit ayns tab noa er y laue yesh .",
+        "wholeCode": "Ta'n stayd jeh'n code ooilley dy vel eh er y duillag ennym-feer {{www}} jeh YouTube, my ta'n linney cliaghtey yn un ennym-feer as ta'n raad toshiaght lesh {{watch}} ny {{shorts}}, eisht ta'n tab noa . page er y laue yesh bee eh Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Reihys cruinney"
+  }
+}

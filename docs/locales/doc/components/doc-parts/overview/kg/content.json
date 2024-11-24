@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ntalu ya fioti ya Lien ya kukangula ti extension",
+    "description": "<p>Extension yayi ke sadisa nge na kuyala mbote mutindu ba hyperliens ke kangukaka.</p><p>Fenêtre: ba navigateur ya nkaka, ba fenetre ya ke basikaka, ba fenetre ya mpa, ba fenetre ya mpa ya incognito, fenetre ya ntangu yai (na luyantiku)</p> <p >Ba-onglet: na diboko ya kimama ya tab ya ntangu yai, tab ya ntangu yai, na diboko ya kitata ya tab ya ntangu yai (na luyantiku)</p><p>Statu ya kusala: inactif, kusala mbala mosi (na luyantiku)</p>"
+  },
+  "menu": {
+    "main": "Bunda"
+  }
+}

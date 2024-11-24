@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Ba liens nionso",
+    "checkedUseSetting": "Tala mpo na kofungola paramètre oyo.",
+    "excludeDomains": "Bakisa ba kombo ya domaine oyo esengeli kolongolama Kaka kombo ya domaine moko nde ekoki kobakisa na mbala moko.",
+    "seeExcludeExamplesLink": "Ndakisa",
+    "exclude": {
+      "example": {
+        "domain": "Okoki kobakisa nkombo ya domaine, lokola <code>{{url}}</code>, mpo na kolongola nkombo ya domaine mobimba.",
+        "url": "Okoki kolongola ba liens ya sikisiki na kobakisa lien, lokola <code>{{url}}</code>.",
+        "glob": "Okoki kobakisa motindo ya {{glob}}, lokola <code>{{minimatch}}</code>, mpo na boyokani ya flou."
+      }
+    }
+  },
+  "menu": {
+    "main": "Ba liens nionso"
+  }
+}

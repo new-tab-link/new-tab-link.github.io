@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Toate linkurile",
+    "checkedUseSetting": "Bifați pentru a activa această setare.",
+    "excludeDomains": "Adăugați nume de domeniu pentru a fi excluse.",
+    "seeExcludeExamplesLink": "Exemplu",
+    "exclude": {
+      "example": {
+        "domain": "Puteți adăuga un nume de domeniu, cum ar fi <code>{{url}}</code>, pentru a exclude întregul nume de domeniu.",
+        "url": "Puteți exclude anumite linkuri adăugând un link, cum ar fi <code>{{url}}</code>.",
+        "glob": "Puteți adăuga un model {{glob}}, cum ar fi <code>{{minimatch}}</code>, pentru potrivirea neclară."
+      }
+    }
+  },
+  "menu": {
+    "main": "Toate linkurile"
+  }
+}

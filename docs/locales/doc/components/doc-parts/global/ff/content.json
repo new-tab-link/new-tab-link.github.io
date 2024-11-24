@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Dottaaɗe aduna",
+    "checkedUseSetting": "Ƴeewto ngam softinde ngoo doggol.",
+    "excludeDomains": "Ɓeydu inɗe domen ngam ittude Ko innde domen wootere tan waawi ɓeydeede e sahaa gooto.",
+    "seeExcludeExamplesLink": "Sappinol",
+    "exclude": {
+      "example": {
+        "domain": "Aɗa waawi ɓeydude innde domen, hono <code>{{url}}</code>, ngam ittude innde domen ndee fof.",
+        "url": "Aɗa waawi ittude jokkorɗe keertiiɗe so a ɓeydii heen jokkorde, hono <code>{{url}}</code>.",
+        "glob": "Aɗa waawi ɓeydude heen mbaydi {{glob}}, hono <kode>{{jokkondire tokoose}}</kode>, ngam jokkondire ɓuuɓɗe."
+      }
+    },
+    "script": "Aɗa waawi kadi huutoraade binndanɗe js ngam heɓde ƴeewndo ɓurngo softude.",
+    "checkedUseScript": "So tawii ko ngam softinde binndol maa, tesko wonde aɗa foti ƴeewtaade kaayitaaji ɗiɗi ɗii fof e sahaa gooto ngam softinde binndol ngol.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Jooni e lowre {{youtube}}, aɗa foti udditde hello {{watch}} maa {{shorts}} {{youtube}} e nder tablo keso.",
+        "introVariables": "Naatgol e waylooji",
+        "page": ": Waɗde ko huunde URL hello web jooni ngoo Ngam humpitaade, <a href='blank' rel='noreferrer'> Tiiɗno ƴeew</a >",
+        "pageHost": ": Innde domen hello web jooni ngoo",
+        "isSameSubDomain": "{{isSameSubDomain}}: Innde domen wootere Tesko-ɗen wonde hay so tawii inɗe domen mawɗe {{youtube}} e {{galleeji}} fof ko {{DomenMawɗo}}, inɗe domen tokoose ɗee ko {{DomenLowreYoutube}} e {{. familiesSubDomain}} ko noon inɗe domen maɓɓe ceertiri.",
+        "click": ": jokkorde nde ɓuuɓnaa",
+        "clickpath": ": Laawol jokkorde ɓuuɓnde ndee",
+        "minimatch": ": feere kawral {{glob}}, kuutortooɗo defterdu {{minimatch}}, feere kuutoragol <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Eɗen ñaagii Ƴeew</a>, walla aɗa waawi yiylaade no {{glob}} huutortee.",
+        "rightTab": ": Jokkorde ndee uddittee ko e lowre hesere to bannge ñaamo",
+        "wholeCode": "Maanaa kod oo fof ko jooni e hello innde domen YouTube {{www}}, so tawii jokkorde nde ɓuuɓnaa ndee ko innde domen wootere, laawol ngol fuɗɗotoo ko e {{watch}} walla {{shorts}}, ndeen tab keso oo hello to bannge ñaamo maa won Uddit."
+      }
+    }
+  },
+  "menu": {
+    "main": "Konfiguraasiyoŋ aduna"
+  }
+}

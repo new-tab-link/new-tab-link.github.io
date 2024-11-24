@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Duk hanyoyin haɗin gwiwa",
+    "checkedUseSetting": "Duba don kunna wannan saitin.",
+    "excludeDomains": "Ƙara sunayen yanki don cirewa Sunan yanki ɗaya kaɗai za a iya ƙarawa a lokaci guda.",
+    "seeExcludeExamplesLink": "Misali",
+    "exclude": {
+      "example": {
+        "domain": "Kuna iya ƙara sunan yanki, kamar <code>{{url}}</code>, don keɓe sunan yankin gaba ɗaya.",
+        "url": "Kuna iya keɓance takamaiman hanyoyin haɗin gwiwa ta ƙara hanyar haɗin gwiwa, kamar <code>{{url}}</code>.",
+        "glob": "Kuna iya ƙara ƙirar {{glob}}, kamar <code>{{minimatch}}</code>, don daidaitawa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Duk hanyoyin haɗin gwiwa"
+  }
+}

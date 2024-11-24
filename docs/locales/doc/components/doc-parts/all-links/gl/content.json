@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Todas as ligazóns",
+    "checkedUseSetting": "Marque para activar esta configuración.",
+    "excludeDomains": "Engade nomes de dominio para excluír. Só se pode engadir un nome de dominio á vez.",
+    "seeExcludeExamplesLink": "Exemplo",
+    "exclude": {
+      "example": {
+        "domain": "Podes engadir un nome de dominio, como <code>{{url}}</code>, para excluír todo o nome de dominio.",
+        "url": "Podes excluír ligazóns específicas engadindo unha ligazón, como <code>{{url}}</code>.",
+        "glob": "Podes engadir un patrón {{glob}}, como <code>{{minimatch}}</code>, para unha coincidencia difusa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Todas as ligazóns"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Opaite enlace",
+    "checkedUseSetting": "Ehecháke emboguata hag̃ua ko ñemboheko.",
+    "excludeDomains": "Emoĩve dominio réra oñemboyke hag̃ua peteĩ dominio réra añoite ikatu oñembojoapy peteĩ jeýpe.",
+    "seeExcludeExamplesLink": "Tembiecharã",
+    "exclude": {
+      "example": {
+        "domain": "Ikatu emoĩ peteĩ dominio réra, ha’eháicha <code>{{url}}</code>, emboyke hag̃ua dominio réra tuichakue.",
+        "url": "Ikatu emboyke umi joajuha específico emoĩvo peteĩ joajuha, ha’eháicha <code>{{url}}</code>.",
+        "glob": "Ikatu emoĩ peteĩ {{glob}} ra’ãnga, ha’eháicha <code>{{minimatch}}</code>, joaju difuso-pe g̃uarã."
+      }
+    }
+  },
+  "menu": {
+    "main": "Opaite enlace"
+  }
+}

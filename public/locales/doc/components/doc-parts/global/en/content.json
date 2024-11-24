@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Global settings",
+    "checkedUseSetting": "Check to enable this setting.",
+    "excludeDomains": "Add domain names to be excluded. Only one domain name can be added at a time.",
+    "seeExcludeExamplesLink": "Example",
+    "exclude": {
+      "example": {
+        "domain": "You can add a domain name, such as <code>{{url}}</code>, to exclude the entire domain name.",
+        "url": "You can exclude specific links by adding a link, such as <code>{{url}}</code>.",
+        "glob": "You can add a {{glob}} pattern, such as <code>{{minimatch}}</code>, for fuzzy matching."
+      }
+    },
+    "script": "You can also use js scripts to achieve more sophisticated control.",
+    "checkedUseScript": "Whether to enable your script, note that you need to check both boxes at the same time to enable the script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Currently on the {{youtube}} website, you need to open {{youtube}}'s {{watch}} or {{shorts}} page in a new tab.",
+        "introVariables": "Introduction to variables",
+        "page": ": The variable is the URL object of the current web page. For details, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>Please see</a >",
+        "pageHost": ": The domain name of the current web page",
+        "isSameSubDomain": "{{isSameSubDomain}}: The same domain name. Note that although the main domain names of {{youtube}} and {{families}} are both {{mainDomain}}, the subdomain names are {{youtubeSubDomain}} and {{familiesSubDomain}} respectively. So their domain names are different.",
+        "click": ": the link that was clicked",
+        "clickpath": ": The path of the clicked link",
+        "minimatch": ": {{glob}} matching method, using the {{minimatch}} library, the usage method <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Please See</a>, or you can search for how to use {{glob}}.",
+        "rightTab": ": The link opens in a new tab on the right",
+        "wholeCode": "The meaning of the entire code is that currently in YouTube's {{www}} domain name page, if the clicked link is the same domain name and the path starts with {{watch}} or {{shorts}}, then the new tab page on the right will be Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Global configuration"
+  }
+}

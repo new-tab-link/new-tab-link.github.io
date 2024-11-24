@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Tukuy pachapaq churanakuna",
+    "checkedUseSetting": "Kay churayta atichinaykipaq qhaway.",
+    "excludeDomains": "Mana kananpaq kamachiy sutikuna yapay huk kutillapi huk kamachiy sutillata yapayta atikun.",
+    "seeExcludeExamplesLink": "Qatina",
+    "exclude": {
+      "example": {
+        "domain": "Huk kamachiy sutita yapayta atinki, ahinataq <code>{{url}}</code>, tukuy kamachiy sutita mana kananpaq.",
+        "url": "Huk t'inkikunata yapaspa sapaq t'inkikunata qarquyta atinki, ahinataq <code>{{url}}</code>.",
+        "glob": "{{glob}} rikch'ayta yapayta atinki, ahinataq <code>{{minimatch}}</code>, mana sut'i tupachiypaq."
+      }
+    },
+    "script": "js scriptkunatapas llamk'achiy atikunki aswan yachaysapa kamachiyta aypanaykipaq.",
+    "checkedUseScript": "Scriptniyki atichinaykipaqpas, reparay iskaynin cuadrokunata huk kutillapi marcanayki kasqanmanta, chaynapi scriptta atichinaykipaq.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Kunanqa {{youtube}} web kitipi, {{youtube}}pa {{watch}} utaq {{shorts}} p'anqanta musuq tablapi kichanayki tiyan.",
+        "introVariables": "Variables nisqamanta riqsichiy",
+        "page": ": Tikraqqa kunan web p'anqap URL kaqninmi Aswan sut'inchanapaq, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Ama hina kaspa, qhaway</a >",
+        "pageHost": ": Kunan web p'anqap kamachiy sutin",
+        "isSameSubDomain": "{{isSameSubDomain}}: Kikin kamachiy suti Reparay, {{youtube}} chaymanta {{ayllukuna}} hatun kamachiy sutikuna iskaynintin {{mainDomain}} kanku, huch'uy kamachiy sutikuna {{youtubeSubDomain}} chaymanta {{} kanku. familiesSubDomain}} sapakama.",
+        "click": ": chay t'inki ñit'isqa",
+        "clickpath": ": Chay ñit’isqa t’inkipa ñannin",
+        "minimatch": ": {{glob}} tupachiy ñan, {{minimatch}} bibliotecata llamk'achispa, llamk'ana ñan <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ama hina kaspa Qaway</a>, icha {{glob}} llamk'achiyta maskayta atinki.",
+        "rightTab": ": T'inkiqa paña ladopi musuq tablapi kicharikun",
+        "wholeCode": "Llapan codigopa significadonqa kunan YouTube kaqpa {{www}} dominio suti p'anqanpi kachkan, sichus ñit'isqa t'inki kikin dominio sutiyuq chaymanta ñan {{watch}} utaq {{shorts}} kaqwan qallarikun, chaymanta musuq tabla paña ladopi kaq paginaqa Kichasqa kanqa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tukuy pachapaq wakichiy"
+  }
+}

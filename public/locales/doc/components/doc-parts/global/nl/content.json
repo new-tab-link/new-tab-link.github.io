@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globale instellingen",
+    "checkedUseSetting": "Vink aan om deze instelling in te schakelen.",
+    "excludeDomains": "Voeg domeinnamen toe die u wilt uitsluiten. Er kan slechts één domeinnaam tegelijk worden toegevoegd.",
+    "seeExcludeExamplesLink": "Voorbeeld",
+    "exclude": {
+      "example": {
+        "domain": "U kunt een domeinnaam toevoegen, zoals <code>{{url}}</code>, om de gehele domeinnaam uit te sluiten.",
+        "url": "Je kunt specifieke links uitsluiten door een link toe te voegen, zoals <code>{{url}}</code>.",
+        "glob": "U kunt een {{glob}}-patroon toevoegen, zoals <code>{{minimatch}}</code>, voor fuzzy matching."
+      }
+    },
+    "script": "U kunt ook js-scripts gebruiken voor meer geavanceerde controle.",
+    "checkedUseScript": "Als u uw script wilt inschakelen, houd er dan rekening mee dat u beide vakjes tegelijkertijd moet aanvinken om het script in te schakelen.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Momenteel moet je op de website van {{youtube}} de pagina {{watch}} of {{shorts}} van {{youtube}} openen in een nieuw tabblad.",
+        "introVariables": "Inleiding tot variabelen",
+        "page": ": De variabele is het URL-object van de huidige webpagina. Voor details, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Zie</a >",
+        "pageHost": ": De domeinnaam van de huidige webpagina",
+        "isSameSubDomain": "{{isSameSubDomain}}: dezelfde domeinnaam. Houd er rekening mee dat hoewel de hoofddomeinnamen van {{youtube}} en {{families}} beide {{mainDomain}} zijn, de subdomeinnamen {{youtubeSubDomain}} en {{ zijn). familiesSubDomain}} Hun domeinnamen zijn dus verschillend.",
+        "click": ": de link waarop is geklikt",
+        "clickpath": ": Het pad van de aangeklikte link",
+        "minimatch": ": {{glob}} matchingmethode, met behulp van de {{minimatch}}-bibliotheek, de gebruiksmethode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Alsjeblieft Zie</a>, of zoek naar het gebruik van {{glob}}.",
+        "rightTab": ": De link wordt rechts in een nieuw tabblad geopend",
+        "wholeCode": "De betekenis van de volledige code is dat momenteel op de YouTube-domeinnaampagina {{www}}, als de aangeklikte link dezelfde domeinnaam is en het pad begint met {{watch}} of {{shorts}}, het nieuwe tabblad pagina aan de rechterkant is Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globale configuratie"
+  }
+}

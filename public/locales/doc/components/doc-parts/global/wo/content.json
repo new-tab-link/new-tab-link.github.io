@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Jekkal global",
+    "checkedUseSetting": "Saytu ngir mëna tàmbali jekkal bii.",
+    "excludeDomains": "Yokk tur domen yuñ wara dindi benn tur domen kese lañu mëna yokk benn yoon.",
+    "seeExcludeExamplesLink": "Miliyong",
+    "exclude": {
+      "example": {
+        "domain": "Mën nga yokk turu domen, lu ci melni <code>{{url}}</code>, ngir dindi turu domen bi yépp.",
+        "url": "Mën nga dindi ay lëkkalekaay soo yokke ab lëkkalekaay, niki <code>{{url}}</code>.",
+        "glob": "Mën ngaa yokk ab motif {{glob}}, niki <kod>{{dëppoo bu ndaw}}</kod>, ngir méngoo bu xawa leerul."
+      }
+    },
+    "script": "Mën nga itam jëfandikoo script js ngir am doxalal bu gëna xarañ.",
+    "checkedUseScript": "Soo bëggee tàmbali sa script, nanga bàyyi sa xel ci ni danga wara marke ñaari barab yi benn yoon ngir mëna tàmbali script bi.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Fimna nii ci dalub {{youtube}}, war nga ubbi xëtu {{seetaan}} wala {{film yu gàtt}} bu {{youtube}} ci lëkkalekaay bu bees.",
+        "introVariables": "Duggal ci ay variable",
+        "page": ": Soppikukat bi mooy mbiru URL bu xëtu web bi fi nekk Ngir am leeraay, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='norererer'> xoolal</a >",
+        "pageHost": ": Tur domen bu xët web bi fi nekk",
+        "isSameSubDomain": "{{isSameSubDomain}}: Benn turu domen bi. famiySubDomain}} Kon seeni tur domen wuute nañu.",
+        "click": ": lëkkalekaay biñ klike",
+        "clickpath": ": Yoonu lëkkalekaay biñ klike",
+        "minimatch": ": {{glob}} anam wu méngoo, jëfandikoo {{minimatch}} bibliotek, anam jëfandikoo <a href='https://github.com/isaacs/minimatch' Xoolal</a>, wala nga seet ni ñuy jëfandikoo {{glob}}.",
+        "rightTab": ": Lëkkalekaay bi dafay ubbeeku ci lëkkalekaay bu bees ci ndeyjoor",
+        "wholeCode": "Kod bi yépp di tekki mooy fi mu nekk ci xëtu tur domen bu YouTube {{www}}, sudee lëkkalekaay bi nga klike ci benn tur domen la, te yoon wi tàmbali ci {{watch}} wala {{shorts}}, kon lëkkalekaay bu bees bi xët wi ci ndeyjoor dina ubbeeku."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tabbu globaal"
+  }
+}

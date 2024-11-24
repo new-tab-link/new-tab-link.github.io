@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Tổng quan về tiện ích mở rộng Liên kết mở bằng",
+    "description": "<p>Tiện ích mở rộng này cho phép bạn kiểm soát thuận tiện cách mở siêu liên kết.</p><p>Cửa sổ: các trình duyệt khác, cửa sổ bật lên, cửa sổ mới, cửa sổ ẩn danh mới, cửa sổ hiện tại (mặc định)</p> <p >Tab: bên trái tab hiện tại, tab hiện tại, bên phải tab hiện tại (mặc định)</p><p>Trạng thái kích hoạt: không hoạt động, kích hoạt ngay lập tức (mặc định)</p>"
+  },
+  "menu": {
+    "main": "Tổng quan"
+  }
+}

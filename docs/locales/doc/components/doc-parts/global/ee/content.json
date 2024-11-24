@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Xexeame katã ƒe ɖoɖowo",
+    "checkedUseSetting": "Kpɔe ɖa be nàwɔ ɖoɖo sia ŋudɔ.",
+    "excludeDomains": "Tsɔ domenyiŋkɔ siwo woaɖe ɖa kpee.",
+    "seeExcludeExamplesLink": "Kpɔɖeŋu",
+    "exclude": {
+      "example": {
+        "domain": "Àteŋu atsɔ domenyiŋkɔ akpe ɖe eŋu, abe <code>{{url}}</code> ene, be nàɖe domenyiŋkɔ bliboa ɖa.",
+        "url": "Àteŋu aɖe kadodo tɔxɛwo ɖa to kadodo aɖe tsɔtsɔ kpee me, abe <code>{{url}}</code> ene.",
+        "glob": "Àteŋu atsɔ {{glob}} ƒe kpɔɖeŋu, abe <code>{{minimatch}}</code>, akpe ɖe eŋu hena wɔwɔ ɖekae si me mekɔ o."
+      }
+    },
+    "script": "Àte ŋu azã js ŋɔŋlɔdzesiwo hã atsɔ akpɔ dziɖuɖu si de ŋgɔ wu gbɔ.",
+    "checkedUseScript": "Eɖanye be nàna wò script la nawɔ dɔ o, de dzesii be ele be nàde dzesi aɖaka eveawo le ɣeyiɣi ɖeka me be script la nawɔ dɔ.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Fifia le {{youtube}} nyatakakadzraɖoƒea la, ele be nàʋu {{youtube}} ƒe {{kpɔ}} alo {{shorts}} axa le tab yeye me.",
+        "introVariables": "Trɔtrɔwo ŋuti ŋgɔdonya",
+        "page": ": Trɔtrɔ la nye URL nusi le nyatakakadzraɖoƒe si li fifia Ne èdi nyatakakawo la, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Taflatse kpɔ</a >",
+        "pageHost": ": Nyatakakadzraɖoƒe si li fifia ƒe domenyiŋkɔ",
+        "isSameSubDomain": "{{isSameSubDomain}}: Domenyiŋkɔ ɖeka ma ke De dzesii be togbɔ be domenyiŋkɔ vevi siwo le {{youtube}} kple {{ƒomewo}} siaa nye {{mainDomain}} hã la, domenyinyi ƒe ŋkɔ sueawo nye {{youtubeSubDomain}} kple {{. familiesSubDomain}} ɖe wo nɔewo yome Eyata woƒe domenyiŋusẽfianu ŋkɔwo to vovo.",
+        "click": ": kadodo si dzi wozi la",
+        "clickpath": ": Mɔ si dzi kadodo si dzi nèzi la le",
+        "minimatch": ": {{glob}} tsɔtsɔ sɔ kple wo nɔewo ƒe mɔnu, to {{minimatch}} agbalẽdzraɖoƒe zazã me, zazã mɔnu <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Taflatse Kpɔ</a>, alo àteŋu adi alesi nàzã {{glob}}.",
+        "rightTab": ": Kadodoa aʋu le tab yeye aɖe me le ɖusime",
+        "wholeCode": "Gɔmesese si le kɔda bliboa ŋu enye be fifia le YouTube ƒe {{www}} domenyiŋkɔ ƒe axa dzi, ne kadodo si wozi la nye domenyiŋkɔ ɖeka eye mɔa dze egɔme kple {{watch}} alo {{shorts}}, ekema tab yeyea axa si le ɖusime la anye Ʋuʋu."
+      }
+    }
+  },
+  "menu": {
+    "main": "Xexeame katã ƒe ɖoɖowɔwɔ"
+  }
+}

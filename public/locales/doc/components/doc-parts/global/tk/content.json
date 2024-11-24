@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Global sazlamalar",
+    "checkedUseSetting": "Bu sazlamany işletmek üçin barlaň.",
+    "excludeDomains": "Aýyryljak domen atlaryny goşuň.",
+    "seeExcludeExamplesLink": "Mysal",
+    "exclude": {
+      "example": {
+        "domain": "Domainhli domen adyny aýyrmak üçin <code> {{url}} </code> ýaly domen adyny goşup bilersiňiz.",
+        "url": "<code> {{url}} </code> ýaly baglanyşyk goşup, belli baglanyşyklary aýryp bilersiňiz.",
+        "glob": "Bulaşyk gabat gelmek üçin <code> {im minimatch}} </code> ýaly {{glob}} nagşyny goşup bilersiňiz."
+      }
+    },
+    "script": "Has çylşyrymly dolandyryşa ýetmek üçin js skriptlerini hem ulanyp bilersiňiz.",
+    "checkedUseScript": "Scriptazuwyňyzy işletmelimi ýa-da skripti işletmek üçin iki gutyny bir wagtda barlamalydygyňyza üns beriň.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Häzirki wagtda {{youtube}} web sahypasynda, täze tabda {{youtube} {{watch}} ýa-da {{şortik}} sahypasyny açmaly.",
+        "introVariables": "Üýtgeýjiler bilen tanyşlyk",
+        "page": ": Üýtgeýji häzirki web sahypasynyň URL obýektidir. Jikme-jiklikler üçin <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' target = '_ blank' rel = 'noreferrer'> </ A> serediň",
+        "pageHost": ": Häzirki web sahypasynyň domen ady",
+        "isSameSubDomain": ". maşgalalarSubDomain}} degişlilikde olaryň domen atlary başga.",
+        "click": ": basylan baglanyşyk",
+        "clickpath": ": Basylan baglanyşygyň ýoly",
+        "minimatch": ": {{glob}} gabat gelýän usul, {im minimatch}} kitaphanasyny ulanyp, ulanyş usuly <a href = 'https: //github.com/isaacs/minimatch' target = '_ blank' rel = 'noreferrer'> Haýyş Seret </a>, ýa-da {{glob} use nädip ulanmalydygyny gözläp bilersiňiz.",
+        "rightTab": ": Salgy sag tarapdaky täze goýmada açylýar",
+        "wholeCode": "Codehli koduň manysy, häzirki wagtda YouTube-nyň {{www}} domen ady sahypasynda, eger basylan baglanyşyk şol bir domen ady bolsa we ýol {{syn}} ýa-da {{şortik}} bilen başlasa, täze tab sag tarapdaky sahypa açyk bolar."
+      }
+    }
+  },
+  "menu": {
+    "main": "Global konfigurasiýa"
+  }
+}

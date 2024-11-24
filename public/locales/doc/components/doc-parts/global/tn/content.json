@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Diseting tsa lefatshe ka bophara",
+    "checkedUseSetting": "Tlhola go kgontsha seting eno.",
+    "excludeDomains": "Tsenya maina a kgolagano ya dikhomphiutha a a tla kgaphelwa thoko Go ka tsenngwa leina la kgolagano ya dikhomphiutha le le lengwe fela ka nako.",
+    "seeExcludeExamplesLink": "Sekai",
+    "exclude": {
+      "example": {
+        "domain": "O ka tsenya leina la kgolagano ya dikhomphiutha, jaaka <khoutu>{{url}}</khoutu>, go kgaphela leina lotlhe la kgolagano ya dikhomphiutha kwa thoko.",
+        "url": "O ka kgaphela dikgokagano tse di rileng kwa thoko ka go tsenya kgokagano, jaaka <code>{{url}}</code>.",
+        "glob": "O ka tsenya paterone ya {{glob}}, jaaka <khoutu>{{tshwano e nnye}}</khoutu>, ya tshwantshanyo e e sa tlhaloganyesegeng."
+      }
+    },
+    "script": "O ka dirisa gape dikwalwa tsa js go fitlhelela taolo e e raraaneng.",
+    "checkedUseScript": "Gore a o tla kgontsha sekeripiti sa gago, ela tlhoko gore o tlhoka go tshwaya mabokoso ka bobedi ka nako e le nngwe go kgontsha sekeripiti.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ga jaana mo webosaeteng ya {{youtube}}, o tlhoka go bula tsebe ya {{watch}} kgotsa {{dikhutshwane}} ya {{youtube}} mo thebong e ntšhwa.",
+        "introVariables": "Matseno a dipharologano",
+        "page": ": Mofuta o o fetogang ke selo sa URL sa tsebe ya webo ya ga jaana Go bona dintlha, <a href='https://motlhabolodi. Tsweetswee bona</a >",
+        "pageHost": ": Leina la kgolagano ya dikhomphiutha la tsebe ya ga jaanong ya webo",
+        "isSameSubDomain": "{{isSameSubDomain}}: Leina la kgolagano ya dikhomphiutha le le tshwanang Ela tlhoko gore le fa maina a kgolagano ya dikhomphiutha a magolo a {{youtube}} le {{malapa}} ka bobedi e le {{Kgolagano ya Dikhomphiutha e e Kgolo}}, maina a kgolagano ya dikhomphiutha a a kwa tlase ke {{YoutubeSubDomain}} le {{. malapaSubDomain}} ka go latelana Ka jalo maina a bone a domeine a farologane.",
+        "click": ": kgokagano e e tobeditsweng",
+        "clickpath": ": Tsela ya kgokagano e e tobeditsweng",
+        "minimatch": ": mokgwa wa go tshwantshanya {{glob}}, o dirisa laeborari ya {{go tshwantshanya}}, mokgwa wa tiriso < Bona</a>, kgotsa o ka batla kafa o ka dirisang {{glob}} ka gone.",
+        "rightTab": ": Kgokagano e bulega mo thebong e ntšha kafa mojeng",
+        "wholeCode": "Bokao jwa khoutu yotlhe ke gore ga jaanong jaana mo tsebeng ya leina la kgolagano ya dikhomphiutha ya YouTube ya {{www}}, fa kgokagano e e tobeditsweng e le leina la kgolagano ya dikhomphiutha le le tshwanang mme tsela e simolola ka {{watch}} kgotsa {{shorts}}, go tla bo go tla nna le thebo e ntšha . tsebe e e kafa mojeng e tla bo e Butswe."
+      }
+    }
+  },
+  "menu": {
+    "main": "Thulaganyo ya lefatshe lotlhe"
+  }
+}

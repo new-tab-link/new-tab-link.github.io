@@ -7,14 +7,23 @@ import fs from 'fs'
 // const projectRoot = `C:\\work\\chrome-extenstions\\new-tab-link-doc\\`
 const projectRoot = process.cwd()
 const nsPrefixPath = 'doc'
+const originLng = 'zh-CN'
+function createPublicFileName(file, watchRoot){
+    const filePath = file.replace(watchRoot, '')
+    console.log('ooooooooooooooooooooooooooo', file, watchRoot)
+    const f = path.join(projectRoot, 'public', 'locales', nsPrefixPath, path.dirname(filePath), originLng, path.basename(filePath))
+    return f
+}
 const conf = {
     // watchRoot: "C:\\work\\tools\\nodejs\\js-i18n-file-detector\\pages\\i18n-file-detector\\src",
     // exportRoot: "C:\\work\\tools\\nodejs\\js-i18n-file-detector\\pages\\i18n-file-detector\\i18nMergedFiles\\origin",
     // i18nFileName: "C:\\work\\tools\\nodejs\\js-i18n-file-detector\\pages\\i18n-file-detector\\src\\types\\i18n.ts",
     // watchRoot: [{root:`${projectRoot}src`, nsPrefixPath:nsPrefixPath}],
     watchRoot: [{root:path.resolve(path.join(projectRoot, 'src')), nsPrefixPath:nsPrefixPath}],
-    // exportRoot: [`${projectRoot}i18n-raw\\origin`, `${projectRoot}public\\locales\\zh-CN\\${nsPrefixPath}`],
-    exportRoot: [path.resolve(path.join(projectRoot, 'i18n-raw', 'origin')), path.resolve(path.join(projectRoot, 'public', 'locales','zh-CN', nsPrefixPath))],
+    // exportRoot: [path.resolve(path.join(projectRoot, 'i18n-raw', 'origin')), path.resolve(path.join(projectRoot, 'public', 'locales','zh-CN', nsPrefixPath))],
+    // exportRoot: [path.resolve(path.join(projectRoot, 'i18n-raw', 'origin')), path.resolve(path.join(projectRoot, 'public', 'locales','zh-CN', nsPrefixPath))],
+    exportRoot: [path.resolve(path.join(projectRoot, 'i18n-raw', 'origin')), createPublicFileName],
+    exportLngName:originLng,
     // i18nFileName: `${projectRoot}src\\types\\i18n.ts`,
     i18nFileName: path.resolve(path.join(projectRoot, `src\\types\\i18n.ts`)),
     matchFile: "**/**.i18n.json",
@@ -38,6 +47,6 @@ function onChanged(){
 function listen(){
     // console.log(lngsMapLocale, jsI18nLngsVersion)
     watchI18nFiles([], [conf])
-    console.log(`conf=`, i18nFileDetectorVersion, conf)
+    // console.log(`conf=`, i18nFileDetectorVersion, conf)
 }
 listen()

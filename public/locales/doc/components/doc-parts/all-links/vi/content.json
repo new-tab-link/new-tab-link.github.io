@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Tất cả các liên kết",
+    "checkedUseSetting": "Chọn để bật cài đặt này.",
+    "excludeDomains": "Thêm tên miền cần loại trừ. Chỉ có thể thêm một tên miền tại một thời điểm.",
+    "seeExcludeExamplesLink": "Ví dụ",
+    "exclude": {
+      "example": {
+        "domain": "Bạn có thể thêm tên miền, chẳng hạn như <code>{{url}</code>, để loại trừ toàn bộ tên miền.",
+        "url": "Bạn có thể loại trừ các liên kết cụ thể bằng cách thêm một liên kết, chẳng hạn như <code>{{url}</code>.",
+        "glob": "Bạn có thể thêm mẫu {{glob}}, chẳng hạn như <code>{{minimatch}</code>, để khớp mờ."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tất cả các liên kết"
+  }
+}

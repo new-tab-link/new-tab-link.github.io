@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Hemû girêdan",
+    "checkedUseSetting": "Ji bo çalakkirina vê mîhengê kontrol bikin.",
+    "excludeDomains": "Navên domainê lê zêde bikin ku werin derxistin Tenê yek navek domain dikare were zêdekirin.",
+    "seeExcludeExamplesLink": "Mînak",
+    "exclude": {
+      "example": {
+        "domain": "Hûn dikarin navek domainê lê zêde bikin, wekî <code>{{url}}</code>, da ku tevahiya navê domainê derxînin.",
+        "url": "Hûn dikarin lînkên taybetî bi lêzêdekirina lînkê derxin, wek <code>{{url}}</code>.",
+        "glob": "Hûn dikarin nimûneyeke {{glob}}, wek <code>{{minimatch}}</code>, ji bo lihevhatina nezelal lê zêde bikin."
+      }
+    }
+  },
+  "menu": {
+    "main": "Hemû girêdan"
+  }
+}

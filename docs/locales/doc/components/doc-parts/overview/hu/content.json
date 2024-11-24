@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "A hivatkozás megnyitása bővítménnyel áttekintése",
+    "description": "<p>Ez a bővítmény lehetővé teszi a hiperhivatkozások megnyitásának kényelmes szabályozását.</p><p>Ablak: más böngészők, előugró ablakok, új ablakok, új inkognitóablak, jelenlegi ablak (alapértelmezett)</p> <p >Lapok: az aktuális laptól balra, aktuális lap, az aktuális laptól jobbra (alapértelmezett)</p><p>Aktiválás állapota: inaktív, azonnali aktiválás (alapértelmezett)</p>"
+  },
+  "menu": {
+    "main": "Áttekintés"
+  }
+}

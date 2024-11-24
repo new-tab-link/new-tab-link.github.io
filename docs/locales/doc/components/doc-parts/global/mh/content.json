@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Jekjek ko an lal in",
+    "checkedUseSetting": "Lale bwe en maroñ in jerbal setting in.",
+    "excludeDomains": "Kobaik etan domain ko ñan jolok. Juon wōt etan domain emaron in kobaiktok ilo juon ien.",
+    "seeExcludeExamplesLink": "Waan joñak",
+    "exclude": {
+      "example": {
+        "domain": "Kwomaroñ kobaik juon etan domain, einwot <code>{{url}}</code>, ñan jolok aolep etan domain eo.",
+        "url": "Kwomaroñ jolok jet link ko ilo am kobaik juon link, einwot <code>{{url}}</code>.",
+        "glob": "Kwomaroñ kobaik juon {{glob}} pattern, einwot <code>{{minimatch}}</code>, ñan fuzzy matching."
+      }
+    },
+    "script": "Kwomaroñ barāinwōt kōjerbal js script ko ñan kōmman juon maroñ eo elaplok an bin.",
+    "checkedUseScript": "Elañe kwoj kōnaan kōtlok script eo am, lale bwe kwoj aikuj in lale box kein ruo ilo juon wot ien ñan kōtlok script eo.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Kiō ilo {{youtube}} website eo, kwoj aikuj in kōpellok {{youtube}}'s {{watch}} ak {{shorts}} peij ilo juon tab ekãl.",
+        "introVariables": "Kōmeļeļe ñan variable ko",
+        "page": ": Variable eo ej URL eo an web page eo kiõ. Ñan melele ko, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Jouj im lale</a >",
+        "pageHost": ": Etan domain eo an web page eo kiõ",
+        "isSameSubDomain": "{{isSameSubDomain}}: Ejja etan domain eo wot. familysSubDomain}} kajjojo. Innem etan domain ko aer rej oktak.",
+        "click": ": link eo kar kōmmane",
+        "clickpath": ": Iaḷ eo an link eo kar kōṃṃane",
+        "minimatch": ": {{glob}} matching method, using the {{minimatch}} library, the usage method <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Jouj Lale</a>, ak kwomaroñ pukot kilen kōjerbal {{glob}}.",
+        "rightTab": "Link eo ej bellok ilo juon tab ekãl ilo turear",
+        "wholeCode": "Melel in aolep code in ej bwe ilo YouTube's {{www}} domain name page, elañe link eo kar click ej ejja domain name eo wot im ial eo ej jino kin {{watch}} ak {{shorts}}, innem tab eo ekãl peij eo ilo turear enaj Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Kōllaajrak eo an lal in"
+  }
+}

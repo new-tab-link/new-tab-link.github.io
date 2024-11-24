@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Visió general de l'extensió Enllaç obert amb",
+    "description": "<p>Aquesta extensió us permet controlar còmodament com s'obren els hiperenllaços.</p><p>Finestra: altres navegadors, finestres emergents, finestres noves, finestres d'incògnit noves, finestra actual (per defecte)</p> <p >Pestanyes: esquerra de la pestanya actual, pestanya actual, dreta de la pestanya actual (per defecte)</p><p>Estat d'activació: inactiu, activar immediatament (per defecte)</p>"
+  },
+  "menu": {
+    "main": "Visió general"
+  }
+}

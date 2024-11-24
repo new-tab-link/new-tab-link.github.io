@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Lëkkalekaay yépp",
+    "checkedUseSetting": "Saytu ngir mëna tàmbali jekkal bii.",
+    "excludeDomains": "Yokk tur domen yuñ wara dindi benn tur domen kese lañu mëna yokk benn yoon.",
+    "seeExcludeExamplesLink": "Miliyong",
+    "exclude": {
+      "example": {
+        "domain": "Mën nga yokk turu domen, lu ci melni <code>{{url}}</code>, ngir dindi turu domen bi yépp.",
+        "url": "Mën nga dindi ay lëkkalekaay soo yokke ab lëkkalekaay, niki <code>{{url}}</code>.",
+        "glob": "Mën ngaa yokk ab motif {{glob}}, niki <kod>{{dëppoo bu ndaw}}</kod>, ngir méngoo bu xawa leerul."
+      }
+    }
+  },
+  "menu": {
+    "main": "Lëkkalekaay yépp"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Prehľad rozšírenia Link Open With",
+    "description": "<p>Toto rozšírenie vám umožňuje pohodlne ovládať spôsob otvárania hypertextových odkazov.</p><p>Okno: iné prehliadače, kontextové okná, nové okná, nové okná inkognito, aktuálne okno (predvolené)</p> <p >Karty: vľavo od aktuálnej karty, aktuálnej karty, vpravo od aktuálnej karty (predvolené)</p><p>Stav aktivácie: neaktívne, aktivovať okamžite (predvolené)</p>"
+  },
+  "menu": {
+    "main": "Prehľad"
+  }
+}

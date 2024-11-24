@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Gach nasc",
+    "checkedUseSetting": "Seiceáil chun an socrú seo a chumasú.",
+    "excludeDomains": "Cuir ainmneacha fearainn leis nach féidir ach ainm fearainn amháin a chur leis ag an am céanna.",
+    "seeExcludeExamplesLink": "Sampla",
+    "exclude": {
+      "example": {
+        "domain": "Is féidir leat ainm fearainn a chur leis, mar <code>{{url}}</code>, chun an t-ainm fearainn iomlán a eisiamh.",
+        "url": "Is féidir leat naisc ar leith a eisiamh trí nasc a chur leis, mar <code>{{url}}</code>.",
+        "glob": "Is féidir leat patrún {{glob}} a chur leis, mar <code>{{minimatch}}</code>, le haghaidh meaitseáil doiléir."
+      }
+    }
+  },
+  "menu": {
+    "main": "Gach nasc"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Genel ayarlar",
+    "checkedUseSetting": "Bu ayarı etkinleştirmek için işaretleyin.",
+    "excludeDomains": "Hariç tutulacak alan adlarını ekleyin. Aynı anda yalnızca bir alan adı eklenebilir.",
+    "seeExcludeExamplesLink": "Örnek",
+    "exclude": {
+      "example": {
+        "domain": "Alan adının tamamını hariç tutmak için <code>{{url}</code> gibi bir alan adı ekleyebilirsiniz.",
+        "url": "<code>{{url}</code> gibi bir bağlantı ekleyerek belirli bağlantıları hariç tutabilirsiniz.",
+        "glob": "Bulanık eşleştirme için <code>{{minimatch}</code> gibi bir {{glob}} modeli ekleyebilirsiniz."
+      }
+    },
+    "script": "Daha karmaşık kontrol elde etmek için js komut dosyalarını da kullanabilirsiniz.",
+    "checkedUseScript": "Komut dosyanızı etkinleştirip etkinleştirmeyeceğiniz, komut dosyasını etkinleştirmek için her iki kutuyu da aynı anda işaretlemeniz gerektiğini unutmayın.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Şu anda {{youtube}} web sitesinde, {{youtube}}'nin {{watch}} veya {{shorts}} sayfasını yeni bir sekmede açmanız gerekiyor.",
+        "introVariables": "Değişkenlere giriş",
+        "page": ": Değişken, geçerli web sayfasının URL nesnesidir. Ayrıntılar için, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Lütfen bakın</a >",
+        "pageHost": ": Geçerli web sayfasının alan adı",
+        "isSameSubDomain": "{{isSameSubDomain}}: Aynı alan adı. {{youtube}} ve {{families}} ana alan adlarının her ikisinin de {{mainDomain}} olmasına rağmen alt alan adlarının {{youtubeSubDomain}} ve {{ olduğunu unutmayın. familySubDomain}} Yani alan adları farklıdır.",
+        "click": ": tıklanan bağlantı",
+        "clickpath": ": Tıklanan bağlantının yolu",
+        "minimatch": ": {{glob}} eşleştirme yöntemi, {{minimatch}} kitaplığını kullanarak, kullanım yöntemini <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Lütfen Bakın</a> veya {{glob}}'ın nasıl kullanılacağını arayabilirsiniz.",
+        "rightTab": ": Bağlantı sağdaki yeni sekmede açılır",
+        "wholeCode": "Kodun tamamının anlamı şu anda YouTube'un {{www}} alan adı sayfasında, tıklanan bağlantı aynı alan adıysa ve yol {{watch}} veya {{shorts}} ile başlıyorsa yeni sekme açılır. sağdaki sayfa Açık olacaktır."
+      }
+    }
+  },
+  "menu": {
+    "main": "Genel yapılandırma"
+  }
+}

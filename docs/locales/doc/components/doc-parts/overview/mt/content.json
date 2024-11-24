@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ħarsa ġenerali lejn l-estensjoni Link Open With",
+    "description": "<p>Din l-estensjoni tippermettilek tikkontrolla b'mod konvenjenti kif jinfetħu l-hyperlinks.</p><p>Tieqa: browsers oħra, twieqi pop-up, twieqi ġodda, twieqi ġodda incognito, tieqa attwali (default)</p> <p >Tabs: xellug tat-tab kurrenti, tab kurrenti, lemin tat-tab kurrenti (default)</p><p>Status ta 'attivazzjoni: inattiv, attiva immedjatament (default)</p>"
+  },
+  "menu": {
+    "main": "Ħarsa ġenerali"
+  }
+}

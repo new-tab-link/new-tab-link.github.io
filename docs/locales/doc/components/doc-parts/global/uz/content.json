@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Global sozlamalar",
+    "checkedUseSetting": "Ushbu sozlamani yoqish uchun belgilang.",
+    "excludeDomains": "Bir vaqtning o'zida faqat bitta domen nomini qo'shish mumkin.",
+    "seeExcludeExamplesLink": "Misol",
+    "exclude": {
+      "example": {
+        "domain": "Siz butun domen nomini istisno qilish uchun <code>{{url}}</code> kabi domen nomini qo'shishingiz mumkin.",
+        "url": "<code>{{url}}</code> kabi havola qoʻshish orqali muayyan havolalarni chiqarib tashlashingiz mumkin.",
+        "glob": "Noaniq moslik uchun <code>{{minimatch}}</code> kabi {{glob}} naqsh qoʻshishingiz mumkin."
+      }
+    },
+    "script": "Bundan tashqari, yanada murakkab boshqaruvga erishish uchun JS skriptlaridan foydalanishingiz mumkin.",
+    "checkedUseScript": "Skriptni yoqish yoki yoqishdan qat'i nazar, skriptni yoqish uchun ikkala katakchani bir vaqtning o'zida belgilashingiz kerakligini unutmang.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Hozirda {{youtube}} veb-saytida siz {{youtube}}ning {{tomosha}} yoki {{shorts}} sahifasini yangi varaqda ochishingiz kerak.",
+        "introVariables": "O'zgaruvchilarga kirish",
+        "page": ": Oʻzgaruvchi joriy veb-sahifaning URL obyektidir. Tafsilotlar uchun <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Iltimos, qarang</a >",
+        "pageHost": ": Joriy veb-sahifaning domen nomi",
+        "isSameSubDomain": "{{isSameSubDomain}}: Bir xil domen nomi {{youtube}} va {{families}}ning asosiy domen nomlari ikkalasi ham {{mainDomain}} boʻlishiga qaramay, subdomen nomlari {{youtubeSubDomain}} va {{. familySubDomain}} mos ravishda ularning domen nomlari boshqacha.",
+        "click": ": bosilgan havola",
+        "clickpath": ": Bosilgan havolaning yo'li",
+        "minimatch": ": {{glob}} moslashtirish usuli, {{minimatch}} kutubxonasidan foydalanish, foydalanish usuli <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Iltimos Qarang</a> yoki {{glob}} dan qanday foydalanishni qidirib topishingiz mumkin.",
+        "rightTab": ": Havola o'ng tarafdagi yangi yorliqda ochiladi",
+        "wholeCode": "Butun kodning ma'nosi shundaki, hozirda YouTube'ning {{www}} domen nomi sahifasida, agar bosilgan havola bir xil domen nomi bo'lsa va yo'l {{watch}} yoki {{shorts}} bilan boshlansa, yangi tab. o'ngdagi sahifa ochiq bo'ladi."
+      }
+    }
+  },
+  "menu": {
+    "main": "Global konfiguratsiya"
+  }
+}

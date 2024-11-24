@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Paramètres globaux",
+    "checkedUseSetting": "Cochez pour activer ce paramètre.",
+    "excludeDomains": "Ajoutez des noms de domaine à exclure.",
+    "seeExcludeExamplesLink": "Exemple",
+    "exclude": {
+      "example": {
+        "domain": "Vous pouvez ajouter un nom de domaine, comme <code>{{url}}</code>, pour exclure l'intégralité du nom de domaine.",
+        "url": "Vous pouvez exclure des liens spécifiques en ajoutant un lien, comme <code>{{url}}</code>.",
+        "glob": "Vous pouvez ajouter un modèle {{glob}}, comme <code>{{minimatch}}</code>, pour une correspondance floue."
+      }
+    },
+    "script": "Vous pouvez également utiliser des scripts js pour obtenir un contrôle plus sophistiqué.",
+    "checkedUseScript": "Que ce soit pour activer votre script, notez que vous devez cocher les deux cases en même temps pour activer le script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Actuellement sur le site Web {{youtube}}, vous devez ouvrir la page {{watch}} ou {{shorts}} de {{youtube}} dans un nouvel onglet.",
+        "introVariables": "Introduction aux variables",
+        "page": ": La variable est l'objet URL de la page Web actuelle. noreferrer'>.",
+        "pageHost": ": Le nom de domaine de la page Web actuelle",
+        "isSameSubDomain": "{{isSameSubDomain}} : le même nom de domaine. {{youtubeSubDomain}} et {{. familySubDomain}} respectivement.",
+        "click": ": le lien sur lequel on a cliqué",
+        "clickpath": ": Le chemin du lien cliqué",
+        "minimatch": ": {{glob}} méthode de correspondance, en utilisant la bibliothèque {{minimatch}}, la méthode d'utilisation <a href='https://github.com/isaacs/minimatch' target='_blank' rel=' noreferrer'>S'il vous plaît Voir</a>, ou vous pouvez chercher comment utiliser {{glob}}.",
+        "rightTab": ": Le lien s'ouvre dans un nouvel onglet à droite",
+        "wholeCode": "La signification de l'intégralité du code est celle actuellement présente sur la page du nom de domaine {{www}} de YouTube, si le lien cliqué est le même nom de domaine et que le chemin commence par {{watch}} ou { {shorts}}, alors le nouvel onglet la page de droite sera ouverte."
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuration globale"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globaalit asetukset",
+    "checkedUseSetting": "Ota tämä asetus käyttöön valitsemalla tämä.",
+    "excludeDomains": "Lisää poissuljettavia verkkotunnuksia Vain yksi verkkotunnus voidaan lisätä kerrallaan.",
+    "seeExcludeExamplesLink": "Esimerkki",
+    "exclude": {
+      "example": {
+        "domain": "Voit lisätä verkkotunnuksen nimen, kuten <code>{{url}}</code>, sulkeaksesi pois koko verkkotunnuksen nimen.",
+        "url": "Voit sulkea pois tiettyjä linkkejä lisäämällä linkin, kuten <code>{{url}}</code>.",
+        "glob": "Voit lisätä {{glob}}-kuvion, kuten <code>{{minimatch}}</code>, sumeaa vastaavuutta varten."
+      }
+    },
+    "script": "Voit myös käyttää js-skriptejä kehittyneemmän hallinnan saavuttamiseksi.",
+    "checkedUseScript": "Otatko komentosarjan käyttöön, huomaa, että sinun on valittava molemmat valintaruudut samanaikaisesti, jotta komentosarja otetaan käyttöön.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Tällä hetkellä {{youtube}}-sivustolla sinun on avattava käyttäjän {{youtube}} {{watch}} tai {{shorts}} -sivu uudella välilehdellä.",
+        "introVariables": "Johdatus muuttujiin",
+        "page": ": Muuttuja on nykyisen verkkosivun URL-objekti. Lisätietoja on osoitteessa <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Katso</a >",
+        "pageHost": ": Nykyisen verkkosivun toimialueen nimi",
+        "isSameSubDomain": "{{isSameSubDomain}}: Huomaa, että vaikka verkkotunnusten {{youtube}} ja {{families}} pääverkkotunnukset ovat molemmat {{mainDomain}}, aliverkkotunnusten nimet ovat {{youtubeSubDomain}} ja {{. FamilySubDomain}}, joten niiden verkkotunnukset ovat erilaisia.",
+        "click": ": linkki, jota napsautettiin",
+        "clickpath": ": napsautetun linkin polku",
+        "minimatch": ": {{glob}}-hakumenetelmä käyttäen {{minimatch}}-kirjastoa, käyttötapaa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ole hyvä Katso</a> tai voit etsiä, kuinka {{glob}} käytetään.",
+        "rightTab": ": Linkki avautuu uuteen välilehteen oikealla",
+        "wholeCode": "Koko koodin merkitys on se, että tällä hetkellä YouTuben {{www}} verkkotunnuksen nimisivulla, jos napsautettu linkki on sama verkkotunnuksen nimi ja polun alussa on {{watch}} tai {{shorts}}, uusi välilehti oikealla oleva sivu on auki."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globaali kokoonpano"
+  }
+}

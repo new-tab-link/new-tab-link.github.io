@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Bağlantı Birlikte Aç uzantısına genel bakış",
+    "description": "<p>Bu uzantı, köprü bağlantıların nasıl açıldığını rahatlıkla kontrol etmenize olanak tanır.</p><p>Pencere: diğer tarayıcılar, açılır pencereler, yeni pencereler, yeni gizli pencereler, geçerli pencere (varsayılan)</p> <p >Sekmeler: geçerli sekmenin solu, geçerli sekme, geçerli sekmenin sağı (varsayılan)</p><p>Etkinleştirme durumu: etkin değil, hemen etkinleştir (varsayılan)</p>"
+  },
+  "menu": {
+    "main": "Genel Bakış"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Eto agbaye",
+    "checkedUseSetting": "Ṣayẹwo lati mu eto yii ṣiṣẹ.",
+    "excludeDomains": "Fi awọn orukọ ìkápá kun lati yọkuro.",
+    "seeExcludeExamplesLink": "Apeere",
+    "exclude": {
+      "example": {
+        "domain": "O le fi orukọ ìkápá kan kun, gẹgẹbi <code>{{url}}</code>, lati yọkuro gbogbo orukọ ìkápá naa.",
+        "url": "O le yọkuro awọn ọna asopọ kan pato nipa fifi ọna asopọ kan kun, gẹgẹbi <code>{{url}}</code>.",
+        "glob": "O le fi apẹrẹ {{glob}} kan kun, gẹgẹbi <code>{{minimatch}}</code>, fun ibaramu iruju."
+      }
+    },
+    "script": "O tun le lo awọn iwe afọwọkọ js lati ṣaṣeyọri iṣakoso fafa diẹ sii.",
+    "checkedUseScript": "Boya lati mu iwe afọwọkọ rẹ ṣiṣẹ, ṣe akiyesi pe o nilo lati ṣayẹwo awọn apoti mejeeji ni akoko kanna lati mu iwe afọwọkọ naa ṣiṣẹ.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Lọwọlọwọ lori oju opo wẹẹbu {{youtube}}, o nilo lati ṣii {{youtube}}'s {{watch}} tabi {{kukuru}} oju-iwe ni taabu titun kan.",
+        "introVariables": "Ifihan si awọn oniyipada",
+        "page": ": Oniyipada jẹ ohun URL ti oju-iwe wẹẹbu lọwọlọwọ Fun awọn alaye, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Jọwọ wo</a>",
+        "pageHost": ": Orukọ ìkápá ti oju-iwe ayelujara lọwọlọwọ",
+        "isSameSubDomain": "{{isSameSubDomain}}: Orukọ ìkápá kan naa. idileSubDomain}} lẹsẹsẹ.",
+        "click": ": ọna asopọ ti a tẹ",
+        "clickpath": ": Ọna ọna asopọ ti a tẹ",
+        "minimatch": ": {{glob}} ọna ti o baamu, ni lilo {{minimatch}} ile-ikawe, ọna lilo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Jọwọ Wo</a>, tabi o le wa bi o ṣe le lo {{glob}}.",
+        "rightTab": ": Ọna asopọ naa ṣii ni taabu tuntun ni apa ọtun",
+        "wholeCode": "Itumọ gbogbo koodu naa ni lọwọlọwọ ni oju-iwe orukọ aaye {{www}} YouTube, ti ọna asopọ ti o tẹ ba jẹ orukọ agbegbe kanna ati pe ọna naa bẹrẹ pẹlu {{watch}} tabi {{kukuru}}, lẹhinna taabu tuntun oju-iwe ni apa ọtun yoo ṣii."
+      }
+    }
+  },
+  "menu": {
+    "main": "Iṣeto ni agbaye"
+  }
+}

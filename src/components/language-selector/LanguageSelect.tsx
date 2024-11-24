@@ -1,11 +1,13 @@
 
-import { lngsMapLocale } from '@0xff336699/js-i18n-lngs';
+import { googleGeminiIntersectionLocale } from '@0xff336699/js-i18n-lngs';
 import { Box, FormControl, InputLabel, MenuItem, Select, type SelectChangeEvent } from '@mui/material';
+import i18n from '@src/i18nconf/i18nSetting';
 import React, { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-
+const ii = i18n
 export function LanguageSelect() {
-  const lm = lngsMapLocale;
+  const lm = googleGeminiIntersectionLocale;
+  
   const { t, i18n } = useTranslation('doc/components/language-selector/content');
   let lng = i18n.language;
   if (!(lng in lm)) {
@@ -18,8 +20,8 @@ export function LanguageSelect() {
   const handleChange = (event: SelectChangeEvent) => {
     const cl = event.target.value;
     setLanguage(event.target.value as string);
-    i18n.changeLanguage(cl);
-    // setHtmlLang(cl)
+    // i18n.changeLanguage(cl);
+    ii.changeLanguage(cl)
   };
   useEffect(() => {
     const setHtmlLang = function setHtmlLang(l: string) {

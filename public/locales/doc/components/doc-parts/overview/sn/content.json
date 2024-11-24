@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Mhedziso yeChibatanidza Vhura Nekuwedzera",
+    "description": "<p>Kuwedzerwa uku kunoita kuti ukwanise kudzora zviri nyore kuti ma hyperlink anovhurwa.</p><p>Hwindi: mamwe mabrowser, pop-up windows, new windows, new incognito windows, current window (default)</p> <p >Matebhu: kuruboshwe rwetabhu yazvino, tebhu yazvino, kurudyi yetabhu yazvino (default)</p><p>Mamiriro ekuita: haishande, shandisa izvozvi (default)</p>"
+  },
+  "menu": {
+    "main": "Overview"
+  }
+}

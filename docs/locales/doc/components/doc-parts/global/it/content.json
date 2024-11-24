@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Impostazioni globali",
+    "checkedUseSetting": "Seleziona per abilitare questa impostazione.",
+    "excludeDomains": "Aggiungi nomi di dominio da escludere È possibile aggiungere un solo nome di dominio alla volta.",
+    "seeExcludeExamplesLink": "Esempio",
+    "exclude": {
+      "example": {
+        "domain": "Puoi aggiungere un nome di dominio, ad esempio <code>{{url}}</code>, per escludere l'intero nome di dominio.",
+        "url": "Puoi escludere collegamenti specifici aggiungendo un collegamento, ad esempio <code>{{url}}</code>.",
+        "glob": "Puoi aggiungere un modello {{glob}}, come <code>{{minimatch}}</code>, per la corrispondenza fuzzy."
+      }
+    },
+    "script": "Puoi anche utilizzare gli script js per ottenere un controllo più sofisticato.",
+    "checkedUseScript": "Se abilitare lo script, tieni presente che devi selezionare entrambe le caselle contemporaneamente per abilitare lo script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Attualmente sul sito web di {{youtube}} devi aprire la pagina {{watch}} o {{shorts}} di {{youtube}} in una nuova scheda.",
+        "introVariables": "Introduzione alle variabili",
+        "page": ": La variabile è l'oggetto URL della pagina Web corrente. Per i dettagli, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Si prega di consultare</a >",
+        "pageHost": ": il nome di dominio della pagina Web corrente",
+        "isSameSubDomain": "{{isSameSubDomain}}: lo stesso nome di dominio. Tieni presente che sebbene i nomi di dominio principali di {{youtube}} e {{families}} siano entrambi {{mainDomain}}, i nomi di sottodominio sono {{youtubeSubDomain}} e {{ familySubDomain}} rispettivamente, quindi i loro nomi di dominio sono diversi.",
+        "click": ": il collegamento su cui è stato fatto clic",
+        "clickpath": ": il percorso del collegamento cliccato",
+        "minimatch": ": metodo di corrispondenza {{glob}}, utilizzando la libreria {{minimatch}}, il metodo di utilizzo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Per favore Vedi</a>, oppure puoi cercare come utilizzare {{glob}}.",
+        "rightTab": ": il collegamento si apre in una nuova scheda a destra",
+        "wholeCode": "Il significato dell'intero codice è quello attualmente nella pagina del nome di dominio {{www}} di YouTube, se il collegamento cliccato è lo stesso nome di dominio e il percorso inizia con {{watch}} o {{shorts}}, quindi la nuova scheda la pagina a destra sarà aperta."
+      }
+    }
+  },
+  "menu": {
+    "main": "Configurazione globale"
+  }
+}

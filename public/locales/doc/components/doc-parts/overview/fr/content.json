@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Présentation de l'extension Lien Ouvrir avec",
+    "description": "<p>Cette extension vous permet de contrôler facilement la façon dont les hyperliens sont ouverts.</p><p>Fenêtre : autres navigateurs, fenêtres pop-up, nouvelles fenêtres, nouvelles fenêtres de navigation privée, fenêtre actuelle (par défaut)</p> <p >Onglets : à gauche de l'onglet actuel, onglet actuel, à droite de l'onglet actuel (par défaut)</p><p>Statut d'activation : inactif, activer immédiatement (par défaut)</p>"
+  },
+  "menu": {
+    "main": "Aperçu"
+  }
+}

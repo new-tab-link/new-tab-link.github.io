@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Fakakaukau fakalukufua ki he Link Fakaava mo e fakalahi .",
+    "description": "<p>Ko e fakalahi ko 'eni 'oku ne faka'ata koe ke ke pule'i faingofua 'a e founga 'oku fakaava ai 'a e ngaahi hyperlink.</p><p>Window: ngaahi browser kehe, ngaahi matapa sio'ata 'oku 'asi hake, ngaahi matapa sio'ata fo'ou, ngaahi matapa sio'ata fakapulipuli fo'ou, matapa sio'ata lolotonga (default)</p> <p >Tabs: to'ohema 'o e tab lolotonga, tab lolotonga, to'omata'u 'o e tab lolotonga (faka'aonga'i)</p><p>Tu'unga 'o e faka'aonga'i: 'ikai ngaue, faka'aonga'i vave (faka'aonga'i)</p>"
+  },
+  "menu": {
+    "main": "Vakai fakalukufua"
+  }
+}

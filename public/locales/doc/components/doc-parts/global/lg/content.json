@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Ensengeka z’ensi yonna",
+    "checkedUseSetting": "Kebera okusobozesa ensengeka eno.",
+    "excludeDomains": "Yongera amannya ga domain agagenda okuggyibwamu erinnya lya domain limu lyokka lye liyinza okwongerwako omulundi gumu.",
+    "seeExcludeExamplesLink": "Eky'okulabirako",
+    "exclude": {
+      "example": {
+        "domain": "Osobola okwongerako erinnya ly'ekifo, nga <code>{{url}}</code>, okuggyako erinnya ly'ekifo kyonna.",
+        "url": "Osobola okuggyako enkolagana ezenjawulo ng'oyongerako enkolagana, gamba nga <code>{{url}}</code>.",
+        "glob": "Osobola okwongerako enkola ya {{glob}}, nga <code>{{minimatch}}</code>, olw'okukwatagana okutali kwa maanyi."
+      }
+    },
+    "script": "Osobola n'okukozesa scripts za js okutuuka ku kufuga okusingawo okusoosootola.",
+    "checkedUseScript": "Oba okusobozesa script yo, weetegereze nti olina okussaako akabonero ku box zombi mu kiseera kye kimu okusobozesa script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Mu kiseera kino ku mukutu gwa {{youtube}}, olina okuggulawo omuko gwa {{youtube}} ogwa {{watch}} oba {{shorts}} mu tabu empya.",
+        "introVariables": "Okwanjula ku bintu ebikyukakyuka",
+        "page": ": Enkyukakyuka kye kintu kya URL eky'olupapula lw'omukutu oluliwo kati Okusobola okumanya ebisingawo, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Nsaba olabe</a >",
+        "pageHost": ": Erinnya lya domain ly'olupapula lw'omukutu oluliwo kati",
+        "isSameSubDomain": "{{isSameSubDomain}}: Erinnya ly'ekitundu lye limu Weetegereze nti wadde ng'amannya g'ekifo amakulu aga {{youtube}} ne {{families}} gombi {{mainDomain}}, amannya ga domain entono ge {{youtubeSubDomain}} ne {{. familiesSubDomain}} respectively. Kale amannya ga domain gaabwe ga njawulo.",
+        "click": ": link eyanyigiddwa",
+        "clickpath": ": Ekkubo ly'omukago ogunyigiddwa",
+        "minimatch": ": {{glob}} enkola y'okukwatagana, nga okozesa {{minimatch}} etterekero, enkola y'okukozesa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Nsaba Laba</a>, oba osobola okunoonya engeri y'okukozesaamu {{glob}}.",
+        "rightTab": ": Link eggulwawo mu tab empya ku ddyo",
+        "wholeCode": "Amakulu ga koodi yonna gali nti mu kiseera kino eri ku mukutu gwa YouTube {{www}} domain name page, singa link enyigiddwa eba domain name y'emu era ekkubo litandika ne {{watch}} oba {{shorts}}, olwo tab empya omuko ku ddyo gujja kuba Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Ensengeka y’ensi yonna"
+  }
+}

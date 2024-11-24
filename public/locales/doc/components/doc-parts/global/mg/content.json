@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Fikirana manerantany",
+    "checkedUseSetting": "Hamarino mba hahafahanao ity fanovana ity.",
+    "excludeDomains": "Manampia anaran-tsehatra tsy ho tafiditra amin'ny anaran-tsehatra iray ihany no azo ampiana indray mandeha.",
+    "seeExcludeExamplesLink": "OHATRA",
+    "exclude": {
+      "example": {
+        "domain": "Azonao atao ny manampy anaran-tsehatra, toy ny <code>{{url}}</code>, hanilihana ny anaran-tsehatra manontolo.",
+        "url": "Azonao atao ny manilika rohy manokana amin'ny fampidirana rohy, toy ny <code>{{url}}</code>.",
+        "glob": "Azonao atao ny manampy lamina {{glob}}, toy ny <code>{{minimatch}}</code>, ho an'ny fampifanarahana tsy mazava."
+      }
+    },
+    "script": "Azonao atao koa ny mampiasa script js mba hahazoana fifehezana be pitsiny kokoa.",
+    "checkedUseScript": "Raha te-hanao ny script ianao dia mariho fa mila manamarina ireo boaty roa miaraka amin'ny fotoana iray ahafahanao mamela ny script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Amin'izao fotoana izao ao amin'ny tranokalan'ny {{youtube}}, mila manokatra ny pejy {{watch}} na {{shorts}} an'ny {{youtube}} amin'ny tabilao vaovao ianao.",
+        "introVariables": "Fampidirana ny variables",
+        "page": ": Ny fari-pitsipika dia ny URL amin'ny pejin-tranonkala amin'izao fotoana izao raha mila antsipiriany, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Jereo azafady</a >",
+        "pageHost": ": Ny anaran-tsehatra amin'ny pejin-tranonkala ankehitriny",
+        "isSameSubDomain": "{{isSameSubDomain}}: Ny anaran-tsehatra iray ihany dia mariho fa na dia samy {{mainDomain}} aza ny anaran'ny sehatra fototra an'ny {{youtube}} sy {{families}} dia {{youtubeSubDomain}} sy {{ familiesSubDomain}}, samy hafa ny anaran-tsehatra.",
+        "click": ": ny rohy voakitika",
+        "clickpath": ": Ny lalan'ny rohy kitihina",
+        "minimatch": ": {{glob}} fomba mifanandrify, mampiasa ny {{minimatch}} tranomboky, ny fomba fampiasana <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Azafady Jereo</a>, na azonao atao ny mikaroka ny fomba fampiasana {{glob}}.",
+        "rightTab": ": Mivoha amin'ny tabilao vaovao eo ankavanana ny rohy",
+        "wholeCode": "Ny dikan'ny kaody iray manontolo dia ny hoe ao amin'ny pejin'ny anaran-tsehatra {{www}} YouTube amin'izao fotoana izao, raha toa ka mitovy ny anaran-tsehatra ilay rohy kitihina ary ny lalana dia manomboka amin'ny {{watch}} na {{shorts}}, dia ny tabilao vaovao. ny pejy eo ankavanana dia ho misokatra."
+      }
+    }
+  },
+  "menu": {
+    "main": "Fanofanana manerantany"
+  }
+}

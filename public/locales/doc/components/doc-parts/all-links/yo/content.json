@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Gbogbo awọn ọna asopọ",
+    "checkedUseSetting": "Ṣayẹwo lati mu eto yii ṣiṣẹ.",
+    "excludeDomains": "Fi awọn orukọ ìkápá kun lati yọkuro.",
+    "seeExcludeExamplesLink": "Apeere",
+    "exclude": {
+      "example": {
+        "domain": "O le fi orukọ ìkápá kan kun, gẹgẹbi <code>{{url}}</code>, lati yọkuro gbogbo orukọ ìkápá naa.",
+        "url": "O le yọkuro awọn ọna asopọ kan pato nipa fifi ọna asopọ kan kun, gẹgẹbi <code>{{url}}</code>.",
+        "glob": "O le fi apẹrẹ {{glob}} kan kun, gẹgẹbi <code>{{minimatch}}</code>, fun ibaramu iruju."
+      }
+    }
+  },
+  "menu": {
+    "main": "Gbogbo awọn ọna asopọ"
+  }
+}

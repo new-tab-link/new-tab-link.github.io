@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Il-links kollha",
+    "checkedUseSetting": "Iċċekkja biex tippermetti dan is-setting.",
+    "excludeDomains": "Żid ismijiet tad-dominju biex jiġu esklużi Isem tad-dominju wieħed biss jista' jiżdied kull darba.",
+    "seeExcludeExamplesLink": "Eżempju",
+    "exclude": {
+      "example": {
+        "domain": "Tista' żżid isem tad-dominju, bħal <code>{{url}}</code>, biex teskludi l-isem tad-dominju kollu.",
+        "url": "Tista' teskludi links speċifiċi billi żżid link, bħal <code>{{url}}</code>.",
+        "glob": "Tista' żżid mudell {{glob}}, bħal <code>{{minimatch}}</code>, għal tqabbil fuzzy."
+      }
+    }
+  },
+  "menu": {
+    "main": "Il-links kollha"
+  }
+}

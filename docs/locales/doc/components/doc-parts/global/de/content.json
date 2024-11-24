@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globale Einstellungen",
+    "checkedUseSetting": "Aktivieren Sie diese Einstellung, um sie zu aktivieren.",
+    "excludeDomains": "Auszuschließende Domänennamen hinzufügen. Es kann jeweils nur ein Domänenname hinzugefügt werden.",
+    "seeExcludeExamplesLink": "Beispiel",
+    "exclude": {
+      "example": {
+        "domain": "Sie können einen Domänennamen hinzufügen, z. B. <code>{{url}}</code>, um den gesamten Domänennamen auszuschließen.",
+        "url": "Sie können bestimmte Links ausschließen, indem Sie einen Link hinzufügen, z. B. <code>{{url}}</code>.",
+        "glob": "Sie können ein {{glob}}-Muster wie <code>{{minimatch}}</code> für den Fuzzy-Abgleich hinzufügen."
+      }
+    },
+    "script": "Sie können auch JS-Skripte verwenden, um eine komplexere Steuerung zu erreichen.",
+    "checkedUseScript": "Wenn Sie Ihr Skript aktivieren möchten, beachten Sie, dass Sie beide Kontrollkästchen gleichzeitig aktivieren müssen, um das Skript zu aktivieren.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Derzeit müssen Sie auf der Website von {{youtube}} die Seite {{watch}} oder {{shorts}} von {{youtube}} in einem neuen Tab öffnen.",
+        "introVariables": "Einführung in Variablen",
+        "page": ": Die Variable ist das URL-Objekt der aktuellen Webseite. Weitere Informationen finden Sie unter <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Bitte sehen</a >",
+        "pageHost": ": Der Domänenname der aktuellen Webseite",
+        "isSameSubDomain": "{{isSameSubDomain}}: Derselbe Domainname. Beachten Sie, dass die Hauptdomainnamen von {{youtube}} und {{families}} beide {{mainDomain}} sind, die Subdomainnamen jedoch {{youtubeSubDomain}} und {{ familySubDomain}} sind also unterschiedlich.",
+        "click": ": der Link, auf den geklickt wurde",
+        "clickpath": ": Der Pfad des angeklickten Links",
+        "minimatch": ": {{glob}}-Abgleichmethode unter Verwendung der {{minimatch}}-Bibliothek, Verwendungsmethode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Bitte Siehe</a>, oder Sie können nach der Verwendung von {{glob}} suchen.",
+        "rightTab": ": Der Link wird rechts in einem neuen Tab geöffnet",
+        "wholeCode": "Die Bedeutung des gesamten Codes besteht darin, dass derzeit auf der Domainnamenseite {{www}} von YouTube der neue Tab angezeigt wird, wenn der angeklickte Link derselbe Domainname ist und der Pfad mit {{watch}} oder {{shorts}} beginnt Die rechte Seite ist geöffnet."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globale Konfiguration"
+  }
+}

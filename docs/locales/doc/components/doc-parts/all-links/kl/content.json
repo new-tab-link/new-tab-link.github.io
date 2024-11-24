@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Linkit tamarmik",
+    "checkedUseSetting": "Inissiissut una atulersinniarlugu misissukkit.",
+    "excludeDomains": "Domæne-t ilanngunneqartussat ilanngukkit Domæne-navn ataaseq ataasiaannaq ilanngunneqarsinnaavoq.",
+    "seeExcludeExamplesLink": "Assersuut",
+    "exclude": {
+      "example": {
+        "domain": "Domæne-mik taaguuteqarsinnaavutit, soorlu <code>{{url}}</code>, domæne-mik taaguuteqarneq tamakkerlugu ilanngunneqannginnissaanut.",
+        "url": "Innersuussinerit immikkut ittut ilanngussinnaavatit innersuussinikkut, soorlu <code>{{url}}</code>.",
+        "glob": "{{glob}}-mik allagartaq ilanngussinnaavat, soorlu <kode>{{minimatch}}</code>, eqqumiitsuliornermut."
+      }
+    }
+  },
+  "menu": {
+    "main": "Linkit tamarmik"
+  }
+}

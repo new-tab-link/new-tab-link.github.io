@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Tutti i collegamenti",
+    "checkedUseSetting": "Seleziona per abilitare questa impostazione.",
+    "excludeDomains": "Aggiungi nomi di dominio da escludere È possibile aggiungere un solo nome di dominio alla volta.",
+    "seeExcludeExamplesLink": "Esempio",
+    "exclude": {
+      "example": {
+        "domain": "Puoi aggiungere un nome di dominio, ad esempio <code>{{url}}</code>, per escludere l'intero nome di dominio.",
+        "url": "Puoi escludere collegamenti specifici aggiungendo un collegamento, ad esempio <code>{{url}}</code>.",
+        "glob": "Puoi aggiungere un modello {{glob}}, come <code>{{minimatch}}</code>, per la corrispondenza fuzzy."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tutti i collegamenti"
+  }
+}

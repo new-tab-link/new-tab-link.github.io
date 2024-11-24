@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Mipangilio ya kimataifa",
+    "checkedUseSetting": "Angalia ili kuwezesha mpangilio huu.",
+    "excludeDomains": "Kuongeza majina domain kutengwa moja tu jina la uwanja unaweza kuongezwa kwa wakati.",
+    "seeExcludeExamplesLink": "Mfano",
+    "exclude": {
+      "example": {
+        "domain": "Unaweza kuongeza jina la kikoa, kama vile <code>{{url}}</code>, ili kuwatenga jina lote la kikoa.",
+        "url": "Unaweza kutenga viungo mahususi kwa kuongeza kiungo, kama vile <code>{{url}}</code>.",
+        "glob": "Unaweza kuongeza mchoro wa {{glob}}, kama vile <code>{{minimatch}}</code>, kwa ulinganishaji usioeleweka."
+      }
+    },
+    "script": "Unaweza pia kutumia hati za js kufikia udhibiti wa hali ya juu zaidi.",
+    "checkedUseScript": "Ikiwa utawasha hati yako, kumbuka kuwa unahitaji kuteua visanduku vyote viwili kwa wakati mmoja ili kuwezesha hati.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Kwa sasa kwenye tovuti ya {{youtube}}, unahitaji kufungua ukurasa wa {{youtube}} {{watch}} au {{shorts}} katika kichupo kipya.",
+        "introVariables": "Utangulizi wa vigezo",
+        "page": ": Tofauti ndio lengo la URL la ukurasa wa sasa wa wavuti Kwa maelezo, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Tafadhali tazama</a>",
+        "pageHost": ": Jina la kikoa la ukurasa wa sasa wa wavuti",
+        "isSameSubDomain": "{{isSameSubDomain}}: Jina la kikoa sawa. Kumbuka kwamba ingawa majina makuu ya kikoa cha {{youtube}} na {{families}} ni {{mainDomain}}, majina ya vikoa vidogo ni {{youtubeSubDomain}} na {{ familySubDomain}} kwa mtiririko huo, majina ya vikoa vyao ni tofauti.",
+        "click": ": kiungo ambacho kilibofya",
+        "clickpath": ": Njia ya kiungo kilichobofya",
+        "minimatch": ": {{glob}} mbinu ya kulinganisha, kwa kutumia {{minimatch}} maktaba, mbinu ya matumizi <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Tafadhali Tazama</a>, au unaweza kutafuta jinsi ya kutumia {{glob}}.",
+        "rightTab": ": Kiungo kinafungua kwenye kichupo kipya upande wa kulia",
+        "wholeCode": "Maana ya msimbo mzima ni kwamba kwa sasa katika ukurasa wa jina la kikoa cha {{www}} YouTube, ikiwa kiungo kilichobofya ni jina la kikoa sawa na njia inaanza na {{watch}} au {{shorts}}, kisha kichupo kipya. ukurasa wa kulia utakuwa Fungua."
+      }
+    }
+  },
+  "menu": {
+    "main": "Usanidi wa kimataifa"
+  }
+}

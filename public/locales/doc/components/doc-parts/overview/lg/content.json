@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Okulaba okunene ku Link Open With extension",
+    "description": "<p>Okugaziya kuno kukusobozesa okufuga mu ngeri ennyangu engeri hyperlinks gye ziggulwamu.</p><p>Eddirisa: bulawuzi endala, amadirisa agafuluma, amadirisa amapya, amadirisa amapya agatali ga bulijjo, eddirisa eririko kati (erya bulijjo)</p> <p >Tabu: kkono wa tabu eriwo kati, tabu eriwo kati, ddyo wa tabu eriwo kati (esookerwako)</p><p>Embeera y'okukola: tekola, kola amangu ddala (esookerwako)</p>"
+  },
+  "menu": {
+    "main": "Okulambika okutwaliza awamu"
+  }
+}

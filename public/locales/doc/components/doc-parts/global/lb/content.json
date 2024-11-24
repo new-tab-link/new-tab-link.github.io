@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Global Astellungen",
+    "checkedUseSetting": "Check fir dës Astellung z'aktivéieren.",
+    "excludeDomains": "Füügt Domain Nimm fir auszeschléissen Nëmmen een Domain Numm kann gläichzäiteg bäigefüügt ginn.",
+    "seeExcludeExamplesLink": "Beispill",
+    "exclude": {
+      "example": {
+        "domain": "Dir kënnt en Domain Numm addéieren, wéi <code>{{url}}</code>, fir de ganzen Domain Numm auszeschléissen.",
+        "url": "Dir kënnt spezifesch Linken ausschléissen andeems Dir e Link bäidréit, wéi <code>{{url}}</code>.",
+        "glob": "Dir kënnt e {{glob}} Muster addéieren, wéi <code>{{minimatch}}</code>, fir fuzzy Matching."
+      }
+    },
+    "script": "Dir kënnt och js Scripte benotzen fir méi sophistikéiert Kontroll z'erreechen.",
+    "checkedUseScript": "Ob Äre Skript z'aktivéieren, notéiert datt Dir béid Këschte gläichzäiteg kontrolléiere musst fir de Skript z'aktivéieren.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Momentan op der {{youtube}} Websäit, musst Dir {{youtube}}'s {{watch}} oder {{shorts}} Säit an enger neier Tab opmaachen.",
+        "introVariables": "Aféierung fir Verännerlechen",
+        "page": ": D'Variabel ass den URL-Objet vun der aktueller Websäit Fir Detailer, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Kuckt w.e.g.</a >",
+        "pageHost": ": Den Domain Numm vun der aktueller Websäit",
+        "isSameSubDomain": "{{isSameSubDomain}}: Deeselwechten Domain Numm Notéiert datt obwuel d'Haaptdomänennimm vun {{youtube}} an {{families}} béid {{mainDomain}} sinn, sinn d'Subdomainnimm {{youtubeSubDomain}} an {{. familiesSubDomain}} respektiv Also hir Domain Nimm sinn anescht.",
+        "click": ": de Link deen geklickt gouf",
+        "clickpath": ": De Wee vum geklickte Link",
+        "minimatch": ": {{glob}} passende Method, mat der {{minimatch}} Bibliothéik, d'Benotzungsmethod <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>W.e.g. Kuckt</a>, oder Dir kënnt no Sich no wéi Dir {{glob}} benotzt.",
+        "rightTab": ": De Link mécht an engem neien Tab op der rietser Säit op",
+        "wholeCode": "D'Bedeitung vum ganze Code ass datt de Moment op YouTube senger {{www}} Domain Numm Säit, wann de geklickte Link dee selwechten Domain Numm ass an de Wee fänkt mat {{watch}} oder {{Shorts}}, dann déi nei Tab. Säit op der rietser Säit wäert Open sinn."
+      }
+    }
+  },
+  "menu": {
+    "main": "Global Configuratioun"
+  }
+}

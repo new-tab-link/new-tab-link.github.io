@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "ኩሉ ሊንክታት",
+    "checkedUseSetting": "ነዚ ቅጥዒ ንምንቅስቓስ ኣረጋግጽ።",
+    "excludeDomains": "ንኽግለሉ ዝግበኦም ኣስማት ዓውዲ ምውሳኽ ኣብ ሓደ እዋን ሓደ ስም ዓውዲ ጥራይ እዩ ክውሰኽ ዝኽእል።",
+    "seeExcludeExamplesLink": "ኣብነት",
+    "exclude": {
+      "example": {
+        "domain": "ንብምሉኡ ስም ዓውዲ ንምግላል ከም <code>{{url}}</code> ዝኣመሰለ ስም ዓውዲ ክትውስኽ ትኽእል ኢኻ።",
+        "url": "ፍሉያት መላግቦታት ከም <code>{{url}}</code> ዝኣመሰሉ መላግቦ ብምውሳኽ ከተግልል ትኽእል ኢኻ።",
+        "glob": "ንዘይንጹር ምትእስሳር {{glob}} ቅዲ ክትውስኽ ትኽእል ኢኻ፣ ከም <code>{{minimatch}}</code>።"
+      }
+    }
+  },
+  "menu": {
+    "main": "ኩሉ ሊንክታት"
+  }
+}

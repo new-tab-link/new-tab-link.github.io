@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Alle skakels",
+    "checkedUseSetting": "Merk om hierdie instelling te aktiveer.",
+    "excludeDomains": "Voeg domeinname by om uitgesluit te word Slegs een domeinnaam kan op 'n slag bygevoeg word.",
+    "seeExcludeExamplesLink": "Voorbeeld",
+    "exclude": {
+      "example": {
+        "domain": "Jy kan 'n domeinnaam byvoeg, soos <code>{{url}}</code>, om die hele domeinnaam uit te sluit.",
+        "url": "Jy kan spesifieke skakels uitsluit deur 'n skakel by te voeg, soos <code>{{url}}</code>.",
+        "glob": "Jy kan 'n {{glob}}-patroon byvoeg, soos <code>{{minimatch}}</code>, vir fuzzy passing."
+      }
+    }
+  },
+  "menu": {
+    "main": "Alle skakels"
+  }
+}

@@ -24,11 +24,14 @@ const backendOptions = {
     const log = i18nLogger.sub(false, `i18n loadpath`);
     log.pause = true;
     let lng = lngs[0]
-    lng = 'zh-CN'
+    // lng = 'zh-CN'
     let p = `/options/_locales/${lngs[0].replace("-", "_")}/messages.json`;
     p = `/locales/zh-CN/ns1/content.json`;
     // p = `locales/${lng}/${namespaces[0].replaceAll('___', '-').replaceAll("__", "/")}/content.json?v=${fileDateVersion}`
     p = `locales/${lng}/${namespaces[0]}.json?v=${fileDateVersion}`
+    const ps = namespaces[0].split('/')
+    ps.splice(ps.length - 1, 0, lng)
+    p = `locales/${ps.join('/')}.json?v=${fileDateVersion}`
     // if (isProduction) {
     //   if (typeof window !== "undefined") {
     //     const url = new URL(window.location.href);
@@ -85,9 +88,11 @@ i18n
   .use(initReactI18next)
   .init<HttpBackendOptions>({
     load: "currentOnly",
+    // load: "all",
     // supportedLngs: ['zh-CN', 'zh-TW', 'en', 'en-GB', 'ja'],
     // resources,
-    // fallbackLng: "en",
+    fallbackLng: "en",
+    // fallbackLng: "zh-CN",
     // lng: "zh-CN",
     partialBundledLanguages:true,
     ns:[],

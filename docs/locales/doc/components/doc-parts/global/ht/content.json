@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Anviwònman mondyal yo",
+    "checkedUseSetting": "Tcheke pou pèmèt paramèt sa a.",
+    "excludeDomains": "Ajoute non domèn yo dwe eskli sèlman yon non domèn ka ajoute nan yon moman.",
+    "seeExcludeExamplesLink": "Egzanp",
+    "exclude": {
+      "example": {
+        "domain": "Ou ka ajoute yon non domèn, tankou <code>{{url}}</code>, pou eskli tout non domèn.",
+        "url": "Ou ka eskli lyen espesifik lè w ajoute yon lyen, tankou <code>{{url}}</code>.",
+        "glob": "Ou ka ajoute yon modèl {{glob}}, tankou <code>{{minimatch}}</code>, pou matche flou."
+      }
+    },
+    "script": "Ou kapab tou itilize scripts js pou reyalize kontwòl plis sofistike.",
+    "checkedUseScript": "Kit pou pèmèt script ou a, sonje ke ou bezwen tcheke tou de kare an menm tan pou pèmèt script la.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Kounye a sou sitwèb {{youtube}} la, ou bezwen ouvri paj {{youtube}} {{watch}} oswa {{shorts}} nan yon nouvo tab.",
+        "introVariables": "Entwodiksyon nan varyab",
+        "page": ": Varyab la se objè URL nan paj wèb aktyèl la. Pou plis detay, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Tanpri gade</a>",
+        "pageHost": ": Non domèn paj wèb aktyèl la",
+        "isSameSubDomain": "{{isSameSubDomain}}: Menm non domèn sa a byenke non domèn prensipal {{youtube}} ak {{fanmi}} yo tou de {{mainDomain}}, non sou domèn yo se {{youtubeSubDomain}} ak {{. familysSubDomain}} respektivman Se konsa, non domèn yo diferan.",
+        "click": ": lyen ki te klike la",
+        "clickpath": ": Chemen lyen klike la",
+        "minimatch": ": {{glob}} metòd matche, lè l sèvi avèk bibliyotèk {{minimatch}}, metòd itilizasyon <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Tanpri Gade</a>, oswa ou ka chèche kijan pou itilize {{glob}}.",
+        "rightTab": ": Lyen an ouvri nan yon nouvo tab sou bò dwat la",
+        "wholeCode": "Siyifikasyon tout kòd la se ke kounye a nan paj non domèn {{www}} YouTube la, si lyen klike la se menm non domèn epi chemen an kòmanse ak {{watch}} oswa {{shorts}}, lè sa a nouvo tab la. paj sou bò dwat la pral Louvri."
+      }
+    }
+  },
+  "menu": {
+    "main": "Konfigirasyon mondyal la"
+  }
+}

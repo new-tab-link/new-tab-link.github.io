@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globális beállítások",
+    "checkedUseSetting": "Jelölje be a beállítás engedélyezéséhez.",
+    "excludeDomains": "Kizárandó domain nevek hozzáadása Egyszerre csak egy domain név adható hozzá.",
+    "seeExcludeExamplesLink": "Példa",
+    "exclude": {
+      "example": {
+        "domain": "A teljes domainnév kizárásához hozzáadhat egy domain nevet, például <code>{{url}}</code>.",
+        "url": "Egy link hozzáadásával kizárhat bizonyos linkeket, például <code>{{url}}</code>.",
+        "glob": "Hozzáadhat egy {{glob}} mintát, például <code>{{minimatch}}</code>-t a fuzzy egyezéshez."
+      }
+    },
+    "script": "A kifinomultabb vezérlés érdekében js-szkripteket is használhat.",
+    "checkedUseScript": "Ha engedélyezi-e a szkriptet, vegye figyelembe, hogy a szkript engedélyezéséhez egyszerre mindkét jelölőnégyzetet be kell jelölnie.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Jelenleg a {{youtube}} webhelyen új lapon kell megnyitnod {{youtube}} {{watch}} vagy {{shorts}} oldalát.",
+        "introVariables": "Bevezetés a változókba",
+        "page": ": A változó az aktuális weboldal URL-objektuma A részletekért lásd: <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Lásd:</a>",
+        "pageHost": ": Az aktuális weboldal domain neve",
+        "isSameSubDomain": "{{isSameSubDomain}}: Ugyanaz a domain név, bár a {{youtube}} és a {{families}} fő domain neve egyaránt {{mainDomain}}, az aldomain nevek a {{youtubeSubDomain}} és a {{ FamilySubDomain}}, tehát a domain nevek eltérőek.",
+        "click": ": a link, amelyre kattintottak",
+        "clickpath": ": A kattintott link elérési útja",
+        "minimatch": ": {{glob}} egyezési módszer, a {{minimatch}} könyvtár használatával, a használati metódus <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Kérjük, Lásd</a>, vagy rákereshet a {{glob}} használatára.",
+        "rightTab": ": A link egy új lapon nyílik meg a jobb oldalon",
+        "wholeCode": "A teljes kód jelentése az, hogy jelenleg a YouTube {{www}} domain név oldalán, ha a kattintott link ugyanaz a domain név, és az elérési út {{watch}} vagy {{shorts}} karakterekkel kezdődik, akkor az új lap a jobb oldali oldal Megnyitás lesz."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globális konfiguráció"
+  }
+}

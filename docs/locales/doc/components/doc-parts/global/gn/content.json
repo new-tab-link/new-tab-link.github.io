@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Ñemboheko atyguasu rehegua",
+    "checkedUseSetting": "Ehecháke emboguata hag̃ua ko ñemboheko.",
+    "excludeDomains": "Emoĩve dominio réra oñemboyke hag̃ua peteĩ dominio réra añoite ikatu oñembojoapy peteĩ jeýpe.",
+    "seeExcludeExamplesLink": "Tembiecharã",
+    "exclude": {
+      "example": {
+        "domain": "Ikatu emoĩ peteĩ dominio réra, ha’eháicha <code>{{url}}</code>, emboyke hag̃ua dominio réra tuichakue.",
+        "url": "Ikatu emboyke umi joajuha específico emoĩvo peteĩ joajuha, ha’eháicha <code>{{url}}</code>.",
+        "glob": "Ikatu emoĩ peteĩ {{glob}} ra’ãnga, ha’eháicha <code>{{minimatch}}</code>, joaju difuso-pe g̃uarã."
+      }
+    },
+    "script": "Ikatu avei reipuru js scripts rehupyty hag̃ua control ipyahuvéva.",
+    "checkedUseScript": "Taha’e emboguata hag̃ua ne script, eñatendéke tekotevẽha remoĩ mokõive kuatiarogue peteĩ jave emboguata hag̃ua script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ko’áĝaite {{youtube}} página web-pe, tekotevẽ eipe’a {{youtube}} {{watch}} térã {{shorts}} página peteĩ ficha pyahúpe.",
+        "introVariables": "Ñepyrũrã umi variable rehegua",
+        "page": ": Pe mbaꞌekuaarã haꞌehína URL mbaꞌekuaarã página web koꞌag̃aguápe Ojekuaa hag̃ua, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Ehechamína</a >",
+        "pageHost": ": Pe página web ko’ag̃agua dominio réra",
+        "isSameSubDomain": "{{isSameSubDomain}}: Peteĩchagua dominio réra Ñañamindu’u jepémo {{youtube}} ha {{families}} dominio réra tenondegua ha’e mokõivéva {{mainDomain}}, umi subdominio réra ha’e {{youtubeSubDomain}} ha {{. familiesSubDomain}} peteĩteĩ.",
+        "click": ": pe enlace ojekutuva’ekue",
+        "clickpath": ": Pe tape ojeipysóva enlace",
+        "minimatch": ": {{glob}} joajuha rape, eipuruhápe {{minimatch}} aranduka’i, jepuru rape <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Por favor Ehecha</a>, térã ikatu eheka mba’éichapa reipurukuaa {{glob}}.",
+        "rightTab": ": Pe enlace ojepe’a peteĩ ficha pyahúpe oĩva akatúape",
+        "wholeCode": "Pe código tuichakue he’iséva ha’e ko’áĝa oĩva YouTube {{www}} dominio réra página-pe, pe enlace ojepysóva ha’éramo peteĩchagua dominio réra ha tape oñepyrũramo {{watch}} térã {{shorts}}, upéicharamo pe ficha pyahu página oĩva akatúape ha’éta Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuración global rehegua"
+  }
+}

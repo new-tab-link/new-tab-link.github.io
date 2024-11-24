@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globale insjtellinge",
+    "checkedUseSetting": "Controleer um deze insjtelling in te sjakele.",
+    "excludeDomains": "Voeg domeinnaome touw die motte weure oetgeslote.",
+    "seeExcludeExamplesLink": "Veurbeeld",
+    "exclude": {
+      "example": {
+        "domain": "Geer kin un domeinnaom toevoege, wie <code>{{url}}</code>, um de ganse domeinnaom oet te slete.",
+        "url": "Geer kin specifieke links oetslete door un link toe te voge, wie <code>{{url}}</code>.",
+        "glob": "Geer kin un {{glob}}-patroon toevoege, wie <code>{{minimatch}}</code>, veur fuzzy matching."
+      }
+    },
+    "script": "Geer kin ouch js-scripts gebruke um gesofisticeerdere controle te bereike.",
+    "checkedUseScript": "Of geer eur script insjakelt, let op dat geer allebei vakjes tegeliekertied mot aonvinke um ut script in te sjtèlle.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Op ‘t momint op de {{youtube}}-website mot geer de {{watch}}- of {{shorts}}-pagina vaan {{youtube}} op ‘n nuuj tabblad opene.",
+        "introVariables": "Inleiding tot variabele",
+        "page": ": De variabele is ‘t URL-objek vaan de huidige webpagina. Zie</a >",
+        "pageHost": ": De domeinnaom vaan de huidige webpagina",
+        "isSameSubDomain": "{{isSameSubDomain}}: Dezelfde domeinnaom Let op dat de hoofdomeinnaome vaan {{youtube}} en {{families}} allebei {{mainDomain}} zien, de subdomeinnaome {{youtubeSubDomain}} en {{ familiesSubDomain}} respectievelik. Hun domeinnaome zien dus aanders.",
+        "click": ": de link die is geklik",
+        "clickpath": ": De paad vaan de geklikte link",
+        "minimatch": ": {{glob}} matching method, using the {{minimatch}} library, de gebruuksmethode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Please Kiek</a>, of geer kin zeuke nao wie me {{glob}} kin gebruke.",
+        "rightTab": ": De link geit open in un nuuj tabblad aan de rechterkant",
+        "wholeCode": "De beteikenis vaan de ganse code is dat op de {{www}} domeinnaompagina vaan YouTube op ‘t momint, es de geklikte link dezelfde domeinnaom is en ‘t paad begint mit {{watch}} of {{shorts}}, dan is ‘t nuuj tab de pagina aan de rechterkant zal Open zien."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globale configuratie"
+  }
+}

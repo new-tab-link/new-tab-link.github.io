@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Tilungiselelo temhlaba wonkhe",
+    "checkedUseSetting": "Hlola kutsi unikete lesethingi emandla.",
+    "excludeDomains": "Ngeta emagama esizinda kutsi angafakwa Ligama lesizinda linye kuphela lelingangetwa ngesikhatsi sinye.",
+    "seeExcludeExamplesLink": "Sibonelo",
+    "exclude": {
+      "example": {
+        "domain": "Ungangeta ligama lesizinda, njenge <code>{{url}}</code>, kute ungafaki lonkhe ligama lesizinda.",
+        "url": "Ungakhipha tikhonjiso letitsite ngekwengeta sikhonjiso, njenge <code>{{url}}</code>.",
+        "glob": "Ungangeta iphethini {{glob}}, njenge <khodi>{{kufana lokuncane}}</khodi>, yekuhambisana lokungacacile."
+      }
+    },
+    "script": "Ungaphindze usebentise imibhalo ye-js kute ufinyelele kulawula lokuyinkimbinkimbi kakhulu.",
+    "checkedUseScript": "Noma ngabe unika script sakho emandla, caphela kutsi kufanele uhlole womabili lamabhokisi ngesikhatsi sinye kute unikete script emandla.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Kwanyalo kuwebhusayithi ye {{youtube}}, kufanele uvule likhasi le {{bukela}} noma {{emafishane}} kuthebhu lensha.",
+        "introVariables": "Singeniso setintfo letigucukako",
+        "page": ": Lokugucukako yintfo ye-URL yelikhasi lewebhu lamanje Kute utfole imininingwane, <a href='https://umsunguli. Sicela ubone</a >",
+        "pageHost": ": Ligama lesizinda lelikhasi lewebhu lamanje",
+        "isSameSubDomain": "{{isSameSubDomain}}: Ligama lesizinda lelifanako Caphela kutsi noma emagama esizinda lamakhulu e {{youtube}} kanye na {{imindeni}} womabili {{Sizinda Lesikhulu}}, emagama esizinda lesincane ngu {{YoutubeSubDomain}} kanye na {{. imindeniSubDomain}} ngekulandzelana.",
+        "click": ": sixhumanisi lesachafatwa",
+        "clickpath": ": Indlela yesixhumanisi lesichafaziwe",
+        "minimatch": ": indlela yekufanisa {{glob}}, usebentisa umtapolwati {{kufanisa lokuncane}}, indlela yekusebentisa <a href='https://github.com/isaacs/kufanisa lokuncane' lisu = '_blank' rel='norereferrer'>Sicela Bona</a>, noma ungasesha indlela yekusebentisa {{glob}}.",
+        "rightTab": ": Lesixhumanisi sivuleka kuthebhu lensha ngasekudla .",
+        "wholeCode": "Inshokutsi yayo yonkhe ikhodi kutsi njengamanje ekhasini leligama lesizinda le-YouTube {{www}}, uma ngabe sixhumanisi lesichafatwe ligama lesizinda lelifanako futsi indlela icala nga {{watch}} noma {{shorts}}, bese kuba nethebhu lensha . likhasi lelisesandleni sekudla litawuvulwa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Kuhleleka kwemhlaba wonkhe"
+  }
+}

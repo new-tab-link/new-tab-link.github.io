@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Overview of the Link Open With extension",
+    "description": "<p> Haec extensio permittit te commode moderari quomodo hyperlinks aperiantur.</p><p>Fenestra: alii navigatores, fenestrae pop-up, novae fenestrae, novae incognitae fenestrae, fenestrae hodiernae (default</p> <p. > Tabs: sinistra tab, current tab, ius tab currentis (default</p><p> status activationis: iners, statim strenuus (default </p>"
+  },
+  "menu": {
+    "main": "Overview"
+  }
+}

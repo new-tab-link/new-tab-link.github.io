@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Enkolagana zonna",
+    "checkedUseSetting": "Kebera okusobozesa ensengeka eno.",
+    "excludeDomains": "Yongera amannya ga domain agagenda okuggyibwamu erinnya lya domain limu lyokka lye liyinza okwongerwako omulundi gumu.",
+    "seeExcludeExamplesLink": "Eky'okulabirako",
+    "exclude": {
+      "example": {
+        "domain": "Osobola okwongerako erinnya ly'ekifo, nga <code>{{url}}</code>, okuggyako erinnya ly'ekifo kyonna.",
+        "url": "Osobola okuggyako enkolagana ezenjawulo ng'oyongerako enkolagana, gamba nga <code>{{url}}</code>.",
+        "glob": "Osobola okwongerako enkola ya {{glob}}, nga <code>{{minimatch}}</code>, olw'okukwatagana okutali kwa maanyi."
+      }
+    }
+  },
+  "menu": {
+    "main": "Enkolagana zonna"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Configuració global",
+    "checkedUseSetting": "Marqueu per activar aquesta configuració.",
+    "excludeDomains": "Afegiu noms de domini que s'exclouen. Només es pot afegir un nom de domini alhora.",
+    "seeExcludeExamplesLink": "Exemple",
+    "exclude": {
+      "example": {
+        "domain": "Podeu afegir un nom de domini, com ara <code>{{url}}</code>, per excloure tot el nom de domini.",
+        "url": "Podeu excloure enllaços específics afegint un enllaç, com ara <code>{{url}}</code>.",
+        "glob": "Podeu afegir un patró {{glob}}, com ara <code>{{minimatch}}</code>, per a una concordança difusa."
+      }
+    },
+    "script": "També podeu utilitzar scripts js per aconseguir un control més sofisticat.",
+    "checkedUseScript": "Si voleu habilitar l'script, tingueu en compte que heu de marcar les dues caselles alhora per habilitar l'script.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Actualment al lloc web de {{youtube}}, heu d'obrir la pàgina {{watch}} o {{shorts}} de {{youtube}} en una pestanya nova.",
+        "introVariables": "Introducció a les variables",
+        "page": ": La variable és l'objecte URL de la pàgina web actual. Per a més informació, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Consulteu</a >",
+        "pageHost": ": El nom de domini de la pàgina web actual",
+        "isSameSubDomain": "{{isSameSubDomain}}: el mateix nom de domini, encara que els noms de domini principals de {{youtube}} i {{families}} són {{mainDomain}}, els noms de subdomini són {{youtubeSubDomain}} i {{. familiesSubDomain}}, per tant, els seus noms de domini són diferents.",
+        "click": ": l'enllaç que s'ha fet clic",
+        "clickpath": ": el camí de l'enllaç al qual s'ha fet clic",
+        "minimatch": ": mètode de concordança {{glob}}, utilitzant la biblioteca {{minimatch}}, el mètode d'ús <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Si us plau Vegeu</a>, o podeu cercar com utilitzar {{glob}}.",
+        "rightTab": ": l'enllaç s'obre en una pestanya nova a la dreta",
+        "wholeCode": "El significat de tot el codi és que actualment a la pàgina de nom de domini {{www}} de YouTube, si l'enllaç en què s'ha fet clic és el mateix nom de domini i el camí comença per {{watch}} o {{shorts}}, la pestanya nova la pàgina de la dreta estarà oberta."
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuració global"
+  }
+}

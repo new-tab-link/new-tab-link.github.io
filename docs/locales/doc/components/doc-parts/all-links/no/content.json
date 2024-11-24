@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Alle lenker",
+    "checkedUseSetting": "Merk av for å aktivere denne innstillingen.",
+    "excludeDomains": "Legg til domenenavn som skal ekskluderes Kun ett domenenavn kan legges til om gangen.",
+    "seeExcludeExamplesLink": "Eksempel",
+    "exclude": {
+      "example": {
+        "domain": "Du kan legge til et domenenavn, for eksempel <code>{{url}}</code>, for å ekskludere hele domenenavnet.",
+        "url": "Du kan ekskludere spesifikke koblinger ved å legge til en kobling, for eksempel <code>{{url}}</code>.",
+        "glob": "Du kan legge til et {{glob}}-mønster, for eksempel <code>{{minimatch}}</code>, for uklar matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Alle lenker"
+  }
+}

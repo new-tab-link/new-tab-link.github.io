@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "グローバル設定",
+    "checkedUseSetting": "この設定を有効にするにはチェックを入れます。",
+    "excludeDomains": "除外するドメイン名を追加する 一度に追加できるドメイン名は 1 つだけです。",
+    "seeExcludeExamplesLink": "例",
+    "exclude": {
+      "example": {
+        "domain": "<code>{{url}}</code> などのドメイン名を追加して、ドメイン名全体を除外できます。",
+        "url": "<code>{{url}}</code> などのリンクを追加することで、特定のリンクを除外できます。",
+        "glob": "あいまい一致のために、<code>{{minimatch}}</code> などの {{glob}} パターンを追加できます。"
+      }
+    },
+    "script": "js スクリプトを使用して、より高度な制御を実現することもできます。",
+    "checkedUseScript": "スクリプトを有効にするかどうかについては、スクリプトを有効にするには両方のボックスを同時にオンにする必要があることに注意してください。",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "現在、{{youtube}} ウェブサイトでは、{{youtube}} の {{watch}} または {{shorts}} ページを新しいタブで開く必要があります。",
+        "introVariables": "変数の概要",
+        "page": ": 変数は現在の Web ページの URL オブジェクトです。詳細については、<a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> を参照してください。をご覧ください</a>",
+        "pageHost": ": 現在の Web ページのドメイン名",
+        "isSameSubDomain": "{{isSameSubDomain}}: 同じドメイン名です。{{youtube}} と {{families}} のメイン ドメイン名はどちらも {{mainDomain}} ですが、サブドメイン名は {{youtubeSubDomain}} と {{それぞれのドメイン名は異なります。",
+        "click": ": クリックされたリンク",
+        "clickpath": ": クリックされたリンクのパス",
+        "minimatch": ": {{glob}} マッチング方法、{{minimatch}} ライブラリを使用、使用方法は <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>してください</a> を参照するか、{{glob}} の使用方法を検索してください。",
+        "rightTab": ": リンクは右側の新しいタブで開きます",
+        "wholeCode": "コード全体の意味は、現在 YouTube の {{www}} ドメイン名ページで、クリックしたリンクが同じドメイン名で、パスが {{watch}} または {{shorts}} で始まる場合、新しいタブが表示されるということです。右のページが開きます。"
+      }
+    }
+  },
+  "menu": {
+    "main": "グローバル構成"
+  }
+}

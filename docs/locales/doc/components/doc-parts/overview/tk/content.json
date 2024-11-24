@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Giňeldiş bilen açyk baglanyşyk barada umumy maglumat",
+    "description": "<p> Bu giňeltme, baglanyşyklaryň nähili açylýandygyny aňsatlyk bilen dolandyrmaga mümkinçilik berýär. </p> <p> Penjire: beýleki brauzerler, açylan penjireler, täze penjireler, täze gizlin penjireler, häzirki penjire (asyl) </p> <p > Salgylar: häzirki goýmanyň çep tarapy, häzirki goýmanyň, häzirki goýmanyň sag tarapy (deslapky) </p> <p> Işjeňleşdirme ýagdaýy: hereketsiz, derrew işjeňleşdiriň (default) </p>"
+  },
+  "menu": {
+    "main": "Gysgaça syn"
+  }
+}

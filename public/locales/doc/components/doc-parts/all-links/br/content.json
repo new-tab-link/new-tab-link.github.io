@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "An holl liammoù",
+    "checkedUseSetting": "Gwiriit evit gweredekaat an arventennoù-mañ.",
+    "excludeDomains": "Ouzhpennañ anvioù domani da vezañ skarzhet.",
+    "seeExcludeExamplesLink": "Skouer",
+    "exclude": {
+      "example": {
+        "domain": "Gallout a rit ouzhpennañ un anv domani, evel <code>{{url}}</code>, evit dilemel an anv domani a-bezh.",
+        "url": "Gallout a rit dilemel liammoù resis en ur ouzhpennañ ul liamm, evel <code>{{url}}</code>.",
+        "glob": "Gallout a rit ouzhpennañ ur patrom {{glob}}, evel <code>{{minimatch}}</code>, evit ar c'hefluniadur displann."
+      }
+    }
+  },
+  "menu": {
+    "main": "An holl liammoù"
+  }
+}

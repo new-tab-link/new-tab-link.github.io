@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Link Open With ntrɛwmu no ho nsɛm a wɔaka abom",
+    "description": "<p>Saa ntrɛwmu yi ma wo kwan ma wohwɛ sɛnea wobue hyperlinks no so yiye.</p><p>Mfɛnsere: brawsa afoforo, mfɛnsere a ɛpue, mfɛnsere foforo, mfɛnsere foforo a ɛnyɛ nokware, mfɛnsere a ɛwɔ hɔ mprempren (default)</p> <p >Tabs: mprempren tab no benkum, mprempren tab, mprempren tab nifa (default)</p><p>Activation tebea: enni dwuma, yɛ adwuma ntɛm ara (default)</p>"
+  },
+  "menu": {
+    "main": "Nsɛm a wɔaka abom"
+  }
+}

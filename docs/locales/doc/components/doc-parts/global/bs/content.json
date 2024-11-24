@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Globalne postavke",
+    "checkedUseSetting": "Označite da biste omogućili ovu postavku.",
+    "excludeDomains": "Dodajte nazive domena koje treba isključiti.",
+    "seeExcludeExamplesLink": "Primjer",
+    "exclude": {
+      "example": {
+        "domain": "Možete dodati ime domene, kao što je <code>{{url}}</code>, da isključite cijelo ime domene.",
+        "url": "Možete isključiti određene veze dodavanjem linka, kao što je <code>{{url}}</code>.",
+        "glob": "Možete dodati {{glob}} obrazac, kao što je <code>{{minimatch}}</code>, za nejasno podudaranje."
+      }
+    },
+    "script": "Također možete koristiti js skripte da postignete sofisticiraniju kontrolu.",
+    "checkedUseScript": "Bilo da omogućite svoju skriptu, imajte na umu da morate označiti oba polja u isto vrijeme da biste omogućili skriptu.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Trenutno na web stranici {{youtube}}, trebate otvoriti stranicu {{watch}} ili {{shorts}} {{youtube}} u novoj kartici.",
+        "introVariables": "Uvod u varijable",
+        "page": ": Varijabla je URL objekt trenutne web stranice Za detalje, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Molimo pogledajte</a >",
+        "pageHost": ": Ime domene trenutne web stranice",
+        "isSameSubDomain": "{{isSameSubDomain}}: Isti naziv domene, iako su nazivi glavnih domena {{youtube}} i {{families}} {{mainDomain}}, nazivi poddomena su {{youtubeSubDomain}} i {{. FamilySubDomain}}, odnosno imena njihovih domena.",
+        "click": ": link na koji ste kliknuli",
+        "clickpath": ": Putanja kliknute veze",
+        "minimatch": ": {{glob}} metoda podudaranja, korištenje biblioteke {{minimatch}}, metoda korištenja <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Molim Pogledajte</a>, ili možete potražiti kako koristiti {{glob}}.",
+        "rightTab": ": Veza se otvara u novoj kartici s desne strane",
+        "wholeCode": "Značenje cijelog koda je da trenutno na YouTube-ovoj {{www}} stranici naziva domene, ako je kliknuta veza istog imena domene i putanja počinje sa {{watch}} ili {{shorts}}, onda nova kartica stranica sa desne strane će biti otvorena."
+      }
+    }
+  },
+  "menu": {
+    "main": "Globalna konfiguracija"
+  }
+}

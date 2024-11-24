@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ikhtisar Tautan Terbuka Dengan ekstensi",
+    "description": "<p>Ekstensi ini memungkinkan Anda mengontrol dengan mudah cara membuka hyperlink.</p><p>Jendela: browser lain, jendela pop-up, jendela baru, jendela penyamaran baru, jendela saat ini (default)</p> <p >Tab: kiri tab saat ini, tab saat ini, kanan tab saat ini (default)</p><p>Status aktivasi: tidak aktif, segera aktifkan (default)</p>"
+  },
+  "menu": {
+    "main": "Ringkasan"
+  }
+}

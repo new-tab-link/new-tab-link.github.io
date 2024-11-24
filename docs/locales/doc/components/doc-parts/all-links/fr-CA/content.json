@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Tous les liens",
+    "checkedUseSetting": "Cochez pour activer ce paramètre.",
+    "excludeDomains": "Ajoutez des noms de domaine à exclure.",
+    "seeExcludeExamplesLink": "Exemple",
+    "exclude": {
+      "example": {
+        "domain": "Vous pouvez ajouter un nom de domaine, comme <code>{{url}}</code>, pour exclure l'intégralité du nom de domaine.",
+        "url": "Vous pouvez exclure des liens spécifiques en ajoutant un lien, comme <code>{{url}}</code>.",
+        "glob": "Vous pouvez ajouter un modèle {{glob}}, comme <code>{{minimatch}}</code>, pour une correspondance floue."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tous les liens"
+  }
+}

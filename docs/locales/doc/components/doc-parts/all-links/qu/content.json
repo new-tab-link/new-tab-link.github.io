@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Tukuy t'inkikuna",
+    "checkedUseSetting": "Kay churayta atichinaykipaq qhaway.",
+    "excludeDomains": "Mana kananpaq kamachiy sutikuna yapay huk kutillapi huk kamachiy sutillata yapayta atikun.",
+    "seeExcludeExamplesLink": "Qatina",
+    "exclude": {
+      "example": {
+        "domain": "Huk kamachiy sutita yapayta atinki, ahinataq <code>{{url}}</code>, tukuy kamachiy sutita mana kananpaq.",
+        "url": "Huk t'inkikunata yapaspa sapaq t'inkikunata qarquyta atinki, ahinataq <code>{{url}}</code>.",
+        "glob": "{{glob}} rikch'ayta yapayta atinki, ahinataq <code>{{minimatch}}</code>, mana sut'i tupachiypaq."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tukuy t'inkikuna"
+  }
+}

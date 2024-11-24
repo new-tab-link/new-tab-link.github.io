@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Tutmondaj agordoj",
+    "checkedUseSetting": "Kontrolu por ebligi ĉi tiun agordon.",
+    "excludeDomains": "Aldonu domajnajn nomojn por esti ekskludita. Nur unu domajna nomo povas esti aldonita samtempe.",
+    "seeExcludeExamplesLink": "Ekzemplo",
+    "exclude": {
+      "example": {
+        "domain": "Vi povas aldoni domajnan nomon, kiel <code>{{url}}</code>, por ekskludi la tutan domajnan nomon.",
+        "url": "Vi povas ekskludi specifajn ligilojn aldonante ligilon, kiel <code>{{url}}</code>.",
+        "glob": "Vi povas aldoni {{glob}} ŝablonon, kiel <code>{{minimatch}}</code>, por neklara kongruo."
+      }
+    },
+    "script": "Vi ankaŭ povas uzi js-skriptojn por atingi pli altnivelan kontrolon.",
+    "checkedUseScript": "Ĉu ebligi vian skripton, notu, ke vi devas marki ambaŭ skatolojn samtempe por ebligi la skripton.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Nuntempe en la retejo de {{youtube}}, vi devas malfermi la paĝon de {{youtube}} {{watch}} aŭ {{shorts}} en nova langeto.",
+        "introVariables": "Enkonduko al variabloj",
+        "page": ": La variablo estas la URL-objekto de la nuna retpaĝo Por detaloj, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. Bonvolu vidi</a >",
+        "pageHost": ": La domajna nomo de la nuna retpaĝo",
+        "isSameSubDomain": "{{isSameSubDomain}}: La sama domajna nomo, kvankam la ĉefaj domajnaj nomoj de {{youtube}} kaj {{familioj}} estas ambaŭ {{mainDomain}}, la subdomajnaj nomoj estas {{youtubeSubDomain}} kaj {{. familiesSubDomain}} respektive Do iliaj domajnaj nomoj estas malsamaj.",
+        "click": ": la ligilo kiu estis klakita",
+        "clickpath": ": La vojo de la klakita ligilo",
+        "minimatch": ": {{glob}} kongrua metodo, uzante la bibliotekon {{minimatch}}, la uzmetodon <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Bonvolu Vidu</a>, aŭ vi povas serĉi kiel uzi {{glob}}.",
+        "rightTab": ": La ligilo malfermiĝas en nova langeto dekstre",
+        "wholeCode": "La signifo de la tuta kodo estas tio, ke nuntempe en la paĝo pri domajna nomo {{www}} de Jutubo, se la klakita ligilo estas la sama domajna nomo kaj la vojo komenciĝas per {{ watch}} aŭ {{ mallongaj }}, tiam la nova langeto paĝo dekstre estos Malfermita."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tutmonda agordo"
+  }
+}

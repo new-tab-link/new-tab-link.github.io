@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Wszystkie linki",
+    "checkedUseSetting": "Zaznacz, aby włączyć to ustawienie.",
+    "excludeDomains": "Dodaj nazwy domen, które mają zostać wykluczone. Jednocześnie można dodać tylko jedną nazwę domeny.",
+    "seeExcludeExamplesLink": "Przykład",
+    "exclude": {
+      "example": {
+        "domain": "Możesz dodać nazwę domeny, na przykład <code>{{url}}</code>, aby wykluczyć całą nazwę domeny.",
+        "url": "Możesz wykluczyć określone linki, dodając link, taki jak <code>{{url}}</code>.",
+        "glob": "Możesz dodać wzorzec {{glob}}, taki jak <code>{{minimatch}</code>, dla dopasowania rozmytego."
+      }
+    }
+  },
+  "menu": {
+    "main": "Wszystkie linki"
+  }
+}

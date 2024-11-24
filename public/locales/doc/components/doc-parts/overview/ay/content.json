@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Link Open With ukax mä jach’a uñacht’äwiwa",
+    "description": "<p>Aka jach’anchayawix kunjams hipervínculos ukanakax jist’arasi ukx sum apnaqañ yanapt’i.</p><p>Ventana: yaqha navegadores, pop-up ventanas, machaq ventanas, machaq incógnito ventanas, jichha ventana (default)</p> <p >Tabs: jichha tabla ch’iqa, jichha tabla, ch’iqa jichha tabla (default)</p><p>Activación estado: inactivo, jank’aki activar (default)</p>"
+  },
+  "menu": {
+    "main": "Mä juk’a uñakipaña"
+  }
+}

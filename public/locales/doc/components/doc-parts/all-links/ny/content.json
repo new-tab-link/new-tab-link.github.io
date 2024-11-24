@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Maulalo onse",
+    "checkedUseSetting": "Chongani kuti mutsegule zochunirazi.",
+    "excludeDomains": "Onjezani mayina ankalamulira kuti asaphatikizidwe.",
+    "seeExcludeExamplesLink": "Chitsanzo",
+    "exclude": {
+      "example": {
+        "domain": "Mutha kuwonjezera dzina ladomeni, monga <code>{{url}}</code>, kuti musakhale ndi dzina lonse.",
+        "url": "Mungathe kuchotsa maulalo enaake powonjezera ulalo, monga <code>{{url}}</code>.",
+        "glob": "Mutha kuwonjezera {{glob}} pateni, monga <code>{{minimatch}}</code>, kuti mufanane movutikira."
+      }
+    }
+  },
+  "menu": {
+    "main": "Maulalo onse"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Lihokelo tsohle",
+    "checkedUseSetting": "Sheba ho bulela tlhophiso ena.",
+    "excludeDomains": "Kenya mabitso a marang-rang a lokelang ho qheleloa ka thoko.",
+    "seeExcludeExamplesLink": "Mohlala",
+    "exclude": {
+      "example": {
+        "domain": "U ka kenya lebitso la domain, joalo ka <code>{{url}}</code>, ho qhelela ka thoko lebitso la domain kaofela.",
+        "url": "U ka kenyelletsa likhokahano tse ikhethileng ka ho kenya sehokelo, joalo ka <code>{{url}}</code>.",
+        "glob": "O ka kenya {{glob}} paterone, joalo ka <code>{{minimatch}}</code>, bakeng sa ho nyallana ho sa hlakang."
+      }
+    }
+  },
+  "menu": {
+    "main": "Lihokelo tsohle"
+  }
+}

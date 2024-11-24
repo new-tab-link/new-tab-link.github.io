@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ard-screeuyn jeh'n Ceaghlagh Foshlit Lesh y Leshtal",
+    "description": "<p>Ta'n sheean shoh currit da stiurey dy h-earroo myr ta'n hyperlink foshlit.</p><p>Fuinney: browseryn elley, fuinneigyn pop-up, fuinneigyn noa, fuinneigyn incognito noa, fuinneig ry-hoi (default)</p> <p >Tabs: chleaysh jeh'n tab ry-hoi, tab ry-hoi, ry-hoi jeh'n tab ry-hoi (er-y-fa)</p><p>Stait ymmydoil: neu-obbraghey, ymmydoil dy tappee (er-y-fa)</p>"
+  },
+  "menu": {
+    "main": "Ard-scrutaght"
+  }
+}

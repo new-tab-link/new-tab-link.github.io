@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Amagenamiterere y'isi yose",
+    "checkedUseSetting": "Suzuma kugira ngo ushoboze iyi nzira.",
+    "excludeDomains": "Yongerako amazina y'indangarubuga azokurwaho Izina ry'indangarubuga rimwe gusa rishobora kwongerwa ku gihe.",
+    "seeExcludeExamplesLink": "Akarorero",
+    "exclude": {
+      "example": {
+        "domain": "Ushobora kwongerako izina ry'indangarubuga, nka <code>{{url}}</code>, kugira ngo ukureho izina ry'indangarubuga ryose.",
+        "url": "Ushobora gukuraho amahuza yihariye mu kwongerako amahuza, nka <kode>{{url}}</kode>.",
+        "glob": "Ushobora kwongerako {{glob}} urugero, nka <kode>{{uguhuza gutoya}}</kode>, ku guhuza gutomoye."
+      }
+    },
+    "script": "Ushobora kandi gukoresha inyandiko za js kugira ngo ushikire ubugenzuzi buteye imbere cane.",
+    "checkedUseScript": "Nimba ushobora gukoresha inyandiko yawe, menya ko ukeneye guca ku masandugu yose igihe kimwe kugira ngo ushobore gukoresha inyandiko.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ubu ku rubuga rwa {{youtube}}, ukeneye gufungura urupapuro rwa {{raba}} canke rwa {{ibiganiro bigufi}} rwa {{youtube}} mu gice gishasha.",
+        "introVariables": "Intangamarara y'ibihinduka",
+        "page": ": Ihinduka ni ikintu ca URL c'urubuga rwo muri iki gihe Kugira ngo ubone amakuru arambuye, <a href='https://umuhinguzi. Ndagusavye urabe</a >",
+        "pageHost": ": Izina ry'indangarubuga rya paji y'urubuga",
+        "isSameSubDomain": "{{isSameSubDomain}}: Izina ry'indangarubuga rimwe Zirikana ko naho amazina y'indangarubuga nyamukuru ya {{youtube}} na {{imiryango}} yose ari {{Indangarubuga Nyamukuru}}, amazina y'indangarubuga ni {{Indangarubuga y'Igihugu}} na {{. imiryangoSubDomain}} Rero amazina yabo y'indangarubuga aratandukanye.",
+        "click": ": ihuza ryafyondewe",
+        "clickpath": ": Inzira y'ihuriro ry'akanda",
+        "minimatch": ": uburyo bwo guhuza {{glob}}, ukoresheje ububiko bw'ibitabo, uburyo bwo gukoresha <a href='https://github.com/isaacs/minimatch' intego='_ubusa' rel='noreferrer'>Urasavye Raba</a>, canke ushobora kurondera ingene ukoresha {{glob}}.",
+        "rightTab": ": Ihuza rifungura mu gice gishasha iburyo",
+        "wholeCode": "Insobanuro ya kode yose ni uko ubu kuri paji y'izina ry'indangarubuga rya YouTube {{www}}, nimba ihuriro ry'indangarubuga ryakanzwe ari ryo nyene kandi inzira itangura na {{watch}} canke {{shorts}}, rero tab nshasha urupapuro ruri iburyo ruzoba rwuguruye."
+      }
+    }
+  },
+  "menu": {
+    "main": "Itunganywa ry'isi yose"
+  }
+}

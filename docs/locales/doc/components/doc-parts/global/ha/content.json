@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Saitunan duniya",
+    "checkedUseSetting": "Duba don kunna wannan saitin.",
+    "excludeDomains": "Ƙara sunayen yanki don cirewa Sunan yanki ɗaya kaɗai za a iya ƙarawa a lokaci guda.",
+    "seeExcludeExamplesLink": "Misali",
+    "exclude": {
+      "example": {
+        "domain": "Kuna iya ƙara sunan yanki, kamar <code>{{url}}</code>, don keɓe sunan yankin gaba ɗaya.",
+        "url": "Kuna iya keɓance takamaiman hanyoyin haɗin gwiwa ta ƙara hanyar haɗin gwiwa, kamar <code>{{url}}</code>.",
+        "glob": "Kuna iya ƙara ƙirar {{glob}}, kamar <code>{{minimatch}}</code>, don daidaitawa."
+      }
+    },
+    "script": "Hakanan zaka iya amfani da rubutun js don cimma ingantaccen sarrafawa.",
+    "checkedUseScript": "Ko don kunna rubutun ku, lura cewa kuna buƙatar duba akwatunan biyu a lokaci guda don kunna rubutun.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "A halin yanzu akan gidan yanar gizon {{youtube}}, kuna buƙatar buɗe shafin {{watch}} ko {{gajeren}} na {{youtube}} a cikin sabon shafin.",
+        "introVariables": "Gabatarwa ga masu canji",
+        "page": "Maɓallin shine URL ɗin shafin yanar gizon yanzu Don cikakkun bayanai, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> Da fatan za a duba</a>",
+        "pageHost": ": Sunan yanki na shafin yanar gizon yanzu",
+        "isSameSubDomain": "{{isSameSubDomain}}: Sunan yanki iri ɗaya Lura cewa duk da cewa manyan sunayen yanki na {{youtube}} da {{families}} duka biyun {{mainDomain}} ne, sunayen yankin suna {{youtubeSubDomain}} da {{ familySubDomain}} don haka sunayen yankinsu ya bambanta.",
+        "click": ": hanyar da aka danna",
+        "clickpath": ": Hanyar hanyar haɗin da aka danna",
+        "minimatch": ": {{glob}} Hanyar dacewa, ta amfani da {{minimatch}} laburare, hanyar amfani <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Don Allah Duba</a>, ko kuma za ku iya nemo yadda ake amfani da {{glob}}.",
+        "rightTab": ": Haɗin yana buɗewa a cikin sabon shafin a dama",
+        "wholeCode": "Ma'anar gaba dayan lambar ita ce, a halin yanzu a shafin yanar gizon {{www}} na YouTube, idan mahaɗin da aka latsa shine sunan yankin guda ɗaya kuma hanyar ta fara da {{watch}} ko {{gajeren}}, sai sabon shafin. shafi na dama zai bude."
+      }
+    }
+  },
+  "menu": {
+    "main": "Tsarin duniya"
+  }
+}

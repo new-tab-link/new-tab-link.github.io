@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Minden link",
+    "checkedUseSetting": "Jelölje be a beállítás engedélyezéséhez.",
+    "excludeDomains": "Kizárandó domain nevek hozzáadása Egyszerre csak egy domain név adható hozzá.",
+    "seeExcludeExamplesLink": "Példa",
+    "exclude": {
+      "example": {
+        "domain": "A teljes domainnév kizárásához hozzáadhat egy domain nevet, például <code>{{url}}</code>.",
+        "url": "Egy link hozzáadásával kizárhat bizonyos linkeket, például <code>{{url}}</code>.",
+        "glob": "Hozzáadhat egy {{glob}} mintát, például <code>{{minimatch}}</code>-t a fuzzy egyezéshez."
+      }
+    }
+  },
+  "menu": {
+    "main": "Minden link"
+  }
+}

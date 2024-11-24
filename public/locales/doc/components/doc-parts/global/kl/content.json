@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "Nunarsuaq tamakkerlugu inissititernerit",
+    "checkedUseSetting": "Inissiissut una atulersinniarlugu misissukkit.",
+    "excludeDomains": "Domæne-t ilanngunneqartussat ilanngukkit Domæne-navn ataaseq ataasiaannaq ilanngunneqarsinnaavoq.",
+    "seeExcludeExamplesLink": "Assersuut",
+    "exclude": {
+      "example": {
+        "domain": "Domæne-mik taaguuteqarsinnaavutit, soorlu <code>{{url}}</code>, domæne-mik taaguuteqarneq tamakkerlugu ilanngunneqannginnissaanut.",
+        "url": "Innersuussinerit immikkut ittut ilanngussinnaavatit innersuussinikkut, soorlu <code>{{url}}</code>.",
+        "glob": "{{glob}}-mik allagartaq ilanngussinnaavat, soorlu <kode>{{minimatch}}</code>, eqqumiitsuliornermut."
+      }
+    },
+    "script": "Aamma js scriptit atorsinnaavatit, aqutsineq pitsaanerusoq angussallugu.",
+    "checkedUseScript": "Script-it atuutilersinniarlugu maluginiassavat script-it atulersinniarlugu boksit marluk ataatsimoortumik toqqartariaqassagitit.",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "Ullumikkut {{youtube}}-p nittartagaani {{youtube}}-p {{takuuk}} imaluunniit {{shorts}}-p quppernera nutaamik ammaqqittariaqarpat.",
+        "introVariables": "Variabilinut ilisarititsineq",
+        "page": ": Variabili tassaavoq ullumikkut nittartakkami URL-objekti Immikkuualuttut pillugit <a href='ineriartortitsisoq Takuuk</a >",
+        "pageHost": ": Nittartakkap ullumikkut domæne-ata aqqa",
+        "isSameSubDomain": "{{isSameSubDomain}}: Domæne-navn ataaseq Maluginiaruk, naak {{youtube}}-imi aamma {{ilaqutariinnut}}-mi pingaarnertut domæne-t tamarmik {{mainDomain}}-iugaluartut, allaffissornikkut aqqi tassaapput {{youtubeSubDomain}} aamma {{. ilaqutariitSubDomain}} taamaattumik domæne-tik assigiinngisitaarput.",
+        "click": ": linki toqqarneqarsimasoq",
+        "clickpath": ": Linkip toqqarneqartup aqqutaa",
+        "minimatch": ": {{glob}} naleqqussarnermut periuseq, {{minimatch}} atuagaarniarfik atorlugu, atuinermut periuseq <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ajunngilaq Takuuk</a>, imaluunniit {{glob}} qanoq atorsinnaanerlugu ujarlersinnaavutit.",
+        "rightTab": ": Linki talerperlikkut nutaamik ilanngussami ammassaaq",
+        "wholeCode": "Kode-p tamakkerlugu isumaa tassaavoq, ullumikkut YouTube-imi {{www}}-mi domæne-mik quppernermi, linki toqqarneqartoq domæne-mik taaguuteqarpat aammalu aqqut {{watch}}-mik imaluunniit {{shorts}}-mik aallartissappat, taava ilanngussaq nutaaq qupperneq talerperliup tungaaniittoq tassaassaaq Open."
+      }
+    }
+  },
+  "menu": {
+    "main": "Nunarsuaq tamakkerlugu aaqqissuussineq"
+  }
+}

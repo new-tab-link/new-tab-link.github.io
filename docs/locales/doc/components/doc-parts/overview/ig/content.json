@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Nchịkọta nke Njikọ Mepee na ndọtị",
+    "description": "<p>Mgbakwunye a na-enye gị ohere ijikwa otu hyperlinks si emepe nke ọma.</p><p>Window: ihe nchọgharị ndị ọzọ, windo mmapụta, windo ọhụrụ, windo incognito ọhụrụ, mpio ugbu a (ndabere) </p> <p> >Taabụ: aka ekpe nke taabụ dị ugbu a, taabụ dị ugbu a, aka nri nke ugbu a (ndabere)</p><p>Ọkwa ọrụ: adịghị arụ ọrụ, rụọ ọrụ ozugbo (ndapụta) </p>"
+  },
+  "menu": {
+    "main": "Nchịkọta"
+  }
+}

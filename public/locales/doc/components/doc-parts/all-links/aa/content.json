@@ -1,0 +1,18 @@
+{
+  "doc": {
+    "title": "Inkih tan yasgaarawi",
+    "checkedUseSetting": "cubbus ta farmo takkuh.",
+    "excludeDomains": "ossotinah domain migaaqitte dubuk inki domain migaq ossimeh uddurut.",
+    "seeExcludeExamplesLink": "Ceelallo",
+    "exclude": {
+      "example": {
+        "domain": "Atu domain migaq osissam duddah, axcih <koox>{{url}}</koox>, inkih tan domain migaq edde anuk.",
+        "url": "Atu baxsa le yasgaarawi edde osissam duuddah, axcih <koox>{{url}}</koox>.",
+        "glob": "Atu osissam duddah {{baadal}} maysabaka, axcih <mudenta>{{dago ramad}}</mudenta>, baxxaqqa sinni ramaddos."
+      }
+    }
+  },
+  "menu": {
+    "main": "Inkih tan yasgaarawi"
+  }
+}
