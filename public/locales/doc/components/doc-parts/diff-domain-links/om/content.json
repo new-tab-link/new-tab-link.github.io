@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Maqaa domeenii adda addaa waliin walitti hidhamiinsa",
+    "checkedUseSetting": "Sajoo kana dandeessisuuf ilaali.",
+    "excludeDomains": "Maqaa domeenii akka hin dabalamne dabali Yeroo tokkotti maqaa domeenii tokko qofatu dabalamuu danda'a.",
+    "seeExcludeExamplesLink": "Fakkeenya",
+    "description": "Qindaa'inni kun kan kaka'u yeroo maqaan domeenii adda ta'e.",
+    "exclude": {
+      "example": {
+        "domain": "Maqaa domeenii, kan akka <code>{{url}}</code>, guutuu maqaa domeenii hambisuuf dabaluu dandeessa.",
+        "url": "Hidhamtoota murtaa'oo hidhaa dabaluudhaan, kan akka <code>{{url}}</code>, hambisuu dandeessa.",
+        "glob": "Walsimsiisa fuzzy'f shaakala {{glob}}, kan akka <code>{{minimatch}}</code>, dabaluu dandeessa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Maqaan domeenii adda adda"
+  }
+}

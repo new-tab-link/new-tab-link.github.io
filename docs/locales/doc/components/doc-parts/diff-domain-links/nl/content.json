@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Koppelingen met verschillende domeinnamen",
+    "checkedUseSetting": "Vink aan om deze instelling in te schakelen.",
+    "excludeDomains": "Voeg domeinnamen toe die u wilt uitsluiten. Er kan slechts één domeinnaam tegelijk worden toegevoegd.",
+    "seeExcludeExamplesLink": "Voorbeeld",
+    "description": "Deze configuratie wordt geactiveerd wanneer de domeinnaam anders is.",
+    "exclude": {
+      "example": {
+        "domain": "U kunt een domeinnaam toevoegen, zoals <code>{{url}}</code>, om de gehele domeinnaam uit te sluiten.",
+        "url": "Je kunt specifieke links uitsluiten door een link toe te voegen, zoals <code>{{url}}</code>.",
+        "glob": "U kunt een {{glob}}-patroon toevoegen, zoals <code>{{minimatch}}</code>, voor fuzzy matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Domeinnamen zijn verschillend"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Amahuza afise amazina atandukanye y'indangarubuga",
+    "checkedUseSetting": "Suzuma kugira ngo ushoboze iyi nzira.",
+    "excludeDomains": "Yongerako amazina y'indangarubuga azokurwaho Izina ry'indangarubuga rimwe gusa rishobora kwongerwa ku gihe.",
+    "seeExcludeExamplesLink": "Akarorero",
+    "description": "Iyi ntunganyo itanguzwa iyo izina ry'indangarubuga ritandukanye.",
+    "exclude": {
+      "example": {
+        "domain": "Ushobora kwongerako izina ry'indangarubuga, nka <code>{{url}}</code>, kugira ngo ukureho izina ry'indangarubuga ryose.",
+        "url": "Ushobora gukuraho amahuza yihariye mu kwongerako amahuza, nka <kode>{{url}}</kode>.",
+        "glob": "Ushobora kwongerako {{glob}} urugero, nka <kode>{{uguhuza gutoya}}</kode>, ku guhuza gutomoye."
+      }
+    }
+  },
+  "menu": {
+    "main": "Amazina y'indangarubuga aratandukanye"
+  }
+}

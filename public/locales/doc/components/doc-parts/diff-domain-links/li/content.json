@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Links mit versjillende domeinnaome",
+    "checkedUseSetting": "Controleer um deze insjtelling in te sjakele.",
+    "excludeDomains": "Voeg domeinnaome touw die motte weure oetgeslote.",
+    "seeExcludeExamplesLink": "Veurbeeld",
+    "description": "Dees configuratie weurt geactiveerd es de domeinnaom anders is.",
+    "exclude": {
+      "example": {
+        "domain": "Geer kin un domeinnaom toevoege, wie <code>{{url}}</code>, um de ganse domeinnaom oet te slete.",
+        "url": "Geer kin specifieke links oetslete door un link toe te voge, wie <code>{{url}}</code>.",
+        "glob": "Geer kin un {{glob}}-patroon toevoege, wie <code>{{minimatch}}</code>, veur fuzzy matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Domeinnaome zien aanders"
+  }
+}

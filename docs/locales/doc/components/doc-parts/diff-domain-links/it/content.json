@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Collegamenti con diversi nomi di dominio",
+    "checkedUseSetting": "Seleziona per abilitare questa impostazione.",
+    "excludeDomains": "Aggiungi nomi di dominio da escludere È possibile aggiungere un solo nome di dominio alla volta.",
+    "seeExcludeExamplesLink": "Esempio",
+    "description": "Questa configurazione viene attivata quando il nome di dominio è diverso.",
+    "exclude": {
+      "example": {
+        "domain": "Puoi aggiungere un nome di dominio, ad esempio <code>{{url}}</code>, per escludere l'intero nome di dominio.",
+        "url": "Puoi escludere collegamenti specifici aggiungendo un collegamento, ad esempio <code>{{url}}</code>.",
+        "glob": "Puoi aggiungere un modello {{glob}}, come <code>{{minimatch}}</code>, per la corrispondenza fuzzy."
+      }
+    }
+  },
+  "menu": {
+    "main": "I nomi di dominio sono diversi"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Kunayman dominio sutinakampi uñt’ayata",
+    "checkedUseSetting": "Aka wakicht’awix ch’amanchañatakiw uñakipt’aña.",
+    "excludeDomains": "Dominio sutinakax jan uñt’ayatäñapatakix mä dominio sutikiw yapxatasispa.",
+    "seeExcludeExamplesLink": "Uñanchawi",
+    "description": "Aka configuración ukax kunapachatix dominio sutix mayj mayjäki ukhax ch’amanchatawa.",
+    "exclude": {
+      "example": {
+        "domain": "Mä dominio sutimpiw yapxatasma, kunjamatix <code>{{url}}</code>, taqpach dominio sutimp jan uñt’ayasiñataki.",
+        "url": "Mä chimpu yapxatasaxa, mä chiqaru uñt’ayaña, kunjamatixa <code>{{url}}</code>.",
+        "glob": "Mä {{glob}} uñacht’awimp yapxatasma, kunjamatix <code>{{minimatch}}</code>, jan qhanpach uñt’ayañataki."
+      }
+    }
+  },
+  "menu": {
+    "main": "Dominio sutinakax mayj mayjawa"
+  }
+}

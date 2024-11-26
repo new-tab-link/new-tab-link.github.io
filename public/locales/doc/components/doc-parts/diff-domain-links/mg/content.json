@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Rohy misy anarana sehatra samihafa",
+    "checkedUseSetting": "Hamarino mba hahafahanao ity fanovana ity.",
+    "excludeDomains": "Manampia anaran-tsehatra tsy ho tafiditra amin'ny anaran-tsehatra iray ihany no azo ampiana indray mandeha.",
+    "seeExcludeExamplesLink": "OHATRA",
+    "description": "Ity tefy ity dia mipoitra rehefa hafa ny anaran'ny sehatra.",
+    "exclude": {
+      "example": {
+        "domain": "Azonao atao ny manampy anaran-tsehatra, toy ny <code>{{url}}</code>, hanilihana ny anaran-tsehatra manontolo.",
+        "url": "Azonao atao ny manilika rohy manokana amin'ny fampidirana rohy, toy ny <code>{{url}}</code>.",
+        "glob": "Azonao atao ny manampy lamina {{glob}}, toy ny <code>{{minimatch}}</code>, ho an'ny fampifanarahana tsy mazava."
+      }
+    }
+  },
+  "menu": {
+    "main": "Samy hafa ny anaran-tsehatra"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Hononga me nga ingoa rohe rereke",
+    "checkedUseSetting": "Takina kia taea ai tenei tautuhinga.",
+    "excludeDomains": "Tāpirihia nga ingoa rohe ka taea te taapiri kia kotahi anake te ingoa rohe.",
+    "seeExcludeExamplesLink": "Tauira",
+    "description": "Ka puta tenei whirihoranga ina he rereke te ingoa rohe.",
+    "exclude": {
+      "example": {
+        "domain": "Ka taea e koe te taapiri ingoa rohe, penei i te <code>{{url}}</code>, hei whakakore i te ingoa rohe katoa.",
+        "url": "Ka taea e koe te whakakore i nga hononga motuhake ma te taapiri hononga, penei i <code>{{url}}</code>.",
+        "glob": "Ka taea e koe te taapiri i tetahi tauira {{glob}}, penei i te <code>{{minimatch}}</code>, mo te taurite puhoi."
+      }
+    }
+  },
+  "menu": {
+    "main": "He rereke nga ingoa rohe"
+  }
+}

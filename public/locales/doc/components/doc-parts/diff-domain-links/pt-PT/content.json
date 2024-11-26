@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Ligações com diferentes nomes de domínio",
+    "checkedUseSetting": "Marque para ativar esta definição.",
+    "excludeDomains": "Adicione nomes de domínio a eliminar Apenas pode ser adicionado um nome de domínio de cada vez.",
+    "seeExcludeExamplesLink": "Exemplo",
+    "description": "Esta configuração é acionada quando o nome de domínio é diferente.",
+    "exclude": {
+      "example": {
+        "domain": "Pode adicionar um nome de domínio, como <code>{{url}}</code>, para eliminar todo o nome de domínio.",
+        "url": "Pode eliminar links específicos adicionando um link, como <code>{{url}}</code>.",
+        "glob": "Pode adicionar um padrão {{glob}}, como <code>{{minimatch}}</code>, para correspondência difusa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Os nomes de domínio são diferentes"
+  }
+}

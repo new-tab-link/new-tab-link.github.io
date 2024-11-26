@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Amalinki anamagama wesizinda ahlukileko",
+    "checkedUseSetting": "Hlola ukuvumela isethingi le.",
+    "excludeDomains": "Faka amagama wesizinda ukuthi angafakwa.",
+    "seeExcludeExamplesLink": "Isibonelo",
+    "description": "Lokhu kuhleleka kuthonywa lokha ibizo lesizinda lihlukile.",
+    "exclude": {
+      "example": {
+        "domain": "Ungangezelela ibizo lesizinda, njenge-<code>{{url}}</code>, ukukhipha loke ibizo lesizinda.",
+        "url": "Ungakhipha amalinki athileko ngokufaka isixhumanisi, njenge-<code>{{url}}</code>.",
+        "glob": "Ungangeza iphetheni ye-{{glob}}, njenge-<code>{{minimatch}}</code>, ukumadanisa okungakacaci."
+      }
+    }
+  },
+  "menu": {
+    "main": "Amagama wesizinda ahlukile"
+  }
+}

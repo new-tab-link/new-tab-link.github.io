@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "ከተለያዩ የጎራ ስሞች ጋር አገናኞች",
+    "checkedUseSetting": "ይህን ቅንብር ለማንቃት ያረጋግጡ።",
+    "excludeDomains": "የሚገለሉ የጎራ ስሞችን ያክሉ በአንድ ጊዜ አንድ የጎራ ስም ብቻ ነው።",
+    "seeExcludeExamplesLink": "ለምሳሌ",
+    "description": "ይህ ውቅር የሚቀሰቀሰው የጎራ ስም ሲለያይ ነው።",
+    "exclude": {
+      "example": {
+        "domain": "ሙሉውን የጎራ ስም ለማግለል እንደ <code>{{url}}</code> ያለ የጎራ ስም ማከል ይችላሉ።",
+        "url": "እንደ <code>{{url}}</code> ያሉ አገናኞችን በማከል የተወሰኑ አገናኞችን ማግለል ይችላሉ።",
+        "glob": "እንደ <code>{{minimatch}}</code> ያለ {{glob}} ስርዓተ ጥለት ማከል ትችላለህ።"
+      }
+    }
+  },
+  "menu": {
+    "main": "የጎራ ስሞች የተለያዩ ናቸው።"
+  }
+}

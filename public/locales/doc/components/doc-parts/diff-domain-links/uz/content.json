@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Turli domen nomlari bilan havolalar",
+    "checkedUseSetting": "Ushbu sozlamani yoqish uchun belgilang.",
+    "excludeDomains": "Bir vaqtning o'zida faqat bitta domen nomini qo'shish mumkin.",
+    "seeExcludeExamplesLink": "Misol",
+    "description": "Ushbu konfiguratsiya domen nomi boshqacha bo'lganda ishga tushadi.",
+    "exclude": {
+      "example": {
+        "domain": "Siz butun domen nomini istisno qilish uchun <code>{{url}}</code> kabi domen nomini qo'shishingiz mumkin.",
+        "url": "<code>{{url}}</code> kabi havola qoʻshish orqali muayyan havolalarni chiqarib tashlashingiz mumkin.",
+        "glob": "Noaniq moslik uchun <code>{{minimatch}}</code> kabi {{glob}} naqsh qoʻshishingiz mumkin."
+      }
+    }
+  },
+  "menu": {
+    "main": "Domen nomlari har xil"
+  }
+}

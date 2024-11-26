@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Baxaabaxsale domain migaaqitte lih yasgaarawi",
+    "checkedUseSetting": "cubbus ta farmo takkuh.",
+    "excludeDomains": "ossotinah domain migaaqitte dubuk inki domain migaq ossimeh uddurut.",
+    "seeExcludeExamplesLink": "Ceelallo",
+    "description": "ta rikkisso uguugussam domain migaq baxsa le wak.",
+    "exclude": {
+      "example": {
+        "domain": "Atu domain migaq osissam duddah, axcih <koox>{{url}}</koox>, inkih tan domain migaq edde anuk.",
+        "url": "Atu baxsa le yasgaarawi edde osissam duuddah, axcih <koox>{{url}}</koox>.",
+        "glob": "Atu osissam duddah {{baadal}} maysabaka, axcih <mudenta>{{dago ramad}}</mudenta>, baxxaqqa sinni ramaddos."
+      }
+    }
+  },
+  "menu": {
+    "main": "Guddaaqâ migaaqitte baxsale"
+  }
+}

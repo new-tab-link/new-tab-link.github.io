@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "異なるドメイン名のリンク",
+    "checkedUseSetting": "この設定を有効にするにはチェックを入れます。",
+    "excludeDomains": "除外するドメイン名を追加する 一度に追加できるドメイン名は 1 つだけです。",
+    "seeExcludeExamplesLink": "例",
+    "description": "この構成は、ドメイン名が異なる場合にトリガーされます。",
+    "exclude": {
+      "example": {
+        "domain": "<code>{{url}}</code> などのドメイン名を追加して、ドメイン名全体を除外できます。",
+        "url": "<code>{{url}}</code> などのリンクを追加することで、特定のリンクを除外できます。",
+        "glob": "あいまい一致のために、<code>{{minimatch}}</code> などの {{glob}} パターンを追加できます。"
+      }
+    }
+  },
+  "menu": {
+    "main": "ドメイン名が異なります"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Izixhumanisi ezinamagama esizinda ahlukene",
+    "checkedUseSetting": "Hlola ukuze unike amandla lesi silungiselelo.",
+    "excludeDomains": "Engeza amagama wesizinda ukuba akhishwe Lilodwa kuphela igama lesizinda kungenziwa wanezela ngesikhathi.",
+    "seeExcludeExamplesLink": "Isibonelo",
+    "description": "Lokhu kucushwa kuqalwa lapho igama lesizinda lihlukile.",
+    "exclude": {
+      "example": {
+        "domain": "Ungakwazi ukwengeza igama lesizinda, elifana ne-<code>{{url}}</code>, ukuze ukhiphe lonke igama lesizinda.",
+        "url": "Ungakhipha izixhumanisi ezithile ngokungeza isixhumanisi, esifana ne-<code>{{url}}</code>.",
+        "glob": "Ungangeza iphethini ye-{{glob}}, efana ne-<code>{{minimatch}}</code>, ukuze uthole ukufanisa okungaqondakali."
+      }
+    }
+  },
+  "menu": {
+    "main": "Amagama ezizinda ahlukile"
+  }
+}

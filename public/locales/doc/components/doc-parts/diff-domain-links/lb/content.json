@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Links mat verschiddenen Domain Nimm",
+    "checkedUseSetting": "Check fir dës Astellung z'aktivéieren.",
+    "excludeDomains": "Füügt Domain Nimm fir auszeschléissen Nëmmen een Domain Numm kann gläichzäiteg bäigefüügt ginn.",
+    "seeExcludeExamplesLink": "Beispill",
+    "description": "Dës Konfiguratioun gëtt ausgeléist wann den Domain Numm anescht ass.",
+    "exclude": {
+      "example": {
+        "domain": "Dir kënnt en Domain Numm addéieren, wéi <code>{{url}}</code>, fir de ganzen Domain Numm auszeschléissen.",
+        "url": "Dir kënnt spezifesch Linken ausschléissen andeems Dir e Link bäidréit, wéi <code>{{url}}</code>.",
+        "glob": "Dir kënnt e {{glob}} Muster addéieren, wéi <code>{{minimatch}}</code>, fir fuzzy Matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Domain Nimm sinn anescht"
+  }
+}

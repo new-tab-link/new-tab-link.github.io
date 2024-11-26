@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Länkar med olika domännamn",
+    "checkedUseSetting": "Markera för att aktivera den här inställningen.",
+    "excludeDomains": "Lägg till domännamn som ska uteslutas Endast ett domännamn kan läggas till i taget.",
+    "seeExcludeExamplesLink": "Exempel",
+    "description": "Denna konfiguration utlöses när domännamnet är annorlunda.",
+    "exclude": {
+      "example": {
+        "domain": "Du kan lägga till ett domännamn, till exempel <code>{{url}}</code>, för att utesluta hela domännamnet.",
+        "url": "Du kan utesluta specifika länkar genom att lägga till en länk, till exempel <code>{{url}}</code>.",
+        "glob": "Du kan lägga till ett {{glob}}-mönster, till exempel <code>{{minimatch}}</code>, för otydlig matchning."
+      }
+    }
+  },
+  "menu": {
+    "main": "Domännamn är olika"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Links with different domain names",
+    "checkedUseSetting": "Check to enable this setting.",
+    "excludeDomains": "Add domain names to be excluded. Only one domain name can be added at a time.",
+    "seeExcludeExamplesLink": "Example",
+    "description": "This configuration is triggered when the domain name is different.",
+    "exclude": {
+      "example": {
+        "domain": "You can add a domain name, such as <code>{{url}}</code>, to exclude the entire domain name.",
+        "url": "You can exclude specific links by adding a link, such as <code>{{url}}</code>.",
+        "glob": "You can add a {{glob}} pattern, such as <code>{{minimatch}}</code>, for fuzzy matching."
+      }
+    }
+  },
+  "menu": {
+    "main": "Domain names are different"
+  }
+}

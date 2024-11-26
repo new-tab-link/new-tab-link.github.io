@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Tikhonjiso letinemagama esizinda lehlukene",
+    "checkedUseSetting": "Hlola kutsi unikete lesethingi emandla.",
+    "excludeDomains": "Ngeta emagama esizinda kutsi angafakwa Ligama lesizinda linye kuphela lelingangetwa ngesikhatsi sinye.",
+    "seeExcludeExamplesLink": "Sibonelo",
+    "description": "Lokucushwa kuvuswa uma ligama lesizinda lehlukile.",
+    "exclude": {
+      "example": {
+        "domain": "Ungangeta ligama lesizinda, njenge <code>{{url}}</code>, kute ungafaki lonkhe ligama lesizinda.",
+        "url": "Ungakhipha tikhonjiso letitsite ngekwengeta sikhonjiso, njenge <code>{{url}}</code>.",
+        "glob": "Ungangeta iphethini {{glob}}, njenge <khodi>{{kufana lokuncane}}</khodi>, yekuhambisana lokungacacile."
+      }
+    }
+  },
+  "menu": {
+    "main": "Emagama esizinda ahlukile"
+  }
+}

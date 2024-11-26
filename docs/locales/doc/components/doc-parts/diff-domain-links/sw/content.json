@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Viungo vilivyo na majina tofauti ya kikoa",
+    "checkedUseSetting": "Angalia ili kuwezesha mpangilio huu.",
+    "excludeDomains": "Kuongeza majina domain kutengwa moja tu jina la uwanja unaweza kuongezwa kwa wakati.",
+    "seeExcludeExamplesLink": "Mfano",
+    "description": "Configuration hii ni yalisababisha wakati jina la uwanja ni tofauti.",
+    "exclude": {
+      "example": {
+        "domain": "Unaweza kuongeza jina la kikoa, kama vile <code>{{url}}</code>, ili kuwatenga jina lote la kikoa.",
+        "url": "Unaweza kutenga viungo mahususi kwa kuongeza kiungo, kama vile <code>{{url}}</code>.",
+        "glob": "Unaweza kuongeza mchoro wa {{glob}}, kama vile <code>{{minimatch}}</code>, kwa ulinganishaji usioeleweka."
+      }
+    }
+  },
+  "menu": {
+    "main": "Majina ya vikoa ni tofauti"
+  }
+}

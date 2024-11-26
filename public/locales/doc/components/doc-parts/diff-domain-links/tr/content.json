@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Farklı alan adlarına sahip bağlantılar",
+    "checkedUseSetting": "Bu ayarı etkinleştirmek için işaretleyin.",
+    "excludeDomains": "Hariç tutulacak alan adlarını ekleyin. Aynı anda yalnızca bir alan adı eklenebilir.",
+    "seeExcludeExamplesLink": "Örnek",
+    "description": "Bu yapılandırma, alan adı farklı olduğunda tetiklenir.",
+    "exclude": {
+      "example": {
+        "domain": "Alan adının tamamını hariç tutmak için <code>{{url}</code> gibi bir alan adı ekleyebilirsiniz.",
+        "url": "<code>{{url}</code> gibi bir bağlantı ekleyerek belirli bağlantıları hariç tutabilirsiniz.",
+        "glob": "Bulanık eşleştirme için <code>{{minimatch}</code> gibi bir {{glob}} modeli ekleyebilirsiniz."
+      }
+    }
+  },
+  "menu": {
+    "main": "Alan adları farklı"
+  }
+}

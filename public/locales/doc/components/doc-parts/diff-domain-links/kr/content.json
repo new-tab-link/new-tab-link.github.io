@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Kǝltǝram su korkorbe gade-gade",
+    "checkedUseSetting": "Kulasne setting adəga yitagattəgəro.",
+    "excludeDomains": "Su domainbe yiradə shima Su domainbe faldəma loktu fallan kəltəyin.",
+    "seeExcludeExamplesLink": "Misal",
+    "description": "Fasal adə baditin sa su korkorbedə gadejiya.",
+    "exclude": {
+      "example": {
+        "domain": "Raktə su korkorbe yiramin, misallo <code>{{url}}</code>, su korkorbe sammaso surodən gənatəyin.",
+        "url": "Raktə kəltəram laa taganasbe surodən gənatəyin, misallo <code>{{url}}</code>.",
+        "glob": "Rangnəm futu {{glob}} yiramin, misallo <code>{{saməntə gana}}</code>, saməntə fuzzybe nankaro."
+      }
+    }
+  },
+  "menu": {
+    "main": "Su korkorbedə gade-gade"
+  }
+}

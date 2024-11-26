@@ -8,6 +8,7 @@ import { DocVariables } from "../doc-parts/variables/DocVariables";
 import { Counter } from "./jotaitest";
 import { indexModel } from "./Model";
 import { DocAllLinks } from "../doc-parts/all-links/DocAllLinks";
+import { DocDiffDomainLink } from "../doc-parts/diff-domain-links/DocDiffDomainLinks";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -63,7 +64,8 @@ function LeftMenu() {
     return <MenuContainer sx={{ overflowY: "auto" }}>
         <DocOverview.Menu />
         <DocAllLinks.Menu />
-        <DocGlobal.Menu />
+        <DocDiffDomainLink.Menu />
+        {/* <DocGlobal.Menu /> */}
         <DocVariables.Menu />
     </MenuContainer>
 }
@@ -105,7 +107,8 @@ export function IndexContent() {
                         <Counter />
                         <DocOverview.Doc />
                         <DocAllLinks.Doc />
-                        <DocGlobal.Doc />
+                        <DocDiffDomainLink.Doc />
+                        {/* <DocGlobal.Doc /> */}
                         <DocVariables.Doc />
                         <MediaQuery />
                     </div>

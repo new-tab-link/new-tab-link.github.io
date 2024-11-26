@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Dikgokagano tse di nang le maina a a farologaneng a kgolagano ya dikhomphiutha",
+    "checkedUseSetting": "Tlhola go kgontsha seting eno.",
+    "excludeDomains": "Tsenya maina a kgolagano ya dikhomphiutha a a tla kgaphelwa thoko Go ka tsenngwa leina la kgolagano ya dikhomphiutha le le lengwe fela ka nako.",
+    "seeExcludeExamplesLink": "Sekai",
+    "description": "Thulaganyo eno e tlhotlhelediwa fa leina la kgolagano ya dikhomphiutha le farologane.",
+    "exclude": {
+      "example": {
+        "domain": "O ka tsenya leina la kgolagano ya dikhomphiutha, jaaka <khoutu>{{url}}</khoutu>, go kgaphela leina lotlhe la kgolagano ya dikhomphiutha kwa thoko.",
+        "url": "O ka kgaphela dikgokagano tse di rileng kwa thoko ka go tsenya kgokagano, jaaka <code>{{url}}</code>.",
+        "glob": "O ka tsenya paterone ya {{glob}}, jaaka <khoutu>{{tshwano e nnye}}</khoutu>, ya tshwantshanyo e e sa tlhaloganyesegeng."
+      }
+    }
+  },
+  "menu": {
+    "main": "Maina a kgolagano ya dikhomphiutha a farologane"
+  }
+}

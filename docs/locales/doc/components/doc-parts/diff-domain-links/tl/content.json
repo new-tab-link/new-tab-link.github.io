@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Mga link na may iba't ibang domain name",
+    "checkedUseSetting": "Lagyan ng check upang paganahin ang setting na ito.",
+    "excludeDomains": "Magdagdag ng mga domain name na ibubukod. Isang domain name lang ang maaaring idagdag sa isang pagkakataon.",
+    "seeExcludeExamplesLink": "Halimbawa",
+    "description": "Nati-trigger ang configuration na ito kapag iba ang domain name.",
+    "exclude": {
+      "example": {
+        "domain": "Maaari kang magdagdag ng domain name, gaya ng <code>{{url}}</code>, upang ibukod ang buong domain name.",
+        "url": "Maaari mong ibukod ang mga partikular na link sa pamamagitan ng pagdaragdag ng link, gaya ng <code>{{url}}</code>.",
+        "glob": "Maaari kang magdagdag ng pattern ng {{glob}}, gaya ng <code>{{minimatch}}</code>, para sa malabo na pagtutugma."
+      }
+    }
+  },
+  "menu": {
+    "main": "Magkaiba ang mga domain name"
+  }
+}

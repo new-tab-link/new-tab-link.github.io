@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Ligazóns con diferentes nomes de dominio",
+    "checkedUseSetting": "Marque para activar esta configuración.",
+    "excludeDomains": "Engade nomes de dominio para excluír. Só se pode engadir un nome de dominio á vez.",
+    "seeExcludeExamplesLink": "Exemplo",
+    "description": "Esta configuración desenvólvese cando o nome de dominio é diferente.",
+    "exclude": {
+      "example": {
+        "domain": "Podes engadir un nome de dominio, como <code>{{url}}</code>, para excluír todo o nome de dominio.",
+        "url": "Podes excluír ligazóns específicas engadindo unha ligazón, como <code>{{url}}</code>.",
+        "glob": "Podes engadir un patrón {{glob}}, como <code>{{minimatch}}</code>, para unha coincidencia difusa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Os nomes de dominio son diferentes"
+  }
+}

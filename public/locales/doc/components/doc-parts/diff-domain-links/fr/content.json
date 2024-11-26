@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Liens avec différents noms de domaine",
+    "checkedUseSetting": "Cochez pour activer ce paramètre.",
+    "excludeDomains": "Ajoutez des noms de domaine à exclure. Un seul nom de domaine peut être ajouté à la fois.",
+    "seeExcludeExamplesLink": "Exemple",
+    "description": "Cette configuration se déclenche lorsque le nom de domaine est différent.",
+    "exclude": {
+      "example": {
+        "domain": "Vous pouvez ajouter un nom de domaine, tel que <code>{{url}}</code>, pour exclure l'intégralité du nom de domaine.",
+        "url": "Vous pouvez exclure des liens spécifiques en ajoutant un lien, tel que <code>{{url}}</code>.",
+        "glob": "Vous pouvez ajouter un modèle {{glob}}, tel que <code>{{minimatch}}</code>, pour une correspondance floue."
+      }
+    }
+  },
+  "menu": {
+    "main": "Les noms de domaine sont différents"
+  }
+}

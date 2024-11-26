@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Ikhonkco elinamagama ahlukeneyo esizinda",
+    "checkedUseSetting": "Khangela ukwenza olu seto lusebenze.",
+    "excludeDomains": "Yongeza amagama esizinda ukuba angaqukwa.",
+    "seeExcludeExamplesLink": "Umzekelo",
+    "description": "Olu qwalaselo luqhutywa xa igama lesizinda lahlukile.",
+    "exclude": {
+      "example": {
+        "domain": "Unokongeza igama lesizinda, njenge <code>{{url}}</code>, ukungabandakanyi lonke igama lesizinda.",
+        "url": "Ungakhuphela ngaphandle amakhonkco athile ngokudibanisa ikhonkco, elifana <code>{{url}}</code>.",
+        "glob": "Ungongeza i {{glob}} ipateni, efana <code>{{minimatch}}</code>, ukwenzela uthelekiso oludidayo."
+      }
+    }
+  },
+  "menu": {
+    "main": "Amagama eDomain ahlukile"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Enkolagana n'amannya ga domain ag'enjawulo",
+    "checkedUseSetting": "Kebera okusobozesa ensengeka eno.",
+    "excludeDomains": "Yongera amannya ga domain agagenda okuggyibwamu erinnya lya domain limu lyokka lye liyinza okwongerwako omulundi gumu.",
+    "seeExcludeExamplesLink": "Eky'okulabirako",
+    "description": "Ensengeka eno etandikibwawo nga erinnya lya domain lya njawulo.",
+    "exclude": {
+      "example": {
+        "domain": "Osobola okwongerako erinnya ly'ekifo, nga <code>{{url}}</code>, okuggyako erinnya ly'ekifo kyonna.",
+        "url": "Osobola okuggyako enkolagana ezenjawulo ng'oyongerako enkolagana, gamba nga <code>{{url}}</code>.",
+        "glob": "Osobola okwongerako enkola ya {{glob}}, nga <code>{{minimatch}}</code>, olw'okukwatagana okutali kwa maanyi."
+      }
+    }
+  },
+  "menu": {
+    "main": "Amannya ga domain ga njawulo"
+  }
+}

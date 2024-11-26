@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Jɛɲɔgɔnyaw ni domani tɔgɔw tɛ kelen ye",
+    "checkedUseSetting": "Aw ye a lajɛ walasa ka nin sigida in baara.",
+    "excludeDomains": "Domani tɔgɔw fara a kan walasa ka bɔ yen.",
+    "seeExcludeExamplesLink": "Misaliya",
+    "description": "O labɛn in bɛ daminɛ ni domani tɔgɔ tɛ kelen ye.",
+    "exclude": {
+      "example": {
+        "domain": "Aw bɛ se ka domani tɔgɔ dɔ fara a kan, i n’a fɔ <code>{{url}}</code>, walasa ka domani tɔgɔ bɛɛ bɔ kɛnɛ kan.",
+        "url": "I bɛ se ka jɛgɛn kɛrɛnkɛrɛnnenw bɔ kɛnɛ kan ni jɛgɛnsira dɔ farali ye, i n’a fɔ <code>{{url}}</code>.",
+        "glob": "Aw bɛ se ka {{glob}} misali dɔ fara a kan, i n’a fɔ <code>{{minimatch}}</code>, walasa ka bɛnkan fuw sɔrɔ."
+      }
+    }
+  },
+  "menu": {
+    "main": "Domani tɔgɔw tɛ kelen ye"
+  }
+}

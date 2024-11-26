@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Povezave z različnimi domenskimi imeni",
+    "checkedUseSetting": "Označite, da omogočite to nastavitev.",
+    "excludeDomains": "Dodajte imena domen, ki jih želite izključiti.",
+    "seeExcludeExamplesLink": "Primer",
+    "description": "Ta konfiguracija se sproži, ko je ime domene drugačno.",
+    "exclude": {
+      "example": {
+        "domain": "Dodate lahko ime domene, na primer <code>{{url}}</code>, da izključite celotno ime domene.",
+        "url": "Določene povezave lahko izključite tako, da dodate povezavo, na primer <code>{{url}}</code>.",
+        "glob": "Dodate lahko vzorec {{glob}}, kot je <code>{{minimatch}}</code>, za mehko ujemanje."
+      }
+    }
+  },
+  "menu": {
+    "main": "Imena domen so drugačna"
+  }
+}

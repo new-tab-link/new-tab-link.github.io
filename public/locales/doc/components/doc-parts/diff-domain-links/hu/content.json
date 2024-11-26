@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Hivatkozások különböző domain nevekkel",
+    "checkedUseSetting": "Jelölje be a beállítás engedélyezéséhez.",
+    "excludeDomains": "Kizárandó domain nevek hozzáadása Egyszerre csak egy domain név adható hozzá.",
+    "seeExcludeExamplesLink": "Példa",
+    "description": "Ez a konfiguráció akkor aktiválódik, ha a tartománynév eltérő.",
+    "exclude": {
+      "example": {
+        "domain": "A teljes domainnév kizárásához hozzáadhat egy domain nevet, például <code>{{url}}</code>.",
+        "url": "Egy link hozzáadásával kizárhat bizonyos linkeket, például <code>{{url}}</code>.",
+        "glob": "Hozzáadhat egy {{glob}} mintát, például <code>{{minimatch}}</code>-t a fuzzy egyezéshez."
+      }
+    }
+  },
+  "menu": {
+    "main": "A domain nevek eltérőek"
+  }
+}

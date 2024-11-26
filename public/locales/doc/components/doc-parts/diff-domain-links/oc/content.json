@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Ligams amb de noms de domeni diferents",
+    "checkedUseSetting": "Marcatz per activar aqueste paramètre.",
+    "excludeDomains": "Apondre de noms de domeni per èsser excluses Sonque un nom de domeni pòt èsser apondut a l'encòp.",
+    "seeExcludeExamplesLink": "Exemple",
+    "description": "Aquesta configuracion es activada quand lo nom de domeni es diferent.",
+    "exclude": {
+      "example": {
+        "domain": "Podètz apondre un nom de domeni, coma <code>{{url}}</code>, per exclure lo nom de domeni entièr.",
+        "url": "Podètz exclure de ligams especifics en apondent un ligam, coma <code>{{url}}</code>.",
+        "glob": "Podètz apondre un modèl {{glob}}, coma <code>{{minimatch}}</code>, per una correspondéncia difusa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Los noms de domeni son diferents"
+  }
+}

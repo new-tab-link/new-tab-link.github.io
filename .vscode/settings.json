@@ -1,11 +1,11 @@
 {
     "i18n-ally.localesPaths": [
-        "public/locales"
+        "i18n-raw/raw"
     ],
     "i18n-ally.sourceLanguage": "zh-CN",
     "i18n-ally.keystyle": "nested",
     "i18n-ally.namespace": true,
-    "i18n-ally.pathMatcher": "{locale}/{namespaces}.json",
+    "i18n-ally.pathMatcher": "{namespaces}.json",
     "i18n-ally.disabled": false,
     "i18n-ally.parsers.extendFileExtensions": {
       "my-custom-ext": "content.json"

@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Enllaços amb diferents noms de domini",
+    "checkedUseSetting": "Marqueu per activar aquesta configuració.",
+    "excludeDomains": "Afegiu noms de domini que s'exclouen. Només es pot afegir un nom de domini alhora.",
+    "seeExcludeExamplesLink": "Exemple",
+    "description": "Aquesta configuració s'activa quan el nom de domini és diferent.",
+    "exclude": {
+      "example": {
+        "domain": "Podeu afegir un nom de domini, com ara <code>{{url}}</code>, per excloure tot el nom de domini.",
+        "url": "Podeu excloure enllaços específics afegint un enllaç, com ara <code>{{url}}</code>.",
+        "glob": "Podeu afegir un patró {{glob}}, com ara <code>{{minimatch}}</code>, per a una concordança difusa."
+      }
+    }
+  },
+  "menu": {
+    "main": "Els noms de domini són diferents"
+  }
+}

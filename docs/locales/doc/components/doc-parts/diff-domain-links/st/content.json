@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Lihokelo tse nang le mabitso a domain a fapaneng",
+    "checkedUseSetting": "Sheba ho bulela tlhophiso ena.",
+    "excludeDomains": "Kenya mabitso a marang-rang a lokelang ho qheleloa ka thoko.",
+    "seeExcludeExamplesLink": "Mohlala",
+    "description": "Tokiso ena e qala ha domain name e fapane.",
+    "exclude": {
+      "example": {
+        "domain": "U ka kenya lebitso la domain, joalo ka <code>{{url}}</code>, ho qhelela ka thoko lebitso la domain kaofela.",
+        "url": "U ka kenyelletsa likhokahano tse ikhethileng ka ho kenya sehokelo, joalo ka <code>{{url}}</code>.",
+        "glob": "O ka kenya {{glob}} paterone, joalo ka <code>{{minimatch}}</code>, bakeng sa ho nyallana ho sa hlakang."
+      }
+    }
+  },
+  "menu": {
+    "main": "Mabitso a domain a fapane"
+  }
+}

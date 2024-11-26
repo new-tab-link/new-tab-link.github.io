@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Tautan dengan nama domain berbeda",
+    "checkedUseSetting": "Centang untuk mengaktifkan pengaturan ini.",
+    "excludeDomains": "Tambahkan nama domain yang akan dikecualikan. Hanya satu nama domain yang dapat ditambahkan dalam satu waktu.",
+    "seeExcludeExamplesLink": "Contoh",
+    "description": "Konfigurasi ini dipicu ketika nama domain berbeda.",
+    "exclude": {
+      "example": {
+        "domain": "Anda bisa menambahkan nama domain, seperti <code>{{url}}</code>, untuk mengecualikan seluruh nama domain.",
+        "url": "Anda dapat mengecualikan tautan tertentu dengan menambahkan tautan, misalnya <code>{{url}}</code>.",
+        "glob": "Anda bisa menambahkan pola {{glob}}, seperti <code>{{minimatch}}</code>, untuk pencocokan fuzzy."
+      }
+    }
+  },
+  "menu": {
+    "main": "Nama domain berbeda"
+  }
+}

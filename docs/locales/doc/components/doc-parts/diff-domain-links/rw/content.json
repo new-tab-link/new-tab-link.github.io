@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Ihuza hamwe namazina atandukanye",
+    "checkedUseSetting": "Reba kugirango ushoboze igenamiterere.",
+    "excludeDomains": "Ongeramo amazina ya domaine kugirango usibye. Izina rimwe gusa rishobora kongerwaho icyarimwe.",
+    "seeExcludeExamplesLink": "Urugero",
+    "description": "Iboneza riterwa mugihe izina rya domaine ritandukanye.",
+    "exclude": {
+      "example": {
+        "domain": "Urashobora kongeramo izina rya domaine, nka <code> {{url}} </code>, kugirango ukureho izina ryose.",
+        "url": "Urashobora gukuramo amahuza yihariye wongeyeho umurongo, nka <code> {{url}} </code>.",
+        "glob": "Urashobora kongeramo {{glob}} icyitegererezo, nka <code> {{minimatch}} </code>, kugirango uhuze fuzzy."
+      }
+    }
+  },
+  "menu": {
+    "main": "Amazina ya domaine aratandukanye"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Linkovi sa različitim nazivima domena",
+    "checkedUseSetting": "Označite da biste omogućili ovu postavku.",
+    "excludeDomains": "Dodajte nazive domena koje treba isključiti.",
+    "seeExcludeExamplesLink": "Primjer",
+    "description": "Ova konfiguracija se pokreće kada se ime domene razlikuje.",
+    "exclude": {
+      "example": {
+        "domain": "Možete dodati ime domene, kao što je <code>{{url}}</code>, da isključite cijelo ime domene.",
+        "url": "Možete isključiti određene veze dodavanjem linka, kao što je <code>{{url}}</code>.",
+        "glob": "Možete dodati {{glob}} obrazac, kao što je <code>{{minimatch}}</code>, za nejasno podudaranje."
+      }
+    }
+  },
+  "menu": {
+    "main": "Nazivi domena su različiti"
+  }
+}

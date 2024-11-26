@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Cysylltiadau ag enwau parth gwahanol",
+    "checkedUseSetting": "Gwiriwch i alluogi'r gosodiad hwn.",
+    "excludeDomains": "Ychwanegu enwau parth i'w hepgor.",
+    "seeExcludeExamplesLink": "Enghraifft",
+    "description": "Mae'r ffurfweddiad hwn yn cael ei sbarduno pan fo'r enw parth yn wahanol.",
+    "exclude": {
+      "example": {
+        "domain": "Gallwch ychwanegu enw parth, megis <code>{{url}}</code>, i eithrio'r enw parth cyfan.",
+        "url": "Gallwch eithrio dolenni penodol drwy ychwanegu dolen, megis <code>{{url}}</code>.",
+        "glob": "Gallwch ychwanegu patrwm {{glob}}, megis <code>{{minimatch}}</code>, ar gyfer paru niwlog."
+      }
+    }
+  },
+  "menu": {
+    "main": "Mae enwau parth yn wahanol"
+  }
+}

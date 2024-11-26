@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Lingid erinevate domeeninimedega",
+    "checkedUseSetting": "Märkige selle sätte lubamiseks.",
+    "excludeDomains": "Lisage välistatavaid domeeninimesid. Korraga saab lisada ainult ühe domeeninime.",
+    "seeExcludeExamplesLink": "Näide",
+    "description": "See konfiguratsioon käivitub, kui domeeninimi on erinev.",
+    "exclude": {
+      "example": {
+        "domain": "Saate lisada domeeninime, näiteks <code>{{url}}</code>, et välistada kogu domeeninimi.",
+        "url": "Konkreetsed lingid saate välistada, lisades lingi, näiteks <code>{{url}}</code>.",
+        "glob": "Häguseks sobitamiseks saate lisada mustri {{glob}}, näiteks <code>{{minimatch}}</code>."
+      }
+    }
+  },
+  "menu": {
+    "main": "Domeeninimed on erinevad"
+  }
+}

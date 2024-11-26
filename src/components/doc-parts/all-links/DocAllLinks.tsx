@@ -11,7 +11,7 @@ function Menu() {
     return (
         <>
             <MenuAnchorComponent anchor={anchorAllLinks}>
-                {t('menu.main')}
+                {t("menu.main")}
             </MenuAnchorComponent>
         </>
     )

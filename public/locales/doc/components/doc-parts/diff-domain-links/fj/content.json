@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Veisemati kei na yaca ni vanua duidui",
+    "checkedUseSetting": "Raica me rawa kina na ituvatuva oqo.",
+    "excludeDomains": "Vakacuruma na yaca ni vanua me vakatabui E dua ga na yaca ni vanua e rawa ni vakacurumi ena dua na gauna.",
+    "seeExcludeExamplesLink": "IVakaraitaki",
+    "description": "Na veivakarautaki oqo e vakavuna ni sa duidui na yaca ni vanua.",
+    "exclude": {
+      "example": {
+        "domain": "E rawa ni o vakacuruma e dua na yaca ni vanua, me vaka na <code>{{url}}</code>, me kakua ni okati kina na yaca taucoko ni vanua.",
+        "url": "E rawa ni o vakatabuya na veitaratara vakatabakidua ena nomu vakacuruma e dua na veitaratara, me vaka na <code>{{url}}</code>.",
+        "glob": "E rawa ni o vakacuruma e dua na ivakarau ni {{glob}}, me vaka na <kode>{{veiganiti lailai}}</kode>, me baleta na veiganiti fuzzy."
+      }
+    }
+  },
+  "menu": {
+    "main": "Na yaca ni vanua e duidui"
+  }
+}

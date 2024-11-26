@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "Nuorodos su skirtingais domenų vardais",
+    "checkedUseSetting": "Pažymėkite, kad įjungtumėte šį nustatymą.",
+    "excludeDomains": "Pridėti domeno vardus, kuriuos norite išskirti, vienu metu galima pridėti tik vieną.",
+    "seeExcludeExamplesLink": "Pavyzdys",
+    "description": "Ši konfigūracija suaktyvinama, kai skiriasi domeno pavadinimas.",
+    "exclude": {
+      "example": {
+        "domain": "Galite pridėti domeno pavadinimą, pvz., <code>{{url}}</code>, kad neįtrauktumėte viso domeno pavadinimo.",
+        "url": "Galite išskirti konkrečias nuorodas pridėję nuorodą, pvz., <code>{{url}}</code>.",
+        "glob": "Galite pridėti {{glob}} šabloną, pvz., <code>{{minimatch}}</code>, kad atitiktumėte neaiškią atitiktį."
+      }
+    }
+  },
+  "menu": {
+    "main": "Domeno vardai skiriasi"
+  }
+}
