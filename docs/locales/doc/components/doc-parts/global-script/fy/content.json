@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Globale skriptynstellingen",
+    "description": "Jo kinne jo eigen skript skriuwe mei javascript",
+    "examplesTitle": "Foarbyld",
+    "checkedUseSetting": "Kontrolearje om dizze ynstelling yn te skeakeljen.",
+    "variables": {
+      "title": "Beskikbere fariabelen",
+      "click": "Oanklikte keppeling, dit attribút is in <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klasseobjekt.",
+      "page": "De keppeling fan de hjoeddeiske side Dit attribút is in <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. klasse foarwerp."
+    },
+    "returnVariables": {
+      "title": "Wearden dy't kinne wurde weromjûn",
+      "rightTab": "Iepenje yn nije ljepper oan de rjochterkant"
+    }
+  },
+  "menu": {
+    "main": "globale skript"
+  }
+}

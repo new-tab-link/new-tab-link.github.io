@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Налични променливи",
+    "page": ": Променливата е URL обектът на текущата уеб страница. За подробности, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. виж</a>",
+    "pageHost": ": Името на домейна на текущата уеб страница",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Едно и също име на домейн {{_youtube_}} и {{_families_}} са {{_mainDomain_}}, имената на поддомейни са {{_youtubeSubDomain_}} и {{. _familiesSubDomain_}} съответно имената на домейните им са различни.",
+    "click": ": връзката, която е кликната",
+    "clickpath": ": Пътят на кликната връзка",
+    "minimatch": ": метод за съвпадение на {{_glob_}}, използвайки библиотеката {{_minimatch_}}, метод на използване <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Вижте < /a> или можете да потърсите {{_glob_}}.",
+    "isSameDomain": ": Независимо дали е същото име на домейн, {{_true_}} е да, {{_false_}} е не.",
+    "isSameParent": ": Независимо дали е същият родителски път, {{_true_}} е да, {{_false_}} е не.",
+    "isPageSublink": ": Дали текущата страница е подстраница на кликната връзка, {{_true_}} е да, {{_false_}} е не.",
+    "isPageMultilevelSublink": ": Дали текущата страница е безкрайна подстраница на кликната връзка, {{_true_}} е да, {{_false_}} е не.",
+    "isClickSublink": ": Дали кликнатата връзка е подвръзка на текущата страница, {{_true_}} е да, {{_false_}} е не.",
+    "isClickMultilevelSublink": ": Дали кликнатата връзка е неограничена подвръзка на текущата страница, {{_true_}} е да, {{_false_}} е не.",
+    "returnVariables": {
+      "title": "Връщащи се променливи",
+      "rightTab": ": Връзката се отваря в нов раздел вдясно",
+      "leftTab": ": Връзката се отваря в нов раздел вляво",
+      "currentWindow": "текущия прозорец",
+      "newWindow": "нов прозорец",
+      "incognitoWindow": "Инкогнито прозорец",
+      "popupWindow": "Изскачащ прозорец",
+      "currentTab": "Текущ раздел",
+      "active": "Активирайте сега",
+      "inactive": "Не е активиран"
+    }
+  },
+  "menu": {
+    "main": "Налични променливи"
+  }
+}

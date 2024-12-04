@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Configuració global de l'script",
+    "description": "Podeu escriure el vostre propi script utilitzant javascript",
+    "examplesTitle": "Exemple",
+    "checkedUseSetting": "Marqueu per activar aquesta configuració.",
+    "variables": {
+      "title": "Variables disponibles",
+      "click": "En fer clic a l'enllaç, aquest atribut és un objecte de classe <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "L'enllaç de la pàgina actual Aquest atribut és un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. objecte de classe."
+    },
+    "returnVariables": {
+      "title": "Valors que es poden retornar",
+      "rightTab": "Obre en una pestanya nova a la dreta"
+    }
+  },
+  "menu": {
+    "main": "guió global"
+  }
+}

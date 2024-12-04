@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "ዝርከቡ ተለዋዋጢ ዋጋታት",
+    "page": ": እቲ ተለዋዋጢ ናይቲ ሕጂ ዘሎ መርበብ ሓበሬታ ገጽ URL እዩ። ርአ</a>",
+    "pageHost": ": ናይቲ ሕጂ ዘሎ መርበብ ሓበሬታ ገጽ ዶመይን ስም",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: ሓደ ዓይነት ስም ዓውዲ ኣስተውዕል ዋላ እኳ እቶም ቀንዲ ኣስማት ዓውዲ {{_youtube_}}ን {{_families_}}ን ክልቲኦም {{_mainDomain_}} እንተኾኑ፡ እቶም ንኡሳን ዓውድታት ግን {{_youtubeSubDomain_}}ን {{ን እዮም። _familiesSubDomain_}} ብቕደም ተኸተል ስለዚ ኣስማት ዶመይንኦም ዝተፈላለየ እዩ።",
+    "click": ": እቲ ጠዊቑ ዝነበረ ሊንክ",
+    "clickpath": "፦ መንገዲ ናይቲ ዝተጠውቐ ሊንክ",
+    "minimatch": ": {{_glob_}} ናይ ምትእስሳር ኣገባብ፣ {{_minimatch_}} ቤተ-መጻሕፍቲ ብምጥቃም፣ ኣገባብ ኣጠቓቕማ <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>< ርአ /a>፣ ወይ ድማ {{_glob_}} ክትደሊ ትኽእል ኢኻ።",
+    "isSameDomain": ": ሓደ ዓይነት ስም ዓውዲ ይኹን፡ {{_true_}} እወ፡ {{_false_}} ኣይፋል እዩ።",
+    "isSameParent": ": ሓደ ዓይነት ወላዲ መንገዲ ይኹን፣ {{_true_}} እወ እዩ፣ {{_false_}} ኣይፋል እዩ።",
+    "isPageSublink": ": እቲ ሕጂ ዘሎ ገጽ ናይቲ ዝተጠውቐ መላግቦ ንኡስ ገጽ ድዩ ኣይኮነን፡ {{_true_}} እወ፡ {{_false_}} ኣይፋል እዩ።",
+    "isPageMultilevelSublink": ": እቲ ሕጂ ዘሎ ገጽ ናይቲ ዝተጠውቐ መላግቦ ደረት ኣልቦ ንኡስ ገጽ ድዩ ኣይኮነን፣ {{_true_}} እወ እዩ፣ {{_false_}} ኣይፋል እዩ።",
+    "isClickSublink": ": እቲ ዝተጠወቐ መላግቦ ናይቲ ሕጂ ዘሎ ገጽ ንኡስ መላግቦ ድዩ ኣይኮነን፣ {{_true_}} እወ፣ {{_false_}} ኣይፋል እዩ።",
+    "isClickMultilevelSublink": ": እቲ ዝተጠውቐ መላግቦ ናይቲ ሕጂ ዘሎ ገጽ ደረት ኣልቦ ንኡስ መላግቦ ድዩ ኣይኮነን፣ {{_true_}} እወ፣ {{_false_}} ኣይፋል እዩ።",
+    "returnVariables": {
+      "title": "ዝምለሱ ተለዋዋጢ ዋጋታት",
+      "rightTab": "፦ እቲ ሊንክ ኣብ የማን ኣብ ሓድሽ ትብ ይኽፈት",
+      "leftTab": "፦ እቲ ሊንክ ኣብ ጸጋማይ ሸነኽ ኣብ ሓድሽ ትብ ይኽፈት",
+      "currentWindow": "ናይ ሕጂ መስኮት።",
+      "newWindow": "ሓድሽ መስኮት።",
+      "incognitoWindow": "ኢንኮግኒቶ መስኮት።",
+      "popupWindow": "ፖፕ-ኣፕ መስኮት።",
+      "currentTab": "ናይ ሕጂ ትብ",
+      "active": "ሕጂ ኣክቲቭ ግበሩ",
+      "inactive": "ኣይተነቓቐሐን።"
+    }
+  },
+  "menu": {
+    "main": "ዝርከቡ ተለዋዋጢ ዋጋታት"
+  }
+}

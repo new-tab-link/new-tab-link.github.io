@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "উপলব্ধ ভেরিয়েবল",
+    "page": ": পরিবর্তনশীল হল বর্তমান ওয়েব পৃষ্ঠার URL অবজেক্ট বিশদ বিবরণের জন্য, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> দেখুন</a>",
+    "pageHost": ": বর্তমান ওয়েব পেজের ডোমেইন নাম",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: একই ডোমেন নাম মনে রাখবেন যদিও {{_youtube_}} এবং {{_families_}} এর প্রধান ডোমেন নাম দুটিই {{_mainDomain_}}, সাবডোমেন নাম হল {{_youtubeSubDomain_}} এবং {{ _familiesSubDomain_}} তাই তাদের ডোমেইন নাম আলাদা।",
+    "click": ": যে লিঙ্কটি ক্লিক করা হয়েছিল",
+    "clickpath": ": ক্লিক করা লিঙ্কের পথ",
+    "minimatch": ": {{_glob_}} ম্যাচিং পদ্ধতি, {{_minimatch_}} লাইব্রেরি ব্যবহার করে, ব্যবহার পদ্ধতি <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>দেখুন < /a>, অথবা আপনি {{_glob_}} অনুসন্ধান করতে পারেন।",
+    "isSameDomain": ": এটি একই ডোমেন নাম হোক না কেন, {{_true_}} হ্যাঁ, {{_false_}} না৷",
+    "isSameParent": ": এটি একই অভিভাবক পথ কিনা, {{_true_}} হ্যাঁ, {{_false_}} না।",
+    "isPageSublink": ": বর্তমান পৃষ্ঠাটি ক্লিক করা লিঙ্কের একটি উপপৃষ্ঠা কিনা, {{_true_}} হ্যাঁ, {{_false_}} না৷",
+    "isPageMultilevelSublink": ": বর্তমান পৃষ্ঠাটি ক্লিক করা লিঙ্কের একটি অসীম উপপৃষ্ঠা কিনা, {{_true_}} হ্যাঁ, {{_false_}} না।",
+    "isClickSublink": ": ক্লিক করা লিঙ্কটি বর্তমান পৃষ্ঠার একটি সাব-লিঙ্ক কিনা, {{_true_}} হ্যাঁ, {{_false_}} না।",
+    "isClickMultilevelSublink": ": ক্লিক করা লিঙ্কটি বর্তমান পৃষ্ঠার একটি সীমাহীন উপ-লিঙ্ক কিনা, {{_true_}} হ্যাঁ, {{_false_}} না৷",
+    "returnVariables": {
+      "title": "ফেরতযোগ্য ভেরিয়েবল",
+      "rightTab": ": লিঙ্কটি ডানদিকে একটি নতুন ট্যাবে খোলে৷",
+      "leftTab": ": লিঙ্কটি বাম দিকে একটি নতুন ট্যাবে খোলে৷",
+      "currentWindow": "বর্তমান উইন্ডো",
+      "newWindow": "নতুন উইন্ডো",
+      "incognitoWindow": "ছদ্মবেশী উইন্ডো",
+      "popupWindow": "পপ-আপ উইন্ডো",
+      "currentTab": "বর্তমান ট্যাব",
+      "active": "এখন সক্রিয় করুন",
+      "inactive": "সক্রিয় করা হয়নি"
+    }
+  },
+  "menu": {
+    "main": "উপলব্ধ ভেরিয়েবল"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "I setbisio siha gi i enteru mundo",
+    "description": "Siña un tuge' i propiu na script-mu gi i javascript",
+    "examplesTitle": "Ehemplu",
+    "checkedUseSetting": "Chek para un na'siña este na setbisio.",
+    "variables": {
+      "title": "Guaha na båriåbles siha",
+      "click": "Yanggen un ågang i link, este na attribute un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> na klasen kosas.",
+      "page": "I link gi i pahina på'go. Este na atributu un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klasen kosas."
+    },
+    "returnVariables": {
+      "title": "I balotu siha ni' siña ma bira tatte",
+      "rightTab": "Abri gi nuebu na tab gi agapa'"
+    }
+  },
+  "menu": {
+    "main": "eskripsion gi enteru mundo"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Ntọala edemede zuru ụwa ọnụ",
+    "description": "Ị nwere ike iji javascript dee edemede nke gị",
+    "examplesTitle": "Ọmụmaatụ",
+    "checkedUseSetting": "Lelee iji mee ntọala a.",
+    "variables": {
+      "title": "Ụdị mgbanwe dị",
+      "click": "Njikọ a pịrị, njirimara a bụ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ihe klas.",
+      "page": "Njikọ nke ibe dị ugbu a bụ àgwà <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ihe klas."
+    },
+    "returnVariables": {
+      "title": "Uru enwere ike weghachi",
+      "rightTab": "Mepee taabụ ọhụrụ n'aka nri"
+    }
+  },
+  "menu": {
+    "main": "edemede zuru ụwa ọnụ"
+  }
+}

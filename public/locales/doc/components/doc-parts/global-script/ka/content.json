@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "გლობალური სკრიპტის პარამეტრები",
+    "description": "თქვენ შეგიძლიათ დაწეროთ თქვენი საკუთარი სკრიპტი Javascript-ის გამოყენებით",
+    "examplesTitle": "მაგალითი",
+    "checkedUseSetting": "შეამოწმეთ ამ პარამეტრის გასააქტიურებლად.",
+    "variables": {
+      "title": "ხელმისაწვდომი ცვლადები",
+      "click": "დააწკაპუნეთ ბმულზე, ეს ატრიბუტი არის <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> კლასის ობიექტი.",
+      "page": "მიმდინარე გვერდის ბმული არის <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. კლასის ობიექტი."
+    },
+    "returnVariables": {
+      "title": "ღირებულებები, რომლებიც შეიძლება დაბრუნდეს",
+      "rightTab": "გახსენით ახალ ჩანართში მარჯვნივ"
+    }
+  },
+  "menu": {
+    "main": "გლობალური დამწერლობა"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Eskuragarri dauden aldagaiak",
+    "page": ": aldagaia uneko web orriaren URL objektua da Xehetasunetarako, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. ikusi</a>",
+    "pageHost": ": Uneko web orriaren domeinu-izena",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: domeinu-izen bera kontuan izan {{_youtube_}} eta {{_families_}} domeinu-izen nagusiak biak {{_mainDomain_}} direla, azpidomeinu-izenak {{_youtube_}} eta {{ direla. _familiesSubDomain_}} hurrenez hurren Beraz, haien domeinu-izenak desberdinak dira.",
+    "click": ": klik egin den esteka",
+    "clickpath": ": klikatutako estekaren bidea",
+    "minimatch": ": {{_glob_}} bat etortzeko metodoa, {{_minimatch_}} liburutegia erabiliz, erabilera metodoa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ikusi < /a>, edo {{_glob_}} bilatu dezakezu.",
+    "isSameDomain": ": Domeinu-izen bera den ala ez, {{_true_}} bai, {{_false_}} ez.",
+    "isSameParent": ": Guraso bide bera den ala ez, {{_true_}} bai, {{_false_}} ez.",
+    "isPageSublink": ": Uneko orria klikatutako estekaren azpiorri bat den ala ez, {{_true_}} bai, {{_false_}} ez.",
+    "isPageMultilevelSublink": ": uneko orria klikatutako estekaren azpiorri infinitua den ala ez, {{_true_}} bai, {{_false_}} ez.",
+    "isClickSublink": ": klikatutako esteka uneko orriaren azpiesteka den ala ez, {{_true_}} bai, {{_false_}} ez.",
+    "isClickMultilevelSublink": ": klikatutako esteka uneko orriaren azpiesteka mugagabea den ala ez, {{_true_}} bai, {{_false_}} ez.",
+    "returnVariables": {
+      "title": "Aldagai itzulgarriak",
+      "rightTab": ": Esteka eskuineko fitxa berri batean irekiko da",
+      "leftTab": ": Esteka ezkerreko fitxa berri batean irekiko da",
+      "currentWindow": "uneko leihoa",
+      "newWindow": "leiho berria",
+      "incognitoWindow": "Ezkutuko leihoa",
+      "popupWindow": "Pop-up leihoa",
+      "currentTab": "Uneko fitxa",
+      "active": "Aktibatu orain",
+      "inactive": "Ez dago aktibatuta"
+    }
+  },
+  "menu": {
+    "main": "Eskuragarri dauden aldagaiak"
+  }
+}

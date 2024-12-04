@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variable misy",
+    "page": ": Ny fari-pitsipika dia ny URL amin'ny pejin-tranonkala amin'izao fotoana izao raha mila antsipiriany, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> jereo</a>",
+    "pageHost": ": Ny anaran-tsehatra amin'ny pejin-tranonkala ankehitriny",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Mitovy ny anaran-tsehatra Mariho fa na dia samy {{_mainDomain_}} aza ny anaran-tsehatra lehibe amin'ny {{_youtube_}} sy {{_families_}} dia {{_youtubeSubDomain_}} sy {{} _familiesSubDomain_}} tsirairay avy dia hafa ny anaran-tsehatra.",
+    "click": ": ilay rohy voakitika",
+    "clickpath": ": Ny lalan'ny rohy kitihina",
+    "minimatch": ": {{_glob_}} fomba fampifanarahana, mampiasa ny tranomboky {{_minimatch_}}, fomba fampiasana <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Jereo < /a>, na azonao atao ny mikaroka ny {{_glob_}}.",
+    "isSameDomain": ": Na mitovy ny anaran-tsehatra, {{_true_}} dia eny, {{_diso_}} dia tsia.",
+    "isSameParent": ": Na mitovy ny lalan'ny ray aman-dreny, {{_true_}} dia eny, {{_diso_}} dia tsia.",
+    "isPageSublink": ": Na zana-pejy amin'ny rohy voakitika ny pejy ankehitriny, {{_true_}} dia eny, {{_false_}} dia tsia.",
+    "isPageMultilevelSublink": ": Na pejy tsy misy fetra amin'ny rohy voakitika ny pejy ankehitriny, {{_true_}} dia eny, {{_false_}} dia tsia.",
+    "isClickSublink": ": Na rohy kely amin'ny pejy ankehitriny ilay rohy voakitika, {{_true_}} dia eny, {{_false_}} dia tsia.",
+    "isClickMultilevelSublink": ": Na rohy tsy misy fetra amin'ny pejy ankehitriny ny rohy voakitika, {{_true_}} dia eny, {{_false_}} dia tsia.",
+    "returnVariables": {
+      "title": "Variable azo averina",
+      "rightTab": ": Mivoha amin'ny tabilao vaovao eo ankavanana ny rohy",
+      "leftTab": ": Mivoha amin'ny tabilao vaovao eo ankavia ny rohy",
+      "currentWindow": "varavarankely ankehitriny",
+      "newWindow": "varavarankely vaovao",
+      "incognitoWindow": "varavarankely incognito",
+      "popupWindow": "Pop-up varavarankely",
+      "currentTab": "Kiheba ankehitriny",
+      "active": "Ampidiro izao",
+      "inactive": "Tsy navitrika"
+    }
+  },
+  "menu": {
+    "main": "Variable misy"
+  }
+}

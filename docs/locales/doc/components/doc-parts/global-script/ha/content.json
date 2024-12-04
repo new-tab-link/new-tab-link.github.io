@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Saitunan rubutun duniya",
+    "description": "Kuna iya rubuta rubutun ku ta amfani da javascript",
+    "examplesTitle": "Misali",
+    "checkedUseSetting": "Duba don kunna wannan saitin.",
+    "variables": {
+      "title": "Akwai masu canji",
+      "click": "Hanyar da aka danna, wannan sifa ita ce <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> abun aji.",
+      "page": "Haɗin yanar gizon wannan sifa shine <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> abu aji."
+    },
+    "returnVariables": {
+      "title": "Ƙimar da za a iya dawowa",
+      "rightTab": "Buɗe a sabon shafin a dama"
+    }
+  },
+  "menu": {
+    "main": "rubutun duniya"
+  }
+}

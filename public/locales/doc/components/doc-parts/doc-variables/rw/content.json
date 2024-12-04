@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Ibihinduka biboneka",
+    "page": ": Impinduka ni URL ya page yurubuga rwubu. Kubisobanuro birambuye, <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' intego = '_ ubusa' rel = 'noreferrer'> reba </a>",
+    "pageHost": ": Izina ryurubuga rwurupapuro rwubu",
+    "isSameSubDomain": ". _imiryangoSubDomain_}} uko bikurikirana. Amazina yabo rero aratandukanye.",
+    "click": ": ihuriro ryakanze",
+    "clickpath": ": Inzira yo gukanda",
+    "minimatch": ": {{_glob_}} uburyo bwo guhuza, ukoresheje {{_minimatch_}} isomero, uburyo bwo gukoresha <a href = 'https: //github.com/isaacs/minimatch' intego = '_ ubusa' rel = 'noreferrer'> Reba < / a>, cyangwa urashobora gushakisha {{_glob_}}.",
+    "isSameDomain": ": Niba ari izina rimwe ryizina, {{_ukuri_}} ni yego, {{_ibinyoma_}} ni oya.",
+    "isSameParent": ": Niba ari inzira imwe y'ababyeyi, {{_ukuri_}} ni yego, {{_ibinyoma_}} ni oya.",
+    "isPageSublink": ": Niba urupapuro rwubu arirwo rupapuro rwihuza, {{_ukuri_}} ni yego, {{_ibinyoma_}} ni oya.",
+    "isPageMultilevelSublink": ": Niba urupapuro rwubu arirwo rupapuro rutagira ingano rwihuza, {{_ukuri_}} ni yego, {{_ibinyoma_}} ni oya.",
+    "isClickSublink": ": Niba guhuza gukanda ari sub-ihuza ryurupapuro rwubu, {{_ukuri_}} ni yego, {{_ibinyoma_}} ni oya.",
+    "isClickMultilevelSublink": ": Niba guhuza gukanda ari umurongo utagira imipaka wurupapuro rwubu, {{_ukuri_}} ni yego, {{_ibinyoma_}} ni oya.",
+    "returnVariables": {
+      "title": "Impinduka zishobora kugaruka",
+      "rightTab": ": Ihuza rifungura muri tab nshya iburyo",
+      "leftTab": ": Ihuza rifungura muri tab nshya ibumoso",
+      "currentWindow": "Idirishya",
+      "newWindow": "idirishya rishya",
+      "incognitoWindow": "Idirishya",
+      "popupWindow": "Idirishya",
+      "currentTab": "Tab",
+      "active": "Kora nonaha",
+      "inactive": "Ntabwo ikora"
+    }
+  },
+  "menu": {
+    "main": "Ibihinduka biboneka"
+  }
+}

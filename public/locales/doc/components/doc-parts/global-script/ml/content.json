@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ആഗോള സ്ക്രിപ്റ്റ് ക്രമീകരണങ്ങൾ",
+    "description": "ജാവാസ്ക്രിപ്റ്റ് ഉപയോഗിച്ച് നിങ്ങൾക്ക് സ്വന്തമായി സ്ക്രിപ്റ്റ് എഴുതാം",
+    "examplesTitle": "ഉദാഹരണം",
+    "checkedUseSetting": "ഈ ക്രമീകരണം പ്രവർത്തനക്ഷമമാക്കാൻ പരിശോധിക്കുക.",
+    "variables": {
+      "title": "ലഭ്യമായ വേരിയബിളുകൾ",
+      "click": "ക്ലിക്ക് ചെയ്‌ത ലിങ്ക്, ഈ ആട്രിബ്യൂട്ട് ഒരു <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ക്ലാസ് ഒബ്‌ജക്‌റ്റാണ്.",
+      "page": "ഈ ആട്രിബ്യൂട്ട് നിലവിലെ പേജിൻ്റെ ലിങ്ക് ഒരു <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL ആണ്. ക്ലാസ് ഒബ്ജക്റ്റ്."
+    },
+    "returnVariables": {
+      "title": "തിരികെ നൽകാവുന്ന മൂല്യങ്ങൾ",
+      "rightTab": "വലതുവശത്തുള്ള പുതിയ ടാബിൽ തുറക്കുക"
+    }
+  },
+  "menu": {
+    "main": "ആഗോള ലിപി"
+  }
+}

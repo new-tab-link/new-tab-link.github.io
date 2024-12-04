@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Soitçhyn script cruinney",
+    "description": "Ta'n script eu hene ry-screeu liorish javascript .",
+    "examplesTitle": "Sambyl",
+    "checkedUseSetting": "Check dy vel y rheynn shoh er ny choyrt.",
+    "variables": {
+      "title": "Variablyn ry gheddyn",
+      "click": "Cliaghtey 'sy linney, ta'n 'attribute' shoh 'target='_blank' rel='noreferrer'>URL</a> 'sy 'class object'.",
+      "page": "Ta'n 'attribute' shoh ny 'target'_blank' rel='noreferrer'>URL</a>. obbyr chlass."
+    },
+    "returnVariables": {
+      "title": "Valueyn dy vod ad ve currit reesht",
+      "rightTab": "Foshlit ayns tab noa er y laue yesh"
+    }
+  },
+  "menu": {
+    "main": "Screeuyn cruinney."
+  }
+}

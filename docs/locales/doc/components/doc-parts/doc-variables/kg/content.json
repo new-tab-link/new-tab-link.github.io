@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Bima ya kuswaswana kele",
+    "page": ": Kima ya ke sobaka kele kima ya URL ya lutiti ya internet ya ntangu yai Sambu na kuzaba mambu mingi, <a href='_blank' rel='norererrer'>. tala</a>",
+    "pageHost": ": Zina ya kisika ya lutiti ya Internet ya sesepi",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Zina ya kisika mosi Beno zaba nde ata bazina ya kisika ya nene ya {{_youtube_}} ti {{_mabuta_}} kele yonso zole {{_Kisika yaNtete_}}, bazina ya kisika ya fioti kele {{_Kisika ya Kitini_}} ti {{. _mabutaSubDomain_}} na kulandana Yo yina bazina na bo ya domaine kele ya kuswaswana.",
+    "click": ": lien yina bo me niema",
+    "clickpath": ": Nzila ya lien yina bo me niema",
+    "minimatch": ": {{_glob_}} mutindu ya kufwanana, na kusadilaka biblioteke ya {{_minimatch_}}, mutindu ya kusadila < /a>, to nge lenda sosa {{_glob_}}.",
+    "isSameDomain": ": Ata yo kele zina ya kisika mosi, {{_kieleka_}} kele ee, {{_luvunu_}} kele ve.",
+    "isSameParent": ": Ata yo kele nzila mosi ya kibuti, {{_kieleka_}} kele ee, {{_luvunu_}} kele ve.",
+    "isPageSublink": ": Ata mukanda ya ntangu yayi kele mukanda ya fioti ya nzila ya bo me niema, {{_true_}} kele ee, {{_false_}} kele ve.",
+    "isPageMultilevelSublink": ": Ata mukanda ya ntangu yayi kele mukanda ya fioti ya kukonda nsuka ya nzila ya nge me niema, {{_true_}} kele ee, {{_false_}} kele ve.",
+    "isClickSublink": ": Kana nzila ya nge me niema kele nzila ya fioti ya mukanda ya ntangu yai, {{_true_}} kele ee, {{_false_}} kele ve.",
+    "isClickMultilevelSublink": ": Kana nzila ya nge me niema kele nzila ya fioti ya kukonda ndilu ya mukanda ya ntangu yai, {{_true_}} kele ee, {{_false_}} kele ve.",
+    "returnVariables": {
+      "title": "Bima ya ke vutulaka",
+      "rightTab": ": Lien ke kanguka na tab ya mpa na diboko ya kitata .",
+      "leftTab": ": Lien ke kanguka na tab ya mpa na diboko ya kimama .",
+      "currentWindow": "fenetre ya sesepi",
+      "newWindow": "fenetre ya mpa",
+      "incognitoWindow": "Fenêtre ya kubumbana",
+      "popupWindow": "Fenêtre ya ke basika",
+      "currentTab": "Tab ya sesepi",
+      "active": "Sala sesepi",
+      "inactive": "Bo me sala yo ve"
+    }
+  },
+  "menu": {
+    "main": "Bima ya kuswaswana kele"
+  }
+}

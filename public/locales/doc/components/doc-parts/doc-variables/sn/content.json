@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Available variables",
+    "page": ": Musiyano ndicho chinhu cheURL chepeji yewebhu yazvino, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> ona</a>",
+    "pageHost": ": The domain name of the current web page",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Zita redomeini rimwechete. Ziva kuti kunyange zvazvo mazita edomeini e{{_youtube_}} ne {{_families_}} ari ese {{_mainDomain_}}, mazita edomain ndeaya {{_youtubeSubDomain_}} uye {{ _familiesSubDomain_}} saka mazita avo akasiyana.",
+    "click": ": link yakadzvanywa",
+    "clickpath": ": Nzira yekudzvanya link",
+    "minimatch": ": {{_glob_}} nzira yekuenzanisa, uchishandisa {{_minimatch_}} raibhurari, nzira yekushandisa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ona < /a>, kana kuti unogona kutsvaga {{_glob_}}.",
+    "isSameDomain": ": Kana riri zita renzvimbo imwe chete, {{_true_}} ndihongu, {{_false_}} kwete.",
+    "isSameParent": ": Kunyangwe iri nzira yevabereki imwe chete, {{_true_}} ndihongu, {{_false_}} kwete.",
+    "isPageSublink": ": Ingave peji yazvino idiki relink yakadzvanywa, {{_true_}} hongu, {{_false_}} kwete.",
+    "isPageMultilevelSublink": ": Kunyangwe peji razvino riri peji diki risingaperi repanodzvanywa link, {{_true_}} hongu, {{_false_}} kwete.",
+    "isClickSublink": ": Kunyangwe link yadzvanywa iri sub-link yepeji razvino, {{_true_}} hongu, {{_false_}} kwete.",
+    "isClickMultilevelSublink": ": Kunyangwe iyo link yadzvanya iri sub-link isina muganhu yepeji razvino, {{_true_}} ndihongu, {{_false_}} kwete.",
+    "returnVariables": {
+      "title": "Returnable variables",
+      "rightTab": ": Iyo link inovhura mune nyowani tab kurudyi",
+      "leftTab": ": Iyo link inovhura mune nyowani tab kuruboshwe",
+      "currentWindow": "hwindo razvino",
+      "newWindow": "hwindo idzva",
+      "incognitoWindow": "Incognito hwindo",
+      "popupWindow": "Pop-up window",
+      "currentTab": "Current tab",
+      "active": "Activate izvozvi",
+      "inactive": "Not activated"
+    }
+  },
+  "menu": {
+    "main": "Available variables"
+  }
+}

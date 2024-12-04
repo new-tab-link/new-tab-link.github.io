@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "ઉપલબ્ધ ચલો",
+    "page": ": ચલ એ વર્તમાન વેબ પૃષ્ઠનું URL ઑબ્જેક્ટ છે, વિગતો માટે, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> જુઓ</a>",
+    "pageHost": ": વર્તમાન વેબ પેજનું ડોમેન નામ",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: સમાન ડોમેન નામ નોંધો કે જો કે {{_youtube_}} અને {{_families_}} ના મુખ્ય ડોમેન નામો બંને {{_mainDomain_}} છે, સબડોમેન નામ {{_youtubeSubDomain_}} અને {{ છે. _familiesSubDomain_}} અનુક્રમે તેમના ડોમેન નામો અલગ છે.",
+    "click": ": લિંક કે જે ક્લિક કરવામાં આવી હતી",
+    "clickpath": ": ક્લિક કરેલ લિંકનો પાથ",
+    "minimatch": ": {{_glob_}} મેચિંગ પદ્ધતિ, {{_minimatch_}} લાઇબ્રેરીનો ઉપયોગ કરીને, ઉપયોગ પદ્ધતિ <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>જુઓ < /a>, અથવા તમે {{_glob_}} શોધી શકો છો.",
+    "isSameDomain": ": ભલે તે સમાન ડોમેન નામ હોય, {{_true_}} હા છે, {{_false_}} ના.",
+    "isSameParent": ": ભલે તે સમાન પિતૃ પાથ હોય, {{_true_}} હા છે, {{_false_}} ના હોય.",
+    "isPageSublink": ": શું વર્તમાન પૃષ્ઠ ક્લિક કરેલ લિંકનું પેટાપૃષ્ઠ છે, {{_true_}} હા છે, {{_false_}} ના છે.",
+    "isPageMultilevelSublink": ": શું વર્તમાન પૃષ્ઠ ક્લિક કરેલ લિંકનું અનંત પેટાપૃષ્ઠ છે, {{_true_}} હા છે, {{_false_}} ના છે.",
+    "isClickSublink": ": શું ક્લિક કરેલ લિંક વર્તમાન પૃષ્ઠની પેટા-લિંક છે, {{_true_}} હા છે, {{_false_}} ના છે.",
+    "isClickMultilevelSublink": ": શું ક્લિક કરેલ લિંક વર્તમાન પૃષ્ઠની અમર્યાદિત ઉપ-લિંક છે, {{_true_}} હા છે, {{_false_}} ના છે.",
+    "returnVariables": {
+      "title": "પરત કરી શકાય તેવા ચલો",
+      "rightTab": ": લિંક જમણી બાજુના નવા ટેબમાં ખુલે છે",
+      "leftTab": ": લિંક ડાબી બાજુના નવા ટેબમાં ખુલે છે",
+      "currentWindow": "વર્તમાન વિન્ડો",
+      "newWindow": "નવી વિન્ડો",
+      "incognitoWindow": "છુપી વિન્ડો",
+      "popupWindow": "પોપ-અપ વિન્ડો",
+      "currentTab": "વર્તમાન ટેબ",
+      "active": "હવે સક્રિય કરો",
+      "inactive": "સક્રિય નથી"
+    }
+  },
+  "menu": {
+    "main": "ઉપલબ્ધ ચલો"
+  }
+}

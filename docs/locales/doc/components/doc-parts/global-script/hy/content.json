@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Սցենարների գլոբալ կարգավորումներ",
+    "description": "Դուք կարող եք գրել ձեր սեփական սցենարը՝ օգտագործելով javascript",
+    "examplesTitle": "Օրինակ",
+    "checkedUseSetting": "Նշեք՝ այս կարգավորումը միացնելու համար:",
+    "variables": {
+      "title": "Հասանելի փոփոխականներ",
+      "click": "Սեղմված հղումը, այս հատկանիշը <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> դասի օբյեկտ է:",
+      "page": "Ընթացիկ էջի հղումը այս հատկանիշն է <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>: դասի օբյեկտ."
+    },
+    "returnVariables": {
+      "title": "Արժեքներ, որոնք կարող են վերադարձվել",
+      "rightTab": "Բացեք աջ կողմում գտնվող նոր ներդիրում"
+    }
+  },
+  "menu": {
+    "main": "գլոբալ գրություն"
+  }
+}

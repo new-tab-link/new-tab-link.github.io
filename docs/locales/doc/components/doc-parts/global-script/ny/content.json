@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Zokonda zapadziko lonse lapansi",
+    "description": "Mutha kulemba script yanu pogwiritsa ntchito javascript",
+    "examplesTitle": "Chitsanzo",
+    "checkedUseSetting": "Chongani kuti mutsegule zochunirazi.",
+    "variables": {
+      "title": "Zosintha zomwe zilipo",
+      "click": "Kudina ulalo, tanthauzo ili ndi <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> class object.",
+      "page": "Ulalo watsamba lapano kalasi chinthu."
+    },
+    "returnVariables": {
+      "title": "Makhalidwe omwe angabwezedwe",
+      "rightTab": "Tsegulani mu tabu yatsopano kumanja"
+    }
+  },
+  "menu": {
+    "main": "script padziko lonse lapansi"
+  }
+}

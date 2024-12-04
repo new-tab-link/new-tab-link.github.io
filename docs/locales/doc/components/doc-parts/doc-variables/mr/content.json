@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "उपलब्ध चल",
+    "page": ": व्हेरिएबल हे वर्तमान वेब पृष्ठाचे URL ऑब्जेक्ट आहे तपशीलांसाठी, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> पहा</a>",
+    "pageHost": ": वर्तमान वेब पृष्ठाचे डोमेन नाव",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: समान डोमेन नाव लक्षात घ्या की जरी {{_youtube_}} आणि {{_families_}} ची मुख्य डोमेन नावे {{_mainDomain_}} असली तरी उपडोमेन नावे {{_youtubeSubDomain_}} आणि {{ आहेत. _familiesSubDomain_}} अनुक्रमे त्यांची डोमेन नावे वेगळी आहेत.",
+    "click": ": क्लिक केलेली लिंक",
+    "clickpath": ": क्लिक केलेल्या दुव्याचा मार्ग",
+    "minimatch": ": {{_glob_}} जुळणारी पद्धत, {{_minimatch_}} लायब्ररी वापरून, वापर पद्धत <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>पहा < /a>, किंवा तुम्ही {{_glob_}} शोधू शकता.",
+    "isSameDomain": ": ते समान डोमेन नाव असो, {{_true_}} होय, {{_false_}} नाही.",
+    "isSameParent": ": तोच मूळ मार्ग असो, {{_true_}} होय, {{_false_}} नाही.",
+    "isPageSublink": ": वर्तमान पृष्ठ क्लिक केलेल्या दुव्याचे उपपृष्ठ आहे की नाही, {{_true_}} होय आहे, {{_false_}} नाही आहे.",
+    "isPageMultilevelSublink": ": वर्तमान पृष्ठ क्लिक केलेल्या दुव्याचे अनंत उपपृष्ठ आहे की नाही, {{_true_}} होय आहे, {{_false_}} नाही आहे.",
+    "isClickSublink": ": क्लिक केलेली लिंक वर्तमान पृष्ठाची उप-लिंक आहे की नाही, {{_true_}} होय आहे, {{_false_}} नाही आहे.",
+    "isClickMultilevelSublink": ": क्लिक केलेली लिंक वर्तमान पृष्ठाची अमर्यादित उप-लिंक आहे की नाही, {{_true_}} होय आहे, {{_false_}} नाही आहे.",
+    "returnVariables": {
+      "title": "परत करण्यायोग्य चल",
+      "rightTab": ": लिंक उजवीकडे नवीन टॅबमध्ये उघडेल",
+      "leftTab": ": लिंक डावीकडील नवीन टॅबमध्ये उघडेल",
+      "currentWindow": "वर्तमान विंडो",
+      "newWindow": "नवीन विंडो",
+      "incognitoWindow": "गुप्त विंडो",
+      "popupWindow": "पॉप-अप विंडो",
+      "currentTab": "वर्तमान टॅब",
+      "active": "आता सक्रिय करा",
+      "inactive": "सक्रिय नाही"
+    }
+  },
+  "menu": {
+    "main": "उपलब्ध चल"
+  }
+}

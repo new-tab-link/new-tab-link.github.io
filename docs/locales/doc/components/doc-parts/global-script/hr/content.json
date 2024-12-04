@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Globalne postavke skripte",
+    "description": "Možete napisati vlastitu skriptu koristeći javascript",
+    "examplesTitle": "Primjer",
+    "checkedUseSetting": "Označite da biste omogućili ovu postavku.",
+    "variables": {
+      "title": "Dostupne varijable",
+      "click": "Klikom na vezu, ovaj atribut je objekt klase <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Veza trenutne stranice je <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. objekt klase."
+    },
+    "returnVariables": {
+      "title": "Vrijednosti koje se mogu vratiti",
+      "rightTab": "Otvori u novoj kartici s desne strane"
+    }
+  },
+  "menu": {
+    "main": "globalna skripta"
+  }
+}

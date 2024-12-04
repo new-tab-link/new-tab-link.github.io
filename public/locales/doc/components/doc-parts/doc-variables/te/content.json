@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "అందుబాటులో వేరియబుల్స్",
+    "page": ": వేరియబుల్ అనేది ప్రస్తుత వెబ్ పేజీ యొక్క URL ఆబ్జెక్ట్, వివరాల కోసం, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. చూడండి</a>",
+    "pageHost": ": ప్రస్తుత వెబ్ పేజీ డొమైన్ పేరు",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: {{_youtube_}} మరియు {{_families_}} యొక్క ప్రధాన డొమైన్ పేర్లు రెండూ {{_mainDomain_}} అయినప్పటికీ, ఉపడొమైన్ పేర్లు {{_youtubeSubDomain_}} అని గమనించండి. _familiesSubDomain_}} వరుసగా వారి డొమైన్ పేర్లు భిన్నంగా ఉంటాయి.",
+    "click": ": క్లిక్ చేసిన లింక్",
+    "clickpath": ": క్లిక్ చేసిన లింక్ యొక్క మార్గం",
+    "minimatch": ": {{_glob_}} సరిపోలే పద్ధతి, {{_minimatch_}} లైబ్రరీని ఉపయోగించి, వినియోగ పద్ధతి <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>చూడండి < /a>, లేదా మీరు {{_glob_}} కోసం శోధించవచ్చు.",
+    "isSameDomain": ": అదే డొమైన్ పేరు అయినా, {{_true_}} అవును, {{_false_}} కాదు.",
+    "isSameParent": ": అదే పేరెంట్ పాత్ అయినా, {{_true_}} అవును, {{_false_}} కాదు.",
+    "isPageSublink": ": ప్రస్తుత పేజీ క్లిక్ చేసిన లింక్ యొక్క ఉపపేజీ అయినా, {{_true_}} అవును, {{_false_}} కాదు.",
+    "isPageMultilevelSublink": ": ప్రస్తుత పేజీ క్లిక్ చేసిన లింక్ యొక్క అనంతమైన ఉపపేజీ అయినా, {{_true_}} అవును, {{_false_}} కాదు.",
+    "isClickSublink": ": క్లిక్ చేసిన లింక్ ప్రస్తుత పేజీ యొక్క ఉప-లింక్ అయినా, {{_true_}} అవును, {{_false_}} కాదు.",
+    "isClickMultilevelSublink": ": క్లిక్ చేసిన లింక్ ప్రస్తుత పేజీ యొక్క అపరిమిత ఉప-లింక్ అయినా, {{_true_}} అవును, {{_false_}} కాదు.",
+    "returnVariables": {
+      "title": "రిటర్నబుల్ వేరియబుల్స్",
+      "rightTab": ": లింక్ కుడివైపున కొత్త ట్యాబ్‌లో తెరవబడుతుంది",
+      "leftTab": ": లింక్ ఎడమవైపున కొత్త ట్యాబ్‌లో తెరవబడుతుంది",
+      "currentWindow": "ప్రస్తుత విండో",
+      "newWindow": "కొత్త విండో",
+      "incognitoWindow": "అజ్ఞాత విండో",
+      "popupWindow": "పాప్-అప్ విండో",
+      "currentTab": "ప్రస్తుత ట్యాబ్",
+      "active": "ఇప్పుడే యాక్టివేట్ చేయండి",
+      "inactive": "యాక్టివేట్ కాలేదు"
+    }
+  },
+  "menu": {
+    "main": "అందుబాటులో వేరియబుల్స్"
+  }
+}

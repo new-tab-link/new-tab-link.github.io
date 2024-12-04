@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Argemmennoù hegerz",
+    "page": ": An argemmenn eo an ergorenn URL eus ar bajenn genrouedad bremanel. gwelet</a>",
+    "pageHost": ": Anv domani ar bajenn Genrouedad bremanel",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: An hevelep anv domani. _familiesSubDomain_}} hervez an urzh.",
+    "click": ": al liamm a oa bet kliket",
+    "clickpath": ": Hent al liamm kliket",
+    "minimatch": ": {{_glob_}} doare keñveriañ, gant al levraoueg {{_minimatch_}}, doare implij <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Gwelet < /a>, pe e c'hallit klask {{_glob_}}.",
+    "isSameDomain": ": Pe e vefe an hevelep anv domani, {{_gwir_}} a zo ya, {{_faos_}} a zo nann.",
+    "isSameParent": ": Pe e vefe an hevelep hent tad, {{_gwir_}} a zo ya, {{_faos_}} a zo nann.",
+    "isPageSublink": ": Pe ez eo ar bajenn bremanel un ispajenn eus al liamm kliket, {{_gwir_}} a zo ya, {{_faos_}} a zo nann.",
+    "isPageMultilevelSublink": ": Pe e vefe ar bajenn bremanel un ispajenn didermen eus al liamm kliket, {{_gwir_}} a zo ya, {{_faos_}} a zo nann.",
+    "isClickSublink": ": Pe ez eo al liamm kliket war un isliamm eus ar bajenn bremanel, {{_gwir_}} a zo ya, {{_faos_}} a zo nann.",
+    "isClickMultilevelSublink": ": Pe ez eo al liamm kliket un isliamm didermen eus ar bajenn bremanel, {{_gwir_}} a zo ya, {{_faos_}} a zo nann.",
+    "returnVariables": {
+      "title": "Argemmennoù distreiñ",
+      "rightTab": ": Al liamm a zigor en un ivinell nevez a-zehoù",
+      "leftTab": ": Al liamm a zigor en un ivinell nevez a-gleiz",
+      "currentWindow": "prenestr bremanel",
+      "newWindow": "prenestr nevez |",
+      "incognitoWindow": "Prenestr kuzh",
+      "popupWindow": "Prenestr digeriñ",
+      "currentTab": "Ivinell bremanel",
+      "active": "Gweredekaat bremañ",
+      "inactive": "N'eo ket gweredekaet"
+    }
+  },
+  "menu": {
+    "main": "Argemmennoù hegerz"
+  }
+}

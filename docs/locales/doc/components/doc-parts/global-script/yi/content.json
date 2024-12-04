@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "גלאבאלע שריפט סעטטינגס",
+    "description": "איר קענען שרייַבן דיין אייגענע שריפט ניצן דזשאַוואַסקריפּט",
+    "examplesTitle": "בייַשפּיל",
+    "checkedUseSetting": "קוק צו געבן דעם באַשטעטיקן.",
+    "variables": {
+      "title": "בנימצא וועריאַבאַלז",
+      "click": "געקליקט לינק, דעם אַטריביוט איז אַ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> קלאַס כייפעץ.",
+      "page": "דער לינק פון דעם יעצטיגן זײַטל דער אַטריביוט איז אַ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. קלאַס כייפעץ."
+    },
+    "returnVariables": {
+      "title": "וואַלועס וואָס קענען זיין אומגעקערט",
+      "rightTab": "עפֿענען אַ נייַ קוויטל אויף די רעכט"
+    }
+  },
+  "menu": {
+    "main": "גלאבאלע שריפט"
+  }
+}

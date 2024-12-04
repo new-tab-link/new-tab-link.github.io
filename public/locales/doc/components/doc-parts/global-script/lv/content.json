@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Globālie skripta iestatījumi",
+    "description": "Jūs varat uzrakstīt savu skriptu, izmantojot javascript",
+    "examplesTitle": "Piemērs",
+    "checkedUseSetting": "Atzīmējiet, lai iespējotu šo iestatījumu.",
+    "variables": {
+      "title": "Pieejamie mainīgie",
+      "click": "Noklikšķinot uz saites, šis atribūts ir <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klases objekts.",
+      "page": "Pašreizējās lapas saite ir <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. klases objekts."
+    },
+    "returnVariables": {
+      "title": "Vērtības, kuras var atgriezt",
+      "rightTab": "Atvērt jaunā cilnē labajā pusē"
+    }
+  },
+  "menu": {
+    "main": "globālais skripts"
+  }
+}

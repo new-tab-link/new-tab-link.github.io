@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "可用變數",
+    "page": ": 變數是目前網頁的URL對象，詳細介紹 <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>參見</a>",
+    "pageHost": ": 目前網頁的域名",
+    "isSameSubDomain": "{{_isSameSubDomain_}} : 同一個域名，注意{{_youtube_}}和{{_families_}}雖然主域名都是{{_mainDomain_}}，但是子域名分別是{{_youtubeSubDomain_}}和{{_familiesSubDomain_}}，所以它們域名不同。",
+    "click": ": 被點擊的連結",
+    "clickpath": "： 被點擊連結的路徑",
+    "minimatch": ": {{_glob_}}匹配方式，使用的是{{_minimatch_}}庫，使用方式<a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>參見</a>，或者您也可以使用搜尋{{_glob_}}的使用方法。",
+    "isSameDomain": ": 是否是同一個網域, {{_true_}}是，{{_false_}}否。",
+    "isSameParent": ": 是否為同一個父級路徑, {{_true_}}是，{{_false_}}否。",
+    "isPageSublink": ": 當前頁面是否為點擊連結的子頁面, {{_true_}}是，{{_false_}}否。",
+    "isPageMultilevelSublink": ": 目前頁面是否為點擊連結的無限子頁面, {{_true_}}是，{{_false_}}否。",
+    "isClickSublink": ": 點選連結是否為目前頁面的子連結, {{_true_}}是，{{_false_}}否。",
+    "isClickMultilevelSublink": ": 點選連結是否為目前頁面的無限子連結, {{_true_}}是，{{_false_}}否。",
+    "returnVariables": {
+      "title": "可返回的變數",
+      "rightTab": "： 連結在右側新標籤頁打開",
+      "leftTab": "： 連結在左側新標籤頁打開",
+      "currentWindow": "目前視窗",
+      "newWindow": "新視窗",
+      "incognitoWindow": "隱形窗口",
+      "popupWindow": "彈跳窗",
+      "currentTab": "目前標籤頁",
+      "active": "立即啟用",
+      "inactive": "不啟用設定"
+    }
+  },
+  "menu": {
+    "main": "可用變數"
+  }
+}

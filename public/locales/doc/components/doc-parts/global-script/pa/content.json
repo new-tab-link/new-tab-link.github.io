@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ਗਲੋਬਲ ਸਕ੍ਰਿਪਟ ਸੈਟਿੰਗਾਂ",
+    "description": "ਤੁਸੀਂ ਜਾਵਾਸਕ੍ਰਿਪਟ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਪਣੀ ਸਕ੍ਰਿਪਟ ਲਿਖ ਸਕਦੇ ਹੋ",
+    "examplesTitle": "ਉਦਾਹਰਨ",
+    "checkedUseSetting": "ਇਸ ਸੈਟਿੰਗ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਜਾਂਚ ਕਰੋ।",
+    "variables": {
+      "title": "ਉਪਲਬਧ ਵੇਰੀਏਬਲ",
+      "click": "ਲਿੰਕ 'ਤੇ ਕਲਿੱਕ ਕੀਤਾ ਗਿਆ, ਇਹ ਗੁਣ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ਕਲਾਸ ਆਬਜੈਕਟ ਹੈ।",
+      "page": "ਮੌਜੂਦਾ ਪੰਨੇ ਦਾ ਲਿੰਕ ਇੱਕ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ਹੈ। ਕਲਾਸ ਆਬਜੈਕਟ."
+    },
+    "returnVariables": {
+      "title": "ਮੁੱਲ ਜੋ ਵਾਪਸ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ",
+      "rightTab": "ਸੱਜੇ ਪਾਸੇ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+    }
+  },
+  "menu": {
+    "main": "ਗਲੋਬਲ ਲਿਪੀ"
+  }
+}

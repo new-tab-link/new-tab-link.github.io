@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Tilungiselelo teskripthi semhlaba wonkhe",
+    "description": "Ungabhala umbhalo wakho usebentisa i-javascript .",
+    "examplesTitle": "Sibonelo",
+    "checkedUseSetting": "Hlola kutsi unikete lesethingi emandla.",
+    "variables": {
+      "title": "Tintfo letigucukako letitfolakalako",
+      "click": "Sixhumanisi lesichafaziwe, lemphawu yintfo yesigaba se <a href='umsunguli.",
+      "page": "Sixhumanisi selikhasi lamanje Lemphawu yi-<a href='URL</a> intfo yekilasi."
+    },
+    "returnVariables": {
+      "title": "Emanani langabuyiselwa emuva",
+      "rightTab": "Vula kuthebhu lensha ngasekudla"
+    }
+  },
+  "menu": {
+    "main": "umbhalo wemhlaba wonkhe"
+  }
+}

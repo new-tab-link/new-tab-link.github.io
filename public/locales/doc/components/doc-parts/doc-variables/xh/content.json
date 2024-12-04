@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Izinto eziguquguqukayo ezikhoyo",
+    "page": ": Umahluko yinto ye-URL yephepha lewebhu langoku Ngeenkcukacha, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> bona</a>",
+    "pageHost": ": Igama lesizinda sephepha lewebhu langoku",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Kwa igama lesizinda esifanayo. Qaphela ukuba nangona amagama edomeyini aphambili ka- {{_youtube_}} kunye ne- {{_families_}} zombini {{_mainDomain_}}, amagama e-subdomain athi {{_youtubeSubDomain_}} kunye {{ _familiesSubDomain_}} ngoko ke amagama esizinda sabo ahlukile.",
+    "click": ": ikhonkco elicofayo",
+    "clickpath": ": Umendo wekhonkco elicofayo",
+    "minimatch": ": {{_glob_}} indlela yokudibanisa, usebenzisa i {{_minimatch_}} ilayibrari, indlela yokusetyenziswa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Bona /a>, okanye ungakhangela i- {{_glob_}}.",
+    "isSameDomain": ": Nokuba ligama lesizinda esifanayo, {{_yinyaniso_}} nguewe, {{_false_}} nguhayi.",
+    "isSameParent": ": Nokuba yindlela enye yomzali, {{_inyani_}} nguewe, {{_false_}} nguhayi.",
+    "isPageSublink": ": Nokuba eli phepha langoku liphepha elisezantsi lekhonkco elicofayo, {{_inyani_}} ngu-ewe, {{_false_}} nguhayi.",
+    "isPageMultilevelSublink": ": Nokuba eli phepha langoku liphantsi elingenasiphelo lekhonkco elicofayo, {{_inyani_}} ngu-ewe, {{_false_}} nguhayi.",
+    "isClickSublink": ": Nokuba ikhonkco elicofiweyo lilinki esezantsi yephepha langoku, {{_inyani_}} nguewe, {{_false_}} nguhayi.",
+    "isClickMultilevelSublink": ": Nokuba ikhonkco elicofaziweyo likhonkco elingenamda kwiphepha langoku, {{_inyani_}} nguewe, {{_false_}} nguhayi.",
+    "returnVariables": {
+      "title": "Iinguqu ezibuyiselwayo",
+      "rightTab": ": Ikhonkco livula kwithebhu entsha ekunene",
+      "leftTab": ": Ikhonkco livula kwithebhu entsha ekhohlo",
+      "currentWindow": "ifestile yangoku",
+      "newWindow": "ifestile entsha",
+      "incognitoWindow": "Ifestile ye-Incognito",
+      "popupWindow": "Ifestile evelelayo",
+      "currentTab": "Ithebhu yangoku",
+      "active": "Vula ngoku",
+      "inactive": "Ayisetyenziswanga"
+    }
+  },
+  "menu": {
+    "main": "Izinto eziguquguqukayo ezikhoyo"
+  }
+}

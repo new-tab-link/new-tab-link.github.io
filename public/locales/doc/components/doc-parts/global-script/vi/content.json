@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Cài đặt tập lệnh chung",
+    "description": "Bạn có thể viết tập lệnh của riêng mình bằng cách sử dụng javascript",
+    "examplesTitle": "Ví dụ",
+    "checkedUseSetting": "Chọn để bật cài đặt này.",
+    "variables": {
+      "title": "Các biến có sẵn",
+      "click": "Liên kết được nhấp vào, thuộc tính này là một đối tượng lớp <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Liên kết của trang hiện tại là một <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> đối tượng lớp."
+    },
+    "returnVariables": {
+      "title": "Các giá trị có thể được trả về",
+      "rightTab": "Mở trong tab mới ở bên phải"
+    }
+  },
+  "menu": {
+    "main": "kịch bản toàn cầu"
+  }
+}

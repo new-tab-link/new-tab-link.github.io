@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "การตั้งค่าสคริปต์สากล",
+    "description": "คุณสามารถเขียนสคริปต์ของคุณเองโดยใช้จาวาสคริปต์",
+    "examplesTitle": "ตัวอย่าง",
+    "checkedUseSetting": "เลือกเพื่อเปิดใช้งานการตั้งค่านี้",
+    "variables": {
+      "title": "ตัวแปรที่มีอยู่",
+      "click": "เมื่อคลิกลิงก์ แอตทริบิวต์นี้คือออบเจ็กต์คลาส <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>",
+      "page": "ลิงก์ของหน้าปัจจุบัน คุณลักษณะนี้คือ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> วัตถุคลาส"
+    },
+    "returnVariables": {
+      "title": "ค่าที่สามารถส่งคืนได้",
+      "rightTab": "เปิดในแท็บใหม่ทางด้านขวา"
+    }
+  },
+  "menu": {
+    "main": "สคริปต์สากล"
+  }
+}

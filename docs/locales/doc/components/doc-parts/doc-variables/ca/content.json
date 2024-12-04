@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variables disponibles",
+    "page": ": La variable és l'objecte URL de la pàgina web actual. Per a més informació, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. veure</a>",
+    "pageHost": ": El nom de domini de la pàgina web actual",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: el mateix nom de domini, encara que els noms de domini principals de {{_youtube_}} i {{_families_}} són {{_mainDomain_}}, els noms de subdomini són {{_youtube_}} i {{. _familiesSubDomain_}}, per tant, els seus noms de domini són diferents.",
+    "click": ": l'enllaç que s'ha fet clic",
+    "clickpath": ": el camí de l'enllaç al qual s'ha fet clic",
+    "minimatch": ": mètode de concordança {{_glob_}}, utilitzant la biblioteca {{_minimatch_}}, mètode d'ús <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vegeu < /a>, o podeu cercar {{_glob_}}.",
+    "isSameDomain": ": Tant si es tracta del mateix nom de domini, {{_true_}} és sí, {{_false_}} és no.",
+    "isSameParent": ": Tant si es tracta del mateix camí principal, {{_true_}} és sí, {{_false_}} és no.",
+    "isPageSublink": ": Tant si la pàgina actual és una subpàgina de l'enllaç en què s'ha fet clic, {{_true_}} és sí, {{_false_}} és no.",
+    "isPageMultilevelSublink": ": Tant si la pàgina actual és una subpàgina infinita de l'enllaç en què s'ha fet clic, {{_true_}} és sí, {{_false_}} és no.",
+    "isClickSublink": ": Tant si l'enllaç en què s'ha fet clic és un subenllaç de la pàgina actual, {{_true_}} és sí, {{_false_}} és no.",
+    "isClickMultilevelSublink": ": Tant si l'enllaç en què s'ha fet clic és un subenllaç il·limitat de la pàgina actual, {{_true_}} és sí, {{_false_}} és no.",
+    "returnVariables": {
+      "title": "Variables retornables",
+      "rightTab": ": l'enllaç s'obre en una pestanya nova a la dreta",
+      "leftTab": ": l'enllaç s'obre en una pestanya nova a l'esquerra",
+      "currentWindow": "finestra actual",
+      "newWindow": "finestra nova",
+      "incognitoWindow": "Finestra d'incògnit",
+      "popupWindow": "Finestra emergent",
+      "currentTab": "Pestanya actual",
+      "active": "Activa ara",
+      "inactive": "No activat"
+    }
+  },
+  "menu": {
+    "main": "Variables disponibles"
+  }
+}

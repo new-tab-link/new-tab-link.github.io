@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Tutmondaj skripto-agordoj",
+    "description": "Vi povas skribi vian propran skripton per Javaskripto",
+    "examplesTitle": "Ekzemplo",
+    "checkedUseSetting": "Kontrolu por ebligi ĉi tiun agordon.",
+    "variables": {
+      "title": "Disponeblaj variabloj",
+      "click": "Klakita ligilo, ĉi tiu atributo estas <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klasobjekto.",
+      "page": "La ligo de la nuna paĝo Ĉi tiu atributo estas <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. klasobjekto."
+    },
+    "returnVariables": {
+      "title": "Valoroj kiuj povas esti resenditaj",
+      "rightTab": "Malfermu en nova langeto dekstre"
+    }
+  },
+  "menu": {
+    "main": "tutmonda skripto"
+  }
+}

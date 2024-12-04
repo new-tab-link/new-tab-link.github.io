@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Visuotiniai scenarijaus nustatymai",
+    "description": "Galite parašyti savo scenarijų naudodami javascript",
+    "examplesTitle": "Pavyzdys",
+    "checkedUseSetting": "Pažymėkite, kad įjungtumėte šį nustatymą.",
+    "variables": {
+      "title": "Galimi kintamieji",
+      "click": "Spustelėjus nuorodą, šis atributas yra <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klasės objektas.",
+      "page": "Dabartinio puslapio nuoroda yra <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. klasės objektas."
+    },
+    "returnVariables": {
+      "title": "Vertybės, kurias galima grąžinti",
+      "rightTab": "Atidaryti naujame skirtuke dešinėje"
+    }
+  },
+  "menu": {
+    "main": "pasaulinis scenarijus"
+  }
+}

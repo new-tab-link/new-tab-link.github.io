@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Mövcud dəyişənlər",
+    "page": ": Dəyişən cari veb səhifənin URL obyektidir. Ətraflı məlumat üçün <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. bax</a>",
+    "pageHost": ": Cari veb səhifənin domen adı",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Eyni domen adıdır ki, {{_youtube_}} və {{_families_}} əsas domen adlarının hər ikisi {{_mainDomain_}} olsa da, alt domen adları {{_youtubeSubDomain_}} və {{. _familiesSubDomain_}}. Beləliklə, onların domen adları fərqlidir.",
+    "click": ": kliklənmiş link",
+    "clickpath": ": Kliklənən keçidin yolu",
+    "minimatch": ": {{_glob_}} uyğunlaşdırma metodu, {{_minimatch_}} kitabxanasından istifadə edərək, istifadə metodu <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Bax < /a> və ya {{_glob_}} üçün axtarış edə bilərsiniz.",
+    "isSameDomain": ": Eyni domen adı olsun, {{_true_}} bəli, {{_false_}} isə yox.",
+    "isSameParent": ": Eyni ana yol olsun, {{_true_}} bəli, {{_false_}} isə yox.",
+    "isPageSublink": ": Cari səhifənin kliklənmiş linkin alt səhifəsi olub-olmamasından asılı olmayaraq, {{_true_}} bəli, {{_false_}} isə yox.",
+    "isPageMultilevelSublink": ": Cari səhifənin kliklənmiş linkin sonsuz alt səhifəsi olub-olmamasından asılı olmayaraq, {{_true_}} bəli, {{_false_}} isə yox.",
+    "isClickSublink": ": Kliklənmiş keçidin cari səhifənin alt keçidi olub-olmamasından asılı olmayaraq, {{_true_}} bəli, {{_false_}} isə xeyrdir.",
+    "isClickMultilevelSublink": ": Kliklənmiş link cari səhifənin limitsiz alt-linkidir, {{_true_}} bəli, {{_false_}} isə yox.",
+    "returnVariables": {
+      "title": "Qaytarıla bilən dəyişənlər",
+      "rightTab": ": Link sağdakı yeni tabda açılır",
+      "leftTab": ": Link solda yeni tabda açılır",
+      "currentWindow": "cari pəncərə",
+      "newWindow": "yeni pəncərə",
+      "incognitoWindow": "Anonim pəncərə",
+      "popupWindow": "Pop-up pəncərə",
+      "currentTab": "Cari tab",
+      "active": "İndi aktivləşdirin",
+      "inactive": "Aktivləşdirilməyib"
+    }
+  },
+  "menu": {
+    "main": "Mövcud dəyişənlər"
+  }
+}

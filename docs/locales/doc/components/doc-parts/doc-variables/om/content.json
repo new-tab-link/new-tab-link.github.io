@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Jijjiiramoota jiran",
+    "page": ": Jijjiiramaan wanta URL fuula weeb ammaati Bal'inaaf, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> ilaali</a>",
+    "pageHost": ": Maqaa domeenii fuula weebsaayitii ammaa",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Maqaa domeenii walfakkaataa Hubadhu maqaan domeenii ijoo {{_youtube_}} fi {{_families_}} lamaan isaanii {{_mainDomain_}} ta'anis, maqaan domeenii xiqqaa {{_youtubeSubDomain_}} fi {{ dha. _familiesSubDomain_}} akkaataa walduraa duubaan Kanaafuu maqaan domeenii isaanii adda adda.",
+    "click": ": hidhaa cuqaafame",
+    "clickpath": ": Daandii hidhaa cuqaafame",
+    "minimatch": ": {{_glob_}} mala walsimsiisaa, mana kitaabaa {{_minimatch_}} fayyadamuun, mala itti fayyadama <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>< ilaali /a>, ykn {{_glob_}} barbaaduu dandeessa.",
+    "isSameDomain": ": Maqaa domeenii walfakkaataa ta'us, {{_true_}} eeyyee, {{_false_}} lakki.",
+    "isSameParent": ": Daandii warraa tokko ta'us, {{_true_}} eeyyee, {{_false_}} lakki.",
+    "isPageSublink": ": Fuulli ammaa fuula xiqqaa hidhaa cuqaafame yoo ta'e, {{_true_}} eeyyee, {{_false_}} lakki.",
+    "isPageMultilevelSublink": ": Fuulli ammaa fuula xiqqaa daangaa hin qabne hidhaa cuqaafame yoo ta'e, {{_true_}} eeyyee, {{_false_}} lakki.",
+    "isClickSublink": ": Hidhiin cuqaafame hidhaa xiqqaa fuula ammaa yoo ta'e, {{_true_}} eeyyee, {{_false_}} lakki.",
+    "isClickMultilevelSublink": ": Hidhiin cuqaafame hidhaa xiqqaa daangaa hin qabne fuula ammaa yoo ta'e, {{_true_}} eeyyee, {{_false_}} lakki.",
+    "returnVariables": {
+      "title": "Jijjiiramoota deebi'uu danda'an",
+      "rightTab": ": Hidhiin kun caancala haaraa mirga irratti banama",
+      "leftTab": ": Hidhiin sun caancala haaraa bitaa irratti banama",
+      "currentWindow": "foddaa ammaa",
+      "newWindow": "foddaa haaraa",
+      "incognitoWindow": "Foddaa dhoksaa",
+      "popupWindow": "Foddaa olka'aa",
+      "currentTab": "Caancala ammaa",
+      "active": "Amma hojii irra oolchi",
+      "inactive": "Hin sochoone"
+    }
+  },
+  "menu": {
+    "main": "Jijjiiramoota jiran"
+  }
+}

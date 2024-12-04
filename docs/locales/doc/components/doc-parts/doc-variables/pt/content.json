@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variáveis ​​disponíveis",
+    "page": ": a variável é o objeto URL da página da web atual. Para obter detalhes, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. veja</a>",
+    "pageHost": ": O nome de domínio da página da web atual",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: o mesmo nome de domínio. Embora os nomes de domínio principais de {{_youtube_}} e {{_families_}} sejam ambos {{_mainDomain_}}, os nomes de subdomínios são {{_youtubeSubDomain_}} e {{. _familiesSubDomain_}} respectivamente.",
+    "click": ": o link que foi clicado",
+    "clickpath": ": O caminho do link clicado",
+    "minimatch": ": método de correspondência {{_glob_}}, usando a biblioteca {{_minimatch_}}, método de uso <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Veja < /a>, ou você pode pesquisar por {{_glob_}}.",
+    "isSameDomain": ": Quer seja o mesmo nome de domínio, {{_true_}} é sim, {{_false_}} é não.",
+    "isSameParent": ": Quer seja o mesmo caminho pai, {{_true_}} é sim, {{_false_}} é não.",
+    "isPageSublink": ": se a página atual é uma subpágina do link clicado, {{_true_}} é sim, {{_false_}} é não.",
+    "isPageMultilevelSublink": ": se a página atual é uma subpágina infinita do link clicado, {{_true_}} é sim, {{_false_}} é não.",
+    "isClickSublink": ": se o link clicado é um sublink da página atual, {{_true_}} é sim, {{_false_}} é não.",
+    "isClickMultilevelSublink": ": se o link clicado é um sublink ilimitado da página atual, {{_true_}} é sim, {{_false_}} é não.",
+    "returnVariables": {
+      "title": "Variáveis ​​retornáveis",
+      "rightTab": ": O link abre em uma nova guia à direita",
+      "leftTab": ": O link abre em uma nova guia à esquerda",
+      "currentWindow": "janela atual",
+      "newWindow": "nova janela",
+      "incognitoWindow": "Janela anônima",
+      "popupWindow": "Janela pop-up",
+      "currentTab": "Guia atual",
+      "active": "Ative agora",
+      "inactive": "Não ativado"
+    }
+  },
+  "menu": {
+    "main": "Variáveis ​​disponíveis"
+  }
+}

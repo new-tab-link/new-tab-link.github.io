@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Available variables",
+    "page": ": The variable is the URL object of the current web page. For details, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>see</a>",
+    "pageHost": ": The domain name of the current web page",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: The same domain name. Note that although the main domain names of {{_youtube_}} and {{_families_}} are both {{_mainDomain_}}, the subdomain names are {{_youtubeSubDomain_}} and {{_familiesSubDomain_}} respectively. So their domain names are different.",
+    "click": ": the link that was clicked",
+    "clickpath": ": The path of the clicked link",
+    "minimatch": ": {{_glob_}} matching method, using the {{_minimatch_}} library, usage method <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>See </a>, or you can search for {{_glob_}}.",
+    "isSameDomain": ": Whether it is the same domain name, {{_true_}} is yes, {{_false_}} is no.",
+    "isSameParent": ": Whether it is the same parent path, {{_true_}} is yes, {{_false_}} is no.",
+    "isPageSublink": ": Whether the current page is a subpage of the clicked link, {{_true_}} is yes, {{_false_}} is no.",
+    "isPageMultilevelSublink": ": Whether the current page is an infinite subpage of the clicked link, {{_true_}} is yes, {{_false_}} is no.",
+    "isClickSublink": ": Whether the clicked link is a sub-link of the current page, {{_true_}} is yes, {{_false_}} is no.",
+    "isClickMultilevelSublink": ": Whether the clicked link is an unlimited sub-link of the current page, {{_true_}} is yes, {{_false_}} is no.",
+    "returnVariables": {
+      "title": "Returnable variables",
+      "rightTab": ": The link opens in a new tab on the right",
+      "leftTab": ": The link opens in a new tab on the left",
+      "currentWindow": "current window",
+      "newWindow": "new window",
+      "incognitoWindow": "Incognito window",
+      "popupWindow": "Pop-up window",
+      "currentTab": "Current tab",
+      "active": "Activate now",
+      "inactive": "Not activated"
+    }
+  },
+  "menu": {
+    "main": "Available variables"
+  }
+}

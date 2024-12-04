@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Elýeterli üýtgeýjiler",
+    "page": ": Üýtgeýji häzirki web sahypasynyň URL obýektidir. Jikme-jiklikler üçin <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' target = '_ blank' rel = 'noreferrer'> seret </a>",
+    "pageHost": ": Häzirki web sahypasynyň domen ady",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Şol bir domen ady, {{_youtube_}} we {{_ maşgala_}} esasy domen atlarynyň ikisiniňem {{_mainDomain_}} bolandygyna üns beriň, aşaky domen atlary {{_youtubeSubDomain_}} we {{ _familySubDomain_} respectively degişlilikde olaryň domen atlary başga.",
+    "click": ": basylan baglanyşyk",
+    "clickpath": ": Basylan baglanyşygyň ýoly",
+    "minimatch": ": {{_minobatch_}} kitaphanasyny ulanyp, {{_glob_}} gabat gelýän usul, ulanyş usuly <a href = 'https: //github.com/isaacs/minimatch' target = '_ blank' rel = 'noreferrer'> Seret < / a> ýa-da {{_glob_} for gözläp bilersiňiz.",
+    "isSameDomain": ": Şol bir domen ady bolsun, {{_true_} yes hawa, {{_false_}} ýok.",
+    "isSameParent": ": Şol bir ene-atanyň ýoly bolsun, {{_true_} yes hawa, {{_false_}} ýok.",
+    "isPageSublink": ": Häzirki sahypa basylan baglanyşygyň kiçi sahypasymy ýa-da ýok, {{_true_} yes hawa, {{_false_} no ýok.",
+    "isPageMultilevelSublink": ": Häzirki sahypanyň basylan baglanyşygyň çäksiz sahypasydygyna ýa-da ýokdugyna {{_true_} yes hawa, {{_false_}} ýok.",
+    "isClickSublink": ": Basylan baglanyşyk häzirki sahypanyň kiçi baglanyşygymy ýa-da ýokmy, {{_true_} yes hawa, {{_false_} no ýok.",
+    "isClickMultilevelSublink": ": Basylan baglanyşyk häzirki sahypanyň çäksiz kiçi baglanyşygymy ýa-da ýokmy, {{_true_} yes hawa, {{_false_}} ýok.",
+    "returnVariables": {
+      "title": "Yza gaýtarylýan üýtgeýjiler",
+      "rightTab": ": Salgy sag tarapdaky täze goýmada açylýar",
+      "leftTab": ": Salgy çep tarapdaky täze goýmada açylýar",
+      "currentWindow": "häzirki penjire",
+      "newWindow": "täze penjire",
+      "incognitoWindow": "Incognito penjiresi",
+      "popupWindow": "Açylýan penjire",
+      "currentTab": "Häzirki goýma",
+      "active": "Indi işjeňleşdiriň",
+      "inactive": "Işledilmedik"
+    }
+  },
+  "menu": {
+    "main": "Elýeterli üýtgeýjiler"
+  }
+}

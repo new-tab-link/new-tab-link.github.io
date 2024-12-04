@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Akwai masu canji",
+    "page": "Maɓallin shine URL ɗin shafin yanar gizon yanzu Don cikakkun bayanai, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> duba</a>",
+    "pageHost": ": Sunan yanki na shafin yanar gizon yanzu",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Sunan yanki iri ɗaya Lura cewa duk da cewa manyan sunaye na {{_youtube_}} da {{_families_}} duka biyun {{_mainDomain_}} ne, sunayen yanki sune {{_youtubeSubDomain_}} da {{ _familiesSubDomain_}} don haka sunayen yankinsu ya bambanta.",
+    "click": ": hanyar da aka danna",
+    "clickpath": ": Hanyar hanyar haɗin da aka danna",
+    "minimatch": ": {{_glob_}} Hanyar dacewa, ta amfani da {{_minimatch_}} laburare, hanyar amfani <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Duba < /a>, ko kuma kuna iya nemo {{_glob_}}.",
+    "isSameDomain": ": Ko sunan yanki ɗaya ne, {{_gaskiya_}} eh, {{_false_}} shine a'a.",
+    "isSameParent": ": Ko hanyar iyaye ɗaya ce, {{_gaskiya_}} eh, {{_ƙarya_}} a'a.",
+    "isPageSublink": ": Ko shafin na yanzu karamin shafi ne na mahaɗin da aka danna, {{_gaskiya_}} eh, {{_ƙarya_}} a'a.",
+    "isPageMultilevelSublink": ": Ko shafin na yanzu shafi ne mara iyaka na hanyar haɗin da aka danna, {{_gaskiya_}} eh, {{_false_}} ba a'a bane.",
+    "isClickSublink": ": Ko mahadar da aka danna sub-link ne na shafin na yanzu, {{_gaskiya_}} eh, {{_false_}} a'a ne.",
+    "isClickMultilevelSublink": ": Ko mahadar da aka latsa ta shafi ne mara iyaka mara iyaka na shafin na yanzu, {{_gaskiya_}} eh, {{_false_}} shine a'a.",
+    "returnVariables": {
+      "title": "Masu canji masu dawowa",
+      "rightTab": ": Haɗin yana buɗewa a cikin sabon shafin a dama",
+      "leftTab": ": Haɗin yana buɗewa a cikin sabon shafin a hagu",
+      "currentWindow": "taga yanzu",
+      "newWindow": "sabuwar taga",
+      "incognitoWindow": "Tagan incognito",
+      "popupWindow": "Tagan mai fa'ida",
+      "currentTab": "Shafin na yanzu",
+      "active": "Kunna yanzu",
+      "inactive": "Ba a kunna ba"
+    }
+  },
+  "menu": {
+    "main": "Akwai masu canji"
+  }
+}

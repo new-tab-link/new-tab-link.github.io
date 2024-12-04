@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Umi variable ojeguerekóva",
+    "page": ": Pe mbaꞌekuaarã haꞌehína URL mbaꞌekuaarã página web koꞌag̃aguápe Ojekuaa hag̃ua, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> ehecha</a>",
+    "pageHost": ": Pe página web ko’ag̃agua dominio réra",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Peteĩchagua dominio réra Ñañamindu’u jepémo {{_youtube_}} ha {{_families_}} dominio réra tenondegua ha’e mokõivéva {{_mainDomain_}}, umi subdominio réra ha’e {{_youtubeSubDomain_}} ha {{. _familiesSubDomain_}} peteĩteĩ.",
+    "click": ": pe enlace ojekutuva’ekue",
+    "clickpath": ": Pe tape ojeipysóva enlace",
+    "minimatch": ": {{_glob_}} joajuha rape, ojeporúvo {{_minimatch_}} aranduka’i, jepuru rape <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ehecha < /a>, térã ikatu eheka {{_glob_}}.",
+    "isSameDomain": ": Taha’e peteĩchagua dominio réra, {{_true_}} ha’e heẽ, {{_false_}} ha’e nahániri.",
+    "isSameParent": ": Taha’e peteĩchagua tape túva, {{_true_}} ha’e heẽ, {{_false_}} ha’e nahániri.",
+    "isPageSublink": ": Taha’e pe páhina ko’ag̃agua ha’éva peteĩ páhina michĩva pe enlace ojepysóvagui, {{_true_}} ha’e heẽ, {{_false_}} ha’e nahániri.",
+    "isPageMultilevelSublink": ": Taha’e pe páhina ko’ag̃agua ha’éva peteĩ páhina michĩva opa’ỹva pe joajuha ojepysóvagui, {{_true_}} ha’e heẽ, {{_false_}} ha’e nahániri.",
+    "isClickSublink": ": Tahaꞌe pe joajuha ojepysóva haꞌehína peteĩ joajuha michĩva página koꞌag̃agua, {{_true_}} haꞌehína heẽ, {{_false_}} haꞌehína nahániri.",
+    "isClickMultilevelSublink": ": Tahaꞌe pe joajuha ojepysóva haꞌehína peteĩ joajuha michĩva ilimitádova página koꞌag̃aguápe, {{_true_}} haꞌehína heẽ, {{_false_}} haꞌehína nahániri.",
+    "returnVariables": {
+      "title": "Umi variable ojegueru jeýva",
+      "rightTab": ": Pe enlace ojepe’a peteĩ ficha pyahúpe oĩva akatúape",
+      "leftTab": ": Pe enlace ojepe’a peteĩ ficha pyahúpe ijasu gotyo",
+      "currentWindow": "ventána ko’áĝagua",
+      "newWindow": "ventána pyahu",
+      "incognitoWindow": "Ventana incógnito rehegua",
+      "popupWindow": "Ventana pop-up rehegua",
+      "currentTab": "Pestaña ko’áĝagua",
+      "active": "Eactiva ko’áĝa",
+      "inactive": "Ndojeactiváiva"
+    }
+  },
+  "menu": {
+    "main": "Umi variable ojeguerekóva"
+  }
+}

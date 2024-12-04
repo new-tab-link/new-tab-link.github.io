@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ގްލޯބަލް ސްކްރިޕްޓް ސެޓިންގސް",
+    "description": "ޖާވާސްކްރިޕްޓް ބޭނުންކޮށްގެން އަމިއްލައަށް ސްކްރިޕްޓް ލިޔެވޭނެއެވެ",
+    "examplesTitle": "މިސާލު",
+    "checkedUseSetting": "މި ސެޓިންގ އެނެބަލް ކުރުމަށް ޗެކް ކުރާށެވެ.",
+    "variables": {
+      "title": "ލިބެންހުރި ވެރިއޭބަލްސް",
+      "click": "ލިންކަށް ކްލިކް ކުރުމުން މި އެޓްރިބިއުޓަކީ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ކްލާސް އޮބްޖެކްޓެކެވެ.",
+      "page": "މިހާރު ހުރި ޞަފްޙާގެ ލިންކަކީ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> އެވެ ކްލާސް އޮބްޖެކްޓް."
+    },
+    "returnVariables": {
+      "title": "އަނބުރާ ގެންދެވޭނެ އަގުތައް",
+      "rightTab": "ކަނާތްފަރާތުގައިވާ އާ ޓެބެއްގައި ހުޅުވާށެވެ"
+    }
+  },
+  "menu": {
+    "main": "ގްލޯބަލް ސްކްރިޕްޓެވެ"
+  }
+}

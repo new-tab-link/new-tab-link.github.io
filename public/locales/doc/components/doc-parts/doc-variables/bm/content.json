@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Yɛlɛma-yɛlɛma minnu bɛ sɔrɔ",
+    "page": ": Yɛlɛma in ye sisan ɛntɛrinɛti yɔrɔ URL fɛn ye Walasa ka kunnafoni wɛrɛw sɔrɔ, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> lajɛ</a>",
+    "pageHost": ": Sisan ɛntɛrinɛti yɔrɔ in ka domɛni tɔgɔ",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Domani tɔgɔ kelen ye A kɔlɔsi ko hali ni {{_youtube_}} ni {{_families_}} ka domani tɔgɔba fila bɛɛ ye {{_mainDomain_}} ye, domani tɔgɔba ye {{_youtubeSubDomain_}} ani {{. _familiesSubDomain_}} kelen-kelen bɛɛ la.",
+    "click": ": jɛgɛnsira min digilen don",
+    "clickpath": ": Jɛɲɔgɔnya min digilen don, o sira",
+    "minimatch": ": {{_glob_}} bɛnkan fɛɛrɛ, ka baara kɛ ni {{_minimatch_}} gafemarayɔrɔ ye, baarakɛcogo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>A’ ye < lajɛ /a>, walima i bɛ se ka {{_glob_}} ɲini.",
+    "isSameDomain": ": A kɛra domani tɔgɔ kelen ye wo, {{_true_}} ye ɔwɔ ye, {{_false_}} ye ayi ye.",
+    "isSameParent": ": A kɛra bangebaga sira kelen ye wo, {{_true_}} ye ɔwɔ ye, {{_false_}} ye ayi ye.",
+    "isPageSublink": ": Ni ɲɛ min bɛ sen na sisan, o ye jɛgɛnsira digilen ɲɛ fitinin ye wo, {{_true_}} ye ɔwɔ ye, {{_false_}} ye ayi ye.",
+    "isPageMultilevelSublink": ": Ni ɲɛ min bɛ yen sisan, o ye ɲɛ fitinin danma ye min bɛ jɛgɛnsira digilen na, {{_true_}} ye ɔwɔ ye, {{_false_}} ye ayi ye.",
+    "isClickSublink": ": Ni jɛgɛnsira digilen ye ɲɛ sisan jɛgɛnsira fitinin ye wo, {{_true_}} ye ɔwɔ ye, {{_false_}} ye ayi ye.",
+    "isClickMultilevelSublink": ": Ni jɛgɛn min digilen don, o ye ɲɛ in yɔrɔ fitinin ye min dan tɛ, {{_true_}} ye ɔwɔ ye, {{_false_}} ye ayi ye.",
+    "returnVariables": {
+      "title": "Yɛlɛma minnu bɛ se ka segin ka kɛ",
+      "rightTab": ": Jɛɲɔgɔnya bɛ da wuli tab kura kɔnɔ kinin fɛ",
+      "leftTab": ": Jɛɲɔgɔnya bɛ da wuli tab kura kɔnɔ numan fɛ",
+      "currentWindow": "sisan finɛtiri",
+      "newWindow": "finɛtiri kura",
+      "incognitoWindow": "Fenɛtiri min tɛ dɔn",
+      "popupWindow": "Fenɛtiri min bɛ bɔ kɛnɛ kan",
+      "currentTab": "Tab (tab) min bɛ yen sisan",
+      "active": "Aw bɛ baara kɛ sisan",
+      "inactive": "A ma baara kɛ"
+    }
+  },
+  "menu": {
+    "main": "Yɛlɛma-yɛlɛma minnu bɛ sɔrɔ"
+  }
+}

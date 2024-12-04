@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "variabel sadia",
+    "page": ": Variabel nyaéta obyék URL tina kaca wéb anu ayeuna, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> tingali</a>",
+    "pageHost": ": Ngaran domain kaca wéb ayeuna",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Ngaran domain anu sami Catet yén sanajan nami domain utama {{_youtube_}} sareng {{_families_}} duanana {{_mainDomain_}}, nami subdomain nyaéta {{_youtubeSubDomain_}} sareng {{ _familiesSubDomain_}} jadi ngaran domain maranéhanana béda.",
+    "click": ": link anu diklik",
+    "clickpath": ": Jalur tina link diklik",
+    "minimatch": ": {{_glob_}} métode cocog, maké perpustakaan {{_minimatch_}}, métode pamakéan <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Tingali < /a>, atanapi anjeun tiasa milarian {{_glob_}}.",
+    "isSameDomain": ": Naha éta ngaran domain anu sarua, {{_true_}} enya, {{_palsu_}} henteu.",
+    "isSameParent": ": Naha éta jalur indungna sarua, {{_true_}} enya, {{_palsu_}} henteu.",
+    "isPageSublink": ": Naha kaca ayeuna mangrupa subkaca tina tumbu nu diklik, {{_true_}} enya, {{_false_}} henteu.",
+    "isPageMultilevelSublink": ": Naha kaca ayeuna mangrupa subkaca anu taya watesna tina tumbu anu diklik, {{_true_}} enya, {{_false_}} henteu.",
+    "isClickSublink": ": Naha tumbu anu diklik téh mangrupa sub-tumbu ti kaca ayeuna, {{_true_}} enya, {{_false_}} henteu.",
+    "isClickMultilevelSublink": ": Naha tautan anu diklik mangrupikeun sub-link anu henteu terbatas tina kaca ayeuna, {{_true_}} leres, {{_false_}} henteu.",
+    "returnVariables": {
+      "title": "Variabel anu tiasa dipulangkeun",
+      "rightTab": ": Tautan dibuka dina tab anyar di sisi katuhu",
+      "leftTab": ": Tumbu muka dina tab anyar dina kénca",
+      "currentWindow": "jandela ayeuna",
+      "newWindow": "jandela anyar",
+      "incognitoWindow": "Jandéla incognito",
+      "popupWindow": "Jandéla pop-up",
+      "currentTab": "Tab ayeuna",
+      "active": "Aktipkeun ayeuna",
+      "inactive": "Teu diaktipkeun"
+    }
+  },
+  "menu": {
+    "main": "variabel sadia"
+  }
+}

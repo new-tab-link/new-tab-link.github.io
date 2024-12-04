@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Global Skript Astellunge",
+    "description": "Dir kënnt Ären eegene Skript mat Javascript schreiwen",
+    "examplesTitle": "Beispill",
+    "checkedUseSetting": "Check fir dës Astellung z'aktivéieren.",
+    "variables": {
+      "title": "Verfügbar Variabelen",
+      "click": "Klickt Link, dëst Attribut ass en <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> Klassobjekt.",
+      "page": "De Link vun der aktueller Säit Dëst Attribut ass eng <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. Klass Objet."
+    },
+    "returnVariables": {
+      "title": "Wäerter déi kënne zréckginn",
+      "rightTab": "Open an neien Tab op der rietser Säit"
+    }
+  },
+  "menu": {
+    "main": "global Schrëft"
+  }
+}

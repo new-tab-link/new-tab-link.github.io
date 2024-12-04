@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Awọn oniyipada ti o wa",
+    "page": ": Oniyipada jẹ ohun URL ti oju-iwe wẹẹbu lọwọlọwọ, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> wo</a>",
+    "pageHost": ": Orukọ ìkápá ti oju-iwe ayelujara lọwọlọwọ",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Orukọ agbegbe kanna ni akiyesi pe botilẹjẹpe awọn orukọ agbegbe akọkọ ti {{_youtube_}} ati {{_families_}} jẹ mejeeji {{_mainDomain_}}, awọn orukọ subdomain jẹ {{_youtubeSubDomain_}} ati {{ _familiesSubDomain_}} lẹsẹsẹ.",
+    "click": ": ọna asopọ ti a tẹ",
+    "clickpath": ": Ọna ọna asopọ ti a tẹ",
+    "minimatch": ": {{_glob_}} ọna ti o baamu, ni lilo {{_minimatch_}} ikawe, ọna lilo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Wo < /a>, tabi o le wa {{_glob_}}.",
+    "isSameDomain": ": Boya o jẹ orukọ agbegbe kanna, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
+    "isSameParent": ": Boya ọna obi kanna ni, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
+    "isPageSublink": ": Boya oju-iwe lọwọlọwọ jẹ oju-iwe kekere ti ọna asopọ ti o tẹ, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
+    "isPageMultilevelSublink": ": Boya oju-iwe ti o wa lọwọlọwọ jẹ oju-iwe ailopin ti ọna asopọ ti a tẹ, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
+    "isClickSublink": ": Boya ọna asopọ ti o tẹ jẹ ọna asopọ iha ti oju-iwe lọwọlọwọ, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
+    "isClickMultilevelSublink": ": Boya ọna asopọ ti a tẹ jẹ ọna asopọ-ailopin ti oju-iwe lọwọlọwọ, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
+    "returnVariables": {
+      "title": "Awọn oniyipada pada",
+      "rightTab": ": Ọna asopọ naa ṣii ni taabu tuntun ni apa ọtun",
+      "leftTab": ": Ọna asopọ naa ṣii ni taabu tuntun ni apa osi",
+      "currentWindow": "lọwọlọwọ window",
+      "newWindow": "titun window",
+      "incognitoWindow": "Ferese aimọkan",
+      "popupWindow": "Ferese agbejade",
+      "currentTab": "taabu lọwọlọwọ",
+      "active": "Mu ṣiṣẹ ni bayi",
+      "inactive": "Ko mu ṣiṣẹ"
+    }
+  },
+  "menu": {
+    "main": "Awọn oniyipada ti o wa"
+  }
+}

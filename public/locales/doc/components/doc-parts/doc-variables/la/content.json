@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Available variables",
+    "page": ": Commutabile est domicilium obiectum paginae hodiernae. Ad singula, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> vide</a>",
+    "pageHost": ": Nomen domain nomen paginae hodiernae",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Eadem domain nomen. Nota quamvis principalia nomina domain {_youtube_}} et {{_families_}} ambo sint {{_mainDomain_}}, nomina subdomain{_youtubeSubDomain_}} et {{_ _familiaeSubDomain_}} respectively.",
+    "click": "Vinculum quod clicked",
+    "clickpath": ": Semita nexus coniuctionis",
+    "minimatch": ": {{_glob_}} methodo congruens, utens ad {{_minimatch_}} bibliothecam, methodum usus <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'> Vide < /a>, vel quaerere potes {_glob_}}.",
+    "isSameDomain": ": An idem nomen domain est, {{_true_}} est ita, {{_false_}} non est.",
+    "isSameParent": ": An idem parentis iter, {{_true_}} est ita, {{_false_}} non est.",
+    "isPageSublink": "Utrum pagina hodierna sit subpagina nexus coniuctionis coniuctionis, {{_true_}} ita est, {{_false_}} non est.",
+    "isPageMultilevelSublink": "Utrum pagina hodierna sit infinita subpagina vinculi premendi, {{_true_}} ita est, {{_false_}} non est.",
+    "isClickSublink": ": An nexus clicked sub-nexum paginae hodiernae sit, {{_true_}} ita est, {{_false_}} non est.",
+    "isClickMultilevelSublink": ": An nexus clicked infinitus paginae hodiernae sub- nexus sit, {{_true_}} ita est, {{_false_}} non est.",
+    "returnVariables": {
+      "title": "Reversiable variables",
+      "rightTab": "Vinculum opens in nova tab dextra",
+      "leftTab": "Vinculum opens in nova tab ad sinistram",
+      "currentWindow": "current fenestra",
+      "newWindow": "novus fenestra",
+      "incognitoWindow": "Incognito fenestra",
+      "popupWindow": "Pop-sursum fenestra",
+      "currentTab": "Current tab",
+      "active": "Nunc activate",
+      "inactive": "Non activated"
+    }
+  },
+  "menu": {
+    "main": "Available variables"
+  }
+}

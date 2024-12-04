@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Глобальні налаштування сценарію",
+    "description": "Ви можете написати власний сценарій за допомогою javascript",
+    "examplesTitle": "приклад",
+    "checkedUseSetting": "Поставте прапорець, щоб увімкнути це налаштування.",
+    "variables": {
+      "title": "Доступні змінні",
+      "click": "Натиснувши посилання, цей атрибут є об’єктом класу <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Посилання на поточну сторінку є <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. об'єкт класу."
+    },
+    "returnVariables": {
+      "title": "Значення, які можна повернути",
+      "rightTab": "Відкрити в новій вкладці праворуч"
+    }
+  },
+  "menu": {
+    "main": "глобальний сценарій"
+  }
+}

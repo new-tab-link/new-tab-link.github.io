@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Saadaolevad muutujad",
+    "page": ": muutuja on praeguse veebilehe URL-i objekt. Üksikasju leiate aadressilt <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. vaata</a>",
+    "pageHost": ": praeguse veebilehe domeeninimi",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: sama domeeninimi, kuigi domeenide {{_youtube_}} ja {{_families_}} peamised domeeninimed on mõlemad {{_mainDomain_}}, on alamdomeeninimed {{_youtubeSubDomain_}} ja {{. _familiesSubDomain_}}, seega on nende domeeninimed erinevad.",
+    "click": ": link, millel klõpsati",
+    "clickpath": ": klõpsatud lingi tee",
+    "minimatch": ": {{_glob_}} vastemeetod, kasutades teeki {{_minimatch_}}, kasutusmeetod <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vaata < /a> või võite otsida märksõna {{_glob_}}.",
+    "isSameDomain": ": olenemata sellest, kas tegemist on sama domeeninimega, on {{_true_}} jah, {{_false_}} on ei.",
+    "isSameParent": ": kas see on sama vanemtee, {{_true_}} on jah, {{_false_}} on ei.",
+    "isPageSublink": ": kas praegune leht on klõpsatud lingi alamleht, on {{_true_}} jah, {{_false_}} ei.",
+    "isPageMultilevelSublink": ": kas praegune leht on klõpsatud lingi lõputu alamleht, on {{_true_}} jah, {{_false_}} ei.",
+    "isClickSublink": ": kas klõpsatud link on praeguse lehe alamlink, siis {{_true_}} on jah, {{_false_}} on ei.",
+    "isClickMultilevelSublink": ": kas klõpsatud link on praeguse lehe piiramatu alamlink, on {{_true_}} jah, {{_false_}} ei.",
+    "returnVariables": {
+      "title": "Tagastatavad muutujad",
+      "rightTab": ": link avaneb paremal uuel vahelehel",
+      "leftTab": ": link avaneb vasakul uuel vahelehel",
+      "currentWindow": "praegune aken",
+      "newWindow": "uus aken",
+      "incognitoWindow": "Inkognito aken",
+      "popupWindow": "Hüpikaken",
+      "currentTab": "Praegune vahekaart",
+      "active": "Aktiveerige kohe",
+      "inactive": "Pole aktiveeritud"
+    }
+  },
+  "menu": {
+    "main": "Saadaolevad muutujad"
+  }
+}

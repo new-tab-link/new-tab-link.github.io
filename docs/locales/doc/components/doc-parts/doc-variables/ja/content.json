@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "利用可能な変数",
+    "page": ": 変数は現在の Web ページの URL オブジェクトです。詳細については、<a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> を参照してください。参照</a>",
+    "pageHost": ": 現在の Web ページのドメイン名",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: 同じドメイン名です。{{_youtube_}} と {{_families_}} のメイン ドメイン名は両方とも {{_mainDomain_}} ですが、サブドメイン名は {{_youtubeSubDomain_}} と {{ _familiesSubDomain_}} なので、それぞれのドメイン名は異なります。",
+    "click": ": クリックされたリンク",
+    "clickpath": ": クリックされたリンクのパス",
+    "minimatch": ": {{_glob_}} マッチング方法、{{_minimatch_}} ライブラリを使用、使用方法 <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>参照 < /a>、または {{_glob_}} を検索できます。",
+    "isSameDomain": ": 同じドメイン名かどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
+    "isSameParent": ": 同じ親パスかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
+    "isPageSublink": ": 現在のページがクリックされたリンクのサブページかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
+    "isPageMultilevelSublink": ": 現在のページがクリックされたリンクの無限サブページであるかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
+    "isClickSublink": ": クリックされたリンクが現在のページのサブリンクかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
+    "isClickMultilevelSublink": ": クリックされたリンクが現在のページの無制限のサブリンクであるかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
+    "returnVariables": {
+      "title": "リターン可能な変数",
+      "rightTab": ": リンクは右側の新しいタブで開きます",
+      "leftTab": ": リンクは左側の新しいタブで開きます",
+      "currentWindow": "現在のウィンドウ",
+      "newWindow": "新しいウィンドウ",
+      "incognitoWindow": "シークレットウィンドウ",
+      "popupWindow": "ポップアップウィンドウ",
+      "currentTab": "現在のタブ",
+      "active": "今すぐアクティブ化する",
+      "inactive": "アクティブ化されていません"
+    }
+  },
+  "menu": {
+    "main": "利用可能な変数"
+  }
+}

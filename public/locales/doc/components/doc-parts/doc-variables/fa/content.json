@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "متغیرهای موجود",
+    "page": ": متغیر شی URL صفحه وب فعلی است برای جزئیات، <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. ببینید</a>",
+    "pageHost": ": نام دامنه صفحه وب فعلی",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: همان نام دامنه توجه داشته باشید که اگرچه نام‌های دامنه اصلی {{_youtube_}} و {{_families_}} هر دو {{_mainDomain_}} هستند، نام‌های زیر دامنه {{_youtubeSubDomain_}} و {{ به ترتیب _familiesSubDomain_}} بنابراین نام دامنه آنها متفاوت است.",
+    "click": ": لینکی که کلیک شد",
+    "clickpath": ": مسیر لینک کلیک شده",
+    "minimatch": ": روش تطبیق {{_glob_}}، با استفاده از کتابخانه {{_minimatch_}}، روش استفاده <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>به <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'> مراجعه کنید /a>، یا می‌توانید {{_glob_}} را جستجو کنید.",
+    "isSameDomain": ": چه نام دامنه یکسان باشد، {{_true_}} بله، {{_false_}} خیر است.",
+    "isSameParent": ": چه مسیر والدین یکسان باشد، {{_true_}} بله، {{_false_}} خیر است.",
+    "isPageSublink": ": چه صفحه فعلی زیرصفحه پیوند کلیک شده باشد، {{_true_}} بله، {{_false_}} خیر است.",
+    "isPageMultilevelSublink": ": چه صفحه فعلی یک زیرصفحه نامحدود از پیوند کلیک شده باشد، {{_true_}} بله، {{_false_}} خیر است.",
+    "isClickSublink": ": این که پیوند کلیک شده یک پیوند فرعی از صفحه فعلی باشد، {{_true_}} بله، {{_false_}} خیر است.",
+    "isClickMultilevelSublink": ": چه پیوند کلیک شده یک زیر پیوند نامحدود از صفحه فعلی باشد، {{_true_}} بله، {{_false_}} خیر است.",
+    "returnVariables": {
+      "title": "متغیرهای قابل برگشت",
+      "rightTab": ": پیوند در یک برگه جدید در سمت راست باز می شود",
+      "leftTab": ": پیوند در یک برگه جدید در سمت چپ باز می شود",
+      "currentWindow": "پنجره فعلی",
+      "newWindow": "پنجره جدید",
+      "incognitoWindow": "پنجره ناشناس",
+      "popupWindow": "پنجره پاپ آپ",
+      "currentTab": "برگه فعلی",
+      "active": "اکنون فعال کنید",
+      "inactive": "فعال نشده است"
+    }
+  },
+  "menu": {
+    "main": "متغیرهای موجود"
+  }
+}

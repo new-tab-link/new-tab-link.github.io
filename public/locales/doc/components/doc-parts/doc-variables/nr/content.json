@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Iintjhuguluko ezitholakalako",
+    "page": ": I-variable yinto ye-URL yekhasi lewebhu lamanje. qala</a>",
+    "pageHost": ": Ibizo lesizinda sekhasi lewebhu lamanje",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Ibizo lesizinda elifanako Tjheja bona nanyana amabizo wesizinda amakhulu we-{{_youtube_}} kanye ne-{{_imindeni_}} zombili ziyi-{{_mainDomain_}}, amagama we-subdomain ngu-{{_youtubeSubDomain_}} kanye no-{{_ _familiesSubDomain_}} ngokulandelana.",
+    "click": ": isixhumanisi esichofoziweko",
+    "clickpath": ": Indlela yesixhumanisi esitlikithiweko",
+    "minimatch": ": {{_glob_}} indlela yokumadanisa, ngokusebenzisa ilayibrari ye-{{_minimatch_}}, indlela yokusebenzisa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Qala < /a>, nofana ungasesha {{_glob_}}.",
+    "isSameDomain": ": Nanyana kulibizo lesizinda elifanako, {{_iqiniso_}} nguyebo, {{_amanga_}} ngu-awa.",
+    "isSameParent": ": Noma ngabe yindlela efanako yomzali, {{_iqiniso_}} nguyebo, {{_amanga_}} ngu-awa.",
+    "isPageSublink": ": Noma ngabe ikhasi lamanje liyikhasi elingaphasi lekhonkco elichofoziweko, {{_iqiniso_}} ngu-iye, {{_amanga_}} ngu-awa.",
+    "isPageMultilevelSublink": ": Noma ngabe ikhasi lamanje lilikhasi elingapheliko lekhonkco elichofoziweko, {{_iqiniso_}} ngu-iye, {{_amanga_}} ngu-awa.",
+    "isClickSublink": ": Noma ngabe isixhumanisi esichofoziweko siyisixhumanisi esingezansi sekhasi lamanje, {{_iqiniso_}} nguyebo, {{_amanga_}} ngu-awa.",
+    "isClickMultilevelSublink": ": Noma ngabe isixhumanisi esichofoziweko siyisixhumanisi esingenamkhawulo sekhasi lamanje, {{_iqiniso_}} ngu-iye, {{_amanga_}} ngu-awa.",
+    "returnVariables": {
+      "title": "Iintjhuguluko ezibuyiselwako",
+      "rightTab": ": Isixhumanisi sivuleka kuthebhu etja ngakwesokudla",
+      "leftTab": ": Isixhumanisi sivuleka ngethebhu etja ngesinceleni",
+      "currentWindow": "iwindi lamanje",
+      "newWindow": "ifasitela elitjha",
+      "incognitoWindow": "Ifasitela elifihlakeleko",
+      "popupWindow": "Ifasitela elivelako",
+      "currentTab": "Ithebhu yamanje",
+      "active": "Vumela kwanje",
+      "inactive": "Ayisebenzi"
+    }
+  },
+  "menu": {
+    "main": "Iintjhuguluko ezitholakalako"
+  }
+}

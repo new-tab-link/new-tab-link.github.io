@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variabili dispunibili",
+    "page": ": A variàbile hè l'ughjettu URL di a pagina web attuale Per i dettagli, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. vede</a>",
+    "pageHost": ": U nome di duminiu di a pagina web attuale",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: U stessu nome di duminiu Innota chì ancu i nomi di domini principali di {{_youtube_}} è {{_families_}} sò tramindui {{_mainDomain_}}, i nomi di subdominiu sò {{_youtubeSubDomain_}} è {{. _familiesSubDomain_}} rispettivamente So i so nomi di duminiu sò diffirenti.",
+    "click": ": u ligame chì hè stata clicatu",
+    "clickpath": ": U percorsu di u ligame clicatu",
+    "minimatch": ": {{_glob_}} metudu di currispundenza, utilizendu a libreria {{_minimatch_}}, metudu d'usu <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vede < /a>, o pudete cercà {{_glob_}}.",
+    "isSameDomain": ": Ch'ella sia u listessu nome di duminiu, {{_true_}} hè iè, {{_false_}} hè no.",
+    "isSameParent": ": Ch'ella sia u listessu percorsu parente, {{_true_}} hè sì, {{_false_}} hè no.",
+    "isPageSublink": ": Sia chì a pagina attuale hè una sottupagina di u ligame clicatu, {{_true_}} hè iè, {{_false_}} hè no.",
+    "isPageMultilevelSublink": ": Sia a pagina attuale hè una sottupagina infinita di u ligame clicatu, {{_true_}} hè sì, {{_false_}} hè no.",
+    "isClickSublink": ": Sia u ligame clicatu hè un sub-link di a pagina attuale, {{_true_}} hè iè, {{_false_}} hè no.",
+    "isClickMultilevelSublink": ": Sia u ligame clicatu hè un sub-link illimitatu di a pagina attuale, {{_true_}} hè sì, {{_false_}} hè no.",
+    "returnVariables": {
+      "title": "Variabili restituibili",
+      "rightTab": ": U ligame si apre in una nova tabulazione à a diritta",
+      "leftTab": ": U ligame si apre in una nova tabulazione à a manca",
+      "currentWindow": "finestra attuale",
+      "newWindow": "nova finestra",
+      "incognitoWindow": "Finestra incognito",
+      "popupWindow": "Finestra pop-up",
+      "currentTab": "Tabulazione attuale",
+      "active": "Attivà avà",
+      "inactive": "Ùn hè micca attivatu"
+    }
+  },
+  "menu": {
+    "main": "Variabili dispunibili"
+  }
+}

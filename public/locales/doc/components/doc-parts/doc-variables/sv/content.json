@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Tillgängliga variabler",
+    "page": ": Variabeln är URL-objektet för den aktuella webbsidan För detaljer, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. se</a>",
+    "pageHost": ": Domännamnet för den aktuella webbsidan",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Samma domännamn, även om huvuddomännamnen för {{_youtube_}} och {{_families_}} båda är {{_mainDomain_}}, är underdomännamnen {{_youtubeSubDomain_}} och {{. _familiesSubDomain_}} respektive Så deras domännamn är olika.",
+    "click": ": länken som klickades på",
+    "clickpath": ": Sökvägen till den klickade länken",
+    "minimatch": ": {{_glob_}} matchningsmetod, med {{_minimatch_}}-biblioteket, användningsmetod <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Se < /a>, eller så kan du söka efter {{_glob_}}.",
+    "isSameDomain": ": Oavsett om det är samma domännamn är {{_true_}} ja, {{_false_}} är nej.",
+    "isSameParent": ": Oavsett om det är samma överordnade sökväg är {{_true_}} ja, {{_false_}} är nej.",
+    "isPageSublink": ": Oavsett om den aktuella sidan är en undersida till den klickade länken, är {{_true_}} ja, {{_false_}} är nej.",
+    "isPageMultilevelSublink": ": Oavsett om den aktuella sidan är en oändlig undersida av den klickade länken, är {{_true_}} ja, {{_false_}} är nej.",
+    "isClickSublink": ": Oavsett om den klickade länken är en underlänk till den aktuella sidan, är {{_true_}} ja, {{_false_}} är nej.",
+    "isClickMultilevelSublink": ": Oavsett om den klickade länken är en obegränsad underlänk till den aktuella sidan, är {{_true_}} ja, {{_false_}} är nej.",
+    "returnVariables": {
+      "title": "Returbara variabler",
+      "rightTab": ": Länken öppnas i en ny flik till höger",
+      "leftTab": ": Länken öppnas i en ny flik till vänster",
+      "currentWindow": "aktuellt fönster",
+      "newWindow": "nytt fönster",
+      "incognitoWindow": "Inkognitofönster",
+      "popupWindow": "Popup-fönster",
+      "currentTab": "Aktuell flik",
+      "active": "Aktivera nu",
+      "inactive": "Ej aktiverad"
+    }
+  },
+  "menu": {
+    "main": "Tillgängliga variabler"
+  }
+}

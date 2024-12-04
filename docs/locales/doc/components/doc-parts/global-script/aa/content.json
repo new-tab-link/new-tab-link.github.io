@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Baad kutbeh guddaaqa",
+    "description": "Java iskiriptit xoqoysimak isi kutbe taktubem duuddah",
+    "examplesTitle": "Ceelallo",
+    "checkedUseSetting": "cubbus ta farmo takkuh.",
+    "variables": {
+      "title": "Geytimta milallaagimitte",
+      "click": "xukkuten yasgaarawi, ta weelo <a href='https://dadlise.mozilla.org/senad/weeb/API/URL' hadaf='_foyya' rel='mabla'>URL</a> footima duyye.",
+      "page": "Awayih uddur tan galih yasgaarawi footima duyye."
+    },
+    "returnVariables": {
+      "title": "nihirittey taduure",
+      "rightTab": "migdi gabuk qusba abalso fak"
+    }
+  },
+  "menu": {
+    "main": "baad kutbe"
+  }
+}

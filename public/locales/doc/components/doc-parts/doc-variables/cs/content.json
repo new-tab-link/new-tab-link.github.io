@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Dostupné proměnné",
+    "page": ": Proměnná je objekt adresy URL aktuální webové stránky Podrobnosti naleznete na <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. viz</a>",
+    "pageHost": ": Název domény aktuální webové stránky",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Stejný název domény, ačkoli hlavní názvy domén {{_youtube_}} a {{_families_}} jsou obě {{_mainDomain_}}, názvy subdomén jsou {{_youtubeSubDomain_}} a {{. _familiesSubDomain_}}, takže jejich názvy domén jsou různé.",
+    "click": ": odkaz, na který jste klikli",
+    "clickpath": ": Cesta odkazu, na který bylo kliknuto",
+    "minimatch": ": {{_glob_}} metoda shody, pomocí knihovny {{_minimatch_}}, metoda použití <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Viz < /a> nebo můžete vyhledat {{_glob_}}.",
+    "isSameDomain": ": Ať už se jedná o stejný název domény, {{_true_}} je ano, {{_false_}} je ne.",
+    "isSameParent": ": Ať už se jedná o stejnou nadřazenou cestu, {{_true_}} je ano, {{_false_}} je ne.",
+    "isPageSublink": ": Ať už je aktuální stránka podstránkou odkazu, na který jste klikli, {{_true_}} je ano, {{_false_}} je ne.",
+    "isPageMultilevelSublink": ": Ať už je aktuální stránka nekonečnou podstránkou odkazu, na který jste klikli, {{_true_}} je ano, {{_false_}} je ne.",
+    "isClickSublink": ": Ať už je odkaz, na který jste klikli, dílčím odkazem aktuální stránky, {{_true_}} je ano, {{_false_}} je ne.",
+    "isClickMultilevelSublink": ": Ať už je odkaz, na který kliknete, neomezeným dílčím odkazem aktuální stránky, {{_true_}} je ano, {{_false_}} je ne.",
+    "returnVariables": {
+      "title": "Vratné proměnné",
+      "rightTab": ": Odkaz se otevře na nové kartě vpravo",
+      "leftTab": ": Odkaz se otevře na nové kartě vlevo",
+      "currentWindow": "aktuální okno",
+      "newWindow": "nové okno",
+      "incognitoWindow": "Anonymní okno",
+      "popupWindow": "Vyskakovací okno",
+      "currentTab": "Aktuální karta",
+      "active": "Aktivujte nyní",
+      "inactive": "Neaktivováno"
+    }
+  },
+  "menu": {
+    "main": "Dostupné proměnné"
+  }
+}

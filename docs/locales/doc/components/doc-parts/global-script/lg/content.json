@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Ensengeka z'ebiwandiiko eby'ensi yonna",
+    "description": "Osobola okuwandiika script yo ng'okozesa javascript",
+    "examplesTitle": "Eky'okulabirako",
+    "checkedUseSetting": "Kebera okusobozesa ensengeka eno.",
+    "variables": {
+      "title": "Enkyukakyuka eziriwo",
+      "click": "Ekiyungo ekinyigiddwa, ekintu kino kya <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ekintu kya kiraasi.",
+      "page": "Enkolagana y'olupapula oluliwo kati ekintu kya kiraasi."
+    },
+    "returnVariables": {
+      "title": "Emiwendo egisobola okuddizibwa",
+      "rightTab": "Ggulawo mu tab empya ku ddyo"
+    }
+  },
+  "menu": {
+    "main": "script y’ensi yonna"
+  }
+}

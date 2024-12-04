@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Jekkal skript global",
+    "description": "Mën nga bind sa skript ci javascript",
+    "examplesTitle": "Miliyong",
+    "checkedUseSetting": "Saytu ngir mëna tàmbali jekkal bii.",
+    "variables": {
+      "title": "Variables yi jàppandi",
+      "click": "Lëkkalekaay buñu ci bës, màndarga bii dafay nuru mbiru klaas bu <a href='https://developer.mozilla.org/docs/Web/API/URL'.",
+      "page": "Lëkkalekaayu xët wi fi nekk mooy màndarga bi ab <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> la. objet klaas."
+    },
+    "returnVariables": {
+      "title": "Valeur yiñ mëna delloo",
+      "rightTab": "Ubbi ci lëkkalekaay bu bees ci ndeyjoor"
+    }
+  },
+  "menu": {
+    "main": "script global"
+  }
+}

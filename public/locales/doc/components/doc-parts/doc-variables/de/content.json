@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Verfügbare Variablen",
+    "page": ": Die Variable ist das URL-Objekt der aktuellen Webseite. Weitere Informationen finden Sie unter <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> siehe</a>",
+    "pageHost": ": Der Domänenname der aktuellen Webseite",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Derselbe Domainname. Beachten Sie, dass die Hauptdomainnamen von {{_youtube_}} und {{_families_}} beide {{_mainDomain_}} sind, die Subdomainnamen jedoch {{_youtubeSubDomain_}} sind. _familiesSubDomain_}} Daher sind ihre Domänennamen unterschiedlich.",
+    "click": ": der Link, auf den geklickt wurde",
+    "clickpath": ": Der Pfad des angeklickten Links",
+    "minimatch": ": {{_glob_}}-Abgleichmethode, Verwendung der {{_minimatch_}}-Bibliothek, Verwendungsmethode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Siehe < /a>, oder Sie können nach {{_glob_}} suchen.",
+    "isSameDomain": ": Ob es sich um denselben Domainnamen handelt, {{_true_}} ist ja, {{_false_}} ist nein.",
+    "isSameParent": ": Ob es sich um denselben übergeordneten Pfad handelt, {{_true_}} ist ja, {{_false_}} ist nein.",
+    "isPageSublink": ": Ob die aktuelle Seite eine Unterseite des angeklickten Links ist, {{_true_}} ist ja, {{_false_}} ist nein.",
+    "isPageMultilevelSublink": ": Ob die aktuelle Seite eine unendliche Unterseite des angeklickten Links ist, {{_true_}} ist ja, {{_false_}} ist nein.",
+    "isClickSublink": ": Ob der angeklickte Link ein Unterlink der aktuellen Seite ist, {{_true_}} ist ja, {{_false_}} ist nein.",
+    "isClickMultilevelSublink": ": Ob der angeklickte Link ein unbegrenzter Unterlink der aktuellen Seite ist, {{_true_}} ist ja, {{_false_}} ist nein.",
+    "returnVariables": {
+      "title": "Rückgabefähige Variablen",
+      "rightTab": ": Der Link wird rechts in einem neuen Tab geöffnet",
+      "leftTab": ": Der Link wird in einem neuen Tab auf der linken Seite geöffnet",
+      "currentWindow": "aktuelles Fenster",
+      "newWindow": "neues Fenster",
+      "incognitoWindow": "Inkognito-Fenster",
+      "popupWindow": "Popup-Fenster",
+      "currentTab": "Aktuelle Registerkarte",
+      "active": "Jetzt aktivieren",
+      "inactive": "Nicht aktiviert"
+    }
+  },
+  "menu": {
+    "main": "Verfügbare Variablen"
+  }
+}

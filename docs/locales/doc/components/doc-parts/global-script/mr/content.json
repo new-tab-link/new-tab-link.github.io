@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ग्लोबल स्क्रिप्ट सेटिंग्ज",
+    "description": "जावास्क्रिप्ट वापरून तुम्ही तुमची स्वतःची स्क्रिप्ट लिहू शकता",
+    "examplesTitle": "उदाहरण",
+    "checkedUseSetting": "हे सेटिंग सक्षम करण्यासाठी तपासा.",
+    "variables": {
+      "title": "उपलब्ध चल",
+      "click": "लिंकवर क्लिक केले, ही विशेषता <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> वर्ग ऑब्जेक्ट आहे.",
+      "page": "वर्तमान पृष्ठाची लिंक ही एक <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> आहे. वर्ग ऑब्जेक्ट."
+    },
+    "returnVariables": {
+      "title": "परत करता येणारी मूल्ये",
+      "rightTab": "उजवीकडे नवीन टॅबमध्ये उघडा"
+    }
+  },
+  "menu": {
+    "main": "जागतिक स्क्रिप्ट"
+  }
+}

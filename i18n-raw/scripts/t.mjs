@@ -10,7 +10,7 @@ const __filename = fileURLToPath(import.meta.url); // get the resolved path to t
 const __dirname = path.dirname(__filename); 
 const lng = 'zh-CN'
 function createConf(){
-    // const root = `C:\\work\\temp\\js\\new-tab-link.github.io`
+    // const root = `C:\\work\\chrome-extenstions\\open-links\\new-tab-link.github.io`
     const root = path.join(__dirname, "../../")
     const i18nRaw = `i18n-raw`
     const pub = `public/locales/doc`

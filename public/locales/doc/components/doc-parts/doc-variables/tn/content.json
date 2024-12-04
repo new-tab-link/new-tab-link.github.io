@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Diphetogo tse di leng teng",
+    "page": ": Mofuta o o fetogang ke selo sa URL sa tsebe ya webo ya ga jaana Go bona dintlha, <a href='https://motlhabolodi. bona</a>",
+    "pageHost": ": Leina la kgolagano ya dikhomphiutha la tsebe ya ga jaanong ya webo",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Leina la kgolagano ya dikhomphiutha le le tshwanang Ela tlhoko gore le fa maina a konokono a kgolagano ya dikhomphiutha a {{_youtube_}} le {{_malapa_}} ka bobedi e le {{_kgaolo e e kwa tlase_}}, maina a kgolagano ya dikhomphiutha a a kwa tlase ke {{_youtubeKgaolo e e kwa tlase_}} le {{. _malapaSubDomain_}} ka go latelana Ka jalo maina a bone a domeine a farologane.",
+    "click": ": kgokagano e e tobeditsweng",
+    "clickpath": ": Tsela ya kgokagano e e tobeditsweng",
+    "minimatch": ": mokgwa wa go tshwantshanya {{_glob_}}, o dirisa laeborari ya {{_go tshwantshanya_}}, mokgwa wa tiriso < /a>, kgotsa o ka batla {{_glob_}}.",
+    "isSameDomain": ": E ka tswa e le leina la kgolagano ya dikhomphiutha le le tshwanang, {{_boammaaruri_}} ke ee, {{_maaka_}} ke nnyaa.",
+    "isSameParent": ": E ka tswa e le tsela e le nngwe ya motsadi, {{_boammaaruri_}} ke ee, {{_maaka_}} ke nnyaa.",
+    "isPageSublink": ": Le fa tsebe ya ga jaana e le tsebepotlana ya kgokagano e e tobeditsweng, {{_boammaaruri_}} ke ee, {{_maaka_}} ke nnyaa.",
+    "isPageMultilevelSublink": ": Le fa tsebe ya ga jaana e le tsebepotlana e e sa feleng ya kgokagano e e tobeditsweng, {{_true_}} ke ee, {{_false_}} ke nnyaa.",
+    "isClickSublink": ": Le fa kgokagano e e tobeditsweng e le kgokaganopotlana ya tsebe ya ga jaana, {{_true_}} ke ee, {{_false_}} ke nnyaa.",
+    "isClickMultilevelSublink": ": Le fa kgokagano e e tobeditsweng e le kgokaganopotlana e e sa lekanyediwang ya tsebe ya ga jaana, {{_true_}} ke ee, {{_false_}} ke nnyaa.",
+    "returnVariables": {
+      "title": "Diphetogo tse di busediwang",
+      "rightTab": ": Kgokagano e bulega mo thebong e ntšha kafa mojeng",
+      "leftTab": ": Kgokagano e bulega mo thebong e ntšha kafa molemeng",
+      "currentWindow": "fensetere ya ga jaana",
+      "newWindow": "fensetere e ntšhwa",
+      "incognitoWindow": "Lefensetere le le sa itsiweng",
+      "popupWindow": "Lefensetere le le tlhagelelang",
+      "currentTab": "Thebo ya ga jaana",
+      "active": "Tsenya tirisong jaanong",
+      "inactive": "Ga e a tsenngwa tirisong"
+    }
+  },
+  "menu": {
+    "main": "Diphetogo tse di leng teng"
+  }
+}

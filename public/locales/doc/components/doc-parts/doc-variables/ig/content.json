@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Ụdị mgbanwe dị",
+    "page": ": Ngbanwe bụ URL ihe nke ibe weebụ dị ugbu a, maka nkọwa, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> hụ</a>",
+    "pageHost": ": Aha ngalaba nke ibe weebụ dị ugbu a",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Otu ngalaba aha Rụba ama na agbanyeghị na ngalaba aha {{_youtube_}} na {{_families_}} bụ ma {{_mainDomain_}}, aha subdomain bụ {{_youtubeSubDomain_}} na {{ _familiesSubDomain_}} n'otu n'otu, aha ngalaba ha dị iche.",
+    "click": ": njikọ nke pịrị",
+    "clickpath": ": Ụzọ nke njikọ pịa",
+    "minimatch": ": {{_glob_}} Usoro dakọtara, na-eji {{_minimatch_}} ọba akwụkwọ, usoro ojiji <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Lee < /a>, ma ọ bụ i nwere ike chọọ {{_glob_}}.",
+    "isSameDomain": ": Ma ọ bụ otu ngalaba aha, {{_true_}} bụ ee, {{_false_}} abụghị mba.",
+    "isSameParent": ": Ma ọ bụ otu ụzọ nne na nna, {{_eziokwu_}} bụ ee, {{_false_}} bụ mba.",
+    "isPageSublink": ": Ma ibe dị ugbu a ọ bụ obere ibe nke njikọ a pịrị, {{_eziokwu_}} bụ ee, {{_false_}} bụ mba.",
+    "isPageMultilevelSublink": ": Ma ibe dị ugbu a ọ bụ obere ibe enweghị ngwụcha nke njikọ a pịrị, {{_true_}} bụ ee, {{_false_}} bụ mba.",
+    "isClickSublink": ": Ma njikọ a pịrị apị ọ bụ sub-njikọ nke ibe dị ugbu a, {{_true_}} bụ ee, {{_false_}} bụ mba.",
+    "isClickMultilevelSublink": ": Ma njikọ a pịrị apị bụ njikọ na-akparaghị ókè nke ibe dị ugbu a, {{_true_}} bụ ee, {{_false_}} abụghị mba.",
+    "returnVariables": {
+      "title": "mgbanwe mgbanwe",
+      "rightTab": ": Njikọ ahụ ga-emepe na taabụ ọhụrụ n'aka nri",
+      "leftTab": ": Njikọ ahụ na-emepe na taabụ ọhụrụ n'aka ekpe",
+      "currentWindow": "windo ugbu a",
+      "newWindow": "windo ọhụrụ",
+      "incognitoWindow": "Window Incognito",
+      "popupWindow": "Window mmapụta",
+      "currentTab": "Taabụ dị ugbu a",
+      "active": "Tinye ọrụ ugbu a",
+      "inactive": "Agbanyeghi ya"
+    }
+  },
+  "menu": {
+    "main": "Ụdị mgbanwe dị"
+  }
+}

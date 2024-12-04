@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Doorsoomayaasha la heli karo",
+    "page": ": Doorsoomuhu waa shayga URL ee bogga shabakadda ee hadda, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> eeg</a>",
+    "pageHost": "Magaca domainka ee bogga shabakadda ee hadda",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Magaca domain isku mid ah. Ogow in kasta oo magacyada domain ee ugu muhiimsan {{_youtube_}} iyo {{_families_}} labaduba ay yihiin {{_mainDomain_}}, magacyada hoose waa {{_youtubeSubDomain_}} iyo {{ _familiesSubDomain_}} siday u kala horreeyaan.",
+    "click": ": linkiga la gujiyay",
+    "clickpath": ": Waddada isku xirka la gujiyay",
+    "minimatch": ": {{_glob_}} habka u dhigma, iyadoo la adeegsanayo {{_minimatch_}} maktabadda, habka isticmaalka <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>fiiri < /a>, ama waxaad raadin kartaa {{_glob_}}",
+    "isSameDomain": ": Haddii ay isku magac yihiin, {{_run_}} waa haa, {{_false_}} waa maya.",
+    "isSameParent": ": Haddi ay tahay isla wadadii waalidka, {{_run_}} waa haa, {{_been_}} waa maya.",
+    "isPageSublink": "Haddii bogga hadda uu yahay bog-hoosaad xiriiriyaha la gujiyay, {{_runtu_}} waa haa, {{_false_}} waa maya.",
+    "isPageMultilevelSublink": "Haddii bogga hadda uu yahay bog hoose oo aan dhammaad lahayn oo ah isku xirka la gujiyay, {{_runtu_}} waa haa, {{_false_}} waa maya.",
+    "isClickSublink": "Haddii xiriirka la gujiyay uu yahay xiriir-hoosaadka bogga hadda, {{_runtu_}} waa haa, {{_false_}} waa maya.",
+    "isClickMultilevelSublink": "Haddii xiriirka la gujiyay uu yahay xiriir hoosaad aan xadidneyn oo bogga hadda ah, {{_runtu_}} waa haa, {{_false_}} waa maya.",
+    "returnVariables": {
+      "title": "Doorsoomayaasha soo noqon kara",
+      "rightTab": "Xidhiidhku wuxuu ku furmay tab cusub oo dhanka midig ah",
+      "leftTab": "Xidhiidhku wuxuu ka furmay tab cusub oo dhanka bidix ah",
+      "currentWindow": "daaqada hadda jirta",
+      "newWindow": "daaqad cusub",
+      "incognitoWindow": "Daaqada qarsoon",
+      "popupWindow": "Daaqada soo baxay",
+      "currentTab": "tab hadda",
+      "active": "Hadda hawl geli",
+      "inactive": "Lama hawlgelin"
+    }
+  },
+  "menu": {
+    "main": "Doorsoomayaasha la heli karo"
+  }
+}

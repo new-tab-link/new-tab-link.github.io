@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Глобалон скрипты параметртæ",
+    "description": "Дæ бон у дæхи скрипт ныффыссын javascript-ы фæрцы",
+    "examplesTitle": "Дæнцæг",
+    "checkedUseSetting": "Сбæрæг кæнут, цæмæй ацы параметр æххæстгонд æрцæуа.",
+    "variables": {
+      "title": "Уæвæг ивгъуыдтæ",
+      "click": "Бакæсгæйæ, ацы атрибут у <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> къласы объект.",
+      "page": "Ныртæккæйы фарсы ссылкæ Ацы атрибут у <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> къласы объект."
+    },
+    "returnVariables": {
+      "title": "Аргъдзинæдтæ, кæцытæн ис гæнæн раздахын",
+      "rightTab": "Байгом кæнут ног æвæрæны рахизырдыгæй"
+    }
+  },
+  "menu": {
+    "main": "глобалон скрипт"
+  }
+}

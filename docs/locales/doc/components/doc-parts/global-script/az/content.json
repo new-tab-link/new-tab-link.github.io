@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Qlobal skript parametrləri",
+    "description": "Siz javascript istifadə edərək öz skriptinizi yaza bilərsiniz",
+    "examplesTitle": "Misal",
+    "checkedUseSetting": "Bu ayarı aktivləşdirmək üçün yoxlayın.",
+    "variables": {
+      "title": "Mövcud dəyişənlər",
+      "click": "Kliklənmiş link, bu atribut <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> sinif obyektidir.",
+      "page": "Cari səhifənin linki bu atribut <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>-dir. sinif obyekti."
+    },
+    "returnVariables": {
+      "title": "Geri qaytarıla bilən dəyərlər",
+      "rightTab": "Sağdakı yeni tabda açın"
+    }
+  },
+  "menu": {
+    "main": "qlobal skript"
+  }
+}

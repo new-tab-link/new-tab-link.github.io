@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Глабальныя налады скрыпту",
+    "description": "Вы можаце напісаць свой уласны скрыпт з дапамогай javascript",
+    "examplesTitle": "прыклад",
+    "checkedUseSetting": "Пастаўце галачку, каб уключыць гэту наладу.",
+    "variables": {
+      "title": "Даступныя зменныя",
+      "click": "Націснутая спасылка, гэты атрыбут з'яўляецца аб'ектам класа <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Спасылка на бягучую старонку - гэта <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. аб'ект класа."
+    },
+    "returnVariables": {
+      "title": "Каштоўнасці, якія можна вярнуць",
+      "rightTab": "Адкрыць у новай укладцы справа"
+    }
+  },
+  "menu": {
+    "main": "глабальны скрыпт"
+  }
+}

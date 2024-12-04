@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Mevcut değişkenler",
+    "page": ": Değişken, geçerli web sayfasının URL nesnesidir. Ayrıntılar için, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. bakın</a>",
+    "pageHost": ": Geçerli web sayfasının alan adı",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Aynı alan adı. {{_youtube_}} ve {{_families_}} ana alan adlarının her ikisinin de {{_mainDomain_}} olmasına rağmen alt alan adlarının {{_youtubeSubDomain_}} ve {{ olduğunu unutmayın. _familiesSubDomain_}} Yani alan adları farklıdır.",
+    "click": ": tıklanan bağlantı",
+    "clickpath": ": Tıklanan bağlantının yolu",
+    "minimatch": ": {{_glob_}} eşleştirme yöntemi, {{_minimatch_}} kitaplığını kullanma, kullanım yöntemi <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Bkz. < /a> veya {{_glob_}} ifadesini arayabilirsiniz.",
+    "isSameDomain": ": Aynı alan adı olsun, {{_true_}} evet, {{_false_}} hayır.",
+    "isSameParent": ": Aynı ana yol olsun, {{_true_}} evet, {{_false_}} hayırdır.",
+    "isPageSublink": ": Geçerli sayfanın tıklanan bağlantının bir alt sayfası olup olmadığı, {{_true_}} evet, {{_false_}} hayırdır.",
+    "isPageMultilevelSublink": ": Geçerli sayfanın tıklanan bağlantının sonsuz bir alt sayfası olup olmadığı, {{_true_}} evet, {{_false_}} hayırdır.",
+    "isClickSublink": ": Tıklanan bağlantının geçerli sayfanın bir alt bağlantısı olup olmadığı, {{_true_}} evet, {{_false_}} hayırdır.",
+    "isClickMultilevelSublink": ": Tıklanan bağlantının geçerli sayfanın sınırsız bir alt bağlantısı olup olmadığı, {{_true_}} evet, {{_false_}} hayırdır.",
+    "returnVariables": {
+      "title": "İade edilebilir değişkenler",
+      "rightTab": ": Bağlantı sağdaki yeni sekmede açılır",
+      "leftTab": ": Bağlantı soldaki yeni sekmede açılır",
+      "currentWindow": "geçerli pencere",
+      "newWindow": "yeni pencere",
+      "incognitoWindow": "Gizli pencere",
+      "popupWindow": "Açılır pencere",
+      "currentTab": "Geçerli sekme",
+      "active": "Şimdi etkinleştir",
+      "inactive": "Etkinleştirilmedi"
+    }
+  },
+  "menu": {
+    "main": "Mevcut değişkenler"
+  }
+}

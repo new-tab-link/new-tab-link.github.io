@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Arventennoù skript hollek",
+    "description": "Gallout a rit skrivañ ho skript hoc'h-unan en ur implijout javascript",
+    "examplesTitle": "Skouer",
+    "checkedUseSetting": "Gwiriit evit gweredekaat an arventennoù-mañ.",
+    "variables": {
+      "title": "Argemmennoù hegerz",
+      "click": "Klikañ war al liamm, an elfenn-mañ zo un ergorenn rummad <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Liamm ar bajenn bremanel zo un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. ergorenn ar c'hlas."
+    },
+    "returnVariables": {
+      "title": "Talvoudoù a c'haller distreiñ",
+      "rightTab": "Digeriñ en ivinell nevez a-zehou"
+    }
+  },
+  "menu": {
+    "main": "skript hollek"
+  }
+}

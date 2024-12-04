@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "গ্লোবাল স্ক্রিপ্ট সেটিংস",
+    "description": "আপনি জাভাস্ক্রিপ্ট ব্যবহার করে আপনার নিজের স্ক্রিপ্ট লিখতে পারেন",
+    "examplesTitle": "উদাহরণ",
+    "checkedUseSetting": "এই সেটিং সক্রিয় করতে চেক করুন.",
+    "variables": {
+      "title": "উপলব্ধ ভেরিয়েবল",
+      "click": "লিঙ্কে ক্লিক করা হয়েছে, এই অ্যাট্রিবিউটটি হল একটি <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ক্লাস অবজেক্ট।",
+      "page": "বর্তমান পৃষ্ঠার লিঙ্কটি হল একটি <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ক্লাস অবজেক্ট।"
+    },
+    "returnVariables": {
+      "title": "ফেরত দেওয়া যেতে পারে যে মান",
+      "rightTab": "ডানদিকে নতুন ট্যাবে খুলুন"
+    }
+  },
+  "menu": {
+    "main": "গ্লোবাল স্ক্রিপ্ট"
+  }
+}

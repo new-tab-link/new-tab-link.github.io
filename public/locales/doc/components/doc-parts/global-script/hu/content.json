@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Globális szkriptbeállítások",
+    "description": "Saját szkriptet írhat a javascript segítségével",
+    "examplesTitle": "Példa",
+    "checkedUseSetting": "Jelölje be a beállítás engedélyezéséhez.",
+    "variables": {
+      "title": "Elérhető változók",
+      "click": "A linkre kattintott, ez az attribútum egy <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> osztályobjektum.",
+      "page": "Az aktuális oldal linkje Ez az attribútum egy <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. osztályú objektum."
+    },
+    "returnVariables": {
+      "title": "Visszaadható értékek",
+      "rightTab": "Megnyitás új lapon a jobb oldalon"
+    }
+  },
+  "menu": {
+    "main": "globális script"
+  }
+}

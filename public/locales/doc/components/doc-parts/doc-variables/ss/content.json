@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Tintfo letigucukako letitfolakalako",
+    "page": ": Lokugucukako yintfo ye-URL yelikhasi lewebhu lamanje Kute utfole imininingwane, <a href='https://umsunguli. bona</a>",
+    "pageHost": ": Ligama lesizinda lelikhasi lewebhu lamanje",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Ligama lesizinda lelifanako Caphela kutsi noma emagama esizinda lamakhulu e {{_youtube_}} kanye na {{_imindeni_}} womabili {{_Sizinda Lesikhulu_}}, emagama esizinda lesincane ngu {{_youtubeSubDomain_}} kanye na {{. _imindeniSubDomain_}} ngekulandzelana Ngako-ke emagama abo esizinda ahlukile.",
+    "click": ": sixhumanisi lesachafatwa",
+    "clickpath": ": Indlela yesixhumanisi lesichafaziwe",
+    "minimatch": ": {{_glob_}} indlela yekufanisa, kusetjentiswa umtapolwati {{_kufanisa lokuncane_}}, indlela yekusebentisa <a href='https://github.com/isaacs/kufanisa lokuncane' lisu = '_blank' rel='noreferrer'>Bona < /a>, noma ungasesha {{_glob_}}.",
+    "isSameDomain": ": Noma ngabe ligama lesizinda lelifanako, {{_liciniso_}} nguyebo, {{_manga_}} ngucha.",
+    "isSameParent": ": Noma ngabe yindlela lefanako yemtali, {{_liciniso_}} nguyebo, {{_manga_}} ngucha.",
+    "isPageSublink": ": Noma ngabe lelikhasi lamanje likhasi lelincane lesixhumanisi lesichafatwe, {{_liciniso_}} nguyebo, {{_manga_}} ngucha.",
+    "isPageMultilevelSublink": ": Noma ngabe lelikhasi lamanje likhasi lelincane lelingapheli lesixhumanisi lesichafatwe, {{_true_}} nguyebo, {{_false_}} ngucha.",
+    "isClickSublink": ": Noma ngabe lesixhumanisi lesichafatiwe sixhumanisi lesincane selikhasi lamanje, {{_true_}} nguyebo, {{_false_}} ngucha.",
+    "isClickMultilevelSublink": ": Noma ngabe sixhumanisi lesichafatwe sixhumanisi lesincane lesingenamkhawulo selikhasi lamanje, {{_true_}} nguyebo, {{_false_}} ngucha.",
+    "returnVariables": {
+      "title": "Tintfo letigucukako letibuyiselwa emuva",
+      "rightTab": ": Lesixhumanisi sivuleka kuthebhu lensha ngasekudla .",
+      "leftTab": ": Lesixhumanisi sivuleka kuthebhu lensha ngasencele .",
+      "currentWindow": "lifasitelo lamanje",
+      "newWindow": "lifasitelo lelisha",
+      "incognitoWindow": "Lifasitelo lelingabonakali",
+      "popupWindow": "Lifasitelo leliphumako",
+      "currentTab": "Ithebhu yamanje",
+      "active": "Kusebenta nyalo",
+      "inactive": "Akukasebenti"
+    }
+  },
+  "menu": {
+    "main": "Tintfo letigucukako letitfolakalako"
+  }
+}

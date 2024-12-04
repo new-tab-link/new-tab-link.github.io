@@ -1,0 +1,10 @@
+{
+  "doc": {
+    "title": "全局脚本设置",
+    "description": "您可以使用javascript编写您自己的脚本",
+    "examplesTitle": "示例"
+  },
+  "menu": {
+    "main": "全局脚本"
+  }
+}

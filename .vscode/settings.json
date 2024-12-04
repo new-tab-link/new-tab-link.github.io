@@ -15,7 +15,6 @@
         "**/bower_components": true,
         "**/*.code-search": true,
         "docs":true,
-        "i18n-raw":true,
         "public/**":true,
     },
 }

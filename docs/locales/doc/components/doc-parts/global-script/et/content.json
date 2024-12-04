@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Globaalsed skripti seaded",
+    "description": "Saate kirjutada oma skripti JavaScripti abil",
+    "examplesTitle": "Näide",
+    "checkedUseSetting": "Märkige selle sätte lubamiseks.",
+    "variables": {
+      "title": "Saadaolevad muutujad",
+      "click": "Klikitud lingil on see atribuut <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klassi objekt.",
+      "page": "Praeguse lehe link on <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. klassi objekt."
+    },
+    "returnVariables": {
+      "title": "Väärtused, mida saab tagastada",
+      "rightTab": "Ava paremal uuel vahelehel"
+    }
+  },
+  "menu": {
+    "main": "globaalne skript"
+  }
+}

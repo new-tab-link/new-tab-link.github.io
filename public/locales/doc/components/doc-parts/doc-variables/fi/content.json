@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Saatavilla olevat muuttujat",
+    "page": ": Muuttuja on nykyisen verkkosivun URL-objekti. Lisätietoja on osoitteessa <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. katso</a>",
+    "pageHost": ": Nykyisen verkkosivun toimialueen nimi",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Huomaa, että vaikka verkkotunnusten {{_youtube_}} ja {{_families_}} pääverkkotunnukset ovat molemmat {{_mainDomain_}}, aliverkkotunnusten nimet ovat {{_youtubeSubDomain_}} ja {{. _familiesSubDomain_}}, joten niiden verkkotunnukset ovat erilaisia.",
+    "click": ": linkki, jota napsautettiin",
+    "clickpath": ": napsautetun linkin polku",
+    "minimatch": ": {{_glob_}}-vastaavuusmenetelmä, käyttäen {{_minimatch_}}-kirjastoa, käyttötapa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Katso < /a> tai voit etsiä haulla {{_glob_}}.",
+    "isSameDomain": ": Olipa kyseessä sama verkkotunnus, {{_true_}} on kyllä, {{_false_}} ei.",
+    "isSameParent": ": Olipa kyseessä sama pääpolku, {{_true_}} on kyllä, {{_false_}} ei.",
+    "isPageSublink": ": Onko nykyinen sivu napsautetun linkin alasivu, {{_true_}} on kyllä, {{_false_}} ei.",
+    "isPageMultilevelSublink": ": Onko nykyinen sivu napsautetun linkin loputon alasivu, {{_true_}} on kyllä, {{_false_}} ei.",
+    "isClickSublink": ": Onko napsautettu linkki nykyisen sivun alilinkki, {{_true_}} on kyllä, {{_false_}} ei.",
+    "isClickMultilevelSublink": ": Onko napsautettu linkki nykyisen sivun rajoittamaton alilinkki, {{_true_}} on kyllä, {{_false_}} ei.",
+    "returnVariables": {
+      "title": "Palautettavat muuttujat",
+      "rightTab": ": Linkki avautuu uuteen välilehteen oikealla",
+      "leftTab": ": Linkki avautuu uuteen välilehteen vasemmalla",
+      "currentWindow": "nykyinen ikkuna",
+      "newWindow": "uusi ikkuna",
+      "incognitoWindow": "Incognito-ikkuna",
+      "popupWindow": "Ponnahdusikkuna",
+      "currentTab": "Nykyinen välilehti",
+      "active": "Aktivoi nyt",
+      "inactive": "Ei aktivoitu"
+    }
+  },
+  "menu": {
+    "main": "Saatavilla olevat muuttujat"
+  }
+}

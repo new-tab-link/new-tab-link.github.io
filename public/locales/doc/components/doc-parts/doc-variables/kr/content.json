@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Awowa gade-gade mbeji",
+    "page": ": Shi awo gade-gadedə shima awo URLbe warak webbe kərmabedəwo Bayan kəzəkkəro, <a href=' wune</a>",
+    "pageHost": ": Su korkorbe warak webbe kərmabedə",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Su korkorbe fal Notə shi su korkorbe kuradə {{_youtube_}} kuru {{_families_}} sammaso {{_korkor kura_}}, su korkorbedə sandima {{_youtubeSubDomain_}} kuru {{. _familiesSubDomain_}} sammaso su korkornzabedə gade.",
+    "click": ": link do ratkata dǝ",
+    "clickpath": ": Diwal do link do tǝkǝna dǝ",
+    "minimatch": ": {{_glob_}} dawari mattəbe, {{_samunnam gana_}} kərabe faidatəlan, dawari faidatəbe <a href = ' /a>, au raksə {{_glob_}} kulashin.",
+    "isSameDomain": ": Su korkorbe fal yayi, {{_jire_}} də ee, {{_kattuwu_}} də a’a.",
+    "isSameParent": ": Diwal kura fal yayi, {{_true_}} də ee, {{_false_}} də a’a.",
+    "isPageSublink": ": Warak kərmabedə warak gana kəltəramdəbe yayi, {{_true_}}də ee, {{_false_}}də a'a.",
+    "isPageMultilevelSublink": ": Warak kərmabedə warak gana kəla kəltəramdəben, {{_true_}}də ee, {{_false_}}də a'a.",
+    "isClickSublink": ": Waneye link do tǝkǝna dǝ shima link ganawo warak kǝrmabe dǝro, {{_true_}} dǝ ee, {{_false_}} dǝ a’a.",
+    "isClickMultilevelSublink": ": Waneye link do tǝkǝna dǝ shima link gana do warak kǝrmabe dǝwo, {{_true_}} dǝ ee, {{_false_}} dǝ a’a.",
+    "returnVariables": {
+      "title": "Awowa gade-gade waltǝm kalaktǝyinma",
+      "rightTab": ": Link də suro tab bəlinyen kəmburamlan katin",
+      "leftTab": ": Link də suro tab bəlin wofilan katin",
+      "currentWindow": "windo kǝrmabe",
+      "newWindow": "windo bǝlin",
+      "incognitoWindow": "Taga asutinba",
+      "popupWindow": "Taga pop-upbe",
+      "currentTab": "Tab kǝrmabe",
+      "active": "Kǝrma dǝro cidagǝne",
+      "inactive": "Cidatǝnyi"
+    }
+  },
+  "menu": {
+    "main": "Awowa gade-gade mbeji"
+  }
+}

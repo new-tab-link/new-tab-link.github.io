@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Танзимоти глобалии скрипт",
+    "description": "Шумо метавонед скрипти худро бо истифода аз javascript нависед",
+    "examplesTitle": "Мисол",
+    "checkedUseSetting": "Барои фаъол кардани ин танзимот санҷед.",
+    "variables": {
+      "title": "Тағирёбандаҳои дастрас",
+      "click": "Истиноди кликшуда, ин атрибут объекти синфи <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> мебошад.",
+      "page": "Истиноди саҳифаи ҷорӣ ин атрибут <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> мебошад. объекти синф."
+    },
+    "returnVariables": {
+      "title": "Арзишҳое, ки метавонанд баргардонида шаванд",
+      "rightTab": "Дар ҷадвали нав дар тарафи рост кушоед"
+    }
+  },
+  "menu": {
+    "main": "скрипти глобалӣ"
+  }
+}

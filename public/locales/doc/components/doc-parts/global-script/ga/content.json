@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Socruithe scripte domhanda",
+    "description": "Is féidir leat do script féin a scríobh le javascript",
+    "examplesTitle": "Sampla",
+    "checkedUseSetting": "Seiceáil chun an socrú seo a chumasú.",
+    "variables": {
+      "title": "Athróga atá ar fáil",
+      "click": "Nasc a chliceáiltear, is réad ranga é an aitreabúid seo <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Nasc an leathanaigh reatha. réad ranga."
+    },
+    "returnVariables": {
+      "title": "Luachanna is féidir a thabhairt ar ais",
+      "rightTab": "Oscail i gcluaisín nua ar dheis"
+    }
+  },
+  "menu": {
+    "main": "script domhanda"
+  }
+}

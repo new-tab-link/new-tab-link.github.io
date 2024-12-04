@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Paràmetri di script globale",
+    "description": "Pudete scrive u vostru propiu script cù javascript",
+    "examplesTitle": "Esempiu",
+    "checkedUseSetting": "Verificate per attivà sta paràmetra.",
+    "variables": {
+      "title": "Variabili dispunibili",
+      "click": "Cliccà u ligame, questu attributu hè un ughjettu di classi <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "U ligame di a pagina attuale Questu attributu hè un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. oggettu di classa."
+    },
+    "returnVariables": {
+      "title": "Valori chì ponu esse restituiti",
+      "rightTab": "Apertura in una nova tabulazione à a diritta"
+    }
+  },
+  "menu": {
+    "main": "script globale"
+  }
+}

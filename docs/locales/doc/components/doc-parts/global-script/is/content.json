@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Alþjóðlegar forskriftarstillingar",
+    "description": "Þú getur skrifað þitt eigið handrit með javascript",
+    "examplesTitle": "Dæmi",
+    "checkedUseSetting": "Hakaðu við til að virkja þessa stillingu.",
+    "variables": {
+      "title": "Tiltækar breytur",
+      "click": "Smelltu á tengilinn, þessi eiginleiki er <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> flokkshlutur.",
+      "page": "Tengillinn á núverandi síðu Þessi eiginleiki er <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. flokks hlutur."
+    },
+    "returnVariables": {
+      "title": "Gildi sem hægt er að skila",
+      "rightTab": "Opnaðu í nýjum flipa hægra megin"
+    }
+  },
+  "menu": {
+    "main": "alþjóðlegt handrit"
+  }
+}

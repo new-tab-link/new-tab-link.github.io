@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Глобални поставки за скрипта",
+    "description": "Можете да напишете своја сопствена скрипта користејќи Javascript",
+    "examplesTitle": "Пример",
+    "checkedUseSetting": "Проверете за да ја овозможите оваа поставка.",
+    "variables": {
+      "title": "Достапни променливи",
+      "click": "Кликнете на врската, овој атрибут е објект на класа <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Врската на тековната страница Овој атрибут е <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. класа објект."
+    },
+    "returnVariables": {
+      "title": "Вредности што можат да се вратат",
+      "rightTab": "Отворете во ново јазиче десно"
+    }
+  },
+  "menu": {
+    "main": "глобално писмо"
+  }
+}

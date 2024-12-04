@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variabili disponibili",
+    "page": ": La variabile è l'oggetto URL della pagina Web corrente. Per i dettagli, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> vedi</a>",
+    "pageHost": ": il nome di dominio della pagina Web corrente",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: lo stesso nome di dominio. Tieni presente che sebbene i nomi di dominio principali di {{_youtube_}} e {{_families_}} siano entrambi {{_mainDomain_}}, i nomi di sottodominio sono {{_youtubeSubDomain_}} e {{ _familiesSubDomain_}} rispettivamente, quindi i loro nomi di dominio sono diversi.",
+    "click": ": il collegamento su cui è stato fatto clic",
+    "clickpath": ": il percorso del collegamento cliccato",
+    "minimatch": ": metodo di corrispondenza {{_glob_}}, utilizzando la libreria {{_minimatch_}}, metodo di utilizzo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vedi < /a> oppure puoi cercare {{_glob_}}.",
+    "isSameDomain": ": Che si tratti dello stesso nome di dominio, {{_true_}} è sì, {{_false_}} è no.",
+    "isSameParent": ": Che si tratti dello stesso percorso principale, {{_true_}} è sì, {{_false_}} è no.",
+    "isPageSublink": ": se la pagina corrente è una sottopagina del collegamento cliccato, {{_true_}} è sì, {{_false_}} è no.",
+    "isPageMultilevelSublink": ": se la pagina corrente è una sottopagina infinita del collegamento cliccato, {{_true_}} è sì, {{_false_}} è no.",
+    "isClickSublink": ": se il collegamento cliccato è un collegamento secondario della pagina corrente, {{_true_}} è sì, {{_false_}} è no.",
+    "isClickMultilevelSublink": ": se il collegamento cliccato è un collegamento secondario illimitato della pagina corrente, {{_true_}} è sì, {{_false_}} è no.",
+    "returnVariables": {
+      "title": "Variabili restituibili",
+      "rightTab": ": il collegamento si apre in una nuova scheda a destra",
+      "leftTab": ": il collegamento si apre in una nuova scheda a sinistra",
+      "currentWindow": "finestra corrente",
+      "newWindow": "nuova finestra",
+      "incognitoWindow": "Finestra di navigazione in incognito",
+      "popupWindow": "Finestra pop-up",
+      "currentTab": "Scheda corrente",
+      "active": "Attiva ora",
+      "inactive": "Non attivato"
+    }
+  },
+  "menu": {
+    "main": "Variabili disponibili"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Mipangilio ya hati ya kimataifa",
+    "description": "Unaweza kuandika hati yako mwenyewe kwa kutumia javascript",
+    "examplesTitle": "Mfano",
+    "checkedUseSetting": "Angalia ili kuwezesha mpangilio huu.",
+    "variables": {
+      "title": "Vigezo vinavyopatikana",
+      "click": "Kiungo kilichobofya, sifa hii ni <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> kitu cha darasa.",
+      "page": "Kiungo cha ukurasa wa sasa. Sifa hii ni <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> kitu cha darasa."
+    },
+    "returnVariables": {
+      "title": "Thamani zinazoweza kurejeshwa",
+      "rightTab": "Fungua kwenye kichupo kipya upande wa kulia"
+    }
+  },
+  "menu": {
+    "main": "hati ya kimataifa"
+  }
+}

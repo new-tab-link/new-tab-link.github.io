@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Okuguquguqukayo okutholakalayo",
+    "page": ": Okuguquguqukayo into ye-URL yekhasi lewebhu lamanje Ukuze uthole imininingwane, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> bona</a>",
+    "pageHost": ": Igama lesizinda lekhasi lewebhu lamanje",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Igama lesizinda elifanayo. Qaphela ukuthi nakuba amagama esizinda se-{{_youtube_}} kanye ne-{{_families_}} kokubili {{_mainDomain_}}, amagama esizinda esincane athi {{_youtubeSubDomain_}} kanye nokuthi {{ _familiesSubDomain_}} Ngakho amagama abo esizinda ahlukile.",
+    "click": ": isixhumanisi esichofoziwe",
+    "clickpath": ": Indlela yesixhumanisi esichofoziwe",
+    "minimatch": ": {{_glob_}} indlela yokufanisa, kusetshenziswa {{_minimatch_}} ilabhulali, indlela yokusebenzisa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Bona < /a>, noma ungasesha i-{{_glob_}}.",
+    "isSameDomain": ": Kungakhathaliseki ukuthi igama lesizinda elifanayo, {{_true_}} uyebo, {{_false_}} cha.",
+    "isSameParent": ": Kungakhathaliseki ukuthi iyindlela efanayo yomzali, {{_iqiniso_}} uyebo, {{_amanga_}} uthi cha.",
+    "isPageSublink": ": Ukuthi ikhasi lamanje liyikhasi elincane lesixhumanisi esichofoziwe, {{_true_}} nguyebo, {{_false_}} cha.",
+    "isPageMultilevelSublink": ": Ukuthi ikhasi lamanje liyikhasi elincane elingapheli lesixhumanisi esichofoziwe, {{_true_}} uyebo, {{_false_}} cha.",
+    "isClickSublink": ": Ukuthi isixhumanisi esichofoziwe siyisixhumanisi esingaphansi sekhasi lamanje, {{_true_}} nguyebo, {{_false_}} cha.",
+    "isClickMultilevelSublink": ": Ukuthi isixhumanisi esichofoziwe siyisixhumanisi esincane esingenamkhawulo sekhasi lamanje, {{_true_}} uyebo, {{_false_}} cha.",
+    "returnVariables": {
+      "title": "Okuguquguqukayo okubuyiselekayo",
+      "rightTab": ": Isixhumanisi sivula kuthebhu entsha kwesokudla",
+      "leftTab": ": Isixhumanisi sivula kuthebhu entsha kwesokunxele",
+      "currentWindow": "iwindi lamanje",
+      "newWindow": "iwindi elisha",
+      "incognitoWindow": "Iwindi le-incognito",
+      "popupWindow": "Iwindi le-pop-up",
+      "currentTab": "Ithebhu yamanje",
+      "active": "Yenza kusebenze manje",
+      "inactive": "Akucushiwe"
+    }
+  },
+  "menu": {
+    "main": "Okuguquguqukayo okutholakalayo"
+  }
+}

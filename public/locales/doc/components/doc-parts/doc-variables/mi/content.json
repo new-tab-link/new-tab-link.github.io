@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Taurangi wātea",
+    "page": ": Ko te taurangi ko te ahanoa URL o te wharangi tukutuku o naianei mo nga taipitopito, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> kite</a>",
+    "pageHost": ": Te ingoa rohe o te wharangi tukutuku o naianei",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: He rite tonu te ingoa rohe ahakoa ko nga ingoa rohe matua o {{_youtube_}} me {{_families_}} he {{_mainDomain_}}, ko nga ingoa roheroto ko {{_youtubeSubDomain_}} me {{ _familiesSubDomain_}} no reira he rereke o ratou ingoa rohe.",
+    "click": ": te hono i pawhiria",
+    "clickpath": ": Ko te ara o te hononga kua paatohia",
+    "minimatch": ": {{_glob_}} tikanga whakarite, whakamahi i te whare pukapuka {{_minimatch_}}, tikanga whakamahi <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Tirohia < /a>, ka taea ranei e koe te rapu mo {{_glob_}}.",
+    "isSameDomain": ": Ahakoa he rite tonu te ingoa rohe, {{_true_}} he ae, {{_false_}} he kahore.",
+    "isSameParent": ": Ahakoa he rite tonu te ara matua, {{_true_}} he ae, {{_false_}} he kao.",
+    "isPageSublink": ": Ahakoa ko te wharangi o naianei he wharangi-iti o te hono kua paatohia, {{_true_}} he ae, {{_false_}} he kao.",
+    "isPageMultilevelSublink": ": Ahakoa ko te wharangi o naianei he wharangi iti mutunga kore o te hono kua paatohia, {{_true_}} he ae, {{_false_}} he kao.",
+    "isClickSublink": ": Ahakoa he hononga-iti te hononga kua paatohia o te wharangi o naianei, {{_true_}} he ae, {{_false_}} he kao.",
+    "isClickMultilevelSublink": ": Ahakoa he hononga iti mutunga kore o te wharangi o naianei te hononga kua paatohia, {{_true_}} he ae, {{_false_}} he kao.",
+    "returnVariables": {
+      "title": "Taurangi ka taea te whakahoki",
+      "rightTab": ": Ka tuwhera te hono ki tetahi ripa hou kei te taha matau",
+      "leftTab": ": Ka tuwhera te hono ki tetahi ripa hou kei te taha maui",
+      "currentWindow": "matapihi o nāianei",
+      "newWindow": "matapihi hou",
+      "incognitoWindow": "Matapihi incognito",
+      "popupWindow": "Matapihi pahū-ake",
+      "currentTab": "Ripa o naianei",
+      "active": "Whakahohe inaianei",
+      "inactive": "Kāore i whakahohe"
+    }
+  },
+  "menu": {
+    "main": "Taurangi wātea"
+  }
+}

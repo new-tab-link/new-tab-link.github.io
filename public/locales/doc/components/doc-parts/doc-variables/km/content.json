@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "អថេរដែលមាន",
+    "page": "៖ អថេរគឺជាវត្ថុ URL នៃទំព័របណ្ដាញបច្ចុប្បន្ន សម្រាប់ព័ត៌មានលម្អិត <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> សូមមើល</a>",
+    "pageHost": "៖ ឈ្មោះដែននៃទំព័របណ្តាញបច្ចុប្បន្ន",
+    "isSameSubDomain": "{{_isSameSubDomain_}}៖ ឈ្មោះដែនដូចគ្នា សូមចំណាំថា ទោះបីជាឈ្មោះដែនសំខាន់ៗរបស់ {{_youtube_}} និង {{_families_}} ជា {{_mainDomain_}} ទាំងពីរក៏ដោយ ប៉ុន្តែឈ្មោះដែនរងគឺ {{_youtubeSubDomain_}} និង {{ _familiesSubDomain_}} រៀងៗខ្លួន ដូច្នេះឈ្មោះដែនរបស់ពួកគេគឺខុសគ្នា។",
+    "click": "៖ តំណភ្ជាប់ដែលត្រូវបានចុច",
+    "clickpath": "៖ ផ្លូវនៃតំណភ្ជាប់ដែលបានចុច",
+    "minimatch": "៖ {{_glob_}} វិធីសាស្ត្រផ្គូផ្គង ដោយប្រើបណ្ណាល័យ {{_minimatch_}} វិធីសាស្ត្រប្រើប្រាស់ <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>សូមមើល < /a> ឬអ្នកអាចស្វែងរក {{_glob_}}។",
+    "isSameDomain": "៖ ថាតើវាជាឈ្មោះដែនដូចគ្នា {{_true_}} គឺបាទ {{_false_}} គឺទេ។",
+    "isSameParent": "៖ ថាតើវាជាផ្លូវមេដូចគ្នា {{_true_}} គឺបាទ {{_false_}} គឺទេ។",
+    "isPageSublink": "៖ ថាតើទំព័របច្ចុប្បន្នជាទំព័ររងនៃតំណដែលបានចុចនោះ {{_true_}} គឺបាទ, {{_false_}} គឺទេ។",
+    "isPageMultilevelSublink": "៖ ថាតើទំព័របច្ចុប្បន្នជាទំព័ររងគ្មានកំណត់នៃតំណភ្ជាប់ដែលបានចុចនោះ {{_true_}} គឺបាទ, {{_false_}} គឺទេ។",
+    "isClickSublink": "៖ មិនថាតំណដែលបានចុចគឺជាតំណរងនៃទំព័របច្ចុប្បន្នទេ {{_true_}} គឺបាទ {{_false_}} គឺទេ។",
+    "isClickMultilevelSublink": "៖ ថាតើតំណដែលបានចុចគឺជាតំណរងគ្មានដែនកំណត់នៃទំព័របច្ចុប្បន្ន {{_true_}} គឺបាទ {{_false_}} គឺទេ។",
+    "returnVariables": {
+      "title": "អថេរដែលអាចត្រឡប់បាន។",
+      "rightTab": "៖ តំណបើកក្នុងផ្ទាំងថ្មីនៅខាងស្តាំ",
+      "leftTab": "៖ តំណបើកក្នុងផ្ទាំងថ្មីនៅខាងឆ្វេង",
+      "currentWindow": "បង្អួចបច្ចុប្បន្ន",
+      "newWindow": "បង្អួចថ្មី។",
+      "incognitoWindow": "បង្អួចអនាមិក",
+      "popupWindow": "បង្អួចលេចឡើង",
+      "currentTab": "ផ្ទាំងបច្ចុប្បន្ន",
+      "active": "បើកដំណើរការឥឡូវនេះ",
+      "inactive": "មិនដំណើរការទេ។"
+    }
+  },
+  "menu": {
+    "main": "អថេរដែលមាន"
+  }
+}

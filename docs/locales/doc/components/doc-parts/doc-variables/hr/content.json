@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Dostupne varijable",
+    "page": ": Varijabla je URL objekt trenutne web stranice Za detalje, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. vidjeti</a>",
+    "pageHost": ": naziv domene trenutne web stranice",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Isti naziv domene {{_youtube_}} i {{_families_}} su {{_mainDomain_}}, nazivi poddomena su {{_youtubeSubDomain_}} i {{. _familiesSubDomain_}} dakle različita su imena domena.",
+    "click": ": poveznica na koju ste kliknuli",
+    "clickpath": ": Put poveznice na koju ste kliknuli",
+    "minimatch": ": {{_glob_}} metoda podudaranja, korištenje {{_minimatch_}} biblioteke, metoda upotrebe <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Pogledajte < /a>, ili možete tražiti {{_glob_}}.",
+    "isSameDomain": ": Bilo da se radi o istom nazivu domene, {{_true_}} je da, {{_false_}} je ne.",
+    "isSameParent": ": Bilo da se radi o istoj roditeljskoj stazi, {{_true_}} je da, {{_false_}} je ne.",
+    "isPageSublink": ": Je li trenutna stranica podstranica kliknute veze, {{_true_}} je da, {{_false_}} je ne.",
+    "isPageMultilevelSublink": ": Je li trenutna stranica beskonačna podstranica kliknute veze, {{_true_}} je da, {{_false_}} je ne.",
+    "isClickSublink": ": Je li poveznica na koju ste kliknuli podveza trenutne stranice, {{_true_}} je da, {{_false_}} je ne.",
+    "isClickMultilevelSublink": ": Bilo da je poveznica na koju ste kliknuli neograničena podveza trenutne stranice, {{_true_}} je da, {{_false_}} je ne.",
+    "returnVariables": {
+      "title": "Povratne varijable",
+      "rightTab": ": Veza se otvara u novoj kartici s desne strane",
+      "leftTab": ": Veza se otvara u novoj kartici s lijeve strane",
+      "currentWindow": "trenutni prozor",
+      "newWindow": "novi prozor",
+      "incognitoWindow": "Anonimni prozor",
+      "popupWindow": "Skočni prozor",
+      "currentTab": "Trenutačna kartica",
+      "active": "Aktivirajte sada",
+      "inactive": "Nije aktiviran"
+    }
+  },
+  "menu": {
+    "main": "Dostupne varijable"
+  }
+}

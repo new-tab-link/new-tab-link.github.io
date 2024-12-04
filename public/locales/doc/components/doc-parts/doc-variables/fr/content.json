@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variables disponibles",
+    "page": ": La variable est l'objet URL de la page Web actuelle. Pour plus de détails, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. voir</a>",
+    "pageHost": ": Le nom de domaine de la page Web actuelle",
+    "isSameSubDomain": "{{_isSameSubDomain_}} : le même nom de domaine. Notez que bien que les noms de domaine principaux de {{_youtube_}} et de {{_families_}} soient tous deux {{_mainDomain_}}, les noms de sous-domaines sont {{_youtubeSubDomain_}} et {{. _familiesSubDomain_}} respectivement. Leurs noms de domaine sont donc différents.",
+    "click": ": le lien sur lequel on a cliqué",
+    "clickpath": ": Le chemin du lien cliqué",
+    "minimatch": ": méthode de correspondance {{_glob_}}, utilisant la bibliothèque {{_minimatch_}}, méthode d'utilisation <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Voir < /a>, ou vous pouvez rechercher {{_glob_}}.",
+    "isSameDomain": ": Qu'il s'agisse du même nom de domaine, {{_true_}} c'est oui, {{_false_}} c'est non.",
+    "isSameParent": ": Qu'il s'agisse du même chemin parent, {{_true_}} est oui, {{_false_}} est non.",
+    "isPageSublink": ": Si la page actuelle est une sous-page du lien cliqué, {{_true_}} est oui, {{_false_}} est non.",
+    "isPageMultilevelSublink": ": Si la page actuelle est une sous-page infinie du lien cliqué, {{_true_}} est oui, {{_false_}} est non.",
+    "isClickSublink": ": Si le lien cliqué est un sous-lien de la page actuelle, {{_true_}} est oui, {{_false_}} est non.",
+    "isClickMultilevelSublink": ": Si le lien cliqué est un sous-lien illimité de la page actuelle, {{_true_}} est oui, {{_false_}} est non.",
+    "returnVariables": {
+      "title": "Variables consignées",
+      "rightTab": ": Le lien s'ouvre dans un nouvel onglet à droite",
+      "leftTab": ": Le lien s'ouvre dans un nouvel onglet à gauche",
+      "currentWindow": "fenêtre actuelle",
+      "newWindow": "nouvelle fenêtre",
+      "incognitoWindow": "Fenêtre de navigation privée",
+      "popupWindow": "Fenêtre contextuelle",
+      "currentTab": "Onglet actuel",
+      "active": "Activer maintenant",
+      "inactive": "Non activé"
+    }
+  },
+  "menu": {
+    "main": "Variables disponibles"
+  }
+}

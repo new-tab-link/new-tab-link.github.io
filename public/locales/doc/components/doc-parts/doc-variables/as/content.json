@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "উপলব্ধ চলকসমূহ",
+    "page": ": চলকটো বৰ্তমান ৱেব পৃষ্ঠাৰ URL বস্তু চাওক</a>",
+    "pageHost": ": বৰ্তমানৰ ৱেব পৃষ্ঠাৰ ডমেইন নাম",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: একেটা ডমেইন নাম মন কৰিব যে যদিও {{_youtube_}} আৰু {{_families_}} ৰ মূল ডমেইন নাম দুয়োটা {{_mainDomain_}}, উপডমেইন নাম {{_youtubeSubDomain_}} আৰু {{. _familiesSubDomain_}} ক্ৰমে গতিকে তেওঁলোকৰ ডমেইন নাম বেলেগ।",
+    "click": ": ক্লিক কৰা লিংকটো",
+    "clickpath": ": ক্লিক কৰা লিংকটোৰ পথ",
+    "minimatch": ": {{_glob_}} মিলন পদ্ধতি, {{_minimatch_}} লাইব্ৰেৰী ব্যৱহাৰ কৰি, ব্যৱহাৰ পদ্ধতি <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>< চাওক /a>, বা আপুনি {{_glob_}} সন্ধান কৰিব পাৰে।",
+    "isSameDomain": ": একেটা ডমেইন নাম হওক, {{_true_}} হয়, {{_false_}} নহয়।",
+    "isSameParent": ": একেটা পিতৃ পথ হওক, {{_true_}} হয়, {{_false_}} নহয়।",
+    "isPageSublink": ": বৰ্তমান পৃষ্ঠাটো ক্লিক কৰা সংযোগৰ এটা উপপৃষ্ঠা হওক, {{_true_}} হয়, {{_false_}} নহয়।",
+    "isPageMultilevelSublink": ": বৰ্তমান পৃষ্ঠাটো ক্লিক কৰা লিংকটোৰ এটা অসীম উপপৃষ্ঠা হওক, {{_true_}} হয়, {{_false_}} নহয়।",
+    "isClickSublink": ": ক্লিক কৰা লিংকটো বৰ্তমান পৃষ্ঠাৰ এটা উপ-লিংক হওক, {{_true_}} হয়, {{_false_}} নহয়।",
+    "isClickMultilevelSublink": ": ক্লিক কৰা লিংকটো বৰ্তমান পৃষ্ঠাৰ এটা সীমাহীন উপ-লিংক হওক, {{_true_}} হয়, {{_false_}} নহয়।",
+    "returnVariables": {
+      "title": "ঘূৰাই দিব পৰা চলকসমূহ",
+      "rightTab": ": সোঁফালে নতুন টেবত লিংকটো খোল খাব",
+      "leftTab": ": বাওঁফালে নতুন টেবত লিংকটো খোল খাব",
+      "currentWindow": "বৰ্তমান উইণ্ড'",
+      "newWindow": "নতুন উইণ্ড'",
+      "incognitoWindow": "ইনকগনিটো উইণ্ড'",
+      "popupWindow": "পপ-আপ উইণ্ড'",
+      "currentTab": "বৰ্তমান টেব",
+      "active": "এতিয়াই সক্ৰিয় কৰক",
+      "inactive": "সক্ৰিয় কৰা হোৱা নাই"
+    }
+  },
+  "menu": {
+    "main": "উপলব্ধ চলকসমূহ"
+  }
+}

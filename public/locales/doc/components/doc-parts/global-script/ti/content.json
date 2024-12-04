@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ዓለምለኻዊ ቅጥዕታት ስክሪፕት።",
+    "description": "ጃቫስክሪፕት ተጠቂምካ ናይ ገዛእ ርእስኻ ስክሪፕት ክትጽሕፍ ትኽእል ኢኻ።",
+    "examplesTitle": "ኣብነት",
+    "checkedUseSetting": "ነዚ ቅጥዒ ንምንቅስቓስ ኣረጋግጽ።",
+    "variables": {
+      "title": "ዝርከቡ ተለዋዋጢ ዋጋታት",
+      "click": "ዝተጠውቐ መላግቦ፡ እዚ ባህሪ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ክፍሊ ነገራት እዩ።",
+      "page": "ናይቲ ሕጂ ዘሎ ገጽ መላግቦ እዚ ባህሪ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> እዩ። class object."
+    },
+    "returnVariables": {
+      "title": "ክምለሱ ዝኽእሉ ክብርታት",
+      "rightTab": "ኣብ የማን ኣብ ሓድሽ ትብ ክፈት"
+    }
+  },
+  "menu": {
+    "main": "ዓለምለኻዊ ስክሪፕት።"
+  }
+}

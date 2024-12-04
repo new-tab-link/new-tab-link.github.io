@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Tukuy pacha qillqap churanakuna",
+    "description": "Kikin qillqa mayt'uta qillqayta atinki javascript nisqawan",
+    "examplesTitle": "Qatina",
+    "checkedUseSetting": "Kay churayta atichinaykipaq qhaway.",
+    "variables": {
+      "title": "Kaq variables nisqakuna",
+      "click": "T'inki ñit'isqa, kay laya huk <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> clase objeto kaq.",
+      "page": "Kunan p'anqap t'inkinqa kay laya <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> nisqa clase objeto nisqa."
+    },
+    "returnVariables": {
+      "title": "Kutichiy atikuq chanikuna",
+      "rightTab": "Paña ladopi musuq tablapi kichay"
+    }
+  },
+  "menu": {
+    "main": "pachantinpi qillqa mayt’u"
+  }
+}

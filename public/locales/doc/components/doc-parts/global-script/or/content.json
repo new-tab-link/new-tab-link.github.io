@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ଗ୍ଲୋବାଲ୍ ସ୍କ୍ରିପ୍ଟ ସେଟିଙ୍ଗ୍ |",
+    "description": "ଜାଭାସ୍କ୍ରିପ୍ଟ ବ୍ୟବହାର କରି ଆପଣ ନିଜର ସ୍କ୍ରିପ୍ଟ ଲେଖିପାରିବେ |",
+    "examplesTitle": "ଉଦାହରଣ |",
+    "checkedUseSetting": "ଏହି ସେଟିଂ ସକ୍ଷମ କରିବାକୁ ଯାଞ୍ଚ କରନ୍ତୁ |",
+    "variables": {
+      "title": "ଉପଲବ୍ଧ ଭେରିଏବଲ୍ |",
+      "click": "କ୍ଲିକ୍ ହୋଇଥିବା ଲିଙ୍କ୍, ଏହି ଗୁଣଟି ହେଉଛି ଏକ <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' target = '_ blank' rel = 'noreferrer'> URL </a> ଶ୍ରେଣୀ ବସ୍ତୁ |",
+      "page": "ସାମ୍ପ୍ରତିକ ପୃଷ୍ଠାର ଲିଙ୍କ୍ ଏହି ଗୁଣଟି ହେଉଛି ଏକ <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' target = '_ blank' rel = 'noreferrer'> URL </a> ଶ୍ରେଣୀ ବସ୍ତୁ"
+    },
+    "returnVariables": {
+      "title": "ମୂଲ୍ୟଗୁଡିକ ଯାହା ଫେରସ୍ତ ହୋଇପାରିବ |",
+      "rightTab": "ଡାହାଣ ପଟେ ନୂଆ ଟ୍ୟାବରେ ଖୋଲ |"
+    }
+  },
+  "menu": {
+    "main": "ଗ୍ଲୋବାଲ୍ ସ୍କ୍ରିପ୍ଟ |"
+  }
+}

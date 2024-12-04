@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Nsakrae ahorow a ɛwɔ hɔ",
+    "page": ": Nsakraeɛ no yɛ URL adeɛ a ɛwɔ wɛb krataafa a ɛwɔ hɔ mprempren no mu hwɛ</a>",
+    "pageHost": ": Domain din a ɛwɔ wɛbsaet krataafa a ɛwɔ hɔ mprempren no so",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Domain din koro no ara Hyɛ no nsow sɛ ɛwom sɛ {{_youtube_}} ne {{_families_}} domain din titiriw no nyinaa yɛ {{_mainDomain_}} de, nanso subdomain din no yɛ {{_youtubeSubDomain_}} ne {{. _familiesSubDomain_}} sɛnea ɛte biara Enti wɔn domain din yɛ soronko.",
+    "click": ": link a wɔde kliki so no",
+    "clickpath": ": Ɔkwan a link a wɔakliki no fa so",
+    "minimatch": ": {{_glob_}} kwan a wɔfa so hyia, de {{_minimatch_}} nhomakorabea di dwuma, ɔkwan a wɔfa so de di dwuma <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Hwɛ < /a>, anaa wobɛtumi ahwehwɛ {{_glob_}}.",
+    "isSameDomain": ": Sɛ ɛyɛ domain din koro no ara a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
+    "isSameParent": ": Sɛ ɛyɛ ɔwofo kwan koro no ara a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
+    "isPageSublink": ": Sɛ́ ebia krataafa a ɛwɔ hɔ mprempren no yɛ kratafa ketewa a ɛwɔ link a wɔakliki no mu a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
+    "isPageMultilevelSublink": ": Sɛ́ ebia krataafa a ɛwɔ hɔ mprempren no yɛ kratafa ketewa a enni ano wɔ link a wɔakliki no mu a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
+    "isClickSublink": ": Sɛ ebia link a wɔakliki no yɛ krataafa a ɛwɔ hɔ mprempren no sub-link a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
+    "isClickMultilevelSublink": ": Sɛ ebia link a wɔakliki no yɛ mprempren krataafa no sub-link a anohyeto nni mu a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
+    "returnVariables": {
+      "title": "Nsakrae a wotumi san de ba",
+      "rightTab": ": Link no bebue wɔ tab foforo bi mu wɔ nifa so",
+      "leftTab": ": Link no bebue wɔ tab foforo bi mu wɔ benkum so",
+      "currentWindow": "mprempren mfɛnsere",
+      "newWindow": "mfɛnsere foforo",
+      "incognitoWindow": "Incgnito mfɛnsere",
+      "popupWindow": "Pop-up mfɛnsere",
+      "currentTab": "Mprempren tab a ɛwɔ hɔ",
+      "active": "Fa yɛ adwuma mprempren",
+      "inactive": "Ɛnyɛ nea wɔayɛ no adwuma"
+    }
+  },
+  "menu": {
+    "main": "Nsakrae ahorow a ɛwɔ hɔ"
+  }
+}

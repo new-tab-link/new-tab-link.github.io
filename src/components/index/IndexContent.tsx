@@ -9,6 +9,7 @@ import { Counter } from "./jotaitest";
 import { indexModel } from "./Model";
 import { DocAllLinks } from "../doc-parts/all-links/DocAllLinks";
 import { DocDiffDomainLink } from "../doc-parts/diff-domain-links/DocDiffDomainLinks";
+import { DocGlobalScript } from "../doc-parts/global-script/DocGlobalScript";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -65,6 +66,7 @@ function LeftMenu() {
         <DocOverview.Menu />
         <DocAllLinks.Menu />
         <DocDiffDomainLink.Menu />
+        <DocGlobalScript.Menu />
         {/* <DocGlobal.Menu /> */}
         <DocVariables.Menu />
     </MenuContainer>
@@ -108,8 +110,9 @@ export function IndexContent() {
                         <DocOverview.Doc />
                         <DocAllLinks.Doc />
                         <DocDiffDomainLink.Doc />
+                        <DocGlobalScript.Doc />
                         {/* <DocGlobal.Doc /> */}
-                        <DocVariables.Doc />
+                        {/* <DocVariables.Doc /> */}
                         <MediaQuery />
                     </div>
                 </Stack>

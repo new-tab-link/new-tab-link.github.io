@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Athróga atá ar fáil",
+    "page": ": Is é an t-athróg oibiacht URL an leathanaigh ghréasáin reatha. féach</a>",
+    "pageHost": ": Ainm fearainn an leathanaigh ghréasáin reatha",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: An t-ainm fearainn céanna. Tabhair faoi deara, cé gur {{_mainDomain_}} na príomhainmneacha fearainn de {{_youtube_}} agus {{_families_}}, is iad {{_youtubeSubDomain_}} agus {{) na hainmneacha fearainn céanna. _familiesSubDomain_}} faoi seach, mar sin tá a n-ainmneacha fearainn difriúil.",
+    "click": ": an nasc ar chliceáil air",
+    "clickpath": ": Conair an naisc chliceáilte",
+    "minimatch": ": {{_glob_}} modh meaitseála, ag baint úsáid as an leabharlann {{_minimatch_}}, modh úsáide <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Féach < /a>, nó is féidir leat {{_glob_}} a chuardach.",
+    "isSameDomain": ": Cibé an t-ainm fearainn céanna é, {{_true_}} tá, {{_false_}} níl.",
+    "isSameParent": ": Cibé an cosán tuismitheora céanna é, {{_true_}} tá, {{_false_}} níl.",
+    "isPageSublink": ": Cibé an bhfuil an leathanach reatha ina fho-leathanach den nasc a chliceáil, {{_true_}} an bhfuil, {{_false_}} níl.",
+    "isPageMultilevelSublink": ": Cibé an fo-leathanach gan teorainn é an leathanach reatha den nasc a chliceáil, {{_true_}} an bhfuil, níl {{_false_}}.",
+    "isClickSublink": ": Cibé an fo-nasc den leathanach reatha é an nasc a chliceáil, {{_true_}} an bhfuil, níl {{_false_}}.",
+    "isClickMultilevelSublink": ": Cibé an fo-nasc neamhtheoranta den leathanach reatha é an nasc a chliceáil, tá {{_true_}} níl, {{_false_}} níl.",
+    "returnVariables": {
+      "title": "Athróga in-aischurtha",
+      "rightTab": ": Osclaíonn an nasc i gcluaisín nua ar dheis",
+      "leftTab": ": Osclaíonn an nasc i gcluaisín nua ar thaobh na láimhe clé",
+      "currentWindow": "fhuinneog reatha",
+      "newWindow": "fuinneog nua",
+      "incognitoWindow": "Fuinneog gan aithne",
+      "popupWindow": "Fuinneog aníos",
+      "currentTab": "Cluaisín reatha",
+      "active": "Gníomhachtaigh anois",
+      "inactive": "Gan gníomhachtaithe"
+    }
+  },
+  "menu": {
+    "main": "Athróga atá ar fáil"
+  }
+}

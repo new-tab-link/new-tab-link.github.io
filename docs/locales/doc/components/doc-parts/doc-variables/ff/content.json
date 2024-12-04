@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Waɗde waylooji ina ngoodi",
+    "page": ": Waɗde ko huunde URL hello web jooni ngoo Ngam humpitaade, <a href='blank' rel='noreferrer'> ƴeew</a>",
+    "pageHost": ": Innde domen hello web jooni ngoo",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Innde domen wootere Tesko-ɗen wonde hay so tawii inɗe domen mawɗe {{_youtube_}} e {{_families_}} fof ko {{_Domen_}}, inɗe domen tokoose ɗee ko {{_Domen_}} e {{_. _familiesSubDomain_}} ko noon inɗe domen maɓɓe ceertiri.",
+    "click": ": jokkorde nde ɓuuɓnaa",
+    "clickpath": ": Laawol jokkorde ɓuuɓnde ndee",
+    "minimatch": ": {{_glob_}} feere kawral, huutortoonde {{_minimatch_}} defterdu, feere kuutoragol <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ƴeew < /a>, walla aɗa waawi yiylaade {{_glob_}}.",
+    "isSameDomain": ": So tawii ko innde domen wootere, {{_goonga_}} ko eey, {{_fenaande_}} ko alaa.",
+    "isSameParent": ": So tawii ko laawol gootol jibinannde, {{_goonga_}} ko eey, {{_fenaande_}} ko alaa.",
+    "isPageSublink": ": So tawii hello jooni ngoo ko hello lesleso jokkorde ɓuuɓnde ndee, {{_goonga_}} ko eey, {{_fenaande_}} ko alaa.",
+    "isPageMultilevelSublink": ": So tawii hello jooni ngoo ko hello lesleso ngo alaa keerol e jokkorde ɓuuɓnde ndee, {{_true_}} ko eey, {{_false_}} ko alaa.",
+    "isClickSublink": ": So tawii jokkorde ɓuuɓnde ndee ko jokkorde les hello jooni ngoo, {{_true_}} ko eey, {{_false_}} ko alaa.",
+    "isClickMultilevelSublink": ": So tawii jokkorde ɓuuɓnde ndee ko jokkorde lesre nde alaa keerol e hello jooni ngoo, {{_true_}} ko eey, {{_false_}} ko alaa.",
+    "returnVariables": {
+      "title": "Waɗde waylooji ngartirɗi",
+      "rightTab": ": Jokkorde ndee uddittee ko e lowre hesere to bannge ñaamo",
+      "leftTab": ": Jokkorde ndee uddittee ko e lowre hesere to bannge nano",
+      "currentWindow": "windo jooni ngoo",
+      "newWindow": "windo keso",
+      "incognitoWindow": "Winndere nde anndaaka",
+      "popupWindow": "Winndannde ɓuuɓnde",
+      "currentTab": "Tappude jooni",
+      "active": "Huutoro jooni",
+      "inactive": "Huutoraaka"
+    }
+  },
+  "menu": {
+    "main": "Waɗde waylooji ina ngoodi"
+  }
+}

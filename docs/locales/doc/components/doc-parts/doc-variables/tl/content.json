@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Magagamit na mga variable",
+    "page": ": Ang variable ay ang URL object ng kasalukuyang web page Para sa mga detalye, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> tingnan</a>",
+    "pageHost": ": Ang domain name ng kasalukuyang web page",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Ang parehong domain name ay tandaan na kahit na ang mga pangunahing domain name ng {{_youtube_}} at {{_families_}} ay parehong {{_mainDomain_}}, ang mga subdomain name ay {{_youtubeSubDomain_}} at {{ _familiesSubDomain_}} ayon sa pagkakabanggit. Kaya't iba ang kanilang mga domain name.",
+    "click": ": ang link na na-click",
+    "clickpath": ": Ang landas ng na-click na link",
+    "minimatch": ": {{_glob_}} paraan ng pagtutugma, gamit ang {{_minimatch_}} library, paraan ng paggamit <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Tingnan < /a>, o maaari kang maghanap para sa {{_glob_}}.",
+    "isSameDomain": ": Magkapareho man ito ng domain name, {{_true_}} ay oo, {{_false_}} ay hindi.",
+    "isSameParent": ": Kung ito man ay ang parehong parent path, {{_true_}} ay oo, {{_false_}} ay hindi.",
+    "isPageSublink": ": Kung ang kasalukuyang pahina ay isang subpage ng na-click na link, {{_true_}} ay oo, {{_false_}} ay hindi.",
+    "isPageMultilevelSublink": ": Kung ang kasalukuyang pahina ay isang walang katapusang subpage ng na-click na link, ang {{_true_}} ay oo, {{_false_}} ay hindi.",
+    "isClickSublink": ": Kung ang na-click na link ay isang sub-link ng kasalukuyang pahina, ang {{_true_}} ay oo, {{_false_}} ay hindi.",
+    "isClickMultilevelSublink": ": Kung ang na-click na link ay isang walang limitasyong sub-link ng kasalukuyang pahina, ang {{_true_}} ay oo, {{_false_}} ay hindi.",
+    "returnVariables": {
+      "title": "Mga variable na maibabalik",
+      "rightTab": ": Ang link ay bubukas sa isang bagong tab sa kanan",
+      "leftTab": ": Ang link ay bubukas sa isang bagong tab sa kaliwa",
+      "currentWindow": "kasalukuyang window",
+      "newWindow": "bagong window",
+      "incognitoWindow": "Incognito window",
+      "popupWindow": "Pop-up na window",
+      "currentTab": "Kasalukuyang tab",
+      "active": "I-activate ngayon",
+      "inactive": "Hindi na-activate"
+    }
+  },
+  "menu": {
+    "main": "Magagamit na mga variable"
+  }
+}

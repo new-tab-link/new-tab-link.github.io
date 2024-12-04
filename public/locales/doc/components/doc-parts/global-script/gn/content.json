@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Script ñemboheko atyguasu rehegua",
+    "description": "Ikatu rehai nde script tee reipuruhápe javascript",
+    "examplesTitle": "Tembiecharã",
+    "checkedUseSetting": "Ehecháke emboguata hag̃ua ko ñemboheko.",
+    "variables": {
+      "title": "Umi variable ojeguerekóva",
+      "click": "Pe enlace ojepysóva, ko atributo haꞌehína peteĩ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> mbaꞌekuaarã mboꞌepy rehegua.",
+      "page": "Pe páhina ko’ag̃agua joajuha Ko atributo ha’e peteĩ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> objeto clase rehegua."
+    },
+    "returnVariables": {
+      "title": "Umi valor ikatúva ojegueru jey",
+      "rightTab": "Eipe’a ficha pyahúpe oĩva akatúape"
+    }
+  },
+  "menu": {
+    "main": "guión global rehegua"
+  }
+}

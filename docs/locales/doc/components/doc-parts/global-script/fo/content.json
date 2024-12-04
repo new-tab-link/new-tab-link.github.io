@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Alheims skriftinnstillingar",
+    "description": "Tú kanst skriva títt egna skrift við javascript .",
+    "examplesTitle": "Dømi",
+    "checkedUseSetting": "Kanna fyri at virkja hesa innstillingina.",
+    "variables": {
+      "title": "Tøkar breytir",
+      "click": "Trýst á leinkjuna, er hesin eginleikin ein <a href='https://mennari.",
+      "page": "Leinkjan til núverandi síðu er ein <a href='https://mennari.mozilla.org/docs/Web/API/URL' target='_blank' rel='referrer'>URL</a>. flokslutur."
+    },
+    "returnVariables": {
+      "title": "Virði, sum kunnu latast aftur",
+      "rightTab": "Opna í nýggjum flipa til høgru"
+    }
+  },
+  "menu": {
+    "main": "alheims skrift"
+  }
+}

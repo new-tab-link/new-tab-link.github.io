@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Trɔtrɔnu siwo li",
+    "page": ": Trɔtrɔ la nye URL nusi le nyatakakadzraɖoƒe si li fifia Ne èdi nyatakakawo la, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> kpɔ</a>",
+    "pageHost": ": Nyatakakadzraɖoƒe si li fifia ƒe domenyiŋkɔ",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Domenyiŋkɔ ɖeka ma ke De dzesii be togbɔ be {{_youtube_}} kple {{_families_}} ƒe domenyiŋkɔ veviwo nye {{_mainDomain_}} hã la, domenyinyi ƒe ŋkɔ sueawo nye {{_youtubeSubDomain_}} kple {{. _familiesSubDomain_}} ɖe wo nɔewo yome Eyata woƒe domenyiŋusẽfianu ŋkɔwo to vovo.",
+    "click": ": kadodo si dzi wozi la",
+    "clickpath": ": Mɔ si dzi kadodo si dzi nèzi la le",
+    "minimatch": ": {{_glob_}} sɔsɔ ƒe mɔnu, zã {{_minimatch_}} agbalẽdzraɖoƒe, zazã mɔnu <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Kpɔ < /a>, alo àteŋu adi {{_glob_}}.",
+    "isSameDomain": ": Eɖanye domenyiŋkɔ ɖeka ma ke o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
+    "isSameParent": ": Eɖanye dzila ƒe mɔ ɖeka ma ke o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
+    "isPageSublink": ": Eɖanye axa si li fifia nye kadodo si wozi la ƒe axa sue o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
+    "isPageMultilevelSublink": ": Eɖanye axa si li fifia nye axa sue si seɖoƒe meli na o le kadodo si wozi la me o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
+    "isClickSublink": ": Eɖanye kadodo si wozi la nye axa si li fifia ƒe kadodo sue aɖe o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
+    "isClickMultilevelSublink": ": Eɖanye kadodo si wozi la nye axa si li fifia ƒe kadodo sue si seɖoƒe meli na o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
+    "returnVariables": {
+      "title": "Trɔtrɔnu siwo woate ŋu atrɔ",
+      "rightTab": ": Kadodoa aʋu le tab yeye aɖe me le ɖusime",
+      "leftTab": ": Kadodoa aʋu le tab yeye aɖe me le miame",
+      "currentWindow": "fesre si li fifia",
+      "newWindow": "fesre yeye",
+      "incognitoWindow": "Fesre si womenya o",
+      "popupWindow": "Fesre si dona ɖe ŋgɔ",
+      "currentTab": "Tab si li fifia",
+      "active": "Wɔ dɔ fifia",
+      "inactive": "Womewɔe dɔ o"
+    }
+  },
+  "menu": {
+    "main": "Trɔtrɔnu siwo li"
+  }
+}

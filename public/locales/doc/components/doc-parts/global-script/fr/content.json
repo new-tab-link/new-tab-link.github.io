@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Paramètres de script globaux",
+    "description": "Vous pouvez écrire votre propre script en utilisant javascript",
+    "examplesTitle": "Exemple",
+    "checkedUseSetting": "Cochez pour activer ce paramètre.",
+    "variables": {
+      "title": "Variables disponibles",
+      "click": "Lien cliqué, cet attribut est un objet de classe <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Le lien de la page actuelle est une <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. objet de classe."
+    },
+    "returnVariables": {
+      "title": "Valeurs pouvant être renvoyées",
+      "rightTab": "Ouvrir dans un nouvel onglet à droite"
+    }
+  },
+  "menu": {
+    "main": "script global"
+  }
+}

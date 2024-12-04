@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Gosodiadau sgript byd-eang",
+    "description": "Gallwch chi ysgrifennu eich sgript eich hun gan ddefnyddio javascript",
+    "examplesTitle": "Enghraifft",
+    "checkedUseSetting": "Gwiriwch i alluogi'r gosodiad hwn.",
+    "variables": {
+      "title": "Newidynnau sydd ar gael",
+      "click": "Dolen wedi'i chlicio, mae'r briodwedd hon yn <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> gwrthrych dosbarth.",
+      "page": "Dolen i'r dudalen gyfredol. gwrthrych dosbarth."
+    },
+    "returnVariables": {
+      "title": "Gwerthoedd y gellir eu dychwelyd",
+      "rightTab": "Agorwch mewn tab newydd ar y dde"
+    }
+  },
+  "menu": {
+    "main": "sgript byd-eang"
+  }
+}

@@ -7,8 +7,8 @@
     "clean": "pnpm clean:bundle && pnpm clean:node_modules",
     "i18n": "ts-node ./i18n-raw/scripts/file-listen.mjs",
     "trans": "node ./i18n-raw/scripts/t.mjs",
-    "dev": "clean:bundle && next dev",
-    "build": "next build",
+    "dev": "pnpm pnpx rimraf dist && next dev",
+    "build": "pnpm clean:bundle && next build",
     "start": "next start",
     "view": "npx serve@latest docs"
   },

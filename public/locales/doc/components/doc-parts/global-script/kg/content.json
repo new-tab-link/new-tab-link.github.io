@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Baparametre ya script ya ntoto ya mvimba",
+    "description": "Nge lenda sonika script na nge mosi na kusadilaka javascript .",
+    "examplesTitle": "Mbandu",
+    "checkedUseSetting": "Tala sambu na kupesa nzila na parametre yai.",
+    "variables": {
+      "title": "Bima ya kuswaswana kele",
+      "click": "Kufina na nzila, kikalulu yai kele kima ya kitini <a href='URL</a>.",
+      "page": "Nzila ya lutiti ya sesepi Kikalulu yai kele <a href='https://developer.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> kima ya klase."
+    },
+    "returnVariables": {
+      "title": "Ba ntalu yina lenda vutuka",
+      "rightTab": "Kangula na tab ya mpa na diboko ya kitata"
+    }
+  },
+  "menu": {
+    "main": "script ya ntoto ya mvimba"
+  }
+}

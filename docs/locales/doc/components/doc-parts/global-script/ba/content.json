@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Глобаль сценарий параметрҙары",
+    "description": "Һеҙ үҙегеҙҙең сценарийҙы javascript ҡулланып яҙа алаһығыҙ .",
+    "examplesTitle": "Миҫал",
+    "checkedUseSetting": "Был параметрҙы эшләтеүҙе тикшерегеҙ.",
+    "variables": {
+      "title": "Доступные переменные",
+      "click": "Һылтанмаға баҫылған был атрибут <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> класс объекты булып тора.",
+      "page": "Ағымдағы биттең һылтанмаһы — <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. класс объекты."
+    },
+    "returnVariables": {
+      "title": "Ҡайтарырға мөмкин булған ҡиммәттәр",
+      "rightTab": "Уң яҡтағы яңы өлөшсәлә асыла"
+    }
+  },
+  "menu": {
+    "main": "глобаль сценарий"
+  }
+}

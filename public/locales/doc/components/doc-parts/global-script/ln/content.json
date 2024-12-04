@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Ba paramètres ya script ya mokili mobimba",
+    "description": "Okoki kokoma script na yo moko na nzela ya javascript",
+    "examplesTitle": "Ndakisa",
+    "checkedUseSetting": "Tala mpo na kofungola paramètre oyo.",
+    "variables": {
+      "title": "Ba variables oyo ezali",
+      "click": "Lien oyo ekangami, attribut oyo ezali <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> eloko ya kelasi.",
+      "page": "Lien ya lokasa ya lelo.Ezaleli oyo ezali <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> eloko ya kelasi."
+    },
+    "returnVariables": {
+      "title": "Mituya oyo ekoki kozongisama",
+      "rightTab": "Fungola na tab ya sika na loboko ya mobali"
+    }
+  },
+  "menu": {
+    "main": "script ya mokili mobimba"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variabile disponibile",
+    "page": ": variabila este obiectul URL al paginii web curente. Pentru detalii, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. vezi</a>",
+    "pageHost": ": Numele de domeniu al paginii web curente",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: același nume de domeniu Rețineți că, deși numele de domenii principale ale {{_youtube_}} și {{_families_}} sunt ambele {{_mainDomain_}}, numele de subdomeniu sunt {{_youtubeSubDomain_}} și {{. _familiesSubDomain_}}, deci, numele lor de domeniu sunt diferite.",
+    "click": ": linkul pe care s-a făcut clic",
+    "clickpath": ": Calea linkului pe care s-a făcut clic",
+    "minimatch": ": metoda de potrivire {{_glob_}}, folosind biblioteca {{_minimatch_}}, metoda de utilizare <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vezi < /a>, sau puteți căuta {{_glob_}}.",
+    "isSameDomain": ": Indiferent dacă este același nume de domeniu, {{_true_}} este da, {{_false_}} este nu.",
+    "isSameParent": ": Indiferent dacă este aceeași cale părinte, {{_true_}} este da, {{_false_}} este nu.",
+    "isPageSublink": ": Indiferent dacă pagina curentă este o subpagină a linkului pe care s-a făcut clic, {{_true_}} este da, {{_false_}} este nu.",
+    "isPageMultilevelSublink": ": Indiferent dacă pagina curentă este o subpagină infinită a linkului pe care s-a făcut clic, {{_true_}} este da, {{_false_}} este nu.",
+    "isClickSublink": ": Indiferent dacă linkul pe care s-a făcut clic este un sublink al paginii curente, {{_true_}} este da, {{_false_}} este nu.",
+    "isClickMultilevelSublink": ": Indiferent dacă linkul pe care s-a făcut clic este un sublink nelimitat al paginii curente, {{_true_}} este da, {{_false_}} este nu.",
+    "returnVariables": {
+      "title": "Variabile returnabile",
+      "rightTab": ": Linkul se deschide într-o filă nouă din dreapta",
+      "leftTab": ": Linkul se deschide într-o filă nouă din stânga",
+      "currentWindow": "fereastra curentă",
+      "newWindow": "fereastră nouă",
+      "incognitoWindow": "Fereastra incognito",
+      "popupWindow": "Fereastra pop-up",
+      "currentTab": "Fila curentă",
+      "active": "Activați acum",
+      "inactive": "Nu este activat"
+    }
+  },
+  "menu": {
+    "main": "Variabile disponibile"
+  }
+}

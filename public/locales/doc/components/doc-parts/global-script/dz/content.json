@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ཡོངས་ཁྱབ་ཡིག་ཚུགས་སྒྲིག་སྟངས་ཚུ།",
+    "description": "ཁྱོད་ཀྱིས་ javascript ལག་ལེན་འཐབ་སྟེ་ ཁྱོད་རའི་ཡིག་གཟུགས་འབྲི་ཚུགས།",
+    "examplesTitle": "དཔེ",
+    "checkedUseSetting": "སྒྲིག་སྟངས་འདི་ལྕོགས་ཅན་བཟོ་ནི་ལུ་ཞིབ་དཔྱད་འབད།",
+    "variables": {
+      "title": "འཐོབ་ཚུགས་པའི་འགྱུར་ཅན་ཚུ།",
+      "click": "ཨེབ་གཏང་འབད་ཡོད་པའི་འབྲེལ་ལམ་ ཁྱད་ཆོས་འདི་ <a href='https://developer.mozilla.org/docs/Web/API/URL' དམིགས་གཏད་='_blank' rel='noreferrer'>ཡུ་ཨར་ཨེལ་</a> དབྱེ་རིམ་དངོས་པོ་ཨིན།",
+      "page": "ད་ལྟོའི་ཤོག་ལེབ་ཀྱི་འབྲེལ་ལམ་འདི་ ཁྱད་ཆོས་འདི་ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>ཡུ་ཨར་ཨེལ་</a>ཅིག་ཨིན། class དངོས་པོ།"
+    },
+    "returnVariables": {
+      "title": "སླར་ལོག་འབད་བཏུབ་པའི་གནས་གོང་ཚུ།",
+      "rightTab": "གཡས་ཁ་ཐུག་ལུ་ མཆོང་ལྡེ་གསརཔ་ནང་ཁ་ཕྱེ།"
+    }
+  },
+  "menu": {
+    "main": "འཛམ་གླིང་ཡིག་གཟུགས།"
+  }
+}

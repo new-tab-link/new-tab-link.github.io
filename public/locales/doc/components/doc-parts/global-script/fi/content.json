@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Yleiset komentosarjaasetukset",
+    "description": "Voit kirjoittaa oman skriptin JavaScriptillä",
+    "examplesTitle": "Esimerkki",
+    "checkedUseSetting": "Ota tämä asetus käyttöön valitsemalla tämä.",
+    "variables": {
+      "title": "Saatavilla olevat muuttujat",
+      "click": "Klikattua linkkiä, tämä attribuutti on <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>-luokan objekti.",
+      "page": "Nykyisen sivun linkki Tämä määrite on <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL-osoite</a>. luokan objekti."
+    },
+    "returnVariables": {
+      "title": "Arvot, jotka voidaan palauttaa",
+      "rightTab": "Avaa oikealla uudessa välilehdessä"
+    }
+  },
+  "menu": {
+    "main": "globaali käsikirjoitus"
+  }
+}

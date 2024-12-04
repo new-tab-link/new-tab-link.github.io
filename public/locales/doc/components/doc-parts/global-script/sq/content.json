@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Cilësimet globale të skriptit",
+    "description": "Ju mund të shkruani skriptin tuaj duke përdorur javascript",
+    "examplesTitle": "Shembull",
+    "checkedUseSetting": "Kontrollo për të aktivizuar këtë cilësim.",
+    "variables": {
+      "title": "Variablat e disponueshëm",
+      "click": "Lidhja e klikuar, ky atribut është një objekt i klasës <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Lidhja e faqes aktuale Ky atribut është një <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. objekti i klasës."
+    },
+    "returnVariables": {
+      "title": "Vlerat që mund të kthehen",
+      "rightTab": "Hapeni në skedën e re në të djathtë"
+    }
+  },
+  "menu": {
+    "main": "shkrim global"
+  }
+}

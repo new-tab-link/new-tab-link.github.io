@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "تنظیمات اسکریپت جهانی",
+    "description": "شما می توانید اسکریپت خود را با استفاده از جاوا اسکریپت بنویسید",
+    "examplesTitle": "مثال",
+    "checkedUseSetting": "برای فعال کردن این تنظیم علامت بزنید.",
+    "variables": {
+      "title": "متغیرهای موجود",
+      "click": "روی پیوند کلیک شده، این ویژگی یک شی کلاس <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> است.",
+      "page": "پیوند صفحه فعلی این ویژگی یک <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> است. شی کلاس"
+    },
+    "returnVariables": {
+      "title": "ارزش هایی که قابل بازگشت هستند",
+      "rightTab": "در برگه جدید سمت راست باز کنید"
+    }
+  },
+  "menu": {
+    "main": "اسکریپت جهانی"
+  }
+}

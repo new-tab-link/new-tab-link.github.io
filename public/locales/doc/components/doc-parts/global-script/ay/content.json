@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Uraqpachan script ukan utt’ayatanakapa",
+    "description": "Jumax javascript ukampiw script qillqt’asma",
+    "examplesTitle": "Uñanchawi",
+    "checkedUseSetting": "Aka wakicht’awix ch’amanchañatakiw uñakipt’aña.",
+    "variables": {
+      "title": "Ukax variables ukanakaw utji",
+      "click": "Ch’iqt’ata, aka atributo ukax <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> clase objeto ukawa.",
+      "page": "Jichha pankan chimpupax aka atributox <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ukawa clase objeto ukaxa."
+    },
+    "returnVariables": {
+      "title": "Valores ukax kutt’ayatäspawa",
+      "rightTab": "Ch’iqa tuqin machaq tabla ukan jist’arañamawa"
+    }
+  },
+  "menu": {
+    "main": "uraqpachan qillqatanakapa"
+  }
+}

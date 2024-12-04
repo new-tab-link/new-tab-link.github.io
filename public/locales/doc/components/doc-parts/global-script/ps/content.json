@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "د نړیوال سکریپټ ترتیبات",
+    "description": "تاسو کولی شئ د جاوا سکرپٹ په کارولو سره خپل سکریپټ ولیکئ",
+    "examplesTitle": "بېلګه",
+    "checkedUseSetting": "د دې ترتیب فعالولو لپاره چیک کړئ.",
+    "variables": {
+      "title": "شته متغیرات",
+      "click": "کلیک شوی لینک، دا خاصیت د <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ټولګي اعتراض دی.",
+      "page": "د اوسنۍ پاڼې لینک دا خاصیت دی <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. ټولګي اعتراض."
+    },
+    "returnVariables": {
+      "title": "هغه ارزښتونه چې بیرته کیدی شي",
+      "rightTab": "په ښي خوا کې په نوي ټب کې خلاص کړئ"
+    }
+  },
+  "menu": {
+    "main": "نړیوال سکریپټ"
+  }
+}

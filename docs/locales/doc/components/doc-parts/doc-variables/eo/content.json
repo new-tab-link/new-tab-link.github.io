@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Disponeblaj variabloj",
+    "page": ": La variablo estas la URL-objekto de la nuna retpaĝo Por detaloj, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. vidu</a>",
+    "pageHost": ": La domajna nomo de la nuna retpaĝo",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: La sama domajna nomo, kvankam la ĉefaj domajnaj nomoj de {{_youtube_}} kaj {{_families_}} estas ambaŭ {{_mainDomain_}}, la subdomajnaj nomoj estas {{_youtubeSubDomain_}} kaj {{. _familiesSubDomain_}} respektive Do iliaj domajnaj nomoj estas malsamaj.",
+    "click": ": la ligilo kiu estis klakita",
+    "clickpath": ": La vojo de la klakita ligilo",
+    "minimatch": ": {{_glob_}} kongrua metodo, uzante la {{_minimatch_}} bibliotekon, uzmetodon <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vidu < /a>, aŭ vi povas serĉi {{_glob_}}.",
+    "isSameDomain": ": Ĉu ĝi estas la sama domajna nomo, {{_true_}} estas jes, {{_false_}} estas ne.",
+    "isSameParent": ": Ĉu ĝi estas la sama gepatra vojo, {{_true_}} estas jes, {{_false_}} estas ne.",
+    "isPageSublink": ": Ĉu la nuna paĝo estas subpaĝo de la klakita ligilo, {{_true_}} estas jes, {{_false_}} estas ne.",
+    "isPageMultilevelSublink": ": Ĉu la nuna paĝo estas senfina subpaĝo de la klakita ligilo, {{_true_}} estas jes, {{_false_}} estas ne.",
+    "isClickSublink": ": Ĉu la klakita ligilo estas subligo de la nuna paĝo, {{_true_}} estas jes, {{_false_}} estas ne.",
+    "isClickMultilevelSublink": ": Ĉu la klakita ligilo estas senlima subligo de la nuna paĝo, {{_true_}} estas jes, {{_false_}} estas ne.",
+    "returnVariables": {
+      "title": "Redoneblaj variabloj",
+      "rightTab": ": La ligilo malfermiĝas en nova langeto dekstre",
+      "leftTab": ": La ligilo malfermiĝas en nova langeto maldekstre",
+      "currentWindow": "aktuala fenestro",
+      "newWindow": "nova fenestro",
+      "incognitoWindow": "Inkognita fenestro",
+      "popupWindow": "Ŝprucfenestro",
+      "currentTab": "Nuna langeto",
+      "active": "Aktivigu nun",
+      "inactive": "Ne aktivigita"
+    }
+  },
+  "menu": {
+    "main": "Disponeblaj variabloj"
+  }
+}

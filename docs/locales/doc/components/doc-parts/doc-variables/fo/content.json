@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Tøkar breytir",
+    "page": ": Breytin er URL-objektið á verandi vevsíðu Fyri nærri upplýsingar, <a href='https://mennari. sí</a>",
+    "pageHost": ": Økisnavnið á verandi heimasíðu",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Sama økisnavn Legg til merkis, at hóast høvuðsøkisnøvnini hjá {{_youtube_}} og {{_familjur_}} eru bæði {{_mainDomain_}}, so eru undirøkisnøvnini {{_youtubeUndirøki_}} og {{ _familjurUndirøki_}} ávikavist So teirra økisnøvn eru ymisk.",
+    "click": ": leinkjan, sum varð trýst á",
+    "clickpath": ": Leiðin til klikkaðu leinkjuna",
+    "minimatch": ": {{_glob_}} samsvarandi háttur, við at brúka {{_minimatch_}} bókasavnið, nýtsluháttur <a href='https://github.com/isaacs/minimatch' mark='_tómt' rel='norereferrer'>Sí < /a>, ella tú kanst leita eftir {{_glob_}}.",
+    "isSameDomain": ": Um tað er sama økisnavn, er {{_true_}} ja, {{_false_}} er nei.",
+    "isSameParent": ": Um tað er sama foreldraleið, er {{_true_}} ja, {{_false_}} er nei.",
+    "isPageSublink": ": Um núverandi síða er ein undirsíða á tí klikkaðu leinkjuni, so er {{_true_}} ja, {{_false_}} nei.",
+    "isPageMultilevelSublink": ": Um núverandi síða er ein óendalig undirsíða av tí klikkaðu leinkjuni, so er {{_true_}} ja, {{_false_}} nei.",
+    "isClickSublink": ": Um tann klikkaða leinkjan er ein undirleinkja á núverandi síðu, so er {{_true_}} ja, {{_false_}} nei.",
+    "isClickMultilevelSublink": ": Um tann klikkaða leinkjan er ein óavmarkað undirleinkja á núverandi síðu, so er {{_true_}} ja, {{_false_}} nei.",
+    "returnVariables": {
+      "title": "Afturlatnar breytir",
+      "rightTab": ": Leinkjan letur upp í einum nýggjum flipa til høgru",
+      "leftTab": ": Leinkjan letur upp í einum nýggjum flipa til vinstru",
+      "currentWindow": "núverandi vindeyga",
+      "newWindow": "nýtt vindeyga",
+      "incognitoWindow": "Inkognito vindeyga",
+      "popupWindow": "Pop-up vindeyga",
+      "currentTab": "Núverandi flipa",
+      "active": "Virkja nú",
+      "inactive": "Ikki virkið"
+    }
+  },
+  "menu": {
+    "main": "Tøkar breytir"
+  }
+}

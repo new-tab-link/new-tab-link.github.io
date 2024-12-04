@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Varyab ki disponib",
+    "page": ": Varyab la se objè URL nan paj wèb aktyèl la. Pou plis detay, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. wè</a>",
+    "pageHost": ": Non domèn paj wèb aktyèl la",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Menm non domèn sa a byenke non domèn prensipal {{_youtube_}} ak {{_families_}} yo tou de {{_mainDomain_}}, non sou domèn yo se {{_youtubeSubDomain_}} ak {{. _familiesSubDomain_}} respektivman Se konsa, non domèn yo diferan.",
+    "click": ": lyen ki te klike la",
+    "clickpath": ": Chemen lyen klike la",
+    "minimatch": ": {{_glob_}} metòd matche, lè l sèvi avèk bibliyotèk {{_minimatch_}}, metòd itilizasyon <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Gade < /a>, oswa ou ka chèche {{_glob_}}.",
+    "isSameDomain": ": Kit se menm non domèn, {{_true_}} se wi, {{_false_}} se non.",
+    "isSameParent": ": Kit se menm chemen paran an, {{_true_}} se wi, {{_false_}} se non.",
+    "isPageSublink": ": Kit paj aktyèl la se yon sou-paj nan lyen klike la, {{_true_}} se wi, {{_false_}} se non.",
+    "isPageMultilevelSublink": ": Kit paj aktyèl la se yon sou-paj enfini nan lyen klike la, {{_true_}} se wi, {{_false_}} se non.",
+    "isClickSublink": ": Kit lyen klike la se yon sub-lyen paj aktyèl la, {{_true_}} se wi, {{_false_}} se non.",
+    "isClickMultilevelSublink": ": Kit lyen klike la se yon sub-link san limit nan paj aktyèl la, {{_true_}} se wi, {{_false_}} se non.",
+    "returnVariables": {
+      "title": "Varyab retounen",
+      "rightTab": ": Lyen an ouvri nan yon nouvo tab sou bò dwat la",
+      "leftTab": ": Lyen an ouvri nan yon nouvo tab sou bò gòch la",
+      "currentWindow": "fennèt aktyèl la",
+      "newWindow": "nouvo fenèt",
+      "incognitoWindow": "Fenèt enkoyito",
+      "popupWindow": "Pop-up fenèt",
+      "currentTab": "Kouran tab",
+      "active": "Aktive kounye a",
+      "inactive": "Pa aktive"
+    }
+  },
+  "menu": {
+    "main": "Varyab ki disponib"
+  }
+}

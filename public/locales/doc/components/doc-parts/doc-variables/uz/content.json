@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Mavjud o'zgaruvchilar",
+    "page": ": Oʻzgaruvchi joriy veb-sahifaning URL obyektidir. Tafsilotlar uchun <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. qarang</a>",
+    "pageHost": ": Joriy veb-sahifaning domen nomi",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Bir xil domen nomi {{_youtube_}} va {{_families_}}ning asosiy domen nomlari ikkalasi ham {{_mainDomain_}} boʻlsa-da, subdomen nomlari {{_youtubeSubDomain_}} va {{. _familiesSubDomain_}}, shuning uchun ularning domen nomlari boshqacha.",
+    "click": ": bosilgan havola",
+    "clickpath": ": Bosilgan havolaning yo'li",
+    "minimatch": ": {{_glob_}} moslashtirish usuli, {{_minimatch_}} kutubxonasidan foydalangan holda, foydalanish usuli <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Qarang: < /a> yoki siz {{_glob_}} ni qidirishingiz mumkin.",
+    "isSameDomain": ": Bir xil domen nomi bo'ladimi, {{_true_}} - ha, {{_false_}} - yo'q.",
+    "isSameParent": ": Bir xil ota-ona yo'li bo'ladimi, {{_true_}} - ha, {{_false_}} - yo'q.",
+    "isPageSublink": ": Joriy sahifa bosilgan havolaning pastki sahifasi boʻladimi, {{_true_}} ha, {{_false_}} esa yoʻq.",
+    "isPageMultilevelSublink": ": Joriy sahifa bosilgan havolaning cheksiz pastki sahifasi boʻladimi, {{_true_}} ha, {{_false_}} esa yoʻq.",
+    "isClickSublink": ": Bosilgan havola joriy sahifaning pastki havolasi boʻladimi, {{_true_}} ha, {{_false_}} esa yoʻq.",
+    "isClickMultilevelSublink": ": Bosilgan havola joriy sahifaning cheksiz pastki havolasi boʻladimi, {{_true_}} ha, {{_false_}} esa yoʻq.",
+    "returnVariables": {
+      "title": "Qaytariladigan o'zgaruvchilar",
+      "rightTab": ": Havola o'ng tarafdagi yangi yorliqda ochiladi",
+      "leftTab": ": Havola chap tarafdagi yangi tabda ochiladi",
+      "currentWindow": "joriy oyna",
+      "newWindow": "yangi oyna",
+      "incognitoWindow": "Inkognito oynasi",
+      "popupWindow": "Qalqib chiquvchi oyna",
+      "currentTab": "Joriy varaq",
+      "active": "Hozir faollashtiring",
+      "inactive": "Faollashtirilmagan"
+    }
+  },
+  "menu": {
+    "main": "Mavjud o'zgaruvchilar"
+  }
+}

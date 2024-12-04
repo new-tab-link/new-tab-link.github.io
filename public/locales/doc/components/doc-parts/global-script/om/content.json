@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Sajoo iskiriiptii addunyaa",
+    "description": "Jaavascript fayyadamuun iskiriiptii mataa keetii barreessuu dandeessa",
+    "examplesTitle": "Fakkeenya",
+    "checkedUseSetting": "Sajoo kana dandeessisuuf ilaali.",
+    "variables": {
+      "title": "Jijjiiramoota jiran",
+      "click": "Hidhaa cuqaafame, amalli kun wanta gitaa <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> wanta gitaati.",
+      "page": "Hidhiin fuula ammaa Amalli kun <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> dha wanta gitaa."
+    },
+    "returnVariables": {
+      "title": "Gatii deebi'uu danda'u",
+      "rightTab": "Caancala haaraa mirgaa irratti banaa"
+    }
+  },
+  "menu": {
+    "main": "iskiriiptii addunyaa"
+  }
+}

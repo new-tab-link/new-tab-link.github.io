@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Globálne nastavenia skriptov",
+    "description": "Pomocou javascriptu si môžete napísať vlastný skript",
+    "examplesTitle": "Príklad",
+    "checkedUseSetting": "Začiarknutím aktivujete toto nastavenie.",
+    "variables": {
+      "title": "Dostupné premenné",
+      "click": "Po kliknutí na odkaz, tento atribút je objekt triedy <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Odkaz na aktuálnu stránku Tento atribút je <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. objekt triedy."
+    },
+    "returnVariables": {
+      "title": "Hodnoty, ktoré je možné vrátiť",
+      "rightTab": "Otvoriť na novej karte vpravo"
+    }
+  },
+  "menu": {
+    "main": "globálny skript"
+  }
+}

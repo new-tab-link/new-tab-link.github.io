@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variables dispoñibles",
+    "page": ": a variable é o obxecto URL da páxina web actual, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. ver</a>",
+    "pageHost": ": O nome de dominio da páxina web actual",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: o mesmo nome de dominio, aínda que os nomes de dominio principais de {{_youtube_}} e {{_families_}} son {{_mainDomain_}}, os nomes de subdominio son {{_youtube_}} e {{. _familiesSubDomain_}} respectivamente. Polo tanto, os seus nomes de dominio son diferentes.",
+    "click": ": a ligazón na que se fixo clic",
+    "clickpath": ": o camiño da ligazón seleccionada",
+    "minimatch": ": método de coincidencia de {{_glob_}}, usando a biblioteca {{_minimatch_}}, método de uso <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ver < /a>, ou pode buscar {{_glob_}}.",
+    "isSameDomain": ": Se é o mesmo nome de dominio, {{_true_}} é si, {{_false_}} é non.",
+    "isSameParent": ": se é o mesmo camiño pai, {{_true_}} é si, {{_false_}} é non.",
+    "isPageSublink": ": se a páxina actual é unha subpáxina da ligazón na que se fai clic, {{_true_}} é si, {{_false_}} é non.",
+    "isPageMultilevelSublink": ": se a páxina actual é unha subpáxina infinita da ligazón na que se fai clic, {{_true_}} é si, {{_false_}} é non.",
+    "isClickSublink": ": se a ligazón na que se fai clic é unha subligazón da páxina actual, {{_true_}} é si, {{_false_}} é non.",
+    "isClickMultilevelSublink": ": se a ligazón na que se fai clic é unha subligazón ilimitada da páxina actual, {{_true_}} é si, {{_false_}} é non.",
+    "returnVariables": {
+      "title": "Variables retornables",
+      "rightTab": ": a ligazón ábrese nunha nova pestana á dereita",
+      "leftTab": ": a ligazón ábrese nunha nova pestana á esquerda",
+      "currentWindow": "xanela actual",
+      "newWindow": "nova fiestra",
+      "incognitoWindow": "Ventá de incógnito",
+      "popupWindow": "Ventá emerxente",
+      "currentTab": "Ficha actual",
+      "active": "Activa agora",
+      "inactive": "Non activado"
+    }
+  },
+  "menu": {
+    "main": "Variables dispoñibles"
+  }
+}

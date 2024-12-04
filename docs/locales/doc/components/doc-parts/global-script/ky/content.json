@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Глобалдык скрипт жөндөөлөрү",
+    "description": "Сиз JavaScript аркылуу өзүңүздүн скриптиңизди жаза аласыз",
+    "examplesTitle": "Мисал",
+    "checkedUseSetting": "Бул жөндөөнү иштетүү үчүн белгилеңиз.",
+    "variables": {
+      "title": "Жеткиликтүү өзгөрмөлөр",
+      "click": "Басылган шилтеме, бул атрибут <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> классынын объектиси.",
+      "page": "Учурдагы барактын шилтемеси бул атрибут <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. класс объекти."
+    },
+    "returnVariables": {
+      "title": "Кайтарылышы мүмкүн болгон баалуулуктар",
+      "rightTab": "Оң жактагы жаңы өтмөктө ачыңыз"
+    }
+  },
+  "menu": {
+    "main": "глобалдык скрипт"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "उपलब्धचराः",
+    "page": ": चरः वर्तमानजालपुटस्य URL वस्तु अस्ति विवरणार्थं <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> पश्यन्तु</a>",
+    "pageHost": ": वर्तमानजालपुटस्य डोमेननाम",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: समानं डोमेननाम ध्यानं कुर्वन्तु यत् यद्यपि {{_youtube_}} तथा {{_families_}} इत्येतयोः मुख्यक्षेत्रनामद्वयं {{_mainDomain_}} अस्ति तथापि उपक्षेत्रनामानि {{_youtubeSubDomain_}} तथा {{] सन्ति । _familiesSubDomain_}} क्रमशः अतः तेषां डोमेननामानि भिन्नानि सन्ति ।",
+    "click": ": यत् लिङ्क् क्लिक् कृतम् आसीत्",
+    "clickpath": ": क्लिक् कृतस्य लिङ्कस्य मार्गः",
+    "minimatch": ": {{_glob_}} मेलविधिः, {{_minimatch_}} पुस्तकालयस्य उपयोगेन, उपयोगविधिः <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>द्रष्टव्यम् < /a>, अथवा {{_glob_}} इति अन्वेष्टुं शक्नुवन्ति ।",
+    "isSameDomain": ": समानं डोमेननाम वा, {{_true_}} हाँ, {{_false_}} न।",
+    "isSameParent": ": स एव मातापितृमार्गः वा, {{_true_}} हाँ, {{_false_}} न।",
+    "isPageSublink": ": वर्तमानपृष्ठं क्लिक् कृतस्य लिङ्कस्य उपपृष्ठं वा, {{_true_}} हाँ, {{_false_}} न।",
+    "isPageMultilevelSublink": ": वर्तमानपृष्ठं क्लिक् कृतस्य लिङ्कस्य अनन्तं उपपृष्ठं वा, {{_true_}} हाँ, {{_false_}} न।",
+    "isClickSublink": ": क्लिक् कृतं लिङ्क् वर्तमानपृष्ठस्य उपलिङ्क् अस्ति वा, {{_true_}} हाँ, {{_false_}} न।",
+    "isClickMultilevelSublink": ": क्लिक् कृतं लिङ्क् वर्तमानपृष्ठस्य असीमितं उपलिङ्कं अस्ति वा, {{_true_}} हाँ, {{_false_}} न।",
+    "returnVariables": {
+      "title": "रिटर्नेबल चर",
+      "rightTab": ": दक्षिणभागे नूतने ट्याब् मध्ये लिङ्क् उद्घाट्यते",
+      "leftTab": ": वामे नूतने ट्याब् मध्ये लिङ्क् उद्घाट्यते",
+      "currentWindow": "वर्तमान विण्डो",
+      "newWindow": "new window इति",
+      "incognitoWindow": "गुप्तविण्डो",
+      "popupWindow": "पॉप-अप विण्डो",
+      "currentTab": "वर्तमान ट्याब्",
+      "active": "अधुना सक्रियताम्",
+      "inactive": "न सक्रियम्"
+    }
+  },
+  "menu": {
+    "main": "उपलब्धचराः"
+  }
+}

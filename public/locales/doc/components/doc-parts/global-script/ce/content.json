@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Глобалан скриптан низам",
+    "description": "Хьайн скрипт язъян йиш ю javascript лелош .",
+    "examplesTitle": "Масал",
+    "checkedUseSetting": "И настройка дӀахӀотто хьажа.",
+    "variables": {
+      "title": "Долахь долу хийцамаш .",
+      "click": "Ссылка тӀе Ӏоттавелла, хӀара атрибут ю <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> классан объект.",
+      "page": "Карарчу агӀонан ссылка ю хӀара атрибут <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ю. классан объект ю."
+    },
+    "returnVariables": {
+      "title": "Юхадерзо йиш йолу мах .",
+      "rightTab": "Аьтту агӀор керлачу вкладкехь схьаелла ."
+    }
+  },
+  "menu": {
+    "main": "дуьненаюкъара скрипт"
+  }
+}

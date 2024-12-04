@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Пӗтӗм тӗнчери скрипт настройкисем",
+    "description": "Эсир javascriptпа усӑ курса хӑвӑрӑн скрипт ҫырма пултаратӑр",
+    "examplesTitle": "Тӗслӗх",
+    "checkedUseSetting": "Ҫак настройкӑна ӗҫлеттерме тӗрӗслӗр.",
+    "variables": {
+      "title": "Пур улшӑнакансем",
+      "click": "Ссылка ҫине пуссан, ку атрибут <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> класс объекчӗ пулать.",
+      "page": "Хальхи страницӑн ссылки Ку атрибут <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> класс объекчӗ."
+    },
+    "returnVariables": {
+      "title": "Тавӑрса пама пултаракан хаксем",
+      "rightTab": "Сылтӑмри ҫӗнӗ вкладкӑра уҫӑр"
+    }
+  },
+  "menu": {
+    "main": "пӗтӗм тӗнчери скрипт"
+  }
+}

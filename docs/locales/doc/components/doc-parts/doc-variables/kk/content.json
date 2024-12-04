@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Қолжетімді айнымалылар",
+    "page": ": Айнымалы мән ағымдағы веб-беттің URL нысаны болып табылады Толық ақпарат алу үшін <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. қараңыз</a>",
+    "pageHost": ": Ағымдағы веб-беттің домендік атауы",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: {{_youtube_}} және {{_families_}} негізгі домен атаулары {{_mainDomain_}} болғанымен, қосалқы домен атаулары {{_youtubeSubDomain_}} және {{ екенін ескеріңіз. _familiesSubDomain_}} сәйкесінше олардың домен атаулары әртүрлі.",
+    "click": ": басылған сілтеме",
+    "clickpath": ": басылған сілтеменің жолы",
+    "minimatch": ": {{_glob_}} сәйкестендіру әдісі, {{_minimatch_}} кітапханасы, пайдалану әдісі <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Қараңыз: < /a> немесе {{_glob_}} деп іздеуге болады.",
+    "isSameDomain": ": Бірдей домен атауы болсын, {{_true_}} иә, {{_false_}} жоқ.",
+    "isSameParent": ": Бір ата-ана жолы болсын, {{_true_}} иә, {{_false_}} жоқ.",
+    "isPageSublink": ": Ағымдағы бет басылған сілтеменің ішкі беті бола ма, {{_true_}} иә, {{_false_}} жоқ.",
+    "isPageMultilevelSublink": ": Ағымдағы бет басылған сілтеменің шексіз ішкі беті бола ма, {{_true_}} иә, {{_false_}} жоқ.",
+    "isClickSublink": ": Басылған сілтеме ағымдағы беттің ішкі сілтемесі бола ма, {{_true_}} иә, {{_false_}} жоқ.",
+    "isClickMultilevelSublink": ": Басылған сілтеме ағымдағы беттің шексіз ішкі сілтемесі бола ма, {{_true_}} иә, {{_false_}} жоқ.",
+    "returnVariables": {
+      "title": "Қайтарылатын айнымалылар",
+      "rightTab": ": Сілтеме оң жақтағы жаңа қойындыда ашылады",
+      "leftTab": ": Сілтеме сол жақтағы жаңа қойындыда ашылады",
+      "currentWindow": "ағымдағы терезе",
+      "newWindow": "жаңа терезе",
+      "incognitoWindow": "Инкогнито терезесі",
+      "popupWindow": "Қалқымалы терезе",
+      "currentTab": "Ағымдағы қойынды",
+      "active": "Қазір іске қосыңыз",
+      "inactive": "Іске қосылмаған"
+    }
+  },
+  "menu": {
+    "main": "Қолжетімді айнымалылар"
+  }
+}

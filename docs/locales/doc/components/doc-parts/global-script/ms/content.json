@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Tetapan skrip global",
+    "description": "Anda boleh menulis skrip anda sendiri menggunakan javascript",
+    "examplesTitle": "Contoh",
+    "checkedUseSetting": "Semak untuk mendayakan tetapan ini.",
+    "variables": {
+      "title": "Pembolehubah yang tersedia",
+      "click": "Pautan yang diklik, atribut ini ialah objek kelas <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Pautan halaman semasa. Atribut ini ialah <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> objek kelas."
+    },
+    "returnVariables": {
+      "title": "Nilai yang boleh dikembalikan",
+      "rightTab": "Buka dalam tab baharu di sebelah kanan"
+    }
+  },
+  "menu": {
+    "main": "skrip global"
+  }
+}

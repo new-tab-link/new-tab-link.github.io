@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Guherbarên berdest",
+    "page": ": Guherbar objeya URL ya malpera heyî ye Ji bo hûragahiyan, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. binêre</a>",
+    "pageHost": ": Navê domaina malpera heyî",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Navê heman domainê Bala xwe bidinê ku her çend navên domainê yên sereke yên {{_youtube_}} û {{_families_}} her du jî {{_mainDomain_}} bin, navên subdomain {{_youtubeSubDomain_}} û {{ Bi rêzê ve _familiesSubDomain_}} Ji ber vê yekê navên domainê wan cuda ne.",
+    "click": ": lînka ku hat tikandin",
+    "clickpath": ": Rêya lînka kilîkkirî",
+    "minimatch": ": {{_glob_}} rêbaza hevberdanê, bikaranîna pirtûkxaneya {{_minimatch_}}, rêbaza bikaranînê <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Binêre < /a>, an jî hûn dikarin li {{_glob_}} bigerin.",
+    "isSameDomain": ": Ma ew heman navê domainê be, {{_true_}} erê ye, {{_false_}} na ye.",
+    "isSameParent": ": Ka ew heman riya dêûbavê be, {{_true_}} erê ye, {{_false_}} na ye.",
+    "isPageSublink": ": Gelo rûpela niha jêrrûpelek lînka klîkkirî be, {{_true_}} erê ye, {{_false_}} na ye.",
+    "isPageMultilevelSublink": ": Gelo rûpela niha jêrrûpeleke bêdawî ya lînka klîkkirî ye, {{_rast_}} erê ye, {{_derew_}} na ye.",
+    "isClickSublink": ": Gelo lînka klîkkirî jêr-girêdana rûpela heyî be, {{_true_}} erê ye, {{_false_}} na ye.",
+    "isClickMultilevelSublink": ": Ma zencîreya klîkkirî bin-girêdaneke bêsînor a rûpela heyî be, {{_true_}} erê ye, {{_false_}} na ye.",
+    "returnVariables": {
+      "title": "Guherbarên vegerî",
+      "rightTab": ": Girêdan di tabloyek nû ya rastê de vedibe",
+      "leftTab": ": Girêdan di tabloyek nû de li milê çepê vedibe",
+      "currentWindow": "pencereya heyî",
+      "newWindow": "pencereya nû",
+      "incognitoWindow": "Pencereya nenaskirî",
+      "popupWindow": "Pencereya pop-up",
+      "currentTab": "Tabloya heyî",
+      "active": "Niha çalak bike",
+      "inactive": "Ne aktîf kirin"
+    }
+  },
+  "menu": {
+    "main": "Guherbarên berdest"
+  }
+}

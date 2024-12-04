@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "உலகளாவிய ஸ்கிரிப்ட் அமைப்புகள்",
+    "description": "ஜாவாஸ்கிரிப்டைப் பயன்படுத்தி உங்கள் சொந்த ஸ்கிரிப்டை எழுதலாம்",
+    "examplesTitle": "உதாரணம்",
+    "checkedUseSetting": "இந்த அமைப்பை இயக்க சரிபார்க்கவும்.",
+    "variables": {
+      "title": "கிடைக்கக்கூடிய மாறிகள்",
+      "click": "கிளிக் செய்யப்பட்ட இணைப்பு, இந்தப் பண்புக்கூறு ஒரு <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> வகுப்பு பொருள்.",
+      "page": "தற்போதைய பக்கத்தின் இணைப்பு <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. வர்க்க பொருள்."
+    },
+    "returnVariables": {
+      "title": "திரும்பப் பெறக்கூடிய மதிப்புகள்",
+      "rightTab": "வலதுபுறத்தில் புதிய தாவலில் திறக்கவும்"
+    }
+  },
+  "menu": {
+    "main": "உலகளாவிய ஸ்கிரிப்ட்"
+  }
+}

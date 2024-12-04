@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Elérhető változók",
+    "page": ": A változó az aktuális weboldal URL-objektuma A részletekért lásd: <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. lásd</a>",
+    "pageHost": ": Az aktuális weboldal domain neve",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Ugyanaz a domain név, bár a {{_youtube_}} és a {{_families_}} fő domain neve egyaránt {{_mainDomain_}}, az aldomain nevek {{_youtubeSubDomain_}} és {{ _familiesSubDomain_}}, tehát a domain nevek eltérőek.",
+    "click": ": a link, amelyre kattintottak",
+    "clickpath": ": A kattintott link elérési útja",
+    "minimatch": ": {{_glob_}} egyezési módszer, a {{_minimatch_}} könyvtár használatával, használati metódus <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Lásd: < /a>, vagy rákereshet a {{_glob_}} kifejezésre.",
+    "isSameDomain": ": Akár ugyanaz a domain név, a {{_true_}} igen, a {{_false_}} pedig nem.",
+    "isSameParent": ": Akár ugyanaz a szülőútvonal, a {{_true_}} igen, a {{_false_}} pedig nem.",
+    "isPageSublink": ": Ha az aktuális oldal a kattintott link aloldala, a {{_true_}} igen, a {{_false_}} pedig nem.",
+    "isPageMultilevelSublink": ": Ha az aktuális oldal a kattintott link végtelen aloldala, a {{_true_}} igen, a {{_false_}} pedig nem.",
+    "isClickSublink": ": Ha a kattintott link az aktuális oldal allinkje, a {{_true_}} igen, a {{_false_}} pedig nem.",
+    "isClickMultilevelSublink": ": Ha a kattintott link az aktuális oldal korlátlan számú allinkje, a {{_true_}} igen, a {{_false_}} pedig nem.",
+    "returnVariables": {
+      "title": "Visszaadható változók",
+      "rightTab": ": A link egy új lapon nyílik meg a jobb oldalon",
+      "leftTab": ": A link egy új lapon nyílik meg a bal oldalon",
+      "currentWindow": "aktuális ablak",
+      "newWindow": "új ablak",
+      "incognitoWindow": "Inkognitóablak",
+      "popupWindow": "Felugró ablak",
+      "currentTab": "Aktuális lap",
+      "active": "Aktiválja most",
+      "inactive": "Nincs aktiválva"
+    }
+  },
+  "menu": {
+    "main": "Elérhető változók"
+  }
+}

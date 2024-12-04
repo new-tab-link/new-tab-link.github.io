@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "사용 가능한 변수",
+    "page": ": 변수는 현재 웹페이지의 URL 객체입니다. 자세한 내용은 <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>를 참조하세요. 참조</a>",
+    "pageHost": ": 현재 웹페이지의 도메인 이름",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: 동일한 도메인 이름입니다. {{_youtube_}} 및 {{_families_}}의 기본 도메인 이름은 모두 {{_mainDomain_}}이지만 하위 도메인 이름은 {{_youtubeSubDomain_}} 및 {{ _familiesSubDomain_}} 따라서 도메인 이름이 다릅니다.",
+    "click": ": 클릭한 링크",
+    "clickpath": ": 클릭한 링크의 경로",
+    "minimatch": ": {{_glob_}} 일치 방법, {{_minimatch_}} 라이브러리 사용, 사용 방법 <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>참조 < /a> 또는 {{_glob_}}을(를) 검색할 수 있습니다.",
+    "isSameDomain": ": 동일한 도메인 이름인지 여부, {{_true_}}는 예, {{_false_}}는 아니오입니다.",
+    "isSameParent": ": 동일한 상위 경로인지 여부, {{_true_}}는 예, {{_false_}}는 아니오입니다.",
+    "isPageSublink": ": 현재 페이지가 클릭한 링크의 하위 페이지인지 여부, {{_true_}}는 예, {{_false_}}는 아니오입니다.",
+    "isPageMultilevelSublink": ": 현재 페이지가 클릭한 링크의 무한 하위 페이지인지 여부, {{_true_}}는 예, {{_false_}}는 아니오입니다.",
+    "isClickSublink": ": 클릭한 링크가 현재 페이지의 하위 링크인지 여부, {{_true_}}는 예, {{_false_}}는 아니오입니다.",
+    "isClickMultilevelSublink": ": 클릭한 링크가 현재 페이지의 무제한 하위 링크인지 여부, {{_true_}}는 예, {{_false_}}는 아니오입니다.",
+    "returnVariables": {
+      "title": "반환 가능한 변수",
+      "rightTab": ": 링크가 오른쪽 새 탭에서 열립니다.",
+      "leftTab": ": 링크가 왼쪽의 새 탭에서 열립니다.",
+      "currentWindow": "현재 창",
+      "newWindow": "새 창",
+      "incognitoWindow": "시크릿 창",
+      "popupWindow": "팝업창",
+      "currentTab": "현재 탭",
+      "active": "지금 활성화",
+      "inactive": "활성화되지 않음"
+    }
+  },
+  "menu": {
+    "main": "사용 가능한 변수"
+  }
+}

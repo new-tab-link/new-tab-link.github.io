@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "පවතින විචල්‍යයන්",
+    "page": ": විචල්‍යය යනු වත්මන් වෙබ් පිටුවේ URL වස්තුවයි, විස්තර සඳහා, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> බලන්න</a>",
+    "pageHost": ": වත්මන් වෙබ් පිටුවෙහි වසම් නාමය",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: {{_youtube_}} සහ {{_families_}} හි ප්‍රධාන වසම් නාම දෙකම වුවද, උප ඩොමේන් නම් {{_youtubeSubDomain_}} සහ {{ බව සලකන්න. _familiesSubDomain_}} ඒ නිසා ඔවුන්ගේ ඩොමේන් නම් වෙනස් වේ.",
+    "click": ": ක්ලික් කළ සබැඳිය",
+    "clickpath": ": ක්ලික් කළ සබැඳියේ මාර්ගය",
+    "minimatch": ": {{_glob_}} ගැලපෙන ක්‍රමය, {{_minimatch_}} පුස්තකාලය භාවිතයෙන්, භාවිත ක්‍රමය <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>බලන්න < /a>, හෝ ඔබට {{_glob_}} සඳහා සෙවිය හැක.",
+    "isSameDomain": ": එය එකම වසම් නාමය වුවද, {{_true_}} ඔව්, {{_false_}} යනු නැත.",
+    "isSameParent": ": එය එකම මාපිය මාර්ගය වුවද, {{_true_}} ඔව්, {{_false_}} නොවේ.",
+    "isPageSublink": ": වත්මන් පිටුව ක්ලික් කළ සබැඳියේ උපපිටුවක් වුවද, {{_true_}} යනු ඔව්, {{_false_}} නොවේ.",
+    "isPageMultilevelSublink": ": වත්මන් පිටුව ක්ලික් කළ සබැඳියේ අසීමිත උපපිටුවක් වුවද, {{_true_}} යනු ඔව්, {{_false_}} නොවේ.",
+    "isClickSublink": ": ක්ලික් කළ සබැඳිය වත්මන් පිටුවේ උප-සබැඳියක් වුවද, {{_true_}} යනු ඔව්, {{_false_}} නොවේ.",
+    "isClickMultilevelSublink": ": ක්ලික් කළ සබැඳිය වත්මන් පිටුවෙහි අසීමිත උප-සබැඳියක් වුවද, {{_true_}} යනු ඔව්, {{_false_}} නොවේ.",
+    "returnVariables": {
+      "title": "ආපසු හැරවිය හැකි විචල්යයන්",
+      "rightTab": ": සබැඳිය දකුණු පස ඇති නව ටැබ් එකකින් විවෘත වේ",
+      "leftTab": ": සබැඳිය වම් පස ඇති නව ටැබ් එකකින් විවෘත වේ",
+      "currentWindow": "වත්මන් කවුළුව",
+      "newWindow": "නව කවුළුව",
+      "incognitoWindow": "අප්‍රකට කවුළුව",
+      "popupWindow": "උත්පතන කවුළුව",
+      "currentTab": "වත්මන් ටැබය",
+      "active": "දැන් සක්රිය කරන්න",
+      "inactive": "සක්රිය කර නැත"
+    }
+  },
+  "menu": {
+    "main": "පවතින විචල්‍යයන්"
+  }
+}

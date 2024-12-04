@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Wiase nyinaa script nhyehyɛe",
+    "description": "Wubetumi de javascript akyerɛw w’ankasa script",
+    "examplesTitle": "Nhwɛsoɔ",
+    "checkedUseSetting": "Hwɛ sɛ wobɛma nhyehyɛe yi atumi ayɛ adwuma.",
+    "variables": {
+      "title": "Nsakrae ahorow a ɛwɔ hɔ",
+      "click": "Sɛ wo klik link so a, saa su yi yɛ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> adesua ade.",
+      "page": "Kratafa a ɛwɔ hɔ seesei no link. Saa su yi yɛ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> adesuakuw mu ade."
+    },
+    "returnVariables": {
+      "title": "Value ahorow a wobetumi asan de ama",
+      "rightTab": "Bue wɔ tab foforo a ɛwɔ nifa so no mu"
+    }
+  },
+  "menu": {
+    "main": "wiase nyinaa nkyerɛwee"
+  }
+}

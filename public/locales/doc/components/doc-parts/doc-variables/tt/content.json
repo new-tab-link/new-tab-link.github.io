@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Мөмкин булган үзгәрүләр",
+    "page": ": Theзгәргеч - хәзерге веб-битнең URL объекты. кара </a>",
+    "pageHost": ": Хәзерге веб-битнең домен исеме",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Шул ук домен исеме Игътибар итегез, {{_youtube_}} һәм {{_families_} main төп домен исемнәре икесе дә {{_mainDomain_}}, субдомен исемнәре {{_youtubeSubDomain_}} һәм {{ _familiesSubDomain_} respectively шулай итеп аларның домен исемнәре төрле.",
+    "click": ": басылган сылтама",
+    "clickpath": ": Басылган сылтама юлы",
+    "minimatch": ": {{_glob_}} туры килү ысулы, {{_minimatch_}} китапханәсен куллану, куллану ысулы <a href = 'https: //github.com/isaacs/minimatch' target = '_ blank' rel = 'noreferrer'> Карагыз < / a>, яисә сез {{_glob_} for эзли аласыз.",
+    "isSameDomain": ": Бер үк домен исеме буламы, {{_true_} yes әйе, {{_фальс_}} юк.",
+    "isSameParent": ": Бер үк ата-ана юлымы, {{_true_} yes әйе, {{_фальсе_}} юк.",
+    "isPageSublink": ": Хәзерге бит басылган сылтаманың сәхифәсе буламы, {{_true_} yes әйе, {{_false_} no юк.",
+    "isPageMultilevelSublink": ": Хәзерге бит басылган сылтаманың чиксез сәхифәсеме, {{_true_} yes әйе, {{_false_}} юк.",
+    "isClickSublink": ": Басылган сылтама хәзерге битнең суб-сылтамасымы, {{_true_} yes әйе, {{_фальсе_} no юк.",
+    "isClickMultilevelSublink": ": Басылган сылтама хәзерге битнең чикләнмәгән суб-сылтамасымы, {{_true_} yes әйе, {{_false_}} юк.",
+    "returnVariables": {
+      "title": "Кире кире үзгәрешләр",
+      "rightTab": ": Ссылка уң яктагы яңа кыстыргычта ачыла",
+      "leftTab": ": Ссылка сул яктагы яңа кыстыргычта ачыла",
+      "currentWindow": "хәзерге тәрәзә",
+      "newWindow": "яңа тәрәзә",
+      "incognitoWindow": "Инкогнито тәрәзәсе",
+      "popupWindow": "Калкып торган тәрәзә",
+      "currentTab": "Хәзерге кыстыргыч",
+      "active": "Хәзер активлаштырыгыз",
+      "inactive": "Актив түгел"
+    }
+  },
+  "menu": {
+    "main": "Мөмкин булган үзгәрүләр"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Swilo leswi cinca-cincaka leswi kumekaka",
+    "page": ": Xihlawulekisi i nchumu wa URL wa tluka ra webu ra sweswi Ku kuma vuxokoxoko, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> vona</a>",
+    "pageHost": ": Vito ra domain ra pheji ya webu ya sweswi",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Vito ra domain rin’we Xiya leswaku hambileswi mavito lamakulu ya domain ya {{_youtube_}} na {{_families_}} hi vumbirhi bya wona ya nga {{_mainDomain_}}, mavito ya domain ya le hansi i {{_youtubeSubDomain_}} na {{. _familiesSubDomain_}} hi ku landzelelana.",
+    "click": ": link leyi yi nga clickiwa",
+    "clickpath": ": Ndlela ya xihlanganisi lexi tsindziyeriweke",
+    "minimatch": ": {{_glob_}} ndlela yo fambelanisa, hi ku tirhisa layiburari ya {{_minimatch_}}, ndlela ya matirhiselo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vona < /a>, kumbe u nga ha lavisisa {{_glob_}}.",
+    "isSameDomain": ": Hambi ku ri vito ra domain leri fanaka, {{_true_}} i ina, {{_false_}} i e-e.",
+    "isSameParent": ": Hambi ku ri ndlela yin’we ya mutswari, {{_true_}} i ina, {{_false_}} i e-e.",
+    "isPageSublink": ": Loko tluka ra sweswi i tluka leritsongo ra xihlanganisi lexi tsindziyeriweke, {{_true_}} i ina, {{_false_}} i e-e.",
+    "isPageMultilevelSublink": ": Loko tluka ra sweswi i tluka leritsongo leri nga heriki ra xihlanganisi lexi tsindziyeriweke, {{_true_}} i ina, {{_false_}} i e-e.",
+    "isClickSublink": ": Loko xihlanganisi lexi tsindziyeriweke i xihlanganisi lexitsongo xa tluka ra sweswi, {{_true_}} i ina, {{_false_}} i e-e.",
+    "isClickMultilevelSublink": ": Loko xihlanganisi lexi tsindziyeriweke i xihlanganisi lexi nga pimiwangiki xa tluka ra sweswi, {{_true_}} i ina, {{_false_}} i e-e.",
+    "returnVariables": {
+      "title": "Swilo leswi cinca-cincaka leswi vuyiseriwaka",
+      "rightTab": ": Xihlanganisi xi pfula eka thebhu leyintshwa etlhelo ra xinene",
+      "leftTab": ": Xihlanganisi xi pfula eka thebhu leyintshwa etlhelo ra ximatsi",
+      "currentWindow": "fasitere ra sweswi",
+      "newWindow": "fasitere lerintshwa",
+      "incognitoWindow": "Fasitere ra incognito",
+      "popupWindow": "Fasitere leri humelelaka",
+      "currentTab": "Thebhu ya sweswi",
+      "active": "Tirhisa sweswi",
+      "inactive": "A swi tirhisiwi"
+    }
+  },
+  "menu": {
+    "main": "Swilo leswi cinca-cincaka leswi kumekaka"
+  }
+}

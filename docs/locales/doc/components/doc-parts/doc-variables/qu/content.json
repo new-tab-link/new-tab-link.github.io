@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Kaq variables nisqakuna",
+    "page": ": Tikraqqa kunan web p'anqap URL kaqninmi Aswan sut'inchanapaq, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> qhaway</a>",
+    "pageHost": ": Kunan web p'anqap kamachiy sutin",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Kikin kamachiy suti Reparay, {{_youtube_}} chaymanta {{_families_}} hatun kamachiy sutikuna iskaynintin {{_mainDomain_}} kaptinkupas, huch'uy kamachiy sutikuna {{_youtubeSubDomain_}} chaymanta {{) kanku. _familiesSubDomain_}} sapakama.",
+    "click": ": chay t'inki ñit'isqa",
+    "clickpath": ": Chay ñit’isqa t’inkipa ñannin",
+    "minimatch": ": {{_glob_}} tupachiy ñan, {{_minimatch_}} bibliotecata llamk'achispa, llamk'ana ñan <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Qhaway < /a>, icha {{_glob_}} nisqa maskayta atinki.",
+    "isSameDomain": ": Kikin kamachiy suti kaptinpas, {{_true_}} arí, {{_false_}} mana.",
+    "isSameParent": ": Kikin tayta-mama ñan kaptinpas, {{_true_}} arí, {{_false_}} mana.",
+    "isPageSublink": ": Kunan p'anqa ñit'isqa t'inkipa huch'uy p'anqan kaptinpas, {{_true_}} arí, {{_false_}} mana.",
+    "isPageMultilevelSublink": ": Kunan p'anqa ñit'isqa t'inkipa mana tukukuq huch'uy p'anqan kaptinpas, {{_true_}} arí, {{_false_}} mana.",
+    "isClickSublink": ": ñit'isqa t'inki kunan p'anqap huch'uy t'inkin kaptinpas, {{_true_}} arí, {{_false_}} mana.",
+    "isClickMultilevelSublink": ": ñit'isqa t'inki kunan p'anqap mana k'itiyuq huch'uy t'inki kaptinpas, {{_true_}} arí, {{_false_}} mana.",
+    "returnVariables": {
+      "title": "Kutichiy atiy variablekuna",
+      "rightTab": ": T'inkiqa paña ladopi musuq tablapi kicharikun",
+      "leftTab": ": T'inkiqa paña ladopi musuq tablapi kicharikun",
+      "currentWindow": "kunan kaq ventana",
+      "newWindow": "musuq ventanata",
+      "incognitoWindow": "Mana riqsisqa ventana",
+      "popupWindow": "Pop-up nisqa ventana",
+      "currentTab": "Kunan kaq tabla",
+      "active": "Kunanpacha llamk’achiy",
+      "inactive": "Mana activasqachu"
+    }
+  },
+  "menu": {
+    "main": "Kaq variables nisqakuna"
+  }
+}

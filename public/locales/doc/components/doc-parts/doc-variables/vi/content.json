@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Các biến có sẵn",
+    "page": ": Biến là đối tượng URL của trang web hiện tại. Để biết chi tiết, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> xem</a>",
+    "pageHost": ": Tên miền của trang web hiện tại",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Tên miền giống nhau. Lưu ý rằng mặc dù tên miền chính của {{_youtube_}} và {{_families_}} đều là {{_mainDomain_}} nhưng tên miền phụ là {{_youtubeSubDomain_}} và {{ _familiesSubDomain_}} tương ứng nên tên miền của chúng khác nhau.",
+    "click": ": liên kết đã được nhấp vào",
+    "clickpath": ": Đường dẫn của liên kết được nhấp vào",
+    "minimatch": ": Phương thức so khớp {{_glob_}}, sử dụng thư viện {{_minimatch_}}, phương thức sử dụng <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Xem < /a> hoặc bạn có thể tìm kiếm {{_glob_}}.",
+    "isSameDomain": ": Cho dù đó là cùng một tên miền thì {{_true_}} là có, {{_false_}} là không.",
+    "isSameParent": ": Cho dù đó là cùng một đường dẫn gốc thì {{_true_}} là có, {{_false_}} là không.",
+    "isPageSublink": ": Trang hiện tại có phải là trang con của liên kết được nhấp hay không, {{_true_}} là có, {{_false_}} là không.",
+    "isPageMultilevelSublink": ": Cho dù trang hiện tại có phải là trang con vô hạn của liên kết được nhấp hay không, thì {{_true_}} là có, {{_false_}} là không.",
+    "isClickSublink": ": Liên kết được nhấp vào có phải là liên kết phụ của trang hiện tại hay không, {{_true_}} là có, {{_false_}} là không.",
+    "isClickMultilevelSublink": ": Liên kết được nhấp vào có phải là liên kết phụ không giới hạn của trang hiện tại hay không, {{_true_}} là có, {{_false_}} là không.",
+    "returnVariables": {
+      "title": "Các biến có thể trả về",
+      "rightTab": ": Liên kết mở trong tab mới ở bên phải",
+      "leftTab": ": Liên kết mở trong tab mới ở bên trái",
+      "currentWindow": "cửa sổ hiện tại",
+      "newWindow": "cửa sổ mới",
+      "incognitoWindow": "Cửa sổ ẩn danh",
+      "popupWindow": "Cửa sổ bật lên",
+      "currentTab": "Tab hiện tại",
+      "active": "Kích hoạt ngay bây giờ",
+      "inactive": "Chưa kích hoạt"
+    }
+  },
+  "menu": {
+    "main": "Các biến có sẵn"
+  }
+}

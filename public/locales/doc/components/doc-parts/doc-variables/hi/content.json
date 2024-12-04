@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "उपलब्ध चर",
+    "page": ": वेरिएबल वर्तमान वेब पेज का यूआरएल ऑब्जेक्ट है। विवरण के लिए, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> देखें</a>",
+    "pageHost": ": वर्तमान वेब पेज का डोमेन नाम",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: एक ही डोमेन नाम। ध्यान दें कि यद्यपि {{_youtube_}} और {{_families_}} के मुख्य डोमेन नाम दोनों {{_mainDomain_}} हैं, उपडोमेन नाम {{_youtubeSubDomain_}} और {{ हैं। क्रमशः _familiesSubDomain_}} इसलिए उनके डोमेन नाम अलग-अलग हैं।",
+    "click": ": वह लिंक जिस पर क्लिक किया गया था",
+    "clickpath": ": क्लिक किए गए लिंक का पथ",
+    "minimatch": ": {{_glob_}} मिलान विधि, {{_minimatch_}} लाइब्रेरी का उपयोग करके, उपयोग विधि <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>देखें < /a>, या आप {{_glob_}} खोज सकते हैं।",
+    "isSameDomain": ": क्या यह एक ही डोमेन नाम है, {{_true_}} हाँ है, {{_false_}} नहीं है।",
+    "isSameParent": ": क्या यह वही मूल पथ है, {{_true_}} हाँ है, {{_false_}} नहीं है।",
+    "isPageSublink": ": क्या वर्तमान पृष्ठ क्लिक किए गए लिंक का उपपृष्ठ है, {{_true_}} हाँ है, {{_false_}} नहीं है।",
+    "isPageMultilevelSublink": ": क्या वर्तमान पृष्ठ क्लिक किए गए लिंक का अनंत उपपृष्ठ है, {{_true_}} हाँ है, {{_false_}} नहीं है।",
+    "isClickSublink": ": क्या क्लिक किया गया लिंक वर्तमान पृष्ठ का उप-लिंक है, {{_true_}} हाँ है, {{_false_}} नहीं है।",
+    "isClickMultilevelSublink": ": क्या क्लिक किया गया लिंक वर्तमान पृष्ठ का असीमित उप-लिंक है, {{_true_}} हाँ है, {{_false_}} नहीं है।",
+    "returnVariables": {
+      "title": "वापसी योग्य चर",
+      "rightTab": ": लिंक दाईं ओर एक नए टैब में खुलता है",
+      "leftTab": ": लिंक बाईं ओर एक नए टैब में खुलता है",
+      "currentWindow": "वर्तमान विंडो",
+      "newWindow": "नई विंडो",
+      "incognitoWindow": "गुप्त विंडो",
+      "popupWindow": "पॉप-अप विंडो",
+      "currentTab": "वर्तमान टैब",
+      "active": "अभी सक्रिय करें",
+      "inactive": "सक्रिय नहीं है"
+    }
+  },
+  "menu": {
+    "main": "उपलब्ध चर"
+  }
+}

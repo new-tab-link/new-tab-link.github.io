@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Paramètres d'escript globals",
+    "description": "Podètz escriure vòstre pròpri script en utilizant javascript",
+    "examplesTitle": "Exemple",
+    "checkedUseSetting": "Marcatz per activar aqueste paramètre.",
+    "variables": {
+      "title": "Variablas disponiblas",
+      "click": "Ligam clicat, aqueste atribut es un objècte de classa <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Lo ligam de la pagina actuala Aqueste atribut es un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> objècte de classa."
+    },
+    "returnVariables": {
+      "title": "Valors que pòdon èsser retornadas",
+      "rightTab": "Dobrir dins un onglet novèl a drecha"
+    }
+  },
+  "menu": {
+    "main": "script global"
+  }
+}

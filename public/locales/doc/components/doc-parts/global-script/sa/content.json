@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "वैश्विकलिपिसेटिंग्स्",
+    "description": "जावास्क्रिप्ट् इत्यस्य उपयोगेन भवान् स्वकीयं स्क्रिप्ट् लिखितुं शक्नोति",
+    "examplesTitle": "उदाहरण",
+    "checkedUseSetting": "एतत् सेटिङ्ग् सक्षमं कर्तुं पश्यन्तु ।",
+    "variables": {
+      "title": "उपलब्धचराः",
+      "click": "क्लिक् कृतं लिङ्क्, एतत् विशेषता <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> वर्गवस्तु अस्ति ।",
+      "page": "वर्तमानपृष्ठस्य लिङ्क् अस्ति class object."
+    },
+    "returnVariables": {
+      "title": "मूल्यानि ये प्रत्यागन्तुं शक्यन्ते",
+      "rightTab": "दक्षिणभागे नूतने ट्याब् मध्ये उद्घाटयन्तु"
+    }
+  },
+  "menu": {
+    "main": "वैश्विक लिपि"
+  }
+}

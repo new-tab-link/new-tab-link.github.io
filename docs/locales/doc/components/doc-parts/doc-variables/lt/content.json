@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Galimi kintamieji",
+    "page": ": kintamasis yra dabartinio tinklalapio URL objektas Norėdami gauti daugiau informacijos, žr. <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. žr.</a>",
+    "pageHost": ": dabartinio tinklalapio domeno pavadinimas",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: tas pats domeno pavadinimas, nors pagrindiniai {{_youtube_}} ir {{_families_}} domenų pavadinimai yra {{_mainDomain_}}, padomenių pavadinimai yra {{_youtubeSubDomain_}} ir {{. _familiesSubDomain_}}, todėl jų domenų pavadinimai skiriasi.",
+    "click": ": nuoroda, kuri buvo paspausta",
+    "clickpath": ": Paspaustos nuorodos kelias",
+    "minimatch": ": {{_glob_}} atitikties metodas, naudojant {{_minimatch_}} biblioteką, naudojimo metodas <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Žr. < /a> arba galite ieškoti {{_glob_}}.",
+    "isSameDomain": ": Nesvarbu, ar tai tas pats domeno pavadinimas, {{_true_}} yra taip, {{_false_}} yra ne.",
+    "isSameParent": ": Nesvarbu, ar tai tas pats pirminis kelias, {{_true_}} yra taip, {{_false_}} yra ne.",
+    "isPageSublink": ": ar dabartinis puslapis yra spustelėtos nuorodos antrinis puslapis, {{_true_}} yra taip, {{_false_}} yra ne.",
+    "isPageMultilevelSublink": ": ar dabartinis puslapis yra begalinis spustelėtos nuorodos antrinis puslapis, {{_true_}} yra taip, {{_false_}} yra ne.",
+    "isClickSublink": ": ar spustelėta nuoroda yra dabartinio puslapio antrinė nuoroda, {{_true_}} yra taip, {{_false_}} yra ne.",
+    "isClickMultilevelSublink": ": ar spustelėta nuoroda yra neribota dabartinio puslapio antrinė nuoroda, {{_true_}} yra taip, {{_false_}} yra ne.",
+    "returnVariables": {
+      "title": "Grąžinami kintamieji",
+      "rightTab": ": nuoroda atidaroma naujame skirtuke dešinėje",
+      "leftTab": ": nuoroda atidaroma naujame skirtuke kairėje",
+      "currentWindow": "dabartinis langas",
+      "newWindow": "naujas langas",
+      "incognitoWindow": "Inkognito langas",
+      "popupWindow": "Iššokantis langas",
+      "currentTab": "Dabartinis skirtukas",
+      "active": "Suaktyvinti dabar",
+      "inactive": "Neaktyvuota"
+    }
+  },
+  "menu": {
+    "main": "Galimi kintamieji"
+  }
+}

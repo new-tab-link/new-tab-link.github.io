@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Vigezo vinavyopatikana",
+    "page": ": Tofauti ndio lengo la URL la ukurasa wa sasa wa wavuti Kwa maelezo, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> tazama</a>",
+    "pageHost": ": Jina la kikoa la ukurasa wa sasa wa wavuti",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Jina la kikoa sawa. Kumbuka kwamba ingawa majina makuu ya kikoa cha {{_youtube_}} na {{_families_}} ni {{_mainDomain_}}, majina ya vikoa vidogo ni {{_youtubeSubDomain_}} na {{ _familiesSubDomain_}} kwa mtiririko huo, majina ya vikoa vyao ni tofauti.",
+    "click": ": kiungo ambacho kilibofya",
+    "clickpath": ": Njia ya kiungo kilichobofya",
+    "minimatch": ": {{_glob_}} mbinu ya kulinganisha, kwa kutumia {{_minimatch_}} maktaba, mbinu ya matumizi <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Angalia < /a>, au unaweza kutafuta {{_glob_}}.",
+    "isSameDomain": ": Ikiwa ni jina sawa la kikoa, {{_true_}} ni ndiyo, {{_false_}} ni hapana.",
+    "isSameParent": ": Iwe ni njia ya mzazi sawa, {{_true_}} ni ndiyo, {{_false_}} ni hapana.",
+    "isPageSublink": ": Ikiwa ukurasa wa sasa ni ukurasa mdogo wa kiungo kilichobofya, {{_true_}} ni ndiyo, {{_false_}} ni hapana.",
+    "isPageMultilevelSublink": ": Ikiwa ukurasa wa sasa ni ukurasa mdogo usio na kikomo wa kiungo kilichobofya, {{_true_}} ni ndiyo, {{_false_}} ni hapana.",
+    "isClickSublink": ": Ikiwa kiungo kilichobofya ni kiungo kidogo cha ukurasa wa sasa, {{_true_}} ni ndiyo, {{_false_}} ni hapana.",
+    "isClickMultilevelSublink": ": Ikiwa kiungo kilichobofya ni kiungo kidogo kisicho na kikomo cha ukurasa wa sasa, {{_true_}} ni ndiyo, {{_false_}} ni hapana.",
+    "returnVariables": {
+      "title": "Vigezo vinavyoweza kurejeshwa",
+      "rightTab": ": Kiungo kinafungua kwenye kichupo kipya upande wa kulia",
+      "leftTab": ": Kiungo kinafunguka katika kichupo kipya upande wa kushoto",
+      "currentWindow": "dirisha la sasa",
+      "newWindow": "dirisha jipya",
+      "incognitoWindow": "Dirisha fiche",
+      "popupWindow": "Dirisha ibukizi",
+      "currentTab": "Kichupo cha sasa",
+      "active": "Washa sasa",
+      "inactive": "Haijawezeshwa"
+    }
+  },
+  "menu": {
+    "main": "Vigezo vinavyopatikana"
+  }
+}

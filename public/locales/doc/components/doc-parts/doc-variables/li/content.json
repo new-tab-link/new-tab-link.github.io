@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Besjikbare variabele",
+    "page": ": De variabele is ‘t URL-objek vaan de huidige webpagina. zie</a>",
+    "pageHost": ": De domeinnaom vaan de huidige webpagina",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Dezelfde domeinnaom Let op dat de hoofdomeinnaome vaan {{_youtube_}} en {{_families_}} allebei {{_mainDomain_}} zien, de subdomeinnaome {{_youtubeSubDomain_}} en {{ _familiesSubDomain_}} respectievelik.",
+    "click": ": de link die is geklik",
+    "clickpath": ": De paad vaan de geklikte link",
+    "minimatch": ": {{_glob_}} matching method, using the {{_minimatch_}} library, usage method <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Zie < /a>, of geer kin zeuke nao {{_glob_}}.",
+    "isSameDomain": ": Of ‘t nu dezelfde domeinnaom is, {{_woer_}} is jao, {{_onwoer_}} is nee.",
+    "isSameParent": ": Of ‘t noe ‘tzelfde ouwerpad is, {{_true_}} is jao, {{_false_}} is nee.",
+    "isPageSublink": ": Of de huidige pagina ‘n subpagina is vaan de geklikde link, {{_true_}} is jao, {{_false_}} is nee.",
+    "isPageMultilevelSublink": ": Of de huidige pagina ‘n oneindige subpagina is vaan de geklikte link, {{_true_}} is jao, {{_false_}} is nee.",
+    "isClickSublink": ": Of de geklikde link ‘n sublink is vaan de huidige pagina, {{_true_}} is jao, {{_false_}} is nee.",
+    "isClickMultilevelSublink": ": Of de geklikde link ‘n onbeperkte sublink vaan de huidige pagina is, {{_true_}} is jao, {{_false_}} is nee.",
+    "returnVariables": {
+      "title": "Retourbare variabele",
+      "rightTab": ": De link geit open in un nuuj tabblad aan de rechterkant",
+      "leftTab": ": De link geit open in un nuuj tabblad aan de linkerkant",
+      "currentWindow": "huidig ​​venster",
+      "newWindow": "nuuj venster",
+      "incognitoWindow": "Incognito-venster",
+      "popupWindow": "Pop-upvenster",
+      "currentTab": "Huidig ​​tab",
+      "active": "Activeer noe",
+      "inactive": "Neet geactiveerd"
+    }
+  },
+  "menu": {
+    "main": "Besjikbare variabele"
+  }
+}

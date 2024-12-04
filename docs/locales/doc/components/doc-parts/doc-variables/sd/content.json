@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "موجود متغير",
+    "page": ": متغير موجوده ويب پيج جو URL اعتراض آهي تفصيل لاءِ، <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. ڏسو</a>",
+    "pageHost": ": موجوده ويب پيج جو ڊومين نالو",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: ساڳيو ڊومين جو نالو جيتوڻيڪ {{_youtube_}} ۽ {{_families_}} جا مکيه ڊومين نالا {{_mainDomain_}} آهن، ذيلي ڊومين جا نالا {{_youtubeSubDomain_}} ۽ {{ آهن. _familiesSubDomain_}} پوءِ انهن جا ڊومين نالا مختلف آهن.",
+    "click": ": لنڪ جنهن تي ڪلڪ ڪيو ويو",
+    "clickpath": ": ڪلڪ ڪيل لنڪ جو رستو",
+    "minimatch": ": {{_glob_}} ملندڙ طريقو، استعمال ڪندي {{_minimatch_}} لائبريري، استعمال جو طريقو <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>ڏسو < /a>، يا توھان ڳولي سگھوٿا {{_glob_}}.",
+    "isSameDomain": ": ڇا اهو ساڳيو ڊومين نالو آهي، {{_true_}} آهي ها، {{_false_}} ناهي.",
+    "isSameParent": ": ڇا اهو ساڳيو پيرينٽ رستو آهي، {{_true_}} آهي ها، {{_false_}} نه آهي.",
+    "isPageSublink": ": ڇا موجوده صفحو ڪلڪ ڪيل لنڪ جو ذيلي صفحو آهي، {{_true_}} آهي ها، {{_false_}} نه آهي.",
+    "isPageMultilevelSublink": ": ڇا موجوده صفحو ڪلڪ ڪيل لنڪ جو لامحدود ذيلي صفحو آهي، {{_true_}} آهي ها، {{_false_}} نه آهي.",
+    "isClickSublink": ": ڇا ڪلڪ ڪيل لنڪ موجوده صفحي جي ذيلي لنڪ آهي، {{_true_}} آهي ها، {{_false_}} نه آهي.",
+    "isClickMultilevelSublink": ": ڇا ڪلڪ ڪيل لنڪ موجوده صفحي جي لامحدود ذيلي لنڪ آهي، {{_true_}} آهي ها، {{_false_}} نه آهي.",
+    "returnVariables": {
+      "title": "واپسي وارا متغير",
+      "rightTab": ": لنڪ کلي ٿي ساڄي پاسي نئين ٽيب ۾",
+      "leftTab": ": لنڪ کٻي پاسي نئين ٽئب ۾ کلي ٿي",
+      "currentWindow": "موجوده ونڊو",
+      "newWindow": "نئين ونڊو",
+      "incognitoWindow": "اڻڄاتل ونڊو",
+      "popupWindow": "پاپ اپ ونڊو",
+      "currentTab": "موجوده ٽيب",
+      "active": "ھاڻي چالو ڪريو",
+      "inactive": "چالو نه ٿيو"
+    }
+  },
+  "menu": {
+    "main": "موجود متغير"
+  }
+}

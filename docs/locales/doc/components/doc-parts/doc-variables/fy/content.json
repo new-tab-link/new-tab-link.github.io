@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Beskikbere fariabelen",
+    "page": ": De fariabele is it URL-objekt fan de aktuele webside Foar details, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. sjo</a>",
+    "pageHost": ": De domeinnamme fan de aktuele webside",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Deselde domeinnamme Tink derom dat hoewol de haaddomeinnammen fan {{_youtube_}} en {{_families_}} beide {{_mainDomain_}} binne, binne de subdomeinnammen {{_youtubeSubDomain_}} en {{. _familiesSubDomain_}} respektivelik. Dus harren domeinnammen binne oars.",
+    "click": ": de keppeling dy't waard oanklikt",
+    "clickpath": ": It paad fan de oanklikte keppeling",
+    "minimatch": ": {{_glob_}} oerienkommende metoade, mei de {{_minimatch_}} bibleteek, gebrûksmetoade <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Sjoch < /a>, of jo kinne sykje nei {{_glob_}}.",
+    "isSameDomain": ": Oft it no deselde domeinnamme is, {{_true_}} is ja, {{_false_}} is nee.",
+    "isSameParent": ": Oft it no itselde âlderpaad is, {{_true_}} is ja, {{_false_}} is nee.",
+    "isPageSublink": ": Oft de hjoeddeistige side in subside is fan de oanklikte keppeling, {{_true_}} is ja, {{_false_}} is nee.",
+    "isPageMultilevelSublink": ": Oft de hjoeddeistige side in ûneinige subside is fan de oanklikte keppeling, {{_true_}} is ja, {{_false_}} is nee.",
+    "isClickSublink": ": Oft de oanklikte kepling in sublink is fan de aktuele side, {{_true_}} is ja, {{_false_}} is nee.",
+    "isClickMultilevelSublink": ": Oft de oanklikte kepling in ûnbeheinde sub-keppeling is fan de aktuele side, {{_true_}} is ja, {{_false_}} is nee.",
+    "returnVariables": {
+      "title": "Returnable fariabelen",
+      "rightTab": ": De keppeling iepenet yn in nij ljepblêd rjochts",
+      "leftTab": ": De keppeling iepenet yn in nij ljepblêd oan de linkerkant",
+      "currentWindow": "hjoeddeistige finster",
+      "newWindow": "nij finster",
+      "incognitoWindow": "Incognito finster",
+      "popupWindow": "Pop-up finster",
+      "currentTab": "Aktuele ljepper",
+      "active": "Aktivearje no",
+      "inactive": "Net aktivearre"
+    }
+  },
+  "menu": {
+    "main": "Beskikbere fariabelen"
+  }
+}

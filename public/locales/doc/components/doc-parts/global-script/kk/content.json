@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Ғаламдық сценарий параметрлері",
+    "description": "Сіз өзіңіздің сценарийіңізді JavaScript арқылы жаза аласыз",
+    "examplesTitle": "Мысал",
+    "checkedUseSetting": "Бұл параметрді қосу үшін тексеріңіз.",
+    "variables": {
+      "title": "Қолжетімді айнымалылар",
+      "click": "Басылған сілтеме, бұл төлсипат <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> сынып нысаны болып табылады.",
+      "page": "Ағымдағы беттің сілтемесі Бұл төлсипат <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> болып табылады. сынып объектісі."
+    },
+    "returnVariables": {
+      "title": "Қайтаруға болатын мәндер",
+      "rightTab": "Оң жақтағы жаңа қойындыда ашыңыз"
+    }
+  },
+  "menu": {
+    "main": "жаһандық сценарий"
+  }
+}

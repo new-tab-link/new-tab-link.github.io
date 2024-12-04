@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variablat e disponueshëm",
+    "page": ": Ndryshorja është objekti URL i faqes aktuale të internetit për detaje, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. shih</a>",
+    "pageHost": ": Emri i domenit të faqes aktuale të internetit",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: I njëjti emër domeni, megjithëse emrat kryesorë të domenit të {{_youtube_}} dhe {{_families_}} janë të dy {{_mainDomain_}}, emrat e nëndimenit janë {{_youtubeSubDomain_}} dhe {{. _familiesSubDomain_}}, pra emrat e tyre të domenit janë të ndryshëm.",
+    "click": ": lidhja që u klikua",
+    "clickpath": ": Rruga e lidhjes së klikuar",
+    "minimatch": ": {{_glob_}} metodë e përputhjes, duke përdorur bibliotekën {{_minimatch_}}, metodën e përdorimit <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Shih < /a>, ose mund të kërkoni për {{_glob_}}.",
+    "isSameDomain": ": Pavarësisht nëse është i njëjti emër domeni, {{_true_}} është po, {{_false_}} është jo.",
+    "isSameParent": ": Pavarësisht nëse është e njëjta rrugë prindi, {{_true_}} është po, {{_false_}} është jo.",
+    "isPageSublink": ": Nëse faqja aktuale është një nënfaqe e lidhjes së klikuar, {{_true_}} është po, {{_false_}} jo.",
+    "isPageMultilevelSublink": ": Nëse faqja aktuale është një nënfaqe e pafundme e lidhjes së klikuar, {{_true_}} është po, {{_false_}} jo.",
+    "isClickSublink": ": Nëse lidhja e klikuar është një nënlidhje e faqes aktuale, {{_true_}} është po, {{_false_}} jo.",
+    "isClickMultilevelSublink": ": Nëse lidhja e klikuar është një nën-lidhje e pakufizuar e faqes aktuale, {{_true_}} është po, {{_false_}} jo.",
+    "returnVariables": {
+      "title": "Variablat e kthyeshme",
+      "rightTab": ": Lidhja hapet në një skedë të re në të djathtë",
+      "leftTab": ": Lidhja hapet në një skedë të re në të majtë",
+      "currentWindow": "dritare aktuale",
+      "newWindow": "dritare e re",
+      "incognitoWindow": "Dritarja e fshehtë",
+      "popupWindow": "Dritarja kërcyese",
+      "currentTab": "Skeda aktuale",
+      "active": "Aktivizojeni tani",
+      "inactive": "Nuk është aktivizuar"
+    }
+  },
+  "menu": {
+    "main": "Variablat e disponueshëm"
+  }
+}

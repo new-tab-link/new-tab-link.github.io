@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Te mau tauiraa e roaa mai",
+    "page": ": Te tauiraa o te tao'a URL ïa o te api Itenati i teie nei, a hi'o i te <a href='https://developer.org/docs/Web/API/URL'. hi'o</a>",
+    "pageHost": ": Te i'oa tuhaa fenua o te api itenati i teie nei",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Hoê â i'oa tuhaa fenua. No reira, e mea taa ê to ratou mau i'oa tuhaa fenua.",
+    "click": ": te hono i tairihia",
+    "clickpath": ": Te e'a o te hono i tairihia",
+    "minimatch": ": {{_glob_}} rave'a tu'ati, ma te faaohipa i te fare buka {{_minimatch_}}, rave'a faaohiparaa < /a>, e aore râ, e nehenehe ta outou e imi i te {{_glob_}}.",
+    "isSameDomain": ": Noa'tu e, hoê â te i'oa tuhaa fenua, {{_true_}} e, e, {{_false_}} e ere.",
+    "isSameParent": ": Noa'tu e, o te hoê â ïa e'a metua tane, e {{_true_}} e, {{_false_}} e ere.",
+    "isPageSublink": ": Mai te mea e, e api iti te api o teie nei, o te {{_true_}} ïa, {{_false_}} e ere.",
+    "isPageMultilevelSublink": ": Noa'tu e, e api iti hope ore te api i teie nei o te hono i tairihia, {{_true_}} e, {{_false_}} e ere.",
+    "isClickSublink": ": Mai te mea e, o te hono i tairihia te hoê hono iti o te api o teie nei, {{_true_}} e, e {{_false_}} e, aita.",
+    "isClickMultilevelSublink": ": Mai te mea e, o te hono i hi'opo'ahia te hoê hono iti aita e oti'a o te api o teie nei, {{_true_}} e, e {{_false_}} e ere.",
+    "returnVariables": {
+      "title": "Te mau tauiraa faaho'i-faahou-hia",
+      "rightTab": ": E matara te hono i roto i te hoê api apî i te pae atau",
+      "leftTab": ": E matara te hono i roto i te hoê api apî i te pae aui",
+      "currentWindow": "matapihi i teie nei",
+      "newWindow": "matapihi apî",
+      "incognitoWindow": "Matapihi tapo'i",
+      "popupWindow": "Matapihi pop-up",
+      "currentTab": "Api i teie nei",
+      "active": "A faaohipa i teie nei",
+      "inactive": "Aita i faaitoitohia"
+    }
+  },
+  "menu": {
+    "main": "Te mau tauiraa e roaa mai"
+  }
+}

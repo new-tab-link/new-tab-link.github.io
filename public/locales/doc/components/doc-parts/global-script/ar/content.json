@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "إعدادات البرنامج النصي العالمية",
+    "description": "يمكنك كتابة البرنامج النصي الخاص بك باستخدام جافا سكريبت",
+    "examplesTitle": "مثال",
+    "checkedUseSetting": "تحقق لتمكين هذا الإعداد.",
+    "variables": {
+      "title": "المتغيرات المتاحة",
+      "click": "الرابط الذي تم النقر عليه، هذه السمة هي كائن فئة <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "رابط الصفحة الحالية هو <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. كائن الطبقة."
+    },
+    "returnVariables": {
+      "title": "القيم التي يمكن إرجاعها",
+      "rightTab": "افتح في علامة تبويب جديدة على اليمين"
+    }
+  },
+  "menu": {
+    "main": "البرنامج النصي العالمي"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Mefuta e fumanehang",
+    "page": ": Ntho e fapaneng ke URL ea leqephe la hajoale la tepo Bakeng sa lintlha, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> bona</a>",
+    "pageHost": ": Lebitso la domain la leqephe la hajoale la webo",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Lebitso la domain e le 'ngoe le hoja mabitso a sehlooho a {{_youtube_}} le {{_families_}} e le {{_mainDomain_}}, mabitso a li-domain ke {{_youtubeSubDomain_}} le {{ _familiesSubDomain_}} ka ho latellana.",
+    "click": ": sehokelo se tobetsoeng",
+    "clickpath": ": Tsela ea sehokelo se tobetse",
+    "minimatch": ": {{_glob_}} mokhoa oa ho nyallana, ho sebelisoa {{_minimatch_}} laeborari, mokhoa oa tšebeliso <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Sheba < /a>, kapa o ka batla {{_glob_}}.",
+    "isSameDomain": ": Ebang ke lebitso la domain, {{_nete_}} ke e, {{_false_}} ke che.",
+    "isSameParent": ": Ebang ke tsela e tšoanang ea batsoali, {{_'nete_}} ke e, {{_false_}} ke che.",
+    "isPageSublink": ": Ebang leqephe la hajoale ke karoloana ea lihokelo tse totobalitsoeng, {{_'nete_}} ke e, {{_false_}} ke che.",
+    "isPageMultilevelSublink": ": Ebang leqephe la hajoale ke karoloana e sa feleng ea lihokelo tse tontsoeng, {{_'nete_}} ke e, {{_false_}} ke che.",
+    "isClickSublink": ": Hore na sehokelo se pentiloeng ke sehokelo sa leqephe la hajoale, {{_'nete_}} ke e, {{_false_}} ke che.",
+    "isClickMultilevelSublink": ": Ebang sehokelo se tobetseng ke sehokelo se se nang moeli sa leqephe la hajoale, {{_nete_}} ke e, {{_false_}} ke che.",
+    "returnVariables": {
+      "title": "Liphetoho tse khutlisang",
+      "rightTab": ": Sehokelo se bula tab e ncha ka ho le letona",
+      "leftTab": ": Sehokelo se bula tab e ncha ka ho le letšehali",
+      "currentWindow": "fensetere ea hona joale",
+      "newWindow": "fensetere e ncha",
+      "incognitoWindow": "Fesetere ea Incognito",
+      "popupWindow": "Fesetere ea pop-up",
+      "currentTab": "Taba ea hajoale",
+      "active": "Kenya tshebetsong hona jwale",
+      "inactive": "Ha ea kengoa tšebetsong"
+    }
+  },
+  "menu": {
+    "main": "Mefuta e fumanehang"
+  }
+}

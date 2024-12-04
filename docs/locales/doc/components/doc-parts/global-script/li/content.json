@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Globale scriptinstellinge",
+    "description": "Geer kin eur eige script sjrieve mit behulp vaan javascript",
+    "examplesTitle": "Veurbeeld",
+    "checkedUseSetting": "Controleer um deze insjtelling in te sjakele.",
+    "variables": {
+      "title": "Besjikbare variabele",
+      "click": "Geklikde link, dit kenmerk is un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klasseobjek.",
+      "page": "De koppeling vaan de huidige pagina klasseobjek."
+    },
+    "returnVariables": {
+      "title": "Waardes die kinne weure geretourneerd",
+      "rightTab": "Open in un nuuj tabblad aan de rechterkant"
+    }
+  },
+  "menu": {
+    "main": "globaal script"
+  }
+}

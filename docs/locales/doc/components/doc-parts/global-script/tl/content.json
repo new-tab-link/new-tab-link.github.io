@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Mga setting ng pangkalahatang script",
+    "description": "Maaari kang magsulat ng iyong sariling script gamit ang javascript",
+    "examplesTitle": "Halimbawa",
+    "checkedUseSetting": "Lagyan ng check upang paganahin ang setting na ito.",
+    "variables": {
+      "title": "Magagamit na mga variable",
+      "click": "Na-click ang link, ang attribute na ito ay isang <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> class object.",
+      "page": "Ang link ng kasalukuyang page. Ang attribute na ito ay isang <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> bagay sa klase."
+    },
+    "returnVariables": {
+      "title": "Mga halaga na maaaring ibalik",
+      "rightTab": "Buksan sa bagong tab sa kanan"
+    }
+  },
+  "menu": {
+    "main": "pandaigdigang script"
+  }
+}

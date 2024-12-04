@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Глобални настройки на скрипта",
+    "description": "Можете да напишете свой собствен скрипт с помощта на javascript",
+    "examplesTitle": "Пример",
+    "checkedUseSetting": "Поставете отметка, за да активирате тази настройка.",
+    "variables": {
+      "title": "Налични променливи",
+      "click": "Щракната връзка, този атрибут е обект от клас <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
+      "page": "Връзката на текущата страница е <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL адрес</a>. клас обект."
+    },
+    "returnVariables": {
+      "title": "Стойности, които могат да бъдат върнати",
+      "rightTab": "Отворете в нов раздел вдясно"
+    }
+  },
+  "menu": {
+    "main": "глобален скрипт"
+  }
+}

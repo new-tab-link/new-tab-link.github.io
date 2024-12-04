@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Ukax variables ukanakaw utji",
+    "page": ": Variable ukax jichha web ukan URL ukan yänakapawa, juk’amp yatxatañatakix, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> uñjañäni</a>",
+    "pageHost": ": Jichha web ukan dominio sutipa",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Pachpa dominio suti Qhanacht’añataki, {{_youtube_}} ukat {{_families_}} uka jach’a dominio sutinakax panpachaniw {{_mainDomain_}}, subdominio sutinakax {{_youtubeSubDomain_}} ukat {{. _familiesSubDomain_}} sapa mayniru.Ukhamat dominio sutinakapax mayj mayjawa.",
+    "click": ": uka link ukax ch’iqt’atawa",
+    "clickpath": ": Uka thakhix ch’iqt’atawa",
+    "minimatch": ": {{_glob_}} chikancht’asiñ thakhi, {{_minimatch_}} biblioteca apnaqaña, apnaqañ thakhi <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Uñxatt'aña < /a>, jan ukax {{_glob_}} ukar thaqhañamawa.",
+    "isSameDomain": ": Pachpa dominio sutimpixa, {{_true_}} ukaxa jïsa, {{_false_}} ukaxa janiwa.",
+    "isSameParent": ": Pachpa awki tayka thakhixa, {{_true_}} ukaxa jïsa, {{_false_}} ukaxa janiwa.",
+    "isPageSublink": ": Jichha pankax ch’iqt’at chimpun jisk’a pankapawa, {{_true_}} ukax jïsa, {{_false_}} ukax janiw.",
+    "isPageMultilevelSublink": ": Jichha pankax ch’iqt’at chimpun jan tukuskir jisk’a panka ukhamächiti, {{_true_}} ukax jïsa, {{_false_}} ukax janiw sañjamakiti.",
+    "isClickSublink": ": Ch’iqt’at chimpux jichha pankan jisk’a chimpupawa, {{_true_}} ukax jïsa, {{_false_}} ukax janiw sañjamakiti.",
+    "isClickMultilevelSublink": ": Ch’iqt’at chimpux jichha pankan jan tukuskir jisk’a chimpunakächiti, {{_true_}} ukax jïsa, {{_false_}} ukax janiw sañjamakiti.",
+    "returnVariables": {
+      "title": "Kutt’ayañjam variables ukanaka",
+      "rightTab": ": Uka link ukax machaq tabla ukanw ch’iqa tuqin jist’arasi",
+      "leftTab": ": Link ukax machaq tabla ukan ch’iqa tuqin jist’aratawa",
+      "currentWindow": "jichha pacha ventana",
+      "newWindow": "machaq ventana",
+      "incognitoWindow": "Jan uñt’at ventana",
+      "popupWindow": "Ukax mä jach’a uñacht’äwiwa",
+      "currentTab": "Jichha pachanxa",
+      "active": "Jichhax activañamawa",
+      "inactive": "Janiwa activatäkiti"
+    }
+  },
+  "menu": {
+    "main": "Ukax variables ukanakaw utji"
+  }
+}

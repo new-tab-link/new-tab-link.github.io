@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Variablyn ry gheddyn",
+    "page": ": Ta'n obbyr URL jeh'n duillag web t'ayn nish Son fys, <a href='blank' rel='noreferrer'>. jeeagh</a>",
+    "pageHost": ": Yn ennym domain jeh'n duillag web ry-hoi",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: Yn un ennym-chreck Tastey dy vel ny p'raad-chreck jeh {{_youtube_}} as {{_families_}} ny p'raad-chreck {{_mainDomain_}} as {{_youtubeSubDomain_}}. _familiesSubDomain_}} myr-t'eh, t'ad ry-cheilley.",
+    "click": ": yn linney v'er ny cliaghtey",
+    "clickpath": ": Yn raad jeh'n linney cliaghtey",
+    "minimatch": ": {{_glob_}} aght co-chosney, uss y {{_minimatch_}} lioarlann, aght ymmyd < /a>, ny t'ou uss goaill rish {{_glob_}}.",
+    "isSameDomain": ": My she yr un ainm-domain t'ayn, {{_true_}} t'eh, t'eh {{_false_}} cha nel.",
+    "isSameParent": ": My she'n un raad t'ayn, {{_true_}} t'eh, t'eh {{_false_}} cha nel.",
+    "isPageSublink": ": My she fo-duillag y linney cliaghtey, {{_true_}} ta, {{_false_}} cha nel.",
+    "isPageMultilevelSublink": ": My she fo-duillag gyn jerrey y linney cliaghtey, {{_true_}} ta, {{_false_}} cha nel.",
+    "isClickSublink": ": My she fo-link y duillag t'ayn, {{_true_}} ta, {{_false_}} cha nel.",
+    "isClickMultilevelSublink": ": My she fo-cheangley gyn jerrey y duillag t'ayn, {{_true_}} eh, {{_false_}} cha nel.",
+    "returnVariables": {
+      "title": "Variablyn ry-chur reesht",
+      "rightTab": ": Ta'n linney foshlit ayns tab noa er y laue yesh .",
+      "leftTab": ": Ta'n linney foshlit ayns tab noa er y laue yesh .",
+      "currentWindow": "fuinneig nish;",
+      "newWindow": "uinnag noa;",
+      "incognitoWindow": "Fuinneig follit",
+      "popupWindow": "Fuinneig pop-up",
+      "currentTab": "Tab ry-hoi",
+      "active": "Cur stiagh nish",
+      "inactive": "Cha nel eh er ny obbraghey"
+    }
+  },
+  "menu": {
+    "main": "Variablyn ry gheddyn"
+  }
+}

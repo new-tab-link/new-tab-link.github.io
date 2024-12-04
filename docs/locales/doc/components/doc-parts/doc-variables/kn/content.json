@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "ಲಭ್ಯವಿರುವ ಅಸ್ಥಿರಗಳು",
+    "page": ": ವೇರಿಯೇಬಲ್ ಪ್ರಸ್ತುತ ವೆಬ್ ಪುಟದ URL ವಸ್ತುವಾಗಿದೆ, ವಿವರಗಳಿಗಾಗಿ, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> ನೋಡಿ</a>",
+    "pageHost": ": ಪ್ರಸ್ತುತ ವೆಬ್ ಪುಟದ ಡೊಮೇನ್ ಹೆಸರು",
+    "isSameSubDomain": "{{_isSameSubDomain_}}: ಅದೇ ಡೊಮೇನ್ ಹೆಸರುಗಳು {{_youtube_}} ಮತ್ತು {{_families_}} ಇವೆರಡೂ {{_mainDomain_}} ಆಗಿದ್ದರೂ, ಉಪಡೊಮೇನ್ ಹೆಸರುಗಳು {{_youtubeSubDomain_}} ಮತ್ತು {{ ಅನುಕ್ರಮವಾಗಿ _familiesSubDomain_}} ಅವರ ಡೊಮೇನ್ ಹೆಸರುಗಳು ವಿಭಿನ್ನವಾಗಿವೆ.",
+    "click": ": ಕ್ಲಿಕ್ ಮಾಡಿದ ಲಿಂಕ್",
+    "clickpath": ": ಕ್ಲಿಕ್ ಮಾಡಿದ ಲಿಂಕ್‌ನ ಮಾರ್ಗ",
+    "minimatch": ": {{_glob_}} ಹೊಂದಾಣಿಕೆ ವಿಧಾನ, {{_minimatch_}} ಲೈಬ್ರರಿಯನ್ನು ಬಳಸಿ, ಬಳಕೆಯ ವಿಧಾನ <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>ನೋಡಿ < /a>, ಅಥವಾ ನೀವು {{_glob_}} ಗಾಗಿ ಹುಡುಕಬಹುದು.",
+    "isSameDomain": ": ಅದೇ ಡೊಮೇನ್ ಹೆಸರಾಗಿದ್ದರೂ, {{_true_}} ಹೌದು, {{_false_}} ಅಲ್ಲ.",
+    "isSameParent": ": ಇದು ಒಂದೇ ಮೂಲ ಮಾರ್ಗವಾಗಿದ್ದರೂ, {{_true_}} ಹೌದು, {{_false_}} ಅಲ್ಲ.",
+    "isPageSublink": ": ಪ್ರಸ್ತುತ ಪುಟವು ಕ್ಲಿಕ್ ಮಾಡಿದ ಲಿಂಕ್‌ನ ಉಪಪುಟವಾಗಿದ್ದರೂ, {{_true_}} ಹೌದು, {{_false_}} ಅಲ್ಲ.",
+    "isPageMultilevelSublink": ": ಪ್ರಸ್ತುತ ಪುಟವು ಕ್ಲಿಕ್ ಮಾಡಿದ ಲಿಂಕ್‌ನ ಅನಂತ ಉಪಪುಟವಾಗಿದ್ದರೂ, {{_true_}} ಹೌದು, {{_false_}} ಅಲ್ಲ.",
+    "isClickSublink": ": ಕ್ಲಿಕ್ ಮಾಡಿದ ಲಿಂಕ್ ಪ್ರಸ್ತುತ ಪುಟದ ಉಪ-ಲಿಂಕ್ ಆಗಿರಲಿ, {{_true_}} ಹೌದು, {{_false_}} ಅಲ್ಲ.",
+    "isClickMultilevelSublink": ": ಕ್ಲಿಕ್ ಮಾಡಿದ ಲಿಂಕ್ ಪ್ರಸ್ತುತ ಪುಟದ ಅನಿಯಮಿತ ಉಪ-ಲಿಂಕ್ ಆಗಿದ್ದರೆ, {{_true_}} ಹೌದು, {{_false_}} ಅಲ್ಲ.",
+    "returnVariables": {
+      "title": "ಹಿಂತಿರುಗಿಸಬಹುದಾದ ಅಸ್ಥಿರ",
+      "rightTab": ": ಲಿಂಕ್ ಬಲಭಾಗದಲ್ಲಿರುವ ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ",
+      "leftTab": ": ಎಡಭಾಗದಲ್ಲಿರುವ ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯುತ್ತದೆ",
+      "currentWindow": "ಪ್ರಸ್ತುತ ವಿಂಡೋ",
+      "newWindow": "ಹೊಸ ವಿಂಡೋ",
+      "incognitoWindow": "ಅಜ್ಞಾತ ವಿಂಡೋ",
+      "popupWindow": "ಪಾಪ್-ಅಪ್ ವಿಂಡೋ",
+      "currentTab": "ಪ್ರಸ್ತುತ ಟ್ಯಾಬ್",
+      "active": "ಈಗ ಸಕ್ರಿಯಗೊಳಿಸಿ",
+      "inactive": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ"
+    }
+  },
+  "menu": {
+    "main": "ಲಭ್ಯವಿರುವ ಅಸ್ಥಿರಗಳು"
+  }
+}
