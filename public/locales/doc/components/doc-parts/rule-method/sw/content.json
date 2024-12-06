@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Mipangilio ya kuingia kwa kanuni",
+    "rule": {
+      "edit": "Ongeza au hariri maingizo ya kanuni",
+      "description": "Unaweza kuingiza mpangilio huu kupitia menyu ya kubofya kulia kwenye ukurasa wowote wa wavuti, URL ya ukurasa wa wavuti itaongezwa kama sheria kwa chaguo-msingi .",
+      "formats": {
+        "title": "muundo wa kanuni",
+        "url": {
+          "title": "Hali ya URL, URL kamili.",
+          "example": {
+            "as": "Kwa mfano:"
+          },
+          "explain": "Mbinu hii inaweza kulingana na URL kamili."
+        },
+        "glob": {
+          "title": "Mbinu ya globu hutumia {{1}} maktaba Tafadhali <a>tazama</a> kwa matumizi, au unaweza kutafuta matumizi ya {{2}}.",
+          "example": {
+            "as": "Kwa mfano:",
+            "a": "{{1}}, ambayo inalingana na ukurasa wa nyumbani wa YouTube na kurasa zote ndogo."
+          }
+        },
+        "regexp": {
+          "title": "Usemi wa kawaida, tafadhali angalia <a>Angalia</a> kwa matumizi."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Mipangilio ya kuingia kwa kanuni"
+  }
+}

@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Pieejamie mainīgie",
-    "page": ": mainīgais ir pašreizējās tīmekļa lapas URL objekts, lai iegūtu sīkāku informāciju: <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. skatiet</a>",
+    "title": "Pieejamie mainīgie un funkciju objekti",
+    "click": ": noklikšķinātās saites URL objekts, lai iegūtu sīkāku informāciju <a>skatiet</a>",
+    "page": ": pašreizējās tīmekļa lapas URL objekts (parasti adreses josla), detalizēts ievads <a>Skatīt</a>",
     "pageHost": ": pašreizējās tīmekļa lapas domēna nosaukums",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: tas pats domēna nosaukums, lai gan {{_youtube_}} un {{_families_}} galvenie domēna nosaukumi ir {{_mainDomain_}}, apakšdomēnu nosaukumi ir {{_youtubeSubDomain_}} un {{. _familiesSubDomain_}}, tāpēc to domēnu nosaukumi ir atšķirīgi.",
-    "click": ": saite, uz kuras tika noklikšķināts",
     "clickpath": ": noklikšķinātās saites ceļš",
-    "minimatch": ": {{_glob_}} atbilstības metode, izmantojot bibliotēku {{_minimatch_}}, lietošanas metode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Skatiet < /a>, vai arī varat meklēt {{_glob_}}.",
-    "isSameDomain": ": neatkarīgi no tā, vai tas ir viens un tas pats domēna nosaukums, {{_true_}} ir jā, {{_false_}} ir nē.",
-    "isSameParent": ": neatkarīgi no tā, vai tas ir viens un tas pats vecāku ceļš, {{_true_}} ir jā, {{_false_}} ir nē.",
-    "isPageSublink": ": vai pašreizējā lapa ir noklikšķinātās saites apakšlapa, {{_true_}} ir jā, {{_false_}} ir nē.",
-    "isPageMultilevelSublink": ": vai pašreizējā lapa ir bezgalīga noklikšķinātās saites apakšlapa, {{_true_}} ir jā, {{_false_}} ir nē.",
-    "isClickSublink": ": vai noklikšķinātā saite ir pašreizējās lapas apakšsaite, {{_true_}} ir jā, {{_false_}} ir nē.",
-    "isClickMultilevelSublink": ": vai noklikšķinātā saite ir neierobežota pašreizējās lapas apakšsaite, {{_true_}} ir jā, {{_false_}} ir nē.",
+    "isSameDomain": ": neatkarīgi no tā, vai tas ir viens un tas pats domēna nosaukums, {{tt}} ir jā, {{ff}} ir nē.",
+    "isSameSubDomain": "{{ss}}: viens un tas pats domēna nosaukums, lai gan {{yy}} un {{ff}} galvenie domēna nosaukumi ir {{mm}}, apakšdomēnu nosaukumi ir {{ww}} un. Attiecīgi {{ffss}} viņu domēnu nosaukumi ir atšķirīgi.",
+    "isSameParent": ": neatkarīgi no tā, vai tas ir viens un tas pats vecāku ceļš, {{tt}} ir jā, {{ff}} ir nē.",
+    "isPageSublink": ": vai pašreizējā lapa ir noklikšķinātās saites apakšlapa, {{tt}} ir jā, {{ff}} ir nē.",
+    "isPageMultilevelSublink": ": vai pašreizējā lapa ir bezgalīga noklikšķinātās saites apakšlapa, {{tt}} ir jā, {{ff}} ir nē.",
+    "isClickSublink": ": vai noklikšķinātā saite ir pašreizējās lapas apakšsaite, {{tt}} ir jā, {{ff}} ir nē.",
+    "isClickMultilevelSublink": ": vai noklikšķinātā saite ir neierobežota pašreizējās lapas apakšsaite, {{tt}} ir jā, {{ff}} ir nē.",
     "returnVariables": {
       "title": "Atgriežamie mainīgie",
-      "rightTab": ": saite tiek atvērta jaunā cilnē labajā pusē",
-      "leftTab": ": saite tiek atvērta jaunā cilnē kreisajā pusē",
-      "currentWindow": "pašreizējais logs",
-      "newWindow": "jauns logs",
-      "incognitoWindow": "Inkognito logs",
-      "popupWindow": "Uznirstošais logs",
-      "currentTab": "Pašreizējā cilne",
-      "active": "Aktivizējiet tūlīt",
-      "inactive": "Nav aktivizēts"
+      "window": {
+        "title": "logs",
+        "currentWindow": ": Pašreizējais logs",
+        "newWindow": ":jauns logs",
+        "incognitoWindow": ":Neredzams logs",
+        "popupWindow": ": uznirstošais logs",
+        "externalBrowser": ": ārējā pārlūkprogramma (piemēram, {{tt}} utt.)"
+      },
+      "tab": {
+        "title": "cilnes lapa",
+        "rightTab": ": saite tiek atvērta jaunā cilnē labajā pusē",
+        "leftTab": ": saite tiek atvērta jaunā cilnē kreisajā pusē",
+        "currentTab": ": Pašreizējā cilne"
+      },
+      "active": {
+        "title": "aktīvs stāvoklis",
+        "active": ": aktivizēt nekavējoties",
+        "inactive": ": Neaktīvs"
+      }
+    },
+    "functions": {
+      "title": "Pieejamie funkciju objekti",
+      "minimatch": ": {{gg}} atbilstības metode izmanto {{mm}} bibliotēku, lūdzu, skatiet sadaļu <a>Skatiet</a>, lai uzzinātu par lietošanas metodi, vai arī varat meklēt {{gg}} lietošanas metodi."
     }
   },
   "menu": {

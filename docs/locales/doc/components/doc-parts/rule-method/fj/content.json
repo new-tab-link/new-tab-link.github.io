@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Na ituvatuva ni curu ni lawa",
+    "rule": {
+      "edit": "Kuria se vakadodonutaka na icurucuru ni lawa .",
+      "description": "E rawa ni o vakacuruma na ituvatuva oqo ena menu ni kiliki ena dua na itukutuku ni itukutuku, na URL ni itukutuku ni itukutuku ena vakacurumi me vaka e dua na lawa ena kena ivakarau E rawa ni o vakadodonutaka na lawa e rawa ni vakamacalataki ena ruku. .",
+      "formats": {
+        "title": "ivakarau ni lawa",
+        "url": {
+          "title": "Na ivakarau ni URL, URL taucoko.",
+          "example": {
+            "as": "Kena ivakaraitaki:"
+          },
+          "explain": "Na iwalewale oqo e rawa ni veiganiti kei na URL taucoko."
+        },
+        "glob": {
+          "title": "Na iwalewale ni glob e vakayagataka na valenivolavola ni {{1}} Yalovinaka <a>raica</a> na kena vakayagataki, se rawa ni o vakasaqara na kena vakayagataki na {{2}}.",
+          "example": {
+            "as": "Kena ivakaraitaki:",
+            "a": "{{1}}, ka veiganiti kei na tabana ni YouTube kei na tabana lalai kecega."
+          }
+        },
+        "regexp": {
+          "title": "Vakamacalataki vakawasoma, yalovinaka raica na <a>Raica</a> me baleta na kena vakayagataki."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Na ituvatuva ni curu ni lawa"
+  }
+}

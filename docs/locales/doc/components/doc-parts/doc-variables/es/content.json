@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variables disponibles",
-    "page": ": La variable es el objeto URL de la página web actual. Para obtener más detalles, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. ver</a>",
+    "title": "Objetos de función y variable disponibles",
+    "click": ": El objeto URL del enlace en el que se hizo clic. Para obtener más información, <a>consulte</a>.",
+    "page": ": El objeto URL de la página web actual (normalmente la barra de direcciones), introducción detallada <a>Ver</a>",
     "pageHost": ": El nombre de dominio de la página web actual.",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: el mismo nombre de dominio. Tenga en cuenta que aunque los nombres de dominio principales de {{_youtube_}} y {{_families_}} son ambos {{_mainDomain_}}, los nombres de subdominio son {{_youtubeSubDomain_}} y {{. _familiesSubDomain_}} respectivamente. Entonces sus nombres de dominio son diferentes.",
-    "click": ": el enlace en el que se hizo clic",
     "clickpath": ": La ruta del enlace en el que se hizo clic.",
-    "minimatch": ": método de coincidencia {{_glob_}}, usando la biblioteca {{_minimatch_}}, método de uso <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ver < /a>, o puedes buscar {{_glob_}}.",
-    "isSameDomain": ": Si es el mismo nombre de dominio, {{_true_}} es sí, {{_false_}} es no.",
-    "isSameParent": ": Si es la misma ruta principal, {{_true_}} es sí, {{_false_}} es no.",
-    "isPageSublink": ": Si la página actual es una subpágina del enlace en el que se hizo clic, {{_true_}} es sí, {{_false_}} es no.",
-    "isPageMultilevelSublink": ": Si la página actual es una subpágina infinita del enlace en el que se hizo clic, {{_true_}} es sí, {{_false_}} es no.",
-    "isClickSublink": ": Si el enlace en el que se hizo clic es un subvínculo de la página actual, {{_true_}} es sí, {{_false_}} es no.",
-    "isClickMultilevelSublink": ": Si el enlace en el que se hizo clic es un subvínculo ilimitado de la página actual, {{_true_}} es sí, {{_false_}} es no.",
+    "isSameDomain": ": Si es el mismo nombre de dominio, {{tt}} es sí, {{ff}} es no.",
+    "isSameSubDomain": "{{ss}}: el mismo nombre de dominio. Tenga en cuenta que aunque los nombres de dominio principales de {{yy}} y {{ff}} son ambos {{mm}}, los nombres de subdominio son {{ww}} y. {{ffss}} respectivamente. Entonces sus nombres de dominio son diferentes.",
+    "isSameParent": ": Si es la misma ruta principal, {{tt}} es sí, {{ff}} es no.",
+    "isPageSublink": ": Si la página actual es una subpágina del enlace en el que se hizo clic, {{tt}} es sí, {{ff}} es no.",
+    "isPageMultilevelSublink": ": Si la página actual es una subpágina infinita del enlace en el que se hizo clic, {{tt}} es sí, {{ff}} es no.",
+    "isClickSublink": ": Si el enlace en el que se hizo clic es un subenlace de la página actual, {{tt}} es sí, {{ff}} es no.",
+    "isClickMultilevelSublink": ": Si el enlace en el que se hizo clic es un subvínculo ilimitado de la página actual, {{tt}} es sí, {{ff}} es no.",
     "returnVariables": {
       "title": "Variables retornables",
-      "rightTab": ": El enlace se abre en una nueva pestaña a la derecha",
-      "leftTab": ": El enlace se abre en una nueva pestaña a la izquierda",
-      "currentWindow": "ventana actual",
-      "newWindow": "nueva ventana",
-      "incognitoWindow": "ventana de incógnito",
-      "popupWindow": "ventana emergente",
-      "currentTab": "Pestaña actual",
-      "active": "Activar ahora",
-      "inactive": "No activado"
+      "window": {
+        "title": "ventana",
+        "currentWindow": ":Ventana actual",
+        "newWindow": ":nueva ventana",
+        "incognitoWindow": ":Ventana invisible",
+        "popupWindow": ": ventana emergente",
+        "externalBrowser": ":Navegador externo (como {{tt}}, etc.)"
+      },
+      "tab": {
+        "title": "página de pestaña",
+        "rightTab": ": El enlace se abre en una nueva pestaña a la derecha",
+        "leftTab": ": El enlace se abre en una nueva pestaña a la izquierda",
+        "currentTab": ":Pestaña actual"
+      },
+      "active": {
+        "title": "estado activo",
+        "active": ": Activar inmediatamente",
+        "inactive": ":Inactivo"
+      }
+    },
+    "functions": {
+      "title": "Objetos de función disponibles",
+      "minimatch": ": El método de coincidencia {{gg}} utiliza la biblioteca {{mm}}. Consulte <a>Ver</a> para conocer el método de uso, o también puede buscar el método de uso de {{gg}}."
     }
   },
   "menu": {

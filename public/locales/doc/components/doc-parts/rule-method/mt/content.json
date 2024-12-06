@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Issettjar tad-dħul tar-regoli",
+    "rule": {
+      "edit": "Żid jew editja l-entrati tar-regoli",
+      "description": "Tista' tidħol f'dan l-issettjar permezz tal-menu tal-ikklikkja tal-lemin fuq kwalunkwe paġna web .",
+      "formats": {
+        "title": "mudell tar-regola",
+        "url": {
+          "title": "Modalità URL, URL komplut.",
+          "example": {
+            "as": "Per eżempju:"
+          },
+          "explain": "Dan il-metodu jista 'jaqbel mal-URL komplut."
+        },
+        "glob": {
+          "title": "Il-metodu glob juża l-librerija {{1}} Jekk jogħġbok <a>ara</a> għall-użu, jew tista' tfittex l-użu ta' {{2}}.",
+          "example": {
+            "as": "Per eżempju:",
+            "a": "{{1}}, li jaqbel mal-paġna ewlenija ta' YouTube u mal-paġni sekondarji kollha."
+          }
+        },
+        "regexp": {
+          "title": "Espressjoni regolari, jekk jogħġbok ara <a>Ara</a> għall-użu."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Issettjar tad-dħul tar-regoli"
+  }
+}

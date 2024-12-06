@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Giriş sazlamalary",
+    "rule": {
+      "edit": "Düzgün ýazgylaryny goşuň ýa-da redaktirläň",
+      "description": "Bu sazlamany islendik web sahypasyndaky sag basma menýusy arkaly girizip bilersiňiz, web sahypasyndan gireniňizde, web sahypasynyň URL-si, adatça, düzgünleri redaktirläp bilersiňiz .",
+      "formats": {
+        "title": "düzgün tertibi",
+        "url": {
+          "title": "URL tertibi, doly URL.",
+          "example": {
+            "as": "Mysal üçin:"
+          },
+          "explain": "Bu usul doly URL-e gabat gelip biler."
+        },
+        "glob": {
+          "title": "Glob usuly use {1}} kitaphanasyny ulanýar, ulanmak üçin <a> serediň </a>, ýa-da {{2} of ulanylyşyny gözläp bilersiňiz.",
+          "example": {
+            "as": "Mysal üçin:",
+            "a": "YouTube {baş sahypasyna we ähli kiçi sahypalara gabat gelýän {{1}}."
+          }
+        },
+        "regexp": {
+          "title": "Yzygiderli aňlatma, ulanmak üçin <a> Seret </a> serediň."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Giriş sazlamalary"
+  }
+}

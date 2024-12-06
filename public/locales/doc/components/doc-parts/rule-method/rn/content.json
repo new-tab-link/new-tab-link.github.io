@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Itegeko ry'injira",
+    "rule": {
+      "edit": "Kwongerako canke uhindure ivyinjijwe mu mategeko",
+      "description": "Ushobora kwinjira muri iyi nzira y'ugukanda iburyo kuri paji y'urubuga iyo winjiye kuri paji y'urubuga izokwongerwako nk'itegeko Ushobora guhindura amategeko ariho arasigurwa aha hepfo. .",
+      "formats": {
+        "title": "itegeko ry'akarorero",
+        "url": {
+          "title": "Uburyo bwa URL, URL yuzuye.",
+          "example": {
+            "as": "Nk'akarorero:"
+          },
+          "explain": "Ubu buryo bushobora guhura na URL yuzuye."
+        },
+        "glob": {
+          "title": "Uburyo bwa glob bukoresha ububiko bwa {{1}} Urasabwa <a>raba</a> ku ikoreshwa, canke ushobora kurondera ikoreshwa rya {{2}}.",
+          "example": {
+            "as": "Nk'akarorero:",
+            "a": "{{1}}, ihuye na paji y'intango ya YouTube n'amapaji yose."
+          }
+        },
+        "regexp": {
+          "title": "Invugo isanzwe, usabwe kuraba <a>Raba</a> ku bijanye n'ikoreshwa."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Itegeko ry'injira"
+  }
+}

@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Guaha na båriåbles siha",
-    "page": ": I variåble i URL na kosas gi i web page på'go. Para i detalle, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> atan</a>",
+    "title": "I siña ma'usa na variåble yan funsion na kosas siha",
+    "click": ": I URL na kosas gi i ma'a'atan na liñguahe Para mas emfotmasion, <a>atan</a>.",
+    "page": ": I URL na kosas gi i web page på'go (i address bar), introduksion <a>See</a>",
     "pageHost": ": I na'an i lugåt gi i web page på'go",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: I mismo na na'an i lugåt. Na'tungo' na achokka' i na'an i {{_youtube_}} yan i {{_families_}} {{_mainDomain_}}, i na'an i subdomain siha {{_youtubeSubDomain_}} yan {{_ _familiesSubDomain_}} respektibu. Pues diferentes i na'an-ñiha.",
-    "click": ": i link ni' ma'a'atan",
     "clickpath": ": I chalan i ma'a'atan na link",
-    "minimatch": ": {{_glob_}} matching method, using the {{_minimatch_}} library, usage method <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>See < /a>, pat siña un sodda' {{_glob_}}.",
-    "isSameDomain": ": Yanggen parehu i na'an i lugåt, {{_true_}} hunggan, {{_false_}} ti hunggan.",
-    "isSameParent": ": Yanggen parehu i chalan, {{_true_}} hunggan, {{_false_}} ti hunggan.",
-    "isPageSublink": ": Yanggen i pahina på'go un subpahina gi i ma'a'atan na link, {{_true_}} hunggan, {{_false_}} ti hunggan.",
-    "isPageMultilevelSublink": ": Yanggen i påhina på'go un infinitu na subpahina gi i ma'a'atan na link, {{_true_}} hunggan, {{_false_}} ti hunggan.",
-    "isClickSublink": ": Yanggen i ma'a'atan na link un sub-link gi i påhina på'go, {{_true_}} hunggan, {{_false_}} ti hunggan.",
-    "isClickMultilevelSublink": ": Yanggen i ma'a'atan na link un sub-link ni' ti ma'a'atan gi i pahina på'go, {{_true_}} hunggan, {{_false_}} ti hunggan.",
+    "isSameDomain": ": Yanggen parehu i na'an i lugåt, {{tt}} hunggan, {{ff}} ti hunggan.",
+    "isSameSubDomain": "{{ss}}: I mismo na na'an i lugåt. Na'tungo' na achokka' i na'an i lugåt {{yy}} yan {{ff}} dos {{mm}}, i na'an i sub-domain siha {{ww}} yan {{ww}}. {{ffss}} respektibu. Pues diferentes i na'an-ñiha.",
+    "isSameParent": ": Yanggen parehu i chalan, {{tt}} hunggan, {{ff}} ti hunggan.",
+    "isPageSublink": ": Yanggen i pahina på'go un subpahina gi i link ni' ma'a'atan, {{tt}} hunggan, {{ff}} ti hunggan.",
+    "isPageMultilevelSublink": ": Yanggen i pahina på'go un infinitu na subpahina gi i ma'a'atan na link, {{tt}} hunggan, {{ff}} ti hunggan.",
+    "isClickSublink": ": Yanggen i link ni' ma'a'atan un sub-link gi i påhina på'go, {{tt}} hunggan, {{ff}} ti hunggan.",
+    "isClickMultilevelSublink": ": Yanggen i link ni' ma'a'atan un sub-link ni' ti ma'a'atan gi i pahina på'go, {{tt}} hunggan, {{ff}} ti hunggan.",
     "returnVariables": {
       "title": "I siña ma bira tatte na båriåbles",
-      "rightTab": ": I link ha abri gi un nuebu na tab gi agapa'",
-      "leftTab": ": I link ha abri gi un nuebu na tab gi i sanhilo'",
-      "currentWindow": "bentanå-ña på'go",
-      "newWindow": "nuebu na bentanå-ña",
-      "incognitoWindow": "Inkognito na bentanå-ña",
-      "popupWindow": "Pop-up na bentanå-ña",
-      "currentTab": "Tab på'go",
-      "active": "Na'lå'la' på'go",
-      "inactive": "Ti ma'aktiba"
+      "window": {
+        "title": "bintana",
+        "currentWindow": ":På'go na bentanå-ña",
+        "newWindow": ":nuebu na bentanå-ña",
+        "incognitoWindow": ":Ti ma li'e' na bentanå-ña",
+        "popupWindow": ":pop-up window",
+        "externalBrowser": ":Eksternu na browser (put hemplo, {{tt}}, yan otro siha)"
+      },
+      "tab": {
+        "title": "pahina gi i tab",
+        "rightTab": ": I link ha abri gi un nuebu na tab gi agapa'",
+        "leftTab": ": I link ha abri gi un nuebu na tab gi i sanhilo'",
+        "currentTab": ":På'go na tab"
+      },
+      "active": {
+        "title": "estao aktibu",
+        "active": ": Na'fanhuyong ensegidas",
+        "inactive": ":Ti aktibu"
+      }
+    },
+    "functions": {
+      "title": "I kosas siha ni' siña ma'usa",
+      "minimatch": ": I {{gg}} na maneran inayek ha usa i {{mm}} na librarian På'go, atan i <a>See</a> para i maneran uson-ña, pat siña lokkue' un li'e' i maneran uson-ña {{gg}}."
     }
   },
   "menu": {

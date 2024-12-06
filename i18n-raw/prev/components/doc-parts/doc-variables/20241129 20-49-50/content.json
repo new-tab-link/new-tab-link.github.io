@@ -1,1 +1,32 @@
-{"doc":{"title":"可用变量","page":" : 变量是当前网页的URL对象，详细介绍 <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>参见</a>","pageHost":" : 当前网页的域名","isSameSubDomain":"{{_isSameSubDomain_}} : 同一个域名，注意{{_youtube_}}和{{_families_}}虽然主域名都是{{_mainDomain_}}，但是子域名分别是{{_youtubeSubDomain_}}和{{_familiesSubDomain_}}，所以它们域名不同。","click":" : 被点击的链接","clickpath":" ： 被点击链接的路径","minimatch":" : {{_glob_}}匹配方式，使用的是{{_minimatch_}}库，使用方式 <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>参见</a>，或者您也可以用搜索{{_glob_}}的使用方法。","isSameDomain":" : 是否是同一个域名, {{_true_}}是，{{_false_}}否。","isSameParent":" : 是否是同一个父级路径, {{_true_}}是，{{_false_}}否。","isPageSublink":" : 当前页面是否是点击链接的子页面, {{_true_}}是，{{_false_}}否。","isPageMultilevelSublink":" : 当前页面是否是点击链接的无限子页面, {{_true_}}是，{{_false_}}否。","isClickSublink":" : 点击链接是否是当前页面的子链接, {{_true_}}是，{{_false_}}否。","isClickMultilevelSublink":" : 点击链接是否是当前页面的无限子链接, {{_true_}}是，{{_false_}}否。","returnVariables":{"title":"可返回的变量","rightTab":" ： 链接在右侧新标签页打开","leftTab":" ： 链接在左侧新标签页打开","currentWindow":"当前窗口","newWindow":"新窗口","incognitoWindow":"隐身窗口","popupWindow":"弹窗","currentTab":"当前标签页","active":"立即激活","inactive":"不激活"}},"menu":{"main":"可用变量"}}
+{
+    "doc": {
+        "title": "可用变量",
+        "page": " : 变量是当前网页的URL对象，详细介绍 <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>参见</a>",
+        "click": " : 被点击的链接",
+        "pageHost": " : 当前网页的域名",
+        "clickpath": " ： 被点击链接的路径",
+        "minimatch": " : {{_g_l_o_b_}}匹配方式，使用的是{{_m_i_n_i_m_a_t_c_h_}}库，使用方式 <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>参见</a>，或者您也可以用搜索{{_g_l_o_b_}}的使用方法。",
+        "isSameDomain": " : 是否是同一个域名, {{t}}是，{{f}}否。",
+        "isSameSubDomain": "{{_isSameSubDomain_}} : 同一个域名，注意{{_youtube_}}和{{_f_a_m_i_l_i_e_s_}}虽然主域名都是{{_mainDomain_}}，但是子域名分别是{{_youtubeSubDomain_}}和{{_familiesSubDomain_}}，所以它们域名不同。",
+        "isSameParent": " : 是否是同一个父级路径, {{t}}是，{{f}}否。",
+        "isPageSublink": " : 当前页面是否是点击链接的子页面, {{t}}是，{{f}}否。",
+        "isPageMultilevelSublink": " : 当前页面是否是点击链接的无限子页面, {{t}}是，{{f}}否。",
+        "isClickSublink": " : 点击链接是否是当前页面的子链接, {{t}}是，{{f}}否。",
+        "isClickMultilevelSublink": " : 点击链接是否是当前页面的无限子链接, {{t}}是，{{f}}否。",
+        "returnVariables": {
+            "title": "可返回的变量",
+            "rightTab": " ： 链接在右侧新标签页打开",
+            "leftTab": " ： 链接在左侧新标签页打开",
+            "currentWindow": "当前窗口",
+            "newWindow": "新窗口",
+            "incognitoWindow": "隐身窗口",
+            "popupWindow": "弹窗",
+            "currentTab": "当前标签页",
+            "active": "立即激活",
+            "inactive": "不激活"
+        }
+    },
+    "menu": {
+        "main": "可用变量"
+    }
+}

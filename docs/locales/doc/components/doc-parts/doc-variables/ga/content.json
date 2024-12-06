@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Athróga atá ar fáil",
-    "page": ": Is é an t-athróg oibiacht URL an leathanaigh ghréasáin reatha. féach</a>",
+    "title": "Rudaí inathraithe agus feidhm atá ar fáil",
+    "click": ": Cuspóir URL an naisc chliceáilte Le haghaidh sonraí, <a>féach</a>",
+    "page": ": Cuspóir URL an leathanaigh ghréasáin reatha (an barra seoltaí de ghnáth), réamhrá mionsonraithe <a>Féach</a>",
     "pageHost": ": Ainm fearainn an leathanaigh ghréasáin reatha",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: An t-ainm fearainn céanna. Tabhair faoi deara, cé gur {{_mainDomain_}} na príomhainmneacha fearainn de {{_youtube_}} agus {{_families_}}, is iad {{_youtubeSubDomain_}} agus {{) na hainmneacha fearainn céanna. _familiesSubDomain_}} faoi seach, mar sin tá a n-ainmneacha fearainn difriúil.",
-    "click": ": an nasc ar chliceáil air",
     "clickpath": ": Conair an naisc chliceáilte",
-    "minimatch": ": {{_glob_}} modh meaitseála, ag baint úsáid as an leabharlann {{_minimatch_}}, modh úsáide <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Féach < /a>, nó is féidir leat {{_glob_}} a chuardach.",
-    "isSameDomain": ": Cibé an t-ainm fearainn céanna é, {{_true_}} tá, {{_false_}} níl.",
-    "isSameParent": ": Cibé an cosán tuismitheora céanna é, {{_true_}} tá, {{_false_}} níl.",
-    "isPageSublink": ": Cibé an bhfuil an leathanach reatha ina fho-leathanach den nasc a chliceáil, {{_true_}} an bhfuil, {{_false_}} níl.",
-    "isPageMultilevelSublink": ": Cibé an fo-leathanach gan teorainn é an leathanach reatha den nasc a chliceáil, {{_true_}} an bhfuil, níl {{_false_}}.",
-    "isClickSublink": ": Cibé an fo-nasc den leathanach reatha é an nasc a chliceáil, {{_true_}} an bhfuil, níl {{_false_}}.",
-    "isClickMultilevelSublink": ": Cibé an fo-nasc neamhtheoranta den leathanach reatha é an nasc a chliceáil, tá {{_true_}} níl, {{_false_}} níl.",
+    "isSameDomain": ": Cibé an t-ainm fearainn céanna é, {{tt}} tá, {{ff}} níl.",
+    "isSameSubDomain": "{{ ss}}: An t-ainm fearainn céanna. Tabhair faoi deara, cé gur {{mm}} na príomhainmneacha fearainn de {{yy}} agus {{ff}}, is iad {{ww}} agus na fo-ainmneacha fearainn. {{ ffss }} faoi seach, mar sin tá a n-ainmneacha fearainn difriúil.",
+    "isSameParent": ": Cibé an cosán tuismitheora céanna é, {{tt}} tá, {{ff}} níl.",
+    "isPageSublink": ": Cibé an bhfuil an leathanach reatha ina fho-leathanach den nasc a chliceáil, {{tt}} tá, {{ff}} níl.",
+    "isPageMultilevelSublink": ": Cibé an fo-leathanach gan teorainn é an leathanach reatha den nasc a chliceáil, {{tt}} tá, {{ff}} níl.",
+    "isClickSublink": ": Cibé an fo-nasc den leathanach reatha é an nasc a chliceáil, {{tt}} an bhfuil, níl {{ff}}.",
+    "isClickMultilevelSublink": ": Cibé an fo-nasc neamhtheoranta den leathanach reatha é an nasc a chliceáil, is é {{tt}} tá, níl {{ff}}.",
     "returnVariables": {
       "title": "Athróga in-aischurtha",
-      "rightTab": ": Osclaíonn an nasc i gcluaisín nua ar dheis",
-      "leftTab": ": Osclaíonn an nasc i gcluaisín nua ar thaobh na láimhe clé",
-      "currentWindow": "fhuinneog reatha",
-      "newWindow": "fuinneog nua",
-      "incognitoWindow": "Fuinneog gan aithne",
-      "popupWindow": "Fuinneog aníos",
-      "currentTab": "Cluaisín reatha",
-      "active": "Gníomhachtaigh anois",
-      "inactive": "Gan gníomhachtaithe"
+      "window": {
+        "title": "fuinneoige",
+        "currentWindow": ": Fuinneog reatha",
+        "newWindow": ":fuinneog nua",
+        "incognitoWindow": ": Fuinneog dofheicthe",
+        "popupWindow": ": fuinneog aníos",
+        "externalBrowser": ": Brabhsálaí seachtrach (ar nós {{tt}}, etc.)"
+      },
+      "tab": {
+        "title": "leathanach cluaisín",
+        "rightTab": ": Osclaíonn an nasc i gcluaisín nua ar dheis",
+        "leftTab": ": Osclaíonn an nasc i gcluaisín nua ar thaobh na láimhe clé",
+        "currentTab": ": cluaisín reatha"
+      },
+      "active": {
+        "title": "stát gníomhach",
+        "active": ": Gníomhachtaigh láithreach",
+        "inactive": ": Neamhghníomhach"
+      }
+    },
+    "functions": {
+      "title": "Rudaí feidhm atá ar fáil",
+      "minimatch": ": Úsáideann an modh meaitseála {{gg}} leabharlann {{mm}}. Féach <a>Féach</a> don mhodh úsáide, nó is féidir leat modh úsáide {{gg}} a chuardach freisin."
     }
   },
   "menu": {

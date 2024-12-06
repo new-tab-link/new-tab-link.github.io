@@ -3,16 +3,7 @@
     "title": "عالمی اسکرپٹ کی ترتیبات",
     "description": "آپ جاوا اسکرپٹ کا استعمال کرکے اپنا اسکرپٹ لکھ سکتے ہیں۔",
     "examplesTitle": "مثال",
-    "checkedUseSetting": "اس ترتیب کو فعال کرنے کے لیے چیک کریں۔",
-    "variables": {
-      "title": "دستیاب متغیرات",
-      "click": "لنک پر کلک کیا گیا، یہ انتساب <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> کلاس آبجیکٹ ہے۔",
-      "page": "موجودہ صفحہ کا لنک یہ ایک <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ہے۔ کلاس آبجیکٹ"
-    },
-    "returnVariables": {
-      "title": "وہ قدریں جو واپس کی جا سکتی ہیں۔",
-      "rightTab": "دائیں جانب نئے ٹیب میں کھولیں۔"
-    }
+    "checkedUseSetting": "اس ترتیب کو فعال کرنے کے لیے چیک کریں۔"
   },
   "menu": {
     "main": "عالمی سکرپٹ"

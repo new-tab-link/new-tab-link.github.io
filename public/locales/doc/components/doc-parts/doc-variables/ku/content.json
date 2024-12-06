@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Guherbarên berdest",
-    "page": ": Guherbar objeya URL ya malpera heyî ye Ji bo hûragahiyan, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. binêre</a>",
+    "title": "Tiştên guhêrbar û fonksiyonê yên berdest",
+    "click": ": Tişta URL ya lînka klîkkirî Ji bo hûragahiyan, <a>binêre</a>",
+    "page": ": Tişta URL ya rûpela webê ya heyî (bi gelemperî barika navnîşan), danasîna berfireh <a>Binêre</a>",
     "pageHost": ": Navê domaina malpera heyî",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Navê heman domainê Bala xwe bidinê ku her çend navên domainê yên sereke yên {{_youtube_}} û {{_families_}} her du jî {{_mainDomain_}} bin, navên subdomain {{_youtubeSubDomain_}} û {{ Bi rêzê ve _familiesSubDomain_}} Ji ber vê yekê navên domainê wan cuda ne.",
-    "click": ": lînka ku hat tikandin",
     "clickpath": ": Rêya lînka kilîkkirî",
-    "minimatch": ": {{_glob_}} rêbaza hevberdanê, bikaranîna pirtûkxaneya {{_minimatch_}}, rêbaza bikaranînê <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Binêre < /a>, an jî hûn dikarin li {{_glob_}} bigerin.",
-    "isSameDomain": ": Ma ew heman navê domainê be, {{_true_}} erê ye, {{_false_}} na ye.",
-    "isSameParent": ": Ka ew heman riya dêûbavê be, {{_true_}} erê ye, {{_false_}} na ye.",
-    "isPageSublink": ": Gelo rûpela niha jêrrûpelek lînka klîkkirî be, {{_true_}} erê ye, {{_false_}} na ye.",
-    "isPageMultilevelSublink": ": Gelo rûpela niha jêrrûpeleke bêdawî ya lînka klîkkirî ye, {{_rast_}} erê ye, {{_derew_}} na ye.",
-    "isClickSublink": ": Gelo lînka klîkkirî jêr-girêdana rûpela heyî be, {{_true_}} erê ye, {{_false_}} na ye.",
-    "isClickMultilevelSublink": ": Ma zencîreya klîkkirî bin-girêdaneke bêsînor a rûpela heyî be, {{_true_}} erê ye, {{_false_}} na ye.",
+    "isSameDomain": ": Ma ew heman navî ye, {{tt}} erê ye, {{ff}} na.",
+    "isSameSubDomain": "{{ss}}: Navê heman domainê Bala xwe bidinê ku her çend navên serekî yên {{yy}} û {{ff}} her du jî {{mm}} bin jî, navên jêr-domain {{ww}} ne. Bi rêzê ve {{ffss}} Ji ber vê yekê navên domainê cuda ne.",
+    "isSameParent": ": Ka ew heman riya dêûbavê be, {{tt}} erê ye, {{ff}} na ye.",
+    "isPageSublink": ": Ka rûpela niha jêrrûpelek lînka klîkkirî be, {{tt}} erê ye, {{ff}} na ye.",
+    "isPageMultilevelSublink": ": Ka rûpela niha jêrrûpelek bêdawî ya lînka klîkkirî be, {{tt}} erê ye, {{ff}} na ye.",
+    "isClickSublink": ": Gelo lînka klîkkirî jêr-girêdana rûpela heyî be, {{tt}} erê ye, {{ff}} na ye.",
+    "isClickMultilevelSublink": ": Ma zencîreya klîkkirî bin-girêdaneke bêsînor a rûpela heyî be, {{tt}} erê ye, {{ff}} na ye.",
     "returnVariables": {
       "title": "Guherbarên vegerî",
-      "rightTab": ": Girêdan di tabloyek nû ya rastê de vedibe",
-      "leftTab": ": Girêdan di tabloyek nû de li milê çepê vedibe",
-      "currentWindow": "pencereya heyî",
-      "newWindow": "pencereya nû",
-      "incognitoWindow": "Pencereya nenaskirî",
-      "popupWindow": "Pencereya pop-up",
-      "currentTab": "Tabloya heyî",
-      "active": "Niha çalak bike",
-      "inactive": "Ne aktîf kirin"
+      "window": {
+        "title": "pace",
+        "currentWindow": ":Pencereya niha",
+        "newWindow": ": pencereya nû",
+        "incognitoWindow": ":Pencera nexuya",
+        "popupWindow": ":Pencereya popup",
+        "externalBrowser": ": Geroka derve (wekî {{tt}}, hwd.)"
+      },
+      "tab": {
+        "title": "rûpela tabê",
+        "rightTab": ": Girêdan di tabloyek nû ya rastê de vedibe",
+        "leftTab": ": Girêdan di tabloyek nû de li milê çepê vedibe",
+        "currentTab": ":Tabela niha"
+      },
+      "active": {
+        "title": "dewleta çalak",
+        "active": ": Di cih de çalak bike",
+        "inactive": ":Bêkar"
+      }
+    },
+    "functions": {
+      "title": "Tiştên fonksiyonê yên berdest",
+      "minimatch": ": Rêbaza hevberdanê ya {{gg}} pirtûkxaneya {{mm}} bikar tîne Ji kerema xwe re li <a>Binêre</a> ji bo rêbaza karanîna, an jî hûn dikarin li rêbaza karanîna {{gg}} bigerin."
     }
   },
   "menu": {

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Arauak sartzeko ezarpenak",
+    "rule": {
+      "edit": "Gehitu edo editatu arau-sarrerak",
+      "description": "Ezarpen hau edozein web-orritako eskuineko botoiaren bidez sar dezakezu, web-orriaren URLa arau gisa gehituko da. Behean azaltzen dira eskuragarri dauden formatuak .",
+      "formats": {
+        "title": "arau eredua",
+        "url": {
+          "title": "URL modua, URL osoa.",
+          "example": {
+            "as": "Adibidez:"
+          },
+          "explain": "Metodo honek URL osoarekin bat egin dezake."
+        },
+        "glob": {
+          "title": "Glob metodoak {{1}} liburutegia erabiltzen du. <a>Ikusi</a> erabiltzeko, edo {{2}}-ren erabilera bilatu dezakezu.",
+          "example": {
+            "as": "Adibidez:",
+            "a": "{{1}}, YouTube-ren hasierako orriarekin eta azpiorrialde guztiekin bat datorrena."
+          }
+        },
+        "regexp": {
+          "title": "Adierazpen erregularra, ikusi <a>Ikusi</a> erabiltzeko."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Arauak sartzeko ezarpenak"
+  }
+}

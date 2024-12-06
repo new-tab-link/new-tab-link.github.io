@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Kamachi mantañataki wakicht’awinaka",
+    "rule": {
+      "edit": "Kamachi qillqt’atanaka yapxataña jan ukaxa chiqañchaña",
+      "description": "Aka wakichawixa kuna web ukansa ch’iqa tuqiru ch’iqt’aña tuqiwa mantasma, ukaxa mä kamachirjamawa yapxatatarakini .",
+      "formats": {
+        "title": "kamachi patruna",
+        "url": {
+          "title": "URL modalidad, URL phuqhata.",
+          "example": {
+            "as": "Ukhama:"
+          },
+          "explain": "Aka lurawix URL phuqhat uñt’ayatarakispawa."
+        },
+        "glob": {
+          "title": "Glob thakhix {{1}} biblioteca apnaqi Uñakipt’añataki <a>uñakipt’añataki</a>, jan ukax {{2}} apnaqañ thaqhañamawa.",
+          "example": {
+            "as": "Ukhama:",
+            "a": "{{1}}, ukax YouTube ukan nayrïr uñstawipampi ukhamarak taqpach jisk’a pankanakapamp chikancht’atawa."
+          }
+        },
+        "regexp": {
+          "title": "Sapa kuti arsuña, <a>Uñxatt’aña</a> uñakipt’aña apnaqañataki."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Kamachi mantañataki wakicht’awinaka"
+  }
+}

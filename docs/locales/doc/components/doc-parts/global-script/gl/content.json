@@ -3,16 +3,7 @@
     "title": "Configuración global do script",
     "description": "Podes escribir o teu propio script usando javascript",
     "examplesTitle": "Exemplo",
-    "checkedUseSetting": "Marque para activar esta configuración.",
-    "variables": {
-      "title": "Variables dispoñibles",
-      "click": "Se fai clic na ligazón, este atributo é un obxecto de clase <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "A ligazón da páxina actual. Este atributo é un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. obxecto de clase."
-    },
-    "returnVariables": {
-      "title": "Valores que se poden devolver",
-      "rightTab": "Abre nunha nova pestana á dereita"
-    }
+    "checkedUseSetting": "Marque para activar esta configuración."
   },
   "menu": {
     "main": "guión global"

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Switirhisiwa swo nghenisa milawu",
+    "rule": {
+      "edit": "Engetela kumbe ku hlela swingheniso swa nawu",
+      "description": "U nga nghenisa xiyimiso lexi hi ku tirhisa menyu ya ku tikhoma hi xinene eka tluka rin’wana na rin’wana ra webu, URL ya tluka ra webu yi ta engeteriwa tanihi nawu hi ku tiyimisela U nga hlela milawu Tifomati leti nga kona ti hlamuseriwile laha hansi .",
+      "formats": {
+        "title": "xivumbeko xa milawu",
+        "url": {
+          "title": "Mode ya URL, URL leyi heleleke.",
+          "example": {
+            "as": "Xikombiso:"
+          },
+          "explain": "Ndlela leyi yi nga fambisana na URL leyi heleleke."
+        },
+        "glob": {
+          "title": "Ndlela ya glob yi tirhisa layiburari ya {{1}} Hi kombela u <a>vona</a> ku kuma matirhiselo, kutani u nga lavisisa matirhiselo ya {{2}}.",
+          "example": {
+            "as": "Xikombiso:",
+            "a": "{{1}}, leyi fambelanaka na pheji ya le kaya ya YouTube na matluka-ntsongo hinkwawo."
+          }
+        },
+        "regexp": {
+          "title": "Xivulavulelo xa nkarhi na nkarhi, hi kombela u vona <a>Vona</a> ku kuma matirhiselo."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Switirhisiwa swo nghenisa milawu"
+  }
+}

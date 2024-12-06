@@ -3,16 +3,7 @@
     "title": "Globale Skripteinstellungen",
     "description": "Sie können Ihr eigenes Skript mit Javascript schreiben",
     "examplesTitle": "Beispiel",
-    "checkedUseSetting": "Aktivieren Sie diese Einstellung, um sie zu aktivieren.",
-    "variables": {
-      "title": "Verfügbare Variablen",
-      "click": "Angeklickter Link, dieses Attribut ist ein <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>-Klassenobjekt.",
-      "page": "Der Link der aktuellen Seite. Dieses Attribut ist eine <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> Klassenobjekt."
-    },
-    "returnVariables": {
-      "title": "Werte, die zurückgegeben werden können",
-      "rightTab": "Rechts in neuem Tab öffnen"
-    }
+    "checkedUseSetting": "Aktivieren Sie diese Einstellung, um sie zu aktivieren."
   },
   "menu": {
     "main": "globales Skript"

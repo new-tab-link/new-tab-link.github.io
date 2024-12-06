@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Ensengeka z'okuyingiza amateeka",
+    "rule": {
+      "edit": "Yongera oba okulongoosa ebiyingiziddwa mu mateeka",
+      "description": "Osobola okuyingiza ensengeka eno ng’oyita mu menu y’okunyiga ku ddyo ku mukutu gwonna Bw’oba ​​oyingira okuva ku mukutu gwa yintaneeti, URL y’olupapula lw’omukutu ejja kwongerwako ng’etteeka mu butonde Osobola okulongoosa amateeka .",
+      "formats": {
+        "title": "enkola y’amateeka",
+        "url": {
+          "title": "Omutindo gwa URL, URL enzijuvu.",
+          "example": {
+            "as": "Okugeza nga:"
+          },
+          "explain": "Enkola eno esobola okukwatagana ne URL enzijuvu."
+        },
+        "glob": {
+          "title": "Enkola ya glob ekozesa etterekero lya {{1}} Nsaba <a>laba</a> ku nkozesa, oba osobola okunoonya enkozesa ya {{2}}.",
+          "example": {
+            "as": "Okugeza nga:",
+            "a": "{{1}}, ekwatagana n'olupapula lwa YouTube n'olupapula olutono lwonna."
+          }
+        },
+        "regexp": {
+          "title": "Okwolesebwa okwa bulijjo, nsaba olabe <a>Laba</a> ku nkozesa."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Ensengeka z'okuyingiza amateeka"
+  }
+}

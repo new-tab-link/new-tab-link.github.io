@@ -3,16 +3,7 @@
     "title": "グローバルスクリプト設定",
     "description": "JavaScriptを使用して独自のスクリプトを作成できます",
     "examplesTitle": "例",
-    "checkedUseSetting": "この設定を有効にするにはチェックを入れます。",
-    "variables": {
-      "title": "利用可能な変数",
-      "click": "クリックされたリンク、この属性は <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> クラス オブジェクトです。",
-      "page": "現在のページのリンクは、<a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> です。クラスオブジェクト。"
-    },
-    "returnVariables": {
-      "title": "返せる値",
-      "rightTab": "右側の新しいタブで開く"
-    }
+    "checkedUseSetting": "この設定を有効にするにはチェックを入れます。"
   },
   "menu": {
     "main": "グローバルスクリプト"

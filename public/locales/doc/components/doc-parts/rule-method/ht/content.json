@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Anviwònman antre règ",
+    "rule": {
+      "edit": "Ajoute oswa modifye antre règ yo",
+      "description": "Ou ka antre nan paramèt sa a atravè meni an dwa sou nenpòt paj entènèt Lè w ap antre nan yon paj entènèt, yo pral ajoute URL la nan paj wèb la kòm yon règ pa default .",
+      "formats": {
+        "title": "modèl règ",
+        "url": {
+          "title": "Mòd URL, URL konplè.",
+          "example": {
+            "as": "Pou egzanp:"
+          },
+          "explain": "Metòd sa a ka matche ak URL konplè a."
+        },
+        "glob": {
+          "title": "Metòd glob la sèvi ak bibliyotèk {{1}} Tanpri <a>gade</a> pou itilizasyon, oswa ou ka fè rechèch sou itilizasyon {{2}}.",
+          "example": {
+            "as": "Pou egzanp:",
+            "a": "{{1}}, ki koresponn ak paj dakèy YouTube la ak tout sou-paj yo."
+          }
+        },
+        "regexp": {
+          "title": "Ekspresyon regilye, tanpri gade <a>Gade</a> pou itilize."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Anviwònman antre règ"
+  }
+}

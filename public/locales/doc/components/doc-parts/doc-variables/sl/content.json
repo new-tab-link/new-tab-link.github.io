@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Razpoložljive spremenljivke",
-    "page": ": Spremenljivka je predmet URL trenutne spletne strani. Za podrobnosti <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. glej</a>",
+    "title": "Razpoložljive spremenljivke in funkcijski objekti",
+    "click": ": Objekt URL kliknjene povezave Za podrobnosti <a>glejte</a>",
+    "page": ": predmet URL trenutne spletne strani (običajno naslovna vrstica), podroben uvod <a>Glej</a>",
     "pageHost": ": ime domene trenutne spletne strani",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Upoštevajte, da sta glavni imeni domen {{_youtube_}} in {{_families_}} {{_mainDomain_}}, imeni poddomen {{_youtubeSubDomain_}} in {{. _familiesSubDomain_}} torej so njihova imena domen drugačna.",
-    "click": ": povezava, ki je bila kliknjena",
     "clickpath": ": Pot kliknjene povezave",
-    "minimatch": ": metoda ujemanja {{_glob_}}, uporaba knjižnice {{_minimatch_}}, metoda uporabe <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Glej < /a> ali pa poiščete {{_glob_}}.",
-    "isSameDomain": ": Ne glede na to, ali gre za isto ime domene, je {{_true_}} da, {{_false_}} je ne.",
-    "isSameParent": ": Ne glede na to, ali gre za isto nadrejeno pot, je {{_true_}} da, {{_false_}} je ne.",
-    "isPageSublink": ": Ali je trenutna stran podstran kliknjene povezave, {{_true_}} je da, {{_false_}} je ne.",
-    "isPageMultilevelSublink": ": Ali je trenutna stran neskončna podstran kliknjene povezave, {{_true_}} je da, {{_false_}} je ne.",
-    "isClickSublink": ": ali je kliknjena povezava podpovezava trenutne strani, {{_true_}} je da, {{_false_}} je ne.",
-    "isClickMultilevelSublink": ": ali je kliknjena povezava neomejena podpovezava trenutne strani, {{_true_}} je da, {{_false_}} je ne.",
+    "isSameDomain": ": Ne glede na to, ali gre za isto ime domene, je {{tt}} da, {{ff}} je ne.",
+    "isSameSubDomain": "{{ss}}: Upoštevajte, da sta glavni imeni domene {{yy}} in {{ff}} obe {{mm}}, poddomeni {{ww}} in. {{ffss}} torej so njihova imena domen drugačna.",
+    "isSameParent": ": Ne glede na to, ali gre za isto nadrejeno pot, je {{tt}} da, {{ff}} je ne.",
+    "isPageSublink": ": Ali je trenutna stran podstran kliknjene povezave, {{tt}} je da, {{ff}} je ne.",
+    "isPageMultilevelSublink": ": Ali je trenutna stran neskončna podstran kliknjene povezave, {{tt}} je da, {{ff}} je ne.",
+    "isClickSublink": ": ali je kliknjena povezava podpovezava trenutne strani, {{tt}} je da, {{ff}} je ne.",
+    "isClickMultilevelSublink": ": ali je kliknjena povezava neomejena podpovezava trenutne strani, {{tt}} je da, {{ff}} je ne.",
     "returnVariables": {
       "title": "Povratne spremenljivke",
-      "rightTab": ": povezava se odpre v novem zavihku na desni",
-      "leftTab": ": povezava se odpre v novem zavihku na levi",
-      "currentWindow": "trenutno okno",
-      "newWindow": "novo okno",
-      "incognitoWindow": "Okno brez beleženja zgodovine",
-      "popupWindow": "Pojavno okno",
-      "currentTab": "Trenutni zavihek",
-      "active": "Aktiviraj zdaj",
-      "inactive": "Ni aktivirano"
+      "window": {
+        "title": "okno",
+        "currentWindow": ":Trenutno okno",
+        "newWindow": ":novo okno",
+        "incognitoWindow": ": Nevidno okno",
+        "popupWindow": ": pojavno okno",
+        "externalBrowser": ":zunanji brskalnik (kot je {{tt}} itd.)"
+      },
+      "tab": {
+        "title": "stran zavihka",
+        "rightTab": ": povezava se odpre v novem zavihku na desni",
+        "leftTab": ": povezava se odpre v novem zavihku na levi",
+        "currentTab": ": Trenutni zavihek"
+      },
+      "active": {
+        "title": "aktivno stanje",
+        "active": ": Aktiviraj takoj",
+        "inactive": ": Neaktiven"
+      }
+    },
+    "functions": {
+      "title": "Razpoložljivi funkcijski objekti",
+      "minimatch": ": Metoda ujemanja {{gg}} uporablja knjižnico {{mm}}. Za način uporabe glejte <a>Glejte</a> ali pa poiščite način uporabe {{gg}}."
     }
   },
   "menu": {

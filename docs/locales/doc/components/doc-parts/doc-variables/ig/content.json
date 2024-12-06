@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Ụdị mgbanwe dị",
-    "page": ": Ngbanwe bụ URL ihe nke ibe weebụ dị ugbu a, maka nkọwa, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> hụ</a>",
+    "title": "Ihe agbanwe agbanwe na ihe arụ ọrụ dị",
+    "click": ": Ihe URL nke njikọ pịrị maka nkọwa, <a>hụ</a>",
+    "page": ": Ihe URL nke ibe weebụ dị ugbu a (na-abụkarị ogwe adreesị), mmeghe zuru ezu <a>Lee</a>",
     "pageHost": ": Aha ngalaba nke ibe weebụ dị ugbu a",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Otu ngalaba aha Rụba ama na agbanyeghị na ngalaba aha {{_youtube_}} na {{_families_}} bụ ma {{_mainDomain_}}, aha subdomain bụ {{_youtubeSubDomain_}} na {{ _familiesSubDomain_}} n'otu n'otu, aha ngalaba ha dị iche.",
-    "click": ": njikọ nke pịrị",
     "clickpath": ": Ụzọ nke njikọ pịa",
-    "minimatch": ": {{_glob_}} Usoro dakọtara, na-eji {{_minimatch_}} ọba akwụkwọ, usoro ojiji <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Lee < /a>, ma ọ bụ i nwere ike chọọ {{_glob_}}.",
-    "isSameDomain": ": Ma ọ bụ otu ngalaba aha, {{_true_}} bụ ee, {{_false_}} abụghị mba.",
-    "isSameParent": ": Ma ọ bụ otu ụzọ nne na nna, {{_eziokwu_}} bụ ee, {{_false_}} bụ mba.",
-    "isPageSublink": ": Ma ibe dị ugbu a ọ bụ obere ibe nke njikọ a pịrị, {{_eziokwu_}} bụ ee, {{_false_}} bụ mba.",
-    "isPageMultilevelSublink": ": Ma ibe dị ugbu a ọ bụ obere ibe enweghị ngwụcha nke njikọ a pịrị, {{_true_}} bụ ee, {{_false_}} bụ mba.",
-    "isClickSublink": ": Ma njikọ a pịrị apị ọ bụ sub-njikọ nke ibe dị ugbu a, {{_true_}} bụ ee, {{_false_}} bụ mba.",
-    "isClickMultilevelSublink": ": Ma njikọ a pịrị apị bụ njikọ na-akparaghị ókè nke ibe dị ugbu a, {{_true_}} bụ ee, {{_false_}} abụghị mba.",
+    "isSameDomain": ": Ma ọ bụ otu ngalaba aha, {{tt}} bụ ee, {{ff}} abụghị mba.",
+    "isSameSubDomain": "{{ss}}: Otu ngalaba aha ahụ mara na ọ bụ ezie na aha ngalaba nke {{yy}} na {{ff}} bụ ma {{mm}}, aha sub-ngalaba bụ {{ww}} na {{ffss}} na aha ngalaba ha dị iche.",
+    "isSameParent": ": Ma ọ bụ otu ụzọ nne na nna, {{tt}} bụ ee, {{ff}} abụghị mba.",
+    "isPageSublink": ": Ma ibe dị ugbu a ọ bụ obere ibe nke njikọ a pịrị, {{tt}} bụ ee, {{ff}} bụ mba.",
+    "isPageMultilevelSublink": ": Ma ibe dị ugbu a ọ bụ obere ibe na-enweghị ngwụcha nke njikọ a pịrị, {{tt}} bụ ee, {{ff}} bụ mba.",
+    "isClickSublink": ": Ma njikọ a pịrị apị bụ njikọ nke ibe dị ugbu a, {{tt}} bụ ee, {{ff}} bụ mba.",
+    "isClickMultilevelSublink": ": Ma njikọ a pịrị apị bụ njikọ na-enweghị njedebe nke ibe dị ugbu a, {{tt}} bụ ee, {{ff}} abụghị mba.",
     "returnVariables": {
       "title": "mgbanwe mgbanwe",
-      "rightTab": ": Njikọ ahụ ga-emepe na taabụ ọhụrụ n'aka nri",
-      "leftTab": ": Njikọ ahụ na-emepe na taabụ ọhụrụ n'aka ekpe",
-      "currentWindow": "windo ugbu a",
-      "newWindow": "windo ọhụrụ",
-      "incognitoWindow": "Window Incognito",
-      "popupWindow": "Window mmapụta",
-      "currentTab": "Taabụ dị ugbu a",
-      "active": "Tinye ọrụ ugbu a",
-      "inactive": "Agbanyeghi ya"
+      "window": {
+        "title": "windo",
+        "currentWindow": ": windo dị ugbu a",
+        "newWindow": ": windo ọhụrụ",
+        "incognitoWindow": ": Window anaghị ahụ anya",
+        "popupWindow": ": windo mmapụta",
+        "externalBrowser": "Ihe nchọgharị dị na mpụga (dịka {{tt}}, wdg.)"
+      },
+      "tab": {
+        "title": "ibe tab",
+        "rightTab": ": Njikọ ahụ ga-emepe na taabụ ọhụrụ n'aka nri",
+        "leftTab": ": Njikọ ahụ na-emepe na taabụ ọhụrụ n'aka ekpe",
+        "currentTab": ": Ugbu a tab"
+      },
+      "active": {
+        "title": "steeti nọ n'ọrụ",
+        "active": ": Tinye ọrụ ozugbo",
+        "inactive": ":Aadịghị arụ ọrụ"
+      }
+    },
+    "functions": {
+      "title": "Ihe arụ ọrụ dị",
+      "minimatch": ": Usoro dakọtara {{gg}} na-eji {{mm}} ọba akwụkwọ biko hụ <a>Lee</a> maka usoro ojiji, ma ọ bụ ị nwekwara ike chọọ usoro ojiji nke {{gg}}."
     }
   },
   "menu": {

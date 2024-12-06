@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "variabel sadia",
-    "page": ": Variabel nyaéta obyék URL tina kaca wéb anu ayeuna, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> tingali</a>",
+    "title": "Aya variabel jeung fungsi objék",
+    "click": ": Obyék URL tina tautan anu diklik Pikeun detil, <a>tingali</a>",
+    "page": ": Obyék URL tina kaca wéb ayeuna (biasana bar alamat), bubuka lengkep <a>Tingali</a>",
     "pageHost": ": Ngaran domain kaca wéb ayeuna",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Ngaran domain anu sami Catet yén sanajan nami domain utama {{_youtube_}} sareng {{_families_}} duanana {{_mainDomain_}}, nami subdomain nyaéta {{_youtubeSubDomain_}} sareng {{ _familiesSubDomain_}} jadi ngaran domain maranéhanana béda.",
-    "click": ": link anu diklik",
     "clickpath": ": Jalur tina link diklik",
-    "minimatch": ": {{_glob_}} métode cocog, maké perpustakaan {{_minimatch_}}, métode pamakéan <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Tingali < /a>, atanapi anjeun tiasa milarian {{_glob_}}.",
-    "isSameDomain": ": Naha éta ngaran domain anu sarua, {{_true_}} enya, {{_palsu_}} henteu.",
-    "isSameParent": ": Naha éta jalur indungna sarua, {{_true_}} enya, {{_palsu_}} henteu.",
-    "isPageSublink": ": Naha kaca ayeuna mangrupa subkaca tina tumbu nu diklik, {{_true_}} enya, {{_false_}} henteu.",
-    "isPageMultilevelSublink": ": Naha kaca ayeuna mangrupa subkaca anu taya watesna tina tumbu anu diklik, {{_true_}} enya, {{_false_}} henteu.",
-    "isClickSublink": ": Naha tumbu anu diklik téh mangrupa sub-tumbu ti kaca ayeuna, {{_true_}} enya, {{_false_}} henteu.",
-    "isClickMultilevelSublink": ": Naha tautan anu diklik mangrupikeun sub-link anu henteu terbatas tina kaca ayeuna, {{_true_}} leres, {{_false_}} henteu.",
+    "isSameDomain": ": Naha éta nami domain anu sami, {{tt}} enya, {{ff}} henteu.",
+    "isSameSubDomain": "{{ss}}: Ngaran domain anu sami, sanajan nami domain utama {{yy}} sareng {{ff}} duanana {{mm}}, nami sub-domain nyaéta {{ww}} sareng {{ffss}} masing-masing. Jadi ngaran domainna béda.",
+    "isSameParent": ": Naha éta jalur indungna sarua, {{tt}} enya, {{ff}} henteu.",
+    "isPageSublink": ": Naha kaca ayeuna mangrupa subkaca tina tumbu anu diklik, {{tt}} enya, {{ff}} henteu.",
+    "isPageMultilevelSublink": ": Naha kaca ayeuna mangrupa subkaca tanpa wates tina tumbu nu diklik, {{tt}} enya, {{ff}} henteu.",
+    "isClickSublink": ": Naha tautan anu diklik mangrupikeun sub-tumbu tina kaca ayeuna, {{tt}} leres, {{ff}} henteu.",
+    "isClickMultilevelSublink": ": Naha tautan anu diklik mangrupikeun sub-link anu henteu terbatas tina kaca ayeuna, {{tt}} leres, {{ff}} henteu.",
     "returnVariables": {
       "title": "Variabel anu tiasa dipulangkeun",
-      "rightTab": ": Tautan dibuka dina tab anyar di sisi katuhu",
-      "leftTab": ": Tumbu muka dina tab anyar dina kénca",
-      "currentWindow": "jandela ayeuna",
-      "newWindow": "jandela anyar",
-      "incognitoWindow": "Jandéla incognito",
-      "popupWindow": "Jandéla pop-up",
-      "currentTab": "Tab ayeuna",
-      "active": "Aktipkeun ayeuna",
-      "inactive": "Teu diaktipkeun"
+      "window": {
+        "title": "jandela",
+        "currentWindow": ": Jandéla ayeuna",
+        "newWindow": ": jandela anyar",
+        "incognitoWindow": ": Jandéla teu katingali",
+        "popupWindow": ": jandela pop-up",
+        "externalBrowser": ":Panyungsi éksternal (sapertos {{tt}}, jsb.)"
+      },
+      "tab": {
+        "title": "kaca tab",
+        "rightTab": ": Tumbu muka dina tab anyar katuhu",
+        "leftTab": ": Tumbu muka dina tab anyar dina kénca",
+        "currentTab": ": Tab ayeuna"
+      },
+      "active": {
+        "title": "kaayaan aktip",
+        "active": ": Aktipkeun geura",
+        "inactive": ": Teu aktif"
+      }
+    },
+    "functions": {
+      "title": "objék fungsi sadia",
+      "minimatch": ": Métode cocog {{gg}} ngagunakeun pustaka {{mm}} Mangga tingali <a>Tingali</a> pikeun métode pamakean, atawa anjeun ogé tiasa milarian metode pamakean {{gg}}."
     }
   },
   "menu": {

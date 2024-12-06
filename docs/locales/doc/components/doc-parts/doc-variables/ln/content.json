@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Ba variables oyo ezali",
-    "page": ": Variable ezali objet URL ya page web ya lelo Pona ba détails, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> tala</a>",
+    "title": "Ba objets variable na fonction oyo ezali",
+    "click": ": Objet URL ya lien oyo o cliqué Pona ba détails, <a>tala</a>",
+    "page": ": Objet URL ya lokasa ya web ya lelo (mbala mingi barre ya adresse), bobandi ya sikisiki <a>Tala</a>",
     "pageHost": ": Nkombo ya domaine ya lokasa ya web oyo ezali lelo",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Nkombo ya domaine moko Yeba ete atako ba kombo ya domaine ya minene ya {{_youtube_}} mpe {{_families_}} ezali nionso mibale {{_mainDomain_}}, ba kombo ya sous-domain ezali {{_youtubeSubDomain_}} mpe {{. _familiesSubDomain_}} respectivement. Donc ba kombo ya domaine na bango ekeseni.",
-    "click": ": lien oyo ba cliqué",
     "clickpath": ": Nzela ya lien oyo o cliqué",
-    "minimatch": ": {{_glob_}} lolenge ya boyokani, kosalelaka bibliotɛkɛ {{_minimatch_}}, lolenge ya kosalela <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Talá < /a>, to okoki koluka {{_glob_}}.",
-    "isSameDomain": ": Ezala kombo ya domaine moko, {{_true_}} ezali oui, {{_false_}} ezali te.",
-    "isSameParent": ": Ezala nzela moko ya moboti, {{_true_}} ezali ɛɛ, {{_false_}} ezali te.",
-    "isPageSublink": ": Ezala lokasa ya lelo ezali lokasa moke ya lien oyo ekangami, {{_true_}} ezali ɛɛ, {{_false_}} ezali te.",
-    "isPageMultilevelSublink": ": Ezala lokasa ya lelo ezali sous-page infini ya lien oyo o cliqué, {{_true_}} ezali oui, {{_false_}} ezali te.",
-    "isClickSublink": ": Ezala lien oyo o cliqué ezali sous-lien ya page ya lelo, {{_true_}} ezali oui, {{_false_}} ezali te.",
-    "isClickMultilevelSublink": ": Ezala lien oyo o cliqué ezali sous-lien illimité ya page ya lelo, {{_true_}} ezali oui, {{_false_}} ezali te.",
+    "isSameDomain": ": Ezala kombo ya domaine moko, {{tt}} ezali oui, {{ff}} ezali te.",
+    "isSameSubDomain": "{{ss}}: Nkombo ya domaine moko Yeba ete atako bankombo ya domaine ya minene ya {{yy}} mpe {{ff}} ezali nyonso mibale {{mm}}, bankombo ya domaine moke ezali {{ww}} mpe {{ffss}} respectivement. Donc ba kombo ya domaine na bango ekeseni.",
+    "isSameParent": ": Ezala nzela moko ya moboti, {{tt}} ezali ɛɛ, {{ff}} ezali te.",
+    "isPageSublink": ": Ezala lokasa ya lelo ezali lokasa moke ya lien oyo ekangami, {{tt}} ezali ɛɛ, {{ff}} ezali te.",
+    "isPageMultilevelSublink": ": Ezala lokasa ya lelo ezali sous-page infini ya lien oyo o cliqué, {{tt}} ezali oui, {{ff}} ezali te.",
+    "isClickSublink": ": Ezala lien oyo o cliqué ezali sous-lien ya page ya lelo, {{tt}} ezali oui, {{ff}} ezali te.",
+    "isClickMultilevelSublink": ": Ezala lien oyo o cliqué ezali sous-lien illimité ya page ya lelo, {{tt}} ezali oui, {{ff}} ezali te.",
     "returnVariables": {
       "title": "Ba variables oyo ekoki kozongisama",
-      "rightTab": ": Lien yango ekofungwama na onglet ya sika na lobɔkɔ ya mobali",
-      "leftTab": ": Lien ekofungwama na onglet ya sika na gauche",
-      "currentWindow": "fenêtre ya lelo",
-      "newWindow": "fenetre ya sika",
-      "incognitoWindow": "Fenêtre ya incognito",
-      "popupWindow": "Fenêtre oyo ekobima",
-      "currentTab": "Onglet ya lelo",
-      "active": "Activer sikoyo",
-      "inactive": "Activé te"
+      "window": {
+        "title": "fenetre",
+        "currentWindow": ":Fenêtre ya lelo",
+        "newWindow": ":fenetre ya sika",
+        "incognitoWindow": ":Fenêtre oyo emonanaka te",
+        "popupWindow": ":fenetre oyo ezo bima",
+        "externalBrowser": ":Navigateur ya libanda (lokola {{tt}}, etc.)"
+      },
+      "tab": {
+        "title": "lokasa ya tab",
+        "rightTab": ": Lien yango ekofungwama na onglet ya sika na lobɔkɔ ya mobali",
+        "leftTab": ": Lien ekofungwama na onglet ya sika na gauche",
+        "currentTab": ":Onglet ya lelo"
+      },
+      "active": {
+        "title": "état actif ya mosala",
+        "active": ": Activer mbala moko",
+        "inactive": ":Ezali kosala te"
+      }
+    },
+    "functions": {
+      "title": "Ba objets ya fonction oyo ezali",
+      "minimatch": ": Lolenge ya kokokanisa {{gg}} esalela bibliotɛkɛ ya {{mm}} Svp tala <a>Talá</a> mpo na lolenge ya kosalela, to okoki mpe koluka lolenge ya kosalela ya {{gg}}."
     }
   },
   "menu": {

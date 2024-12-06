@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Pembolehubah yang tersedia",
-    "page": ": Pembolehubah ialah objek URL halaman web semasa Untuk butiran, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> lihat</a>",
+    "title": "Objek pembolehubah dan fungsi yang tersedia",
+    "click": ": Objek URL pautan yang diklik Untuk butiran, <a>lihat</a>",
+    "page": ": Objek URL halaman web semasa (biasanya bar alamat), pengenalan terperinci <a>Lihat</a>",
     "pageHost": ": Nama domain halaman web semasa",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Nama domain yang sama Ambil perhatian bahawa walaupun nama domain utama {{_youtube_}} dan {{_families_}} adalah kedua-duanya {{_mainDomain_}}, nama subdomain ialah {{_youtubeSubDomain_}} dan {{ _familiesSubDomain_}} Jadi nama domain mereka berbeza.",
-    "click": ": pautan yang telah diklik",
     "clickpath": ": Laluan pautan yang diklik",
-    "minimatch": ": {{_glob_}} kaedah pemadanan, menggunakan pustaka {{_minimatch_}}, kaedah penggunaan <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Lihat < /a>, atau anda boleh mencari {{_glob_}}.",
-    "isSameDomain": ": Sama ada nama domain yang sama, {{_true_}} ialah ya, {{_false_}} ialah tidak.",
-    "isSameParent": ": Sama ada laluan induk yang sama, {{_true_}} ialah ya, {{_false_}} ialah tidak.",
-    "isPageSublink": ": Sama ada halaman semasa ialah subhalaman bagi pautan yang diklik, {{_true_}} ialah ya, {{_false_}} ialah tidak.",
-    "isPageMultilevelSublink": ": Sama ada halaman semasa ialah subhalaman tak terhingga bagi pautan yang diklik, {{_true_}} ialah ya, {{_false_}} ialah tidak.",
-    "isClickSublink": ": Sama ada pautan yang diklik ialah subpautan halaman semasa, {{_true_}} ialah ya, {{_false_}} ialah tidak.",
-    "isClickMultilevelSublink": ": Sama ada pautan yang diklik ialah subpautan tanpa had halaman semasa, {{_true_}} ialah ya, {{_false_}} ialah tidak.",
+    "isSameDomain": ": Sama ada nama domain yang sama, {{tt}} ialah ya, {{ff}} ialah tidak.",
+    "isSameSubDomain": "{{ss}}: Nama domain yang sama ambil perhatian bahawa walaupun nama domain utama {{yy}} dan {{ff}} adalah kedua-duanya {{mm}}, nama subdomain ialah {{ww}} dan {{ffss}} masing-masing. Jadi nama domain mereka berbeza.",
+    "isSameParent": ": Sama ada laluan induk yang sama, {{tt}} ialah ya, {{ff}} ialah tidak.",
+    "isPageSublink": ": Sama ada halaman semasa ialah subhalaman pautan yang diklik, {{tt}} ialah ya, {{ff}} ialah tidak.",
+    "isPageMultilevelSublink": ": Sama ada halaman semasa ialah subhalaman tak terhingga bagi pautan yang diklik, {{tt}} ialah ya, {{ff}} ialah tidak.",
+    "isClickSublink": ": Sama ada pautan yang diklik ialah subpautan halaman semasa, {{tt}} ialah ya, {{ff}} ialah tidak.",
+    "isClickMultilevelSublink": ": Sama ada pautan yang diklik ialah subpautan tanpa had halaman semasa, {{tt}} ialah ya, {{ff}} ialah tidak.",
     "returnVariables": {
       "title": "Pembolehubah boleh dipulangkan",
-      "rightTab": ": Pautan dibuka dalam tab baharu di sebelah kanan",
-      "leftTab": ": Pautan dibuka dalam tab baharu di sebelah kiri",
-      "currentWindow": "tetingkap semasa",
-      "newWindow": "tetingkap baharu",
-      "incognitoWindow": "Tetingkap inkognito",
-      "popupWindow": "Tetingkap timbul",
-      "currentTab": "Tab semasa",
-      "active": "Aktifkan sekarang",
-      "inactive": "Tidak diaktifkan"
+      "window": {
+        "title": "tingkap",
+        "currentWindow": ":Tetingkap semasa",
+        "newWindow": ": tetingkap baharu",
+        "incognitoWindow": ": Tingkap tidak kelihatan",
+        "popupWindow": ": tetingkap timbul",
+        "externalBrowser": ":Pelayar luaran (seperti {{tt}}, dsb.)"
+      },
+      "tab": {
+        "title": "halaman tab",
+        "rightTab": ": Pautan dibuka dalam tab baharu di sebelah kanan",
+        "leftTab": ": Pautan dibuka dalam tab baharu di sebelah kiri",
+        "currentTab": ":Tab semasa"
+      },
+      "active": {
+        "title": "keadaan aktif",
+        "active": ": Aktifkan segera",
+        "inactive": ": Tidak aktif"
+      }
+    },
+    "functions": {
+      "title": "Objek fungsi yang tersedia",
+      "minimatch": ": Kaedah pemadanan {{gg}} menggunakan pustaka {{mm}} Sila lihat <a>Lihat</a> untuk kaedah penggunaan, atau anda juga boleh mencari kaedah penggunaan {{gg}}."
     }
   },
   "menu": {

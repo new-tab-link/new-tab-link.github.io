@@ -3,16 +3,7 @@
     "title": "Mîhengên skrîptê yên gerdûnî",
     "description": "Hûn dikarin skrîpta xwe bi karanîna javascript binivîsin",
     "examplesTitle": "Mînak",
-    "checkedUseSetting": "Ji bo çalakkirina vê mîhengê kontrol bikin.",
-    "variables": {
-      "title": "Guherbarên berdest",
-      "click": "Zencîreya klîkkirî, ev taybetmendî <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> esneya polê ye.",
-      "page": "Girêdana rûpela heyî ev taybetmendî <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ye. object class."
-    },
-    "returnVariables": {
-      "title": "Nirxên ku dikarin werin vegerandin",
-      "rightTab": "Di tabloya nû ya rastê de vekin"
-    }
+    "checkedUseSetting": "Ji bo çalakkirina vê mîhengê kontrol bikin."
   },
   "menu": {
     "main": "script global"

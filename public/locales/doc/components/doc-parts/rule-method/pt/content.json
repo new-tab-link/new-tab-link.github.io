@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Configurações de entrada de regras",
+    "rule": {
+      "edit": "Adicionar ou editar entradas de regras",
+      "description": "Você pode inserir esta configuração através do menu do botão direito em qualquer página da web. Ao entrar a partir de uma página da web, o URL da página da web será adicionado como regra por padrão. .",
+      "formats": {
+        "title": "padrão de regra",
+        "url": {
+          "title": "Modo URL, URL completo.",
+          "example": {
+            "as": "Por exemplo:"
+          },
+          "explain": "Este método pode corresponder ao URL completo."
+        },
+        "glob": {
+          "title": "O método glob usa a biblioteca {{1}}. <a>veja</a> o uso ou você pode pesquisar o uso de {{2}}.",
+          "example": {
+            "as": "Por exemplo:",
+            "a": "{{1}}, que corresponde à página inicial do YouTube e a todas as subpáginas."
+          }
+        },
+        "regexp": {
+          "title": "Expressão regular, consulte <a>Ver</a> para uso."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Configurações de entrada de regras"
+  }
+}

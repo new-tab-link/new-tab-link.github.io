@@ -3,16 +3,7 @@
     "title": "Global scriptor occasus",
     "description": "Scribere potes scriptum tuum utens JavaScript",
     "examplesTitle": "Exemplum",
-    "checkedUseSetting": "Reprehendo ut hanc occasum.",
-    "variables": {
-      "title": "Available variables",
-      "click": "Coniunctio conglutinata, hoc attributum est <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> obiectum classis.",
-      "page": "Coniunctio paginae hodiernae. Hoc attributum est <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> classis object."
-    },
-    "returnVariables": {
-      "title": "Values ​​​​potest reddi",
-      "rightTab": "Aperi in nova tab a dextra"
-    }
+    "checkedUseSetting": "Reprehendo ut hanc occasum."
   },
   "menu": {
     "main": "global script"

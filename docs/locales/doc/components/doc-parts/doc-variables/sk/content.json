@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Dostupné premenné",
-    "page": ": Premenná je objektom adresy URL aktuálnej webovej stránky. Podrobnosti nájdete na <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. pozri</a>",
+    "title": "Dostupné premenné a funkčné objekty",
+    "click": ": Objekt URL odkazu, na ktorý sa kliklo, <a>pozrite</a>",
+    "page": ": Objekt URL aktuálnej webovej stránky (zvyčajne panel s adresou), podrobný úvod <a>Pozrite</a>",
     "pageHost": ": Názov domény aktuálnej webovej stránky",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Rovnaký názov domény, hoci hlavné názvy domén {{_youtube_}} a {{_families_}} sú {{_mainDomain_}}, názvy subdomén sú {{_youtubeSubDomain_}} a {{. _familiesSubDomain_}}, takže ich názvy domén sú odlišné.",
-    "click": ": odkaz, na ktorý sa kliklo",
     "clickpath": ": Cesta odkazu, na ktorý sa kliklo",
-    "minimatch": ": {{_glob_}} metóda zhody, pomocou knižnice {{_minimatch_}}, metóda použitia <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Pozrite si < /a> alebo môžete vyhľadať {{_glob_}}.",
-    "isSameDomain": ": Či už ide o rovnaký názov domény, {{_true_}} je áno, {{_false_}} je nie.",
-    "isSameParent": ": Či už ide o rovnakú nadradenú cestu, {{_true_}} je áno, {{_false_}} je nie.",
-    "isPageSublink": ": Či je aktuálna stránka podstránkou odkazu, na ktorý sa kliklo, {{_true_}} je áno, {{_false_}} je nie.",
-    "isPageMultilevelSublink": ": Či je aktuálna stránka nekonečnou podstránkou odkazu, na ktorý sa kliklo, {{_true_}} je áno, {{_false_}} je nie.",
-    "isClickSublink": ": Či je odkaz, na ktorý ste klikli, podriadeným odkazom aktuálnej stránky, {{_true_}} je áno, {{_false_}} je nie.",
-    "isClickMultilevelSublink": ": Či už je odkaz, na ktorý ste klikli, neobmedzeným pododkazom aktuálnej stránky, {{_true_}} je áno, {{_false_}} nie je.",
+    "isSameDomain": ": Či už ide o rovnaký názov domény, {{tt}} je áno, {{ff}} je nie.",
+    "isSameSubDomain": "{{ss}}: Rovnaký názov domény, hoci hlavné názvy domén {{yy}} a {{ff}} sú {{mm}}, názvy subdomén sú {{ww}} a. {{ffss}} teda ich názvy domén sú odlišné.",
+    "isSameParent": ": Či už ide o rovnakú nadradenú cestu, {{tt}} je áno, {{ff}} je nie.",
+    "isPageSublink": ": Či je aktuálna stránka podstránkou odkazu, na ktorý sa kliklo, {{tt}} je áno, {{ff}} je nie.",
+    "isPageMultilevelSublink": ": Či je aktuálna stránka nekonečnou podstránkou odkazu, na ktorý sa kliklo, {{tt}} je áno, {{ff}} je nie.",
+    "isClickSublink": ": Či je odkaz, na ktorý ste klikli, podriadeným odkazom aktuálnej stránky, {{tt}} je áno, {{ff}} je nie.",
+    "isClickMultilevelSublink": ": Či už je odkaz, na ktorý ste klikli, neobmedzeným pododkazom aktuálnej stránky, {{tt}} je áno, {{ff}} je nie.",
     "returnVariables": {
       "title": "Vratné premenné",
-      "rightTab": ": Odkaz sa otvorí na novej karte vpravo",
-      "leftTab": ": Odkaz sa otvorí na novej karte vľavo",
-      "currentWindow": "aktuálne okno",
-      "newWindow": "nové okno",
-      "incognitoWindow": "Okno inkognito",
-      "popupWindow": "Vyskakovacie okno",
-      "currentTab": "Aktuálna karta",
-      "active": "Aktivovať teraz",
-      "inactive": "Nie je aktivované"
+      "window": {
+        "title": "okno",
+        "currentWindow": ":Aktuálne okno",
+        "newWindow": ":nové okno",
+        "incognitoWindow": ":Neviditeľné okno",
+        "popupWindow": ":vyskakovacie okno",
+        "externalBrowser": ":Externý prehliadač (napríklad {{tt}} atď.)"
+      },
+      "tab": {
+        "title": "kartu",
+        "rightTab": ": Odkaz sa otvorí na novej karte vpravo",
+        "leftTab": ": Odkaz sa otvorí na novej karte vľavo",
+        "currentTab": ": Aktuálna karta"
+      },
+      "active": {
+        "title": "aktívny stav",
+        "active": ": Aktivujte okamžite",
+        "inactive": ":Neaktívne"
+      }
+    },
+    "functions": {
+      "title": "Dostupné funkčné objekty",
+      "minimatch": ": Metóda zhody {{gg}} používa knižnicu {{mm}}. Spôsob použitia nájdete v časti <a>Pozrite si</a> alebo môžete tiež vyhľadať spôsob použitia {{gg}}."
     }
   },
   "menu": {

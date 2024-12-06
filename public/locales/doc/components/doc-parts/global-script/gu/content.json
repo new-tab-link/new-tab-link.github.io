@@ -3,16 +3,7 @@
     "title": "વૈશ્વિક સ્ક્રિપ્ટ સેટિંગ્સ",
     "description": "તમે javascript નો ઉપયોગ કરીને તમારી પોતાની સ્ક્રિપ્ટ લખી શકો છો",
     "examplesTitle": "ઉદાહરણ",
-    "checkedUseSetting": "આ સેટિંગને સક્ષમ કરવા માટે તપાસો.",
-    "variables": {
-      "title": "ઉપલબ્ધ ચલો",
-      "click": "ક્લિક કરેલ લિંક, આ વિશેષતા એ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> વર્ગ ઑબ્જેક્ટ છે.",
-      "page": "વર્તમાન પૃષ્ઠની લિંક એ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> છે. વર્ગ પદાર્થ."
-    },
-    "returnVariables": {
-      "title": "મૂલ્યો કે જે પરત કરી શકાય છે",
-      "rightTab": "જમણી બાજુના નવા ટેબમાં ખોલો"
-    }
+    "checkedUseSetting": "આ સેટિંગને સક્ષમ કરવા માટે તપાસો."
   },
   "menu": {
     "main": "વૈશ્વિક સ્ક્રિપ્ટ"

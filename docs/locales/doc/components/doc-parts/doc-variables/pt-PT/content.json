@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variáveis ​​disponíveis",
-    "page": ": a variável é o objeto URL da página Web atual. >.",
+    "title": "Variáveis ​​​​​​e objetos de função disponíveis",
+    "click": ": o objeto URL do link clicado.",
+    "page": ": O objeto URL da página web atual (geralmente a barra de endereço), introdução detalhada <a>Ver</a>",
     "pageHost": ": O nome de domínio da página Web atual",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: o mesmo nome de domínio. {. _familiesSubDomain_}} respectivamente.",
-    "click": ": o link que foi clicado",
     "clickpath": ": O caminho do link clicado",
-    "minimatch": ": método de correspondência {{_glob_}}, utilizando a biblioteca {{_minimatch_}}, método de utilização <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'> Veja < /a>, ou pode pesquisar por {{_glob_}}.",
-    "isSameDomain": ": Quer seja o mesmo nome de domínio, {{_true_}} é sim, {{_false_}} é não.",
-    "isSameParent": ": Quer seja o mesmo caminho pai, {{_true_}} é sim, {{_false_}} é não.",
-    "isPageSublink": ": se a página atual é uma subpágina do link clicado, {{_true_}} é sim, {{_false_}} é não.",
-    "isPageMultilevelSublink": ": se a página atual é uma subpágina infinita do link clicado, {{_true_}} é sim, {{_false_}} é não.",
-    "isClickSublink": ": se o link clicado for um sublink da página atual, {{_true_}} é sim, {{_false_}} é não.",
-    "isClickMultilevelSublink": ": se o link clicado for um sublink ilimitado da página atual, {{_true_}} é sim, {{_false_}} é não.",
+    "isSameDomain": ": Quer seja o mesmo nome de domínio, {{tt}} é sim, {{ff}} é não.",
+    "isSameSubDomain": "{{ss}}: O mesmo nome de domínio. {ffss}} respectivamente.",
+    "isSameParent": ": Quer seja o mesmo caminho pai, {{tt}} é sim, {{ff}} é não.",
+    "isPageSublink": ": se a página atual é uma subpágina do link clicado, {{tt}} é sim, {{ff}} é não.",
+    "isPageMultilevelSublink": ": se a página atual é uma subpágina infinita do link clicado, {{tt}} é sim, {{ff}} é não.",
+    "isClickSublink": ": se o link clicado for um sublink da página atual, {{tt}} é sim, {{ff}} é não.",
+    "isClickMultilevelSublink": ": se o link clicado for um sublink ilimitado da página atual, {{tt}} é sim, {{ff}} é não.",
     "returnVariables": {
       "title": "Variáveis ​​​​retornáveis",
-      "rightTab": ": O link abre num novo separador à direita",
-      "leftTab": ": O link abre num novo separador à esquerda",
-      "currentWindow": "janela atual",
-      "newWindow": "nova janela",
-      "incognitoWindow": "Janela anónima",
-      "popupWindow": "Janela pop-up",
-      "currentTab": "Guia atual",
-      "active": "Ative agora",
-      "inactive": "Não ativado"
+      "window": {
+        "title": "janela",
+        "currentWindow": ":Janela atual",
+        "newWindow": ":nova janela",
+        "incognitoWindow": ":Janela invisível",
+        "popupWindow": ":janela pop-up",
+        "externalBrowser": ":Navegador externo (como {{tt}}, etc.)"
+      },
+      "tab": {
+        "title": "página da guia",
+        "rightTab": ": O link abre num novo separador à direita",
+        "leftTab": ": O link abre num novo separador à esquerda",
+        "currentTab": ":Guia atual"
+      },
+      "active": {
+        "title": "estado ativo",
+        "active": ": Ativar imediatamente",
+        "inactive": ":Inativo"
+      }
+    },
+    "functions": {
+      "title": "Objetos de função disponíveis",
+      "minimatch": ": O método de correspondência {{gg}} utiliza a biblioteca {{mm}}."
     }
   },
   "menu": {

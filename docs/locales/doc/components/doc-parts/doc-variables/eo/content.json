@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Disponeblaj variabloj",
-    "page": ": La variablo estas la URL-objekto de la nuna retpaĝo Por detaloj, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. vidu</a>",
+    "title": "Disponeblaj variabloj kaj funkciaj objektoj",
+    "click": ": La URL-objekto de la klakita ligilo Por detaloj, <a>vidu</a>",
+    "page": ": La URL-objekto de la nuna retpaĝo (kutime la adresbreto), detala enkonduko <a>Vidu</a>",
     "pageHost": ": La domajna nomo de la nuna retpaĝo",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: La sama domajna nomo, kvankam la ĉefaj domajnaj nomoj de {{_youtube_}} kaj {{_families_}} estas ambaŭ {{_mainDomain_}}, la subdomajnaj nomoj estas {{_youtubeSubDomain_}} kaj {{. _familiesSubDomain_}} respektive Do iliaj domajnaj nomoj estas malsamaj.",
-    "click": ": la ligilo kiu estis klakita",
     "clickpath": ": La vojo de la klakita ligilo",
-    "minimatch": ": {{_glob_}} kongrua metodo, uzante la {{_minimatch_}} bibliotekon, uzmetodon <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vidu < /a>, aŭ vi povas serĉi {{_glob_}}.",
-    "isSameDomain": ": Ĉu ĝi estas la sama domajna nomo, {{_true_}} estas jes, {{_false_}} estas ne.",
-    "isSameParent": ": Ĉu ĝi estas la sama gepatra vojo, {{_true_}} estas jes, {{_false_}} estas ne.",
-    "isPageSublink": ": Ĉu la nuna paĝo estas subpaĝo de la klakita ligilo, {{_true_}} estas jes, {{_false_}} estas ne.",
-    "isPageMultilevelSublink": ": Ĉu la nuna paĝo estas senfina subpaĝo de la klakita ligilo, {{_true_}} estas jes, {{_false_}} estas ne.",
-    "isClickSublink": ": Ĉu la klakita ligilo estas subligo de la nuna paĝo, {{_true_}} estas jes, {{_false_}} estas ne.",
-    "isClickMultilevelSublink": ": Ĉu la klakita ligilo estas senlima subligo de la nuna paĝo, {{_true_}} estas jes, {{_false_}} estas ne.",
+    "isSameDomain": ": Ĉu ĝi estas la sama domajna nomo, {{tt}} estas jes, {{ff}} estas ne.",
+    "isSameSubDomain": "{{ss}}: La sama domajna nomo Notu ke kvankam la ĉefaj domajnaj nomoj de {{yy}} kaj {{ff}} estas ambaŭ {{mm}}, la subdomajnaj nomoj estas {{ww}} kaj. {{ffss}} respektive Do iliaj domajnaj nomoj estas malsamaj.",
+    "isSameParent": ": Ĉu ĝi estas la sama gepatra vojo, {{tt}} estas jes, {{ff}} estas ne.",
+    "isPageSublink": ": Ĉu la nuna paĝo estas subpaĝo de la klakita ligilo, {{tt}} estas jes, {{ff}} estas ne.",
+    "isPageMultilevelSublink": ": Ĉu la nuna paĝo estas senfina subpaĝo de la klakita ligilo, {{tt}} estas jes, {{ff}} estas ne.",
+    "isClickSublink": ": Ĉu la klakita ligilo estas subligo de la nuna paĝo, {{tt}} estas jes, {{ff}} estas ne.",
+    "isClickMultilevelSublink": ": Ĉu la klakita ligilo estas senlima subligo de la nuna paĝo, {{tt}} estas jes, {{ff}} estas ne.",
     "returnVariables": {
       "title": "Redoneblaj variabloj",
-      "rightTab": ": La ligilo malfermiĝas en nova langeto dekstre",
-      "leftTab": ": La ligilo malfermiĝas en nova langeto maldekstre",
-      "currentWindow": "aktuala fenestro",
-      "newWindow": "nova fenestro",
-      "incognitoWindow": "Inkognita fenestro",
-      "popupWindow": "Ŝprucfenestro",
-      "currentTab": "Nuna langeto",
-      "active": "Aktivigu nun",
-      "inactive": "Ne aktivigita"
+      "window": {
+        "title": "fenestro",
+        "currentWindow": ":Nuna fenestro",
+        "newWindow": ":nova fenestro",
+        "incognitoWindow": ": Nevidebla fenestro",
+        "popupWindow": ": ŝprucfenestro",
+        "externalBrowser": ":Ekstera retumilo (kiel {{tt}}, ktp.)"
+      },
+      "tab": {
+        "title": "langeto paĝo",
+        "rightTab": ": La ligilo malfermiĝas en nova langeto dekstre",
+        "leftTab": ": La ligilo malfermiĝas en nova langeto maldekstre",
+        "currentTab": ":Nuna langeto"
+      },
+      "active": {
+        "title": "aktiva stato",
+        "active": ": Aktivigu tuj",
+        "inactive": ":Neaktiva"
+      }
+    },
+    "functions": {
+      "title": "Disponeblaj funkciobjektoj",
+      "minimatch": ": La {{gg}} kongrua metodo uzas la {{mm}} bibliotekon Bonvolu vidi <a>Vidi</a> por la uzmetodo, aŭ vi ankaŭ povas serĉi la uzmetodon de {{gg}}."
     }
   },
   "menu": {

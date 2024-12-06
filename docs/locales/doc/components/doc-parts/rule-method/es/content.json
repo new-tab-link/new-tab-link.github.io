@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Configuración de entrada de reglas",
+    "rule": {
+      "edit": "Agregar o editar entradas de reglas",
+      "description": "Puede ingresar esta configuración a través del menú contextual en cualquier página web. Al ingresar desde una página web, la URL de la página web se agregará como regla de forma predeterminada. Puede editar las reglas. .",
+      "formats": {
+        "title": "patrón de regla",
+        "url": {
+          "title": "Modo URL, URL completa.",
+          "example": {
+            "as": "Por ejemplo:"
+          },
+          "explain": "Este método puede coincidir con la URL completa."
+        },
+        "glob": {
+          "title": "El método global utiliza la biblioteca {{1}}. <a>consulte</a> el uso o puede buscar el uso de {{2}}.",
+          "example": {
+            "as": "Por ejemplo:",
+            "a": "{{1}}, que coincide con la página de inicio de YouTube y todas las subpáginas."
+          }
+        },
+        "regexp": {
+          "title": "Expresión regular; consulte <a>Ver</a> para conocer su uso."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuración de entrada de reglas"
+  }
+}

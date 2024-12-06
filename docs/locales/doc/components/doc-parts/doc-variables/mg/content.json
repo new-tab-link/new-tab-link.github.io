@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variable misy",
-    "page": ": Ny fari-pitsipika dia ny URL amin'ny pejin-tranonkala amin'izao fotoana izao raha mila antsipiriany, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> jereo</a>",
+    "title": "Misy zavatra miovaova sy miasa",
+    "click": ": Ny zavatra URL an'ny rohy kitihina, <a>jereo</a>",
+    "page": ": Ny zavatra URL an'ny pejin-tranonkala amin'izao fotoana izao (matetika ny adiresy bara), fampidirana amin'ny antsipiriany <a>Jereo</a>",
     "pageHost": ": Ny anaran-tsehatra amin'ny pejin-tranonkala ankehitriny",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Mitovy ny anaran-tsehatra Mariho fa na dia samy {{_mainDomain_}} aza ny anaran-tsehatra lehibe amin'ny {{_youtube_}} sy {{_families_}} dia {{_youtubeSubDomain_}} sy {{} _familiesSubDomain_}} tsirairay avy dia hafa ny anaran-tsehatra.",
-    "click": ": ilay rohy voakitika",
     "clickpath": ": Ny lalan'ny rohy kitihina",
-    "minimatch": ": {{_glob_}} fomba fampifanarahana, mampiasa ny tranomboky {{_minimatch_}}, fomba fampiasana <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Jereo < /a>, na azonao atao ny mikaroka ny {{_glob_}}.",
-    "isSameDomain": ": Na mitovy ny anaran-tsehatra, {{_true_}} dia eny, {{_diso_}} dia tsia.",
-    "isSameParent": ": Na mitovy ny lalan'ny ray aman-dreny, {{_true_}} dia eny, {{_diso_}} dia tsia.",
-    "isPageSublink": ": Na zana-pejy amin'ny rohy voakitika ny pejy ankehitriny, {{_true_}} dia eny, {{_false_}} dia tsia.",
-    "isPageMultilevelSublink": ": Na pejy tsy misy fetra amin'ny rohy voakitika ny pejy ankehitriny, {{_true_}} dia eny, {{_false_}} dia tsia.",
-    "isClickSublink": ": Na rohy kely amin'ny pejy ankehitriny ilay rohy voakitika, {{_true_}} dia eny, {{_false_}} dia tsia.",
-    "isClickMultilevelSublink": ": Na rohy tsy misy fetra amin'ny pejy ankehitriny ny rohy voakitika, {{_true_}} dia eny, {{_false_}} dia tsia.",
+    "isSameDomain": ": Na mitovy ny anaran-tsehatra, {{tt}} dia eny, {{ff}} dia tsia.",
+    "isSameSubDomain": "{{ss}}: Ny anaran-tsehatra iray ihany dia mariho fa na dia samy {{mm}} aza ny anaran-tsehatra lehibe amin'ny {{yy}} sy {{ff}} dia {{ww}} sy {{ffss}} tsirairay avy, noho izany dia hafa ny anaran-tsehatra.",
+    "isSameParent": ": Na mitovy ny lalan'ny ray aman-dreny, {{tt}} dia eny, {{ff}} dia tsia.",
+    "isPageSublink": ": Na zana-pejy amin'ny rohy kitihina ny pejy ankehitriny, {{tt}} dia eny, {{ff}} dia tsia.",
+    "isPageMultilevelSublink": ": Na pejy tsy misy fetra amin'ny rohy voakitika ny pejy ankehitriny, {{tt}} dia eny, {{ff}} dia tsia.",
+    "isClickSublink": ": Na rohy kely amin'ny pejy ankehitriny ny rohy voakitika, {{tt}} dia eny, {{ff}} dia tsia.",
+    "isClickMultilevelSublink": ": Na rohy tsy misy fetra amin'ny pejy ankehitriny ny rohy voakitika, {{tt}} dia eny, {{ff}} dia tsia.",
     "returnVariables": {
       "title": "Variable azo averina",
-      "rightTab": ": Mivoha amin'ny tabilao vaovao eo ankavanana ny rohy",
-      "leftTab": ": Mivoha amin'ny tabilao vaovao eo ankavia ny rohy",
-      "currentWindow": "varavarankely ankehitriny",
-      "newWindow": "varavarankely vaovao",
-      "incognitoWindow": "varavarankely incognito",
-      "popupWindow": "Pop-up varavarankely",
-      "currentTab": "Kiheba ankehitriny",
-      "active": "Ampidiro izao",
-      "inactive": "Tsy navitrika"
+      "window": {
+        "title": "varavarankely",
+        "currentWindow": ": Varavarankely ankehitriny",
+        "newWindow": ": varavarankely vaovao",
+        "incognitoWindow": ": Varavarankely tsy hita maso",
+        "popupWindow": ": varavarankely mipoitra",
+        "externalBrowser": ":Fitetezana ivelany (toy ny {{tt}}, sns.)"
+      },
+      "tab": {
+        "title": "pejy tab",
+        "rightTab": ": Mivoha amin'ny tabilao vaovao eo ankavanana ny rohy",
+        "leftTab": ": Mivoha amin'ny tabilao vaovao eo ankavia ilay rohy",
+        "currentTab": ":Tabilao ankehitriny"
+      },
+      "active": {
+        "title": "fanjakana mavitrika",
+        "active": ": Alefa avy hatrany",
+        "inactive": ":Tsy mavitrika"
+      }
+    },
+    "functions": {
+      "title": "Zavatra azo ampiasaina",
+      "minimatch": ": Ny fomba fampitoviana {{gg}} dia mampiasa ny tranomboky {{mm}} azafady, jereo <a>Jereo</a> ny fomba fampiasana, na azonao atao koa ny mikaroka ny fomba fampiasana ny {{gg}}."
     }
   },
   "menu": {

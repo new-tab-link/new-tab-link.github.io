@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Instellingen voor regelinvoer",
+    "rule": {
+      "edit": "Regelitems toevoegen of bewerken",
+      "description": "U kunt deze instelling invoeren via het rechtermuisknopmenu op elke webpagina. Bij het invoeren vanaf een webpagina wordt standaard de URL van de webpagina toegevoegd. De beschikbare formaten worden hieronder uitgelegd .",
+      "formats": {
+        "title": "regelpatroon",
+        "url": {
+          "title": "URL-modus, volledige URL.",
+          "example": {
+            "as": "Bijvoorbeeld:"
+          },
+          "explain": "Deze methode kan overeenkomen met de volledige URL."
+        },
+        "glob": {
+          "title": "De glob-methode maakt gebruik van de bibliotheek {{1}} <a>zie</a> voor het gebruik, of u kunt zoeken naar het gebruik van {{2}}.",
+          "example": {
+            "as": "Bijvoorbeeld:",
+            "a": "{{1}}, die overeenkomt met de startpagina van YouTube en alle subpagina's."
+          }
+        },
+        "regexp": {
+          "title": "Reguliere expressie, zie <a>Zie</a> voor gebruik."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Instellingen voor regelinvoer"
+  }
+}

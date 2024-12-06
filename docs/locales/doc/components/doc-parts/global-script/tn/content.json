@@ -3,16 +3,7 @@
     "title": "Diseting tsa sekeripiti sa lefatshe lotlhe",
     "description": "O ka kwala sekeripiti sa gago o dirisa javascript",
     "examplesTitle": "Sekai",
-    "checkedUseSetting": "Tlhola go kgontsha seting eno.",
-    "variables": {
-      "title": "Diphetogo tse di leng teng",
-      "click": "Kgokagano e e tobeditsweng, tshwano eno ke selo sa setlhopha sa <a href='https://motlhabolodi.",
-      "page": "Kgokagano ya tsebe ya ga jaana Popego eno ke <a href='URL</a> selo sa tlelase."
-    },
-    "returnVariables": {
-      "title": "Boleng jo bo ka busediwang",
-      "rightTab": "Bula mo thebong e ntšhwa ka fa mojeng"
-    }
+    "checkedUseSetting": "Tlhola go kgontsha seting eno."
   },
   "menu": {
     "main": "sekwalwa sa lefatshe lotlhe"

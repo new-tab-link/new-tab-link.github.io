@@ -3,16 +3,7 @@
     "title": "Kōmman script ko ibelakin lal",
     "description": "Kwomaroñ jeje am make script ilo am kajerbal javascript",
     "examplesTitle": "Waan joñak",
-    "checkedUseSetting": "Lale bwe en maroñ in jerbal setting in.",
-    "variables": {
-      "title": "Menin oktak ko rej bed",
-      "click": "Ilo am click link eo, attribute in ej juon men in kilaaj.",
-      "page": "Link in peij in ej juon <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> class object."
-    },
-    "returnVariables": {
-      "title": "Aorōk ko remaroñ bar jeblak",
-      "rightTab": "Kōpeļļo̧k ilo tab eo ekāāl ilo turear"
-    }
+    "checkedUseSetting": "Lale bwe en maroñ in jerbal setting in."
   },
   "menu": {
     "main": "script eo an lal in"

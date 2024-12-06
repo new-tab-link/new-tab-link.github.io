@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Igenamiterere ryinjira",
+    "rule": {
+      "edit": "Ongeraho cyangwa uhindure amategeko yinjira",
+      "description": "Urashobora kwinjiza igenamiterere ukoresheje menu-kanda iburyo kurupapuro urwo arirwo rwose .",
+      "formats": {
+        "title": "icyitegererezo",
+        "url": {
+          "title": "Ubwoko bwa URL, URL yuzuye.",
+          "example": {
+            "as": "Urugero:"
+          },
+          "explain": "Ubu buryo burashobora guhuza URL yuzuye."
+        },
+        "glob": {
+          "title": "Uburyo bwa glob bukoresha isomero {{1}} isomero Nyamuneka <a> reba </a> kugirango ukoreshwe, cyangwa urashobora gushakisha imikoreshereze ya {{2}}.",
+          "example": {
+            "as": "Urugero:",
+            "a": "{{1}}, ihuye na page ya YouTube hamwe na subpage zose."
+          }
+        },
+        "regexp": {
+          "title": "Imvugo isanzwe, nyamuneka reba <a> Reba </a> kugirango ukoreshwe."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Igenamiterere ryinjira"
+  }
+}

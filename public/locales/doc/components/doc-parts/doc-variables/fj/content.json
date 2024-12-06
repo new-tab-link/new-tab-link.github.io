@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Veisau e rawa",
-    "page": ": Na veisau sai koya na ka ni URL ni tabana ni itukutuku ena gauna oqo Me baleta na kena matailalai, <a href = 'vakatorocaketaka. raica</a>",
+    "title": "Veisau kei na veika e rawa ni cakacaka",
+    "click": ": Na ka ni URL ni veitaratara e kilikitaki Me baleta na kena matailalai, <a>raica</a>.",
+    "page": ": Na ka ni URL ni tabana ni itukutuku ena gauna oqo (dau vakayagataki na itikotiko), ivakamacala matailalai <a>Raica</a>",
     "pageHost": ": Na yaca ni vanua ni itukutuku ni gauna oqo .",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Na yaca ni vanua vata ga Raica ni dina ga ni yaca ni vanua levu ni {{_youtube_}} kei na {{_matavuvale_}} e rua na {{_vanua_}}, na yaca ni vanua lailai e {{_youtubeSubDomain_}} kei na {{. _matavuvaleSubDomain_}} vakatautauvata O koya gona na nodra yaca ni vanua e duidui.",
-    "click": ": na isema e kilikitaki",
     "clickpath": ": Na sala ni veitaratara kiliki .",
-    "minimatch": ": {{_glob_}} ivakarau ni veiganiti, vakayagataka na {{_minimatch_}} valenivolavola, ivakarau ni vakayagataki <a href='https. /a>, se rawa ni o vakasaqara na {{_glob_}}.",
-    "isSameDomain": ": Se sa yaca ni vanua vata ga, {{_dina_}} e io, {{_lasu_}} e sega.",
-    "isSameParent": ": Se sa sala vata ga ni itubutubu, {{_dina_}} e io, {{_lasu_}} e sega.",
-    "isPageSublink": ": Se na draunipepa ni gauna oqo e dua na draunipepa lailai ni veitaratara kilikitaki, {{_dina_}} e io, {{_lasu_}} e sega.",
-    "isPageMultilevelSublink": ": Se na draunipepa ni gauna oqo e dua na draunipepa lailai sega ni vakaiyalayala ni veitaratara kilikitaki, {{_dina_}} e io, {{_lasu_}} e sega.",
-    "isClickSublink": ": Se na veitaratara kilikitaki e dua na veitaratara lailai ni draunipepa ni gauna oqo, {{_dina_}} e io, {{_lasu_}} e sega.",
-    "isClickMultilevelSublink": ": Se na veitaratara kilikitaki e dua na veitaratara lailai sega ni vakaiyalayala ni draunipepa ni gauna oqo, {{_dina_}} e io, {{_lasu_}} e sega.",
+    "isSameDomain": ": Se sa yaca ni vanua vata ga, {{tt}} e io, {{ff}} e sega.",
+    "isSameSubDomain": "{{ss}}: Na yaca ni vanua vata ga Raica ni dina ga ni yaca ni vanua levu ni {{yy}} kei na {{ff}} e rua na {{mm}}, na yaca ni vanua lalai e {{ww}} kei na. {{ffss}} vakatautauvata Sa duidui kina na nodra yaca ni vanua.",
+    "isSameParent": ": Se sa sala vata ga ni itubutubu, {{tt}} e io, {{ff}} e sega.",
+    "isPageSublink": ": Se na draunipepa ni gauna oqo e dua na draunipepa lailai ni veitaratara kilikitaki, {{tt}} e io, {{ff}} e sega.",
+    "isPageMultilevelSublink": ": Se na draunipepa ni gauna oqo e dua na draunipepa lailai sega ni vakaiyalayala ni veitaratara kilikitaki, {{tt}} e io, {{ff}} e sega.",
+    "isClickSublink": ": Se na veitaratara kilikitaki e dua na veitaratara lailai ni draunipepa ni gauna oqo, {{tt}} e io, {{ff}} e sega.",
+    "isClickMultilevelSublink": ": Se na veitaratara kilikitaki e dua na veitaratara lailai sega ni vakaiyalayala ni draunipepa ni gauna oqo, {{tt}} e io, {{ff}} e sega.",
     "returnVariables": {
       "title": "Veisau rawa ni vakasukai",
-      "rightTab": ": Na isema e dolavi ena dua na tabana vou ena imatau .",
-      "leftTab": ": Na isema e dolavi ena dua na tabana vou ena imawi .",
-      "currentWindow": "katubaleka ena gauna oqo",
-      "newWindow": "katubaleka vou",
-      "incognitoWindow": "katubaleka sega ni kilai",
-      "popupWindow": "Katubaleka e basika mai",
-      "currentTab": "Tab ni gauna oqo",
-      "active": "Vakayacora ena gauna oqo",
-      "inactive": "Sega ni vakayagataki"
+      "window": {
+        "title": "katubaleka",
+        "currentWindow": ":Katubaleka ni gauna oqo",
+        "newWindow": ":katubaleka vou",
+        "incognitoWindow": ":Katubaleka sega ni laurai",
+        "popupWindow": ":katubaleka",
+        "externalBrowser": ":Barausa e tautuba (me vaka na {{tt}}, kei na so tale)"
+      },
+      "tab": {
+        "title": "tabana ni tabana",
+        "rightTab": ": Na isema e dolavi ena dua na tabana vou ena imatau .",
+        "leftTab": ": Na isema e dolavi ena dua na tabana vou ena imawi .",
+        "currentTab": ":Taba ni gauna oqo"
+      },
+      "active": {
+        "title": "ituvaki gugumatua",
+        "active": ": Vakayagataka sara ga",
+        "inactive": ":Sega ni cakacaka"
+      }
+    },
+    "functions": {
+      "title": "Na veika e rawa ni cakacaka",
+      "minimatch": ": Na iwalewale ni veiganiti ni {{gg}} e vakayagataka na valenivolavola ni {{mm}} Yalovinaka raica na <a>Raica</a> na iwalewale ni kena vakayagataki, se o rawa talega ni vakasaqara na iwalewale ni kena vakayagataki na {{gg}}."
     }
   },
   "menu": {

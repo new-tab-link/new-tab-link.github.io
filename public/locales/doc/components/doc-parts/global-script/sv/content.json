@@ -3,16 +3,7 @@
     "title": "Globala skriptinställningar",
     "description": "Du kan skriva ditt eget skript med hjälp av javascript",
     "examplesTitle": "Exempel",
-    "checkedUseSetting": "Markera för att aktivera den här inställningen.",
-    "variables": {
-      "title": "Tillgängliga variabler",
-      "click": "Klicka på länken, detta attribut är ett <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>-klassobjekt.",
-      "page": "Länken till den aktuella sidan Detta attribut är en <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. klassobjekt."
-    },
-    "returnVariables": {
-      "title": "Värden som kan returneras",
-      "rightTab": "Öppna i ny flik till höger"
-    }
+    "checkedUseSetting": "Markera för att aktivera den här inställningen."
   },
   "menu": {
     "main": "globalt manus"

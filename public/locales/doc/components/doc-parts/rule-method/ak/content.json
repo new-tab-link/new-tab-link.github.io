@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Mmara a wɔde hyɛ mu nhyehyɛe",
+    "rule": {
+      "edit": "Fa mmara nsɛm a wɔakyerɛw ka ho anaa sesa",
+      "description": "Wubetumi afa menu a ɛwɔ wɛb krataafa biara so no so ahyɛn nhyehyɛe yi mu Sɛ worekɔ mu afi wɛb krataafa bi so a, wɔde wɛb krataafa no URL bɛka ho sɛ mmara no, Wɔakyerɛkyerɛ mmara ahorow a ɛwɔ hɔ no mu .",
+      "formats": {
+        "title": "mmara nhyehyɛe",
+        "url": {
+          "title": "URL mode, URL a edi mũ.",
+          "example": {
+            "as": "Nhwɛsoɔ:"
+          },
+          "explain": "Saa kwan yi betumi ne URL a edi mũ no ahyia."
+        },
+        "glob": {
+          "title": "Glob kwan no de {{1}} nwomakorabea no di dwuma Yɛsrɛ wo <a>hwɛ</a> ma dwumadie, anaa wobɛtumi ahwehwɛ {{2}} dwumadie.",
+          "example": {
+            "as": "Nhwɛsoɔ:",
+            "a": "{{1}}, a ɛne YouTube homepage ne nkratafa nketewa nyinaa hyia."
+          }
+        },
+        "regexp": {
+          "title": "Daa nkyerɛkyerɛmu, yɛsrɛ wo hwɛ <a>Hwɛ</a> ma dwumadie."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Mmara a wɔde hyɛ mu nhyehyɛe"
+  }
+}

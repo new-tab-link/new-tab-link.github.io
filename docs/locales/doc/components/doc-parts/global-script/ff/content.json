@@ -3,16 +3,7 @@
     "title": "Cuɓe binndol aduna",
     "description": "Aɗa waawi winndude binndol maa tawa aɗa huutoroo javascript",
     "examplesTitle": "Sappinol",
-    "checkedUseSetting": "Ƴeewto ngam softinde ngoo doggol.",
-    "variables": {
-      "title": "Waɗde waylooji ina ngoodi",
-      "click": "Jokkorde ɓuuɓnde, ndee sifaa ko huunde kalaas.",
-      "page": "Jokkorde hello jooni ngoo.Ngol sifaa ko <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> huunde kalaas."
-    },
-    "returnVariables": {
-      "title": "Nafooje baawɗe wartireede",
-      "rightTab": "Uddit e tab keso to bannge ñaamo"
-    }
+    "checkedUseSetting": "Ƴeewto ngam softinde ngoo doggol."
   },
   "menu": {
     "main": "binndol aduna"

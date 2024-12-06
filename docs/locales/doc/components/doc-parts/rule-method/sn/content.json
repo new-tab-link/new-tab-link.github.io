@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Rule entry settings",
+    "rule": {
+      "edit": "Wedzera kana gadzirisa zvinyorwa zvemutemo",
+      "description": "Iwe unogona kuisa izvi kuburikidza nekudzvanya-kurudyi menyu pane chero peji rewebhu, iyo URL yewebhu peji inozowedzerwa semutemo nekumisikidza .",
+      "formats": {
+        "title": "mutemo muenzaniso",
+        "url": {
+          "title": "URL modhi, yakazara URL.",
+          "example": {
+            "as": "Semuyenzaniso:"
+          },
+          "explain": "Iyi nzira inogona kuenderana ne URL yakazara."
+        },
+        "glob": {
+          "title": "Nzira yeglob inoshandisa {{1}} library",
+          "example": {
+            "as": "Semuyenzaniso:",
+            "a": "{{1}}, zvinoenderana nepeji rekutanga reYouTube uye mapeji madiki ese."
+          }
+        },
+        "regexp": {
+          "title": "Nguva dzose kutaura, tapota ona <a>Ona</a> kuti ushandise."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Rule entry settings"
+  }
+}

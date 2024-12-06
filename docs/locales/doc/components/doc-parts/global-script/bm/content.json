@@ -3,16 +3,7 @@
     "title": "Duniya bɛɛ kɔnɔ sɛbɛnniw sigicogo",
     "description": "I bɛ se k’i yɛrɛ ka sɛbɛnni kɛ ni javascript ye",
     "examplesTitle": "Misaliya",
-    "checkedUseSetting": "Aw ye a lajɛ walasa ka nin sigida in baara.",
-    "variables": {
-      "title": "Yɛlɛma-yɛlɛma minnu bɛ sɔrɔ",
-      "click": "Jɛɲɔgɔnya digilen, nin fɛn in ye <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> kalasi fɛn ye.",
-      "page": "Sisan ɲɛ in jɛgɛnsira in ye <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ye kalasi fɛn."
-    },
-    "returnVariables": {
-      "title": "Nafa minnu bɛ se ka segin",
-      "rightTab": "Da wuli tab kura kɔnɔ kinin fɛ"
-    }
+    "checkedUseSetting": "Aw ye a lajɛ walasa ka nin sigida in baara."
   },
   "menu": {
     "main": "diɲɛ kɔnɔ sɛbɛnni"

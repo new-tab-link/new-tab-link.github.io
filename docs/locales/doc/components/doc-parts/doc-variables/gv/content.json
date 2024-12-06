@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variablyn ry gheddyn",
-    "page": ": Ta'n obbyr URL jeh'n duillag web t'ayn nish Son fys, <a href='blank' rel='noreferrer'>. jeeagh</a>",
+    "title": "Obbraghyn caghlaa as obbyr ry-gheddyn",
+    "click": ": Yn obbyr URL jeh'n linney cliaghtey Son fys, <a>fakin</a>.",
+    "page": ": Yn obbyr URL jeh'n duillag-web ry-hoi (goaill stiagh y barr-seilsh), ronney mish <a>Jeagh</a>",
     "pageHost": ": Yn ennym domain jeh'n duillag web ry-hoi",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Yn un ennym-chreck Tastey dy vel ny p'raad-chreck jeh {{_youtube_}} as {{_families_}} ny p'raad-chreck {{_mainDomain_}} as {{_youtubeSubDomain_}}. _familiesSubDomain_}} myr-t'eh, t'ad ry-cheilley.",
-    "click": ": yn linney v'er ny cliaghtey",
     "clickpath": ": Yn raad jeh'n linney cliaghtey",
-    "minimatch": ": {{_glob_}} aght co-chosney, uss y {{_minimatch_}} lioarlann, aght ymmyd < /a>, ny t'ou uss goaill rish {{_glob_}}.",
-    "isSameDomain": ": My she yr un ainm-domain t'ayn, {{_true_}} t'eh, t'eh {{_false_}} cha nel.",
-    "isSameParent": ": My she'n un raad t'ayn, {{_true_}} t'eh, t'eh {{_false_}} cha nel.",
-    "isPageSublink": ": My she fo-duillag y linney cliaghtey, {{_true_}} ta, {{_false_}} cha nel.",
-    "isPageMultilevelSublink": ": My she fo-duillag gyn jerrey y linney cliaghtey, {{_true_}} ta, {{_false_}} cha nel.",
-    "isClickSublink": ": My she fo-link y duillag t'ayn, {{_true_}} ta, {{_false_}} cha nel.",
-    "isClickMultilevelSublink": ": My she fo-cheangley gyn jerrey y duillag t'ayn, {{_true_}} eh, {{_false_}} cha nel.",
+    "isSameDomain": ": My she yr un ainm-domain eh, {{tt}} she 'ee', {{ff}}' cha nel.",
+    "isSameSubDomain": "{{ss}}: Yn un ainm-raad Tastey dy vel, geddyn dy vel ny prìomh-enmyn {{yy}} as {{ff}} ny-neesht {{mm}}, ny fo-enmyn-raad {{ww}} as. {{ffss}} myr shen ta ny ainmyn domain oc dy chooilley red.",
+    "isSameParent": ": My she'n un raad t'ayn, {{tt}} t'eh, {{ff}} t'eh cha nel.",
+    "isPageSublink": ": My she fo-duillag y linney cliaghtey, {{tt}} she, {{ff}} cha nel.",
+    "isPageMultilevelSublink": ": My she fo-duillag gyn jerrey y linney cliaghtey, {{tt}} ta, {{ff}} cha nel.",
+    "isClickSublink": ": My she fo-link y duillag t'ayn, {{tt}} ta, {{ff}} cha nel.",
+    "isClickMultilevelSublink": ": My she fo-link gyn jerrey y duillag t'ayn, {{tt}} ta, {{ff}} cha nel.",
     "returnVariables": {
       "title": "Variablyn ry-chur reesht",
-      "rightTab": ": Ta'n linney foshlit ayns tab noa er y laue yesh .",
-      "leftTab": ": Ta'n linney foshlit ayns tab noa er y laue yesh .",
-      "currentWindow": "fuinneig nish;",
-      "newWindow": "uinnag noa;",
-      "incognitoWindow": "Fuinneig follit",
-      "popupWindow": "Fuinneig pop-up",
-      "currentTab": "Tab ry-hoi",
-      "active": "Cur stiagh nish",
-      "inactive": "Cha nel eh er ny obbraghey"
+      "window": {
+        "title": "uinnag",
+        "currentWindow": ":Fuinney nish",
+        "newWindow": ":uinnag noa",
+        "incognitoWindow": ":Fuinney nagh vel er ny hoiggal",
+        "popupWindow": ":uinnag pop-up",
+        "externalBrowser": ":Braghder sheshoil (myr {{tt}}, as myr shen)"
+      },
+      "tab": {
+        "title": "duillag tab;",
+        "rightTab": ": Ta'n linney foshlit ayns tab noa er y laue yesh .",
+        "leftTab": ": Ta'n linney foshlit ayns tab noa er y laue yesh .",
+        "currentTab": ":Tab ry-hoi"
+      },
+      "active": {
+        "title": "stayd glan;",
+        "active": ": Activate dy tappee",
+        "inactive": ":Neu-ghlare"
+      }
+    },
+    "functions": {
+      "title": "Obbraghyn obbyr ta ry gheddyn",
+      "minimatch": ": Ta'n moddey co-chosney {{gg}} ymmyd jeh'n leabharlann {{mm}} Cur-my-ner <a>See</a> son y moddey ymmyd, ny t'ou uss myrgeddin ymmyd jeh'n moddey ymmyd jeh {{gg}}."
     }
   },
   "menu": {

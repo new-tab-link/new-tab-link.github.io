@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Regula ingressum occasus",
+    "rule": {
+      "edit": "Addere vel recensere regula entries",
+      "description": "Hanc ambitum inire potes per menu-clicentem ad quamlibet paginam .",
+      "formats": {
+        "title": "regulae exemplum",
+        "url": {
+          "title": "URL modus, URL completum.",
+          "example": {
+            "as": "Exempli gratia:"
+          },
+          "explain": "Haec methodus integram URL aequare potest."
+        },
+        "glob": {
+          "title": "Globus methodus pro {{1}} bibliotheca utitur.",
+          "example": {
+            "as": "Exempli gratia:",
+            "a": "{{1}, quod protocollum YouTube et omnia subpagina aequet."
+          }
+        },
+        "regexp": {
+          "title": "Regular expression, videbis <a>Vide</a> usum loquendi."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Regula ingressum occasus"
+  }
+}

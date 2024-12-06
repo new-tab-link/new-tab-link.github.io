@@ -3,16 +3,7 @@
     "title": "Iisetingi zescript zehlabathi",
     "description": "Ungabhala esakho iskripthi usebenzisa i-javascript",
     "examplesTitle": "Umzekelo",
-    "checkedUseSetting": "Khangela ukwenza olu seto lusebenze.",
-    "variables": {
-      "title": "Izinto eziguquguqukayo ezikhoyo",
-      "click": "Ucofe ilinki, olu phawu luphawu <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> yeklasi.",
-      "page": "Ikhonkco lephepha langoku. Olu phawu luphawu <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> into yeklasi."
-    },
-    "returnVariables": {
-      "title": "Amaxabiso anokubuyiselwa",
-      "rightTab": "Vula kwithebhu entsha ekunene"
-    }
+    "checkedUseSetting": "Khangela ukwenza olu seto lusebenze."
   },
   "menu": {
     "main": "iskripthi sehlabathi"

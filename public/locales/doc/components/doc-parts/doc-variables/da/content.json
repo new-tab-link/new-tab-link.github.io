@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Tilgængelige variabler",
-    "page": ": Variablen er URL-objektet på den aktuelle webside. For detaljer, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. se</a>",
+    "title": "Tilgængelige variable og funktionsobjekter",
+    "click": ": URL-objektet for det klikkede link For detaljer, <a>se</a>",
+    "page": ": URL-objektet for den aktuelle webside (normalt adresselinjen), detaljeret introduktion <a>Se</a>",
     "pageHost": ": Domænenavnet på den aktuelle webside",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Det samme domænenavn, selvom hoveddomænenavnene for {{_youtube_}} og {{_families_}} begge er {{_mainDomain_}}, er underdomænenavnene {{_youtubeSubDomain_}} og {{. _familiesSubDomain_}}, så deres domænenavne er forskellige.",
-    "click": ": det link, der blev klikket på",
     "clickpath": ": Stien til det klikkede link",
-    "minimatch": ": {{_glob_}} matchningsmetode, ved hjælp af {{_minimatch_}}-biblioteket, brugsmetode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Se < /a>, eller du kan søge efter {{_glob_}}.",
-    "isSameDomain": ": Uanset om det er det samme domænenavn, er {{_true_}} ja, {{_false_}} er nej.",
-    "isSameParent": ": Uanset om det er den samme overordnede sti, er {{_true_}} ja, {{_false_}} er nej.",
-    "isPageSublink": ": Uanset om den aktuelle side er en underside til det klikkede link, er {{_true_}} ja, {{_false_}} er nej.",
-    "isPageMultilevelSublink": ": Uanset om den aktuelle side er en uendelig underside af det klikkede link, er {{_true_}} ja, {{_false_}} er nej.",
-    "isClickSublink": ": Uanset om det klikkede link er et underlink til den aktuelle side, er {{_true_}} ja, {{_false_}} er nej.",
-    "isClickMultilevelSublink": ": Uanset om det klikkede link er et ubegrænset underlink til den aktuelle side, er {{_true_}} ja, {{_false_}} er nej.",
+    "isSameDomain": ": Uanset om det er det samme domænenavn, er {{tt}} ja, {{ff}} er nej.",
+    "isSameSubDomain": "{{ss}}: Det samme domænenavn Bemærk, at selvom hoveddomænenavnene for {{åå}} og {{ff}} begge er {{mm}}, er underdomænenavnene {{ww}} og. {{ffss}} hhv. Så deres domænenavne er forskellige.",
+    "isSameParent": ": Uanset om det er den samme overordnede sti, er {{tt}} ja, {{ff}} er nej.",
+    "isPageSublink": ": Uanset om den aktuelle side er en underside til det klikkede link, er {{tt}} ja, {{ff}} er nej.",
+    "isPageMultilevelSublink": ": Uanset om den aktuelle side er en uendelig underside af det klikkede link, er {{tt}} ja, {{ff}} er nej.",
+    "isClickSublink": ": Hvorvidt det klikkede link er et underlink til den aktuelle side, er {{tt}} ja, {{ff}} er nej.",
+    "isClickMultilevelSublink": ": Uanset om det klikkede link er et ubegrænset underlink til den aktuelle side, er {{tt}} ja, {{ff}} er nej.",
     "returnVariables": {
       "title": "Returbare variabler",
-      "rightTab": ": Linket åbner i en ny fane til højre",
-      "leftTab": ": Linket åbner i en ny fane til venstre",
-      "currentWindow": "nuværende vindue",
-      "newWindow": "nyt vindue",
-      "incognitoWindow": "Inkognitovindue",
-      "popupWindow": "Pop-up vindue",
-      "currentTab": "Aktuel fane",
-      "active": "Aktiver nu",
-      "inactive": "Ikke aktiveret"
+      "window": {
+        "title": "vindue",
+        "currentWindow": ": Aktuelt vindue",
+        "newWindow": ": nyt vindue",
+        "incognitoWindow": ": Usynligt vindue",
+        "popupWindow": ":pop-up vindue",
+        "externalBrowser": ":Ekstern browser (såsom {{tt}} osv.)"
+      },
+      "tab": {
+        "title": "faneblad",
+        "rightTab": ": Linket åbner i en ny fane til højre",
+        "leftTab": ": Linket åbner i en ny fane til venstre",
+        "currentTab": ": Aktuel fane"
+      },
+      "active": {
+        "title": "aktiv tilstand",
+        "active": ": Aktiver med det samme",
+        "inactive": ": Inaktiv"
+      }
+    },
+    "functions": {
+      "title": "Tilgængelige funktionsobjekter",
+      "minimatch": ": {{gg}}-metoden bruger {{mm}}-biblioteket Se venligst <a>Se</a> for brugsmetoden, eller du kan også søge efter brugsmetoden for {{gg}}."
     }
   },
   "menu": {

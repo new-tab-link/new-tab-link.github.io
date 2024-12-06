@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Säännön syöttöasetukset",
+    "rule": {
+      "edit": "Lisää tai muokkaa sääntömerkintöjä",
+      "description": "Voit syöttää tämän asetuksen minkä tahansa Web-sivun hiiren kakkospainikkeen valikosta .",
+      "formats": {
+        "title": "sääntömalli",
+        "url": {
+          "title": "URL-tila, täydellinen URL-osoite.",
+          "example": {
+            "as": "Esimerkiksi:"
+          },
+          "explain": "Tämä menetelmä voi vastata koko URL-osoitetta."
+        },
+        "glob": {
+          "title": "Glob-menetelmä käyttää {{1}}-kirjastoa. <a>Katso</a> käyttöä tai voit etsiä {{2}}-käyttöä.",
+          "example": {
+            "as": "Esimerkiksi:",
+            "a": "{{1}}, joka vastaa YouTuben etusivua ja kaikkia alasivuja."
+          }
+        },
+        "regexp": {
+          "title": "Säännöllinen lauseke, katso käyttötiedot kohdasta <a>Katso</a>."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Säännön syöttöasetukset"
+  }
+}

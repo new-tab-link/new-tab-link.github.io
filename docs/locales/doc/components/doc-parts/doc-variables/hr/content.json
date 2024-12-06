@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Dostupne varijable",
-    "page": ": Varijabla je URL objekt trenutne web stranice Za detalje, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. vidjeti</a>",
+    "title": "Dostupne varijable i funkcijski objekti",
+    "click": ": URL objekt kliknute veze <a>pogledajte</a>",
+    "page": ": URL objekt trenutne web stranice (obično adresna traka), detaljan uvod <a>Pogledajte</a>",
     "pageHost": ": naziv domene trenutne web stranice",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Isti naziv domene {{_youtube_}} i {{_families_}} su {{_mainDomain_}}, nazivi poddomena su {{_youtubeSubDomain_}} i {{. _familiesSubDomain_}} dakle različita su imena domena.",
-    "click": ": poveznica na koju ste kliknuli",
     "clickpath": ": Put poveznice na koju ste kliknuli",
-    "minimatch": ": {{_glob_}} metoda podudaranja, korištenje {{_minimatch_}} biblioteke, metoda upotrebe <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Pogledajte < /a>, ili možete tražiti {{_glob_}}.",
-    "isSameDomain": ": Bilo da se radi o istom nazivu domene, {{_true_}} je da, {{_false_}} je ne.",
-    "isSameParent": ": Bilo da se radi o istoj roditeljskoj stazi, {{_true_}} je da, {{_false_}} je ne.",
-    "isPageSublink": ": Je li trenutna stranica podstranica kliknute veze, {{_true_}} je da, {{_false_}} je ne.",
-    "isPageMultilevelSublink": ": Je li trenutna stranica beskonačna podstranica kliknute veze, {{_true_}} je da, {{_false_}} je ne.",
-    "isClickSublink": ": Je li poveznica na koju ste kliknuli podveza trenutne stranice, {{_true_}} je da, {{_false_}} je ne.",
-    "isClickMultilevelSublink": ": Bilo da je poveznica na koju ste kliknuli neograničena podveza trenutne stranice, {{_true_}} je da, {{_false_}} je ne.",
+    "isSameDomain": ": Bilo da se radi o istom nazivu domene, {{tt}} je da, {{ff}} je ne.",
+    "isSameSubDomain": "{{ss}}: Isti naziv domene {{yy}} i {{ff}} su {{mm}}, nazivi poddomena su {{ww}} i. {{ffss}} dakle nazivi njihovih domena su različiti.",
+    "isSameParent": ": Bilo da se radi o istoj roditeljskoj stazi, {{tt}} je da, {{ff}} je ne.",
+    "isPageSublink": ": Je li trenutna stranica podstranica kliknute veze, {{tt}} je da, {{ff}} je ne.",
+    "isPageMultilevelSublink": ": Je li trenutna stranica beskonačna podstranica kliknute veze, {{tt}} je da, {{ff}} je ne.",
+    "isClickSublink": ": Bilo da je kliknuta poveznica podveza trenutne stranice, {{tt}} je da, {{ff}} je ne.",
+    "isClickMultilevelSublink": ": Bilo da je poveznica na koju ste kliknuli neograničena podveza trenutne stranice, {{tt}} je da, {{ff}} je ne.",
     "returnVariables": {
       "title": "Povratne varijable",
-      "rightTab": ": Veza se otvara u novoj kartici s desne strane",
-      "leftTab": ": Veza se otvara u novoj kartici s lijeve strane",
-      "currentWindow": "trenutni prozor",
-      "newWindow": "novi prozor",
-      "incognitoWindow": "Anonimni prozor",
-      "popupWindow": "Skočni prozor",
-      "currentTab": "Trenutačna kartica",
-      "active": "Aktivirajte sada",
-      "inactive": "Nije aktiviran"
+      "window": {
+        "title": "prozor",
+        "currentWindow": ":Trenutni prozor",
+        "newWindow": ":novi prozor",
+        "incognitoWindow": ":Nevidljivi prozor",
+        "popupWindow": ":skočni prozor",
+        "externalBrowser": ":Vanjski preglednik (kao što je {{tt}}, itd.)"
+      },
+      "tab": {
+        "title": "kartica kartice",
+        "rightTab": ": Veza se otvara u novoj kartici s desne strane",
+        "leftTab": ": Veza se otvara u novoj kartici s lijeve strane",
+        "currentTab": ": Trenutačna kartica"
+      },
+      "active": {
+        "title": "aktivno stanje",
+        "active": ": Aktivirajte odmah",
+        "inactive": ":Neaktivan"
+      }
+    },
+    "functions": {
+      "title": "Dostupni funkcijski objekti",
+      "minimatch": ": Metoda podudaranja {{gg}} koristi biblioteku {{mm}} Molimo pogledajte <a>Pogledajte</a> za metodu upotrebe ili također možete pretražiti metodu upotrebe {{gg}}."
     }
   },
   "menu": {

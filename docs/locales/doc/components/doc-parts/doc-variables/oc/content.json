@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variablas disponiblas",
-    "page": ": La variabla es l'objècte URL de la pagina web actuala Per de detalhs, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> veire</a>",
+    "title": "Objèctes de variabla e de foncion disponibles",
+    "click": ": L'objècte URL del ligam clicat Per de detalhs, <a>vejatz</a>.",
+    "page": ": L'objècte URL de la pagina web actuala (generalament la barra d'adreças), introduccion detalhada <a>Veire</a>",
     "pageHost": ": Lo nom de domeni de la pagina web actuala",
-    "isSameSubDomain": "{{_isSameSubDomain_}} : Lo meteis nom de domeni Notatz que malgrat que los noms de domeni principals de {{_youtube_}} e {{_families_}} son totes dos {{_mainDomain_}}, los noms de sosdomeni son {{_youtubeSubDomain_}} e {{ _familiesSubDomain_}} respectivament.",
-    "click": ": lo ligam que foguèt clicat",
     "clickpath": ": Lo camin del ligam clicat",
-    "minimatch": ": {{_glob_}} metòde de correspondéncia, utilizant la bibliotèca {{_minimatch_}}, metòde d'utilizacion <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vejatz < /a>, o podètz recercar {{_glob_}}.",
-    "isSameDomain": ": Que siá lo meteis nom de domeni, {{_true_}} es òc, {{_false_}} es non.",
-    "isSameParent": ": Que siá lo meteis camin parent, {{_true_}} es òc, {{_false_}} es non.",
-    "isPageSublink": ": Que la pagina actuala siá una sospagina del ligam clicat, {{_true_}} es òc, {{_false_}} es non.",
-    "isPageMultilevelSublink": ": Que la pagina actuala siá una sospagina infinida del ligam clicat, {{_true_}} es òc, {{_false_}} es non.",
-    "isClickSublink": ": Que lo ligam clicat siá un sosligam de la pagina actuala, {{_true_}} es òc, {{_false_}} es non.",
-    "isClickMultilevelSublink": ": Que lo ligam clicat siá un sosligam illimitat de la pagina actuala, {{_true_}} es òc, {{_false_}} es non.",
+    "isSameDomain": ": Que siá lo meteis nom de domeni, {{tt}} es òc, {{ff}} es non.",
+    "isSameSubDomain": "{{ss}} : Lo meteis nom de domeni. {{ffss}} respectivament.",
+    "isSameParent": ": Que siá lo meteis camin parent, {{tt}} es òc, {{ff}} es non.",
+    "isPageSublink": ": Que la pagina actuala siá una sospagina del ligam clicat, {{tt}} es òc, {{ff}} es non.",
+    "isPageMultilevelSublink": ": Que la pagina actuala siá una sospagina infinida del ligam clicat, {{tt}} es òc, {{ff}} es non.",
+    "isClickSublink": ": Que lo ligam clicat siá un sosligam de la pagina actuala, {{tt}} es òc, {{ff}} es non.",
+    "isClickMultilevelSublink": ": Que lo ligam clicat siá un sosligam illimitat de la pagina actuala, {{tt}} es òc, {{ff}} es non.",
     "returnVariables": {
       "title": "Variablas retornablas",
-      "rightTab": ": Lo ligam se dobrís dins un onglet novèl a drecha",
-      "leftTab": ": Lo ligam se dobrís dins un onglet novèl a esquèrra",
-      "currentWindow": "fenèstra actuala",
-      "newWindow": "fenèstra novèla",
-      "incognitoWindow": "Fenèstra incognito",
-      "popupWindow": "Fenèstra emergenta",
-      "currentTab": "Onglet actual",
-      "active": "Activar ara",
-      "inactive": "Pas activat"
+      "window": {
+        "title": "fenèstra",
+        "currentWindow": ":Fenèstra actuala",
+        "newWindow": ":fenèstra novèla",
+        "incognitoWindow": ":Fenèstra invisibla",
+        "popupWindow": ":fenèstra pop-up",
+        "externalBrowser": ":Navigador extèrne (coma {{tt}}, etc.)"
+      },
+      "tab": {
+        "title": "pagina d'onglet",
+        "rightTab": ": Lo ligam se dobrís dins un onglet novèl a drecha",
+        "leftTab": ": Lo ligam se dobrís dins un onglet novèl a esquèrra",
+        "currentTab": ":Onglet actual"
+      },
+      "active": {
+        "title": "estat actiu",
+        "active": ": Activatz immediatament",
+        "inactive": ":Inactiu"
+      }
+    },
+    "functions": {
+      "title": "Objèctes de foncion disponibles",
+      "minimatch": ": Lo metòde de correspondéncia {{gg}} utiliza la bibliotèca {{mm}} Vejatz <a>Veire</a> pel metòde d'utilizacion, o podètz tanben cercar lo metòde d'utilizacion de {{gg}}."
     }
   },
   "menu": {

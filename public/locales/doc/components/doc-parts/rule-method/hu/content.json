@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Szabálybeviteli beállítások",
+    "rule": {
+      "edit": "Szabálybejegyzések hozzáadása vagy szerkesztése",
+      "description": "Ezt a beállítást a jobb gombbal kattintva bármely weboldalon megadhatja. A weblapról való belépéskor alapértelmezés szerint a weblap URL-je kerül megadásra. Az elérhető formátumok leírása alább található .",
+      "formats": {
+        "title": "szabályminta",
+        "url": {
+          "title": "URL mód, teljes URL.",
+          "example": {
+            "as": "Például:"
+          },
+          "explain": "Ez a módszer megegyezhet a teljes URL-lel."
+        },
+        "glob": {
+          "title": "A glob metódus a {{1}} könyvtárat használja, kérjük, <a>lásd</a>, vagy kereshet a {{2}} használatára.",
+          "example": {
+            "as": "Például:",
+            "a": "{{1}}, amely megfelel a YouTube kezdőlapjának és az összes aloldalnak."
+          }
+        },
+        "regexp": {
+          "title": "Reguláris kifejezés, használatához lásd: <a>Lásd</a>."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Szabálybeviteli beállítások"
+  }
+}

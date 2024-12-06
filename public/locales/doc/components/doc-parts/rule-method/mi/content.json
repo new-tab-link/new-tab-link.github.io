@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Tautuhinga urunga ture",
+    "rule": {
+      "edit": "Tāpiri, whakatika rānei i ngā tāurunga ture",
+      "description": "Ka taea e koe te whakauru i tenei tautuhinga ma te tahua-matau i runga i tetahi wharangi paetukutuku Ka uru mai i te wharangi tukutuku, ka taapirihia te URL o te wharangi paetukutuku hei tikanga ka taea e koe te whakatika i nga tikanga kei raro nei .",
+      "formats": {
+        "title": "tauira ture",
+        "url": {
+          "title": "Aratau URL, URL oti.",
+          "example": {
+            "as": "Hei tauira:"
+          },
+          "explain": "Ka taea e tenei tikanga te whakarite i te URL katoa."
+        },
+        "glob": {
+          "title": "Ka whakamahia e te tikanga glob te whare pukapuka {{1}} <a>tirohia</a> mo te whakamahinga, ka taea ranei e koe te rapu mo te whakamahinga o {{2}}.",
+          "example": {
+            "as": "Hei tauira:",
+            "a": "{{1}}, e ōrite ana ki te whārangi kāinga YouTube me ngā whārangi iti katoa."
+          }
+        },
+        "regexp": {
+          "title": "Ko nga korero rite tonu, tirohia <a>Tirohia</a> mo te whakamahinga."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Tautuhinga urunga ture"
+  }
+}

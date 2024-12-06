@@ -3,16 +3,7 @@
     "title": "Configuración de secuencias de comandos globales",
     "description": "Puedes escribir tu propio script usando javascript.",
     "examplesTitle": "Ejemplo",
-    "checkedUseSetting": "Marque para habilitar esta configuración.",
-    "variables": {
-      "title": "Variables disponibles",
-      "click": "En el enlace en el que se hace clic, este atributo es un objeto de clase <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "El enlace de la página actual Este atributo es una <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. objeto de clase."
-    },
-    "returnVariables": {
-      "title": "Valores que se pueden devolver",
-      "rightTab": "Abrir en nueva pestaña a la derecha"
-    }
+    "checkedUseSetting": "Marque para habilitar esta configuración."
   },
   "menu": {
     "main": "guión global"

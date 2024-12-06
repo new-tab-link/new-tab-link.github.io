@@ -3,16 +3,7 @@
     "title": "གོ་ལ་ཧྲིལ་པོའི་ཡིག་གཟུགས་སྒྲིག་བཀོད།",
     "description": "ཁྱེད་ཀྱིས་javascriptབཀོལ་ནས་རང་ཉིད་ཀྱི་ཡིག་ཆ་འབྲི་ཐུབ།",
     "examplesTitle": "དཔེ་བརྗོད",
-    "checkedUseSetting": "སྒྲིག་སྟངས་འདི་ལྕོགས་ཅན་བཟོ་བར་ཞིབ་བཤེར་བྱས།",
-    "variables": {
-      "title": "ཐོབ་པའི་འགྱུར་ལྡོག་ཅན།",
-      "click": "འབྲེལ་མཐུད་ལ་སྣུན་ན་ཁྱད་ཆོས་འདི་ <a href='https://developer.mozilla.org/docs/Web/API/URL' དམིགས་ཚད་='_སྟོང་པ་' rel='noreferrer'>URL</a> རིགས་དངོས་པོ་ཡིན།",
-      "page": "མིག་སྔའི་ཤོག་ངོས་ཀྱི་སྦྲེལ་མཐུད། ཁྱད་ཆོས་འདི་ <a href='https://developer.mozilla.org/docs/Web/API/URL' དམིགས་འབེན་='_blank' rel='noreferrer'>URL</a>ཡིན། འཛིན་གྲྭའི་དངོས་པོ།"
-    },
-    "returnVariables": {
-      "title": "ཕྱིར་ལོག་ཐུབ་པའི་རིན་ཐང་།",
-      "rightTab": "གཡས་ཕྱོགས་ཀྱི་མཆོང་ལྡེ་གསར་པའི་ནང་ཁ་ཕྱེ།"
-    }
+    "checkedUseSetting": "སྒྲིག་སྟངས་འདི་ལྕོགས་ཅན་བཟོ་བར་ཞིབ་བཤེར་བྱས།"
   },
   "menu": {
     "main": "གོ་ལ་ཧྲིལ་པོའི་ཡི་གེ།"

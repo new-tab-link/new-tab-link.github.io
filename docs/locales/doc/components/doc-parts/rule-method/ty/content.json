@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Te mau faanahoraa tomoraa ture",
+    "rule": {
+      "edit": "Tāpiri e aore râ, taui i te mau ture",
+      "description": "E faaôhia'tu te URL o te api itenati mai te hoê ture mai roto mai i te hoê api itenati, e nehenehe ta outou e tomo i teie faanahoraa na roto i te tahua itenati E faataahia te mau hoho'a i raro nei. .",
+      "formats": {
+        "title": "hoho'a ture",
+        "url": {
+          "title": "Ti'araa URL, URL hope.",
+          "example": {
+            "as": "Moekara:"
+          },
+          "explain": "E nehenehe teie ravea e au i te URL taatoa."
+        },
+        "glob": {
+          "title": "E faaohipa te rave'a glob i te fare buka {{1}} A hi'o na <a> no te faaohiparaa, e aore râ, e nehenehe ta outou e imi i te faaohiparaa i te {{2}}.",
+          "example": {
+            "as": "Moekara:",
+            "a": "{{1}}, o te tu'ati i te api matamua no YouTube e te mau api iti atoa."
+          }
+        },
+        "regexp": {
+          "title": "A hi'o na i te <a>A hi'o</a> no te faaohiparaa i te mau parau tamau."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Te mau faanahoraa tomoraa ture"
+  }
+}

@@ -3,16 +3,7 @@
     "title": "Te mau faanahoraa papa'iraa a te ao nei",
     "description": "E nehenehe ta outou e papa'i i ta outou iho papa'iraa ma te faaohipa i te javascript",
     "examplesTitle": "Tū'ā'āhuru",
-    "checkedUseSetting": "Hi'opo'a no te faati'a i teie faanahoraa.",
-    "variables": {
-      "title": "Te mau tauiraa e roaa mai",
-      "click": "Ia hi'ohia i ni'a i te hono, teie huru o te hoê ïa tao'a no te piha haapiiraa.",
-      "page": "Te hono o te api i teie nei. Teie huru o te hoê ïa <a href='https://taata hamani. tao'a o te piha haapiiraa."
-    },
-    "returnVariables": {
-      "title": "Te mau mana'o tumu e nehenehe e faaho'ihia mai",
-      "rightTab": "A tatara i roto i te api apî i te pae atau"
-    }
+    "checkedUseSetting": "Hi'opo'a no te faati'a i teie faanahoraa."
   },
   "menu": {
     "main": "papa'iraa na te ao nei"

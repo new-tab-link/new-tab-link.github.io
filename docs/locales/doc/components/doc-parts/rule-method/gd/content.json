@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Riaghailt roghainnean inntrigidh",
+    "rule": {
+      "edit": "Cuir ris no deasaich inntrigidhean riaghailt",
+      "description": "Faodaidh tu an suidheachadh seo a chuir a-steach tron ​​​​chlàr cliog deas air duilleag lìn sam bith Nuair a thèid thu a-steach bho dhuilleag lìn, thèid URL na duilleige a chuir ris mar riaghailt gu bunaiteach .",
+      "formats": {
+        "title": "pàtran riaghailt",
+        "url": {
+          "title": "Modh URL, URL iomlan.",
+          "example": {
+            "as": "Mar eisimpleir:"
+          },
+          "explain": "Faodaidh an dòigh seo a bhith co-ionnan ris an URL iomlan."
+        },
+        "glob": {
+          "title": "Cleachdaidh am modh glob an leabharlann {{1}} <a>faic</a> airson a chleachdadh, no 's urrainn dhut {{2}} a chleachdadh.",
+          "example": {
+            "as": "Mar eisimpleir:",
+            "a": "{{1}}, a tha a' freagairt ri duilleag-dhachaigh YouTube 's a h-uile fo-dhuilleag."
+          }
+        },
+        "regexp": {
+          "title": "Facal cunbhalach, faic <a>See</a> airson a chleachdadh."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Riaghailt roghainnean inntrigidh"
+  }
+}

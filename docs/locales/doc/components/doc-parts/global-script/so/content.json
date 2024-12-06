@@ -3,16 +3,7 @@
     "title": "Dejinta qoraalka caalamiga ah",
     "description": "Waxaad ku qori kartaa qoraalkaaga adigoo isticmaalaya javascript",
     "examplesTitle": "Tusaale",
-    "checkedUseSetting": "Hubi si aad awood ugu yeelatid dejintan.",
-    "variables": {
-      "title": "Doorsoomayaasha la heli karo",
-      "click": "Xidhiidhka la gujiyay, sifadani waa <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> shay fasalka.",
-      "page": "Isku xirka bogga hadda sifadani waa <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> shayga fasalka."
-    },
-    "returnVariables": {
-      "title": "Qiimaha la soo celin karo",
-      "rightTab": "Ku fur tab cusub oo dhanka midig ah"
-    }
+    "checkedUseSetting": "Hubi si aad awood ugu yeelatid dejintan."
   },
   "menu": {
     "main": "qoraalka caalamiga ah"

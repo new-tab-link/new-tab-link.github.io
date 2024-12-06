@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Izilungiselelo zokufaka umthetho",
+    "rule": {
+      "edit": "Engeza noma hlela okufakiwe komthetho",
+      "description": "Ungafaka lesi silungiselelo ngokuchofoza kwesokudla imenyu kunoma yiliphi ikhasi lewebhu, i-URL yekhasi lewebhu izokwengezwa njengomthetho ngokuzenzakalelayo .",
+      "formats": {
+        "title": "ukubusa iphethini",
+        "url": {
+          "title": "Imodi ye-URL, i-URL ephelele.",
+          "example": {
+            "as": "Ngokwesibonelo:"
+          },
+          "explain": "Le ndlela ingafanisa i-URL ephelele."
+        },
+        "glob": {
+          "title": "Indlela yeglobhu isebenzisa ilabhulali ye-{{1}} Sicela <a>ubone</a> ukuze uyisebenzise, ​​noma ungasesha ukusetshenziswa kwe-{{2}}.",
+          "example": {
+            "as": "Ngokwesibonelo:",
+            "a": "{{1}}, elifana nekhasi eliyisiqalo le-YouTube nawo wonke amakhasi amancane."
+          }
+        },
+        "regexp": {
+          "title": "Isisho esivamile, sicela ubone <a>Bona</a> ukuze uyisebenzise."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Izilungiselelo zokufaka umthetho"
+  }
+}

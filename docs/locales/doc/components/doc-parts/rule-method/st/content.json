@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Litlhophiso tsa ho kena molaong",
+    "rule": {
+      "edit": "Eketsa kapa o hlophise melawana",
+      "description": "U ka kenya litlhophiso tsena ka ho tobetsa ka ho le letona leqepheng leha e le lefe la tepo, URL ea leqephe e tla eketsoa ka mokhoa oa kamehla .",
+      "formats": {
+        "title": "mohlala oa molao",
+        "url": {
+          "title": "Mokhoa oa URL, URL e felletseng.",
+          "example": {
+            "as": "Ka mohlala:"
+          },
+          "explain": "Mokhoa ona o ka tsamaisana le URL e felletseng."
+        },
+        "glob": {
+          "title": "Mokhoa oa lefats'e o sebelisa {{1}} laeborari ka kopo <a>bona</a> bakeng sa ts'ebeliso, kapa u ka batla ts'ebeliso ea {{2}}.",
+          "example": {
+            "as": "Ka mohlala:",
+            "a": "{{1}}, e tsamaisanang le leqephe la lehae la YouTube le maqephe ohle a tlase."
+          }
+        },
+        "regexp": {
+          "title": "Polelo ea kamehla, ka kopo bona <a>Bona</a> bakeng sa tšebeliso."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Litlhophiso tsa ho kena molaong"
+  }
+}

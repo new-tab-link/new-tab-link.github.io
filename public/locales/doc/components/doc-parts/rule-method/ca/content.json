@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Configuració d'entrada de regles",
+    "rule": {
+      "edit": "Afegiu o editeu entrades de regles",
+      "description": "Podeu introduir aquesta configuració mitjançant el menú de clic dret de qualsevol pàgina web. A continuació, s'hi afegirà l'URL de la pàgina web. Podeu editar les regles .",
+      "formats": {
+        "title": "patró de regla",
+        "url": {
+          "title": "Mode URL, URL complet.",
+          "example": {
+            "as": "Per exemple:"
+          },
+          "explain": "Aquest mètode pot coincidir amb l'URL complet."
+        },
+        "glob": {
+          "title": "El mètode glob utilitza la biblioteca {{1}} Si us plau, <a>vegeu</a> l'ús, o podeu cercar l'ús de {{2}}.",
+          "example": {
+            "as": "Per exemple:",
+            "a": "{{1}}, que coincideix amb la pàgina d'inici de YouTube i totes les subpàgines."
+          }
+        },
+        "regexp": {
+          "title": "Expressió regular, consulteu <a>Veure</a> per a l'ús."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuració d'entrada de regles"
+  }
+}

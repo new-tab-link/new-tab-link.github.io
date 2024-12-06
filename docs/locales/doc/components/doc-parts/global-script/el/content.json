@@ -3,16 +3,7 @@
     "title": "Καθολικές ρυθμίσεις σεναρίου",
     "description": "Μπορείτε να γράψετε το δικό σας σενάριο χρησιμοποιώντας javascript",
     "examplesTitle": "Παράδειγμα",
-    "checkedUseSetting": "Επιλέξτε για να ενεργοποιήσετε αυτήν τη ρύθμιση.",
-    "variables": {
-      "title": "Διαθέσιμες μεταβλητές",
-      "click": "Κάνοντας κλικ στον σύνδεσμο, αυτό το χαρακτηριστικό είναι ένα αντικείμενο κλάσης <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Ο σύνδεσμος της τρέχουσας σελίδας Αυτό το χαρακτηριστικό είναι μια <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. αντικείμενο τάξης."
-    },
-    "returnVariables": {
-      "title": "Αξίες που μπορούν να επιστραφούν",
-      "rightTab": "Ανοίξτε σε νέα καρτέλα στα δεξιά"
-    }
+    "checkedUseSetting": "Επιλέξτε για να ενεργοποιήσετε αυτήν τη ρύθμιση."
   },
   "menu": {
     "main": "παγκόσμιο σενάριο"

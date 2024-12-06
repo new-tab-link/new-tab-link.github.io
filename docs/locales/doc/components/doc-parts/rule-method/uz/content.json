@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Qoidalarni kiritish sozlamalari",
+    "rule": {
+      "edit": "Qoida yozuvlarini qo'shish yoki tahrirlash",
+      "description": "Siz ushbu sozlamani istalgan veb-sahifada sichqonchaning o'ng tugmasi orqali kiritishingiz mumkin, qoida tariqasida veb-sahifaning URL manzili qo'shiladi. Mavjud formatlar quyida tavsiflanadi .",
+      "formats": {
+        "title": "qoida namunasi",
+        "url": {
+          "title": "URL rejimi, toʻliq URL.",
+          "example": {
+            "as": "Masalan:"
+          },
+          "explain": "Bu usul to'liq URL manziliga mos kelishi mumkin."
+        },
+        "glob": {
+          "title": "Glob usuli {{1}} kutubxonasidan foydalanadi.",
+          "example": {
+            "as": "Masalan:",
+            "a": "{{1}}, bu YouTube bosh sahifasi va barcha pastki sahifalarga mos keladi."
+          }
+        },
+        "regexp": {
+          "title": "Oddiy ifoda, foydalanish uchun <a>Qarang</a>."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Qoidalarni kiritish sozlamalari"
+  }
+}

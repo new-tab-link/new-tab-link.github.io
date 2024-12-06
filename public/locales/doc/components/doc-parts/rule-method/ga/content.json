@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Socruithe iontrála rialacha",
+    "rule": {
+      "edit": "Cuir iontrálacha rialacha leis nó cuir in eagar iad",
+      "description": "Is féidir leat an socrú seo a chur isteach tríd an roghchlár cliceáil ar dheis ar aon leathanach gréasáin Nuair a bheidh tú ag dul isteach ó leathanach gréasáin, cuirfear URL an leathanaigh ghréasáin leis mar riail de réir réamhshocraithe .",
+      "formats": {
+        "title": "patrún riail",
+        "url": {
+          "title": "Modh URL, URL iomlán.",
+          "example": {
+            "as": "Mar shampla:"
+          },
+          "explain": "Is féidir an modh seo a mheaitseáil leis an URL iomlán."
+        },
+        "glob": {
+          "title": "Úsáideann an modh glob an leabharlann {{1}} <a>féach</a> le húsáid, nó is féidir leat úsáid {{2}} a chuardach.",
+          "example": {
+            "as": "Mar shampla:",
+            "a": "{{1}}, a mheaitseálann leathanach baile YouTube agus gach fo-leathanach."
+          }
+        },
+        "regexp": {
+          "title": "Slonn rialta, féach <a>Féach</a> le húsáid."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Socruithe iontrála rialacha"
+  }
+}

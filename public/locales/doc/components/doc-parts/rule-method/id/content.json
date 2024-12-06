@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Pengaturan entri aturan",
+    "rule": {
+      "edit": "Tambahkan atau edit entri aturan",
+      "description": "Anda dapat memasukkan pengaturan ini melalui menu klik kanan di halaman web mana pun. Saat masuk dari halaman web, URL halaman web akan ditambahkan sebagai aturan secara default. Anda dapat mengedit aturannya .",
+      "formats": {
+        "title": "pola aturan",
+        "url": {
+          "title": "Mode URL, URL lengkap.",
+          "example": {
+            "as": "Misalnya:"
+          },
+          "explain": "Cara ini bisa mencocokkan URL lengkap."
+        },
+        "glob": {
+          "title": "Metode glob menggunakan pustaka {{1}}. Silakan <a>lihat</a> untuk penggunaannya, atau Anda dapat mencari penggunaan {{2}}.",
+          "example": {
+            "as": "Misalnya:",
+            "a": "{{1}}, yang cocok dengan beranda YouTube dan semua subhalaman."
+          }
+        },
+        "regexp": {
+          "title": "Ekspresi reguler, silakan lihat <a>Lihat</a> untuk penggunaannya."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Pengaturan entri aturan"
+  }
+}

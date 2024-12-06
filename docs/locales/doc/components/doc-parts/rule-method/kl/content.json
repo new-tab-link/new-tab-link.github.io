@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Maleruagassat allattorsimaffianni inissititernerit",
+    "rule": {
+      "edit": "Regel-it allattorsimaffii ilanngukkit imaluunniit allanngortikkit",
+      "description": "Inissiissut taanna nittartakkami quppernermi højreklik-meny aqqutigalugu isertitsisinnaavutit, nittartakkami quppernerup URL-ia malittarisassatut ilanngunneqassaaq Maleruagassat atorneqarsinnaasut ataani nassuiarneqarput .",
+      "formats": {
+        "title": "malittarisassaq",
+        "url": {
+          "title": "URL-modus, URL-i tamakkerlugu.",
+          "example": {
+            "as": "Assersuutigalugu:"
+          },
+          "explain": "Periarfissaq taanna URL-imut tamakkerlugu naleqqussarsinnaavaa."
+        },
+        "glob": {
+          "title": "Periarfissaq glob atortarpaa {{1}} atuineq pillugu <a>takuuk</a>, imaluunniit {{2}} atorneqarnera ujarsinnaavat.",
+          "example": {
+            "as": "Assersuutigalugu:",
+            "a": "{{1}}, taanna YouTube-imi quppernermut aamma quppernernut allanut tamanut naleqquppoq."
+          }
+        },
+        "regexp": {
+          "title": "Nalinginnaasumik oqaaseq, atuineq pillugu <a>Takuuk</a> takuuk."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Maleruagassat allattorsimaffianni inissititernerit"
+  }
+}

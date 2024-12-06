@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Ukax variables ukanakaw utji",
-    "page": ": Variable ukax jichha web ukan URL ukan yänakapawa, juk’amp yatxatañatakix, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> uñjañäni</a>",
+    "title": "Uñstayata variable ukatxa función uka yänaka",
+    "click": ": URL ukax ch’iqt’atawa, juk’amp yatxatañatakix, <a>uñxatt’aña</a>",
+    "page": ": Jichha web ukan URL objeto (jilapartx dirección barra), uñt’ayawi <a>Uñxatt’aña</a>",
     "pageHost": ": Jichha web ukan dominio sutipa",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Pachpa dominio suti Qhanacht’añataki, {{_youtube_}} ukat {{_families_}} uka jach’a dominio sutinakax panpachaniw {{_mainDomain_}}, subdominio sutinakax {{_youtubeSubDomain_}} ukat {{. _familiesSubDomain_}} sapa mayniru.Ukhamat dominio sutinakapax mayj mayjawa.",
-    "click": ": uka link ukax ch’iqt’atawa",
     "clickpath": ": Uka thakhix ch’iqt’atawa",
-    "minimatch": ": {{_glob_}} chikancht’asiñ thakhi, {{_minimatch_}} biblioteca apnaqaña, apnaqañ thakhi <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Uñxatt'aña < /a>, jan ukax {{_glob_}} ukar thaqhañamawa.",
-    "isSameDomain": ": Pachpa dominio sutimpixa, {{_true_}} ukaxa jïsa, {{_false_}} ukaxa janiwa.",
-    "isSameParent": ": Pachpa awki tayka thakhixa, {{_true_}} ukaxa jïsa, {{_false_}} ukaxa janiwa.",
-    "isPageSublink": ": Jichha pankax ch’iqt’at chimpun jisk’a pankapawa, {{_true_}} ukax jïsa, {{_false_}} ukax janiw.",
-    "isPageMultilevelSublink": ": Jichha pankax ch’iqt’at chimpun jan tukuskir jisk’a panka ukhamächiti, {{_true_}} ukax jïsa, {{_false_}} ukax janiw sañjamakiti.",
-    "isClickSublink": ": Ch’iqt’at chimpux jichha pankan jisk’a chimpupawa, {{_true_}} ukax jïsa, {{_false_}} ukax janiw sañjamakiti.",
-    "isClickMultilevelSublink": ": Ch’iqt’at chimpux jichha pankan jan tukuskir jisk’a chimpunakächiti, {{_true_}} ukax jïsa, {{_false_}} ukax janiw sañjamakiti.",
+    "isSameDomain": ": Pachpa dominio sutimpixa, {{tt}} ukaxa jïsa, {{ff}} ukaxa janiwa.",
+    "isSameSubDomain": "{{ss}}: Pachpa dominio suti Qhanacht’añatakix {{yy}} ukat {{ff}} uka jach’a dominio sutinakax panpachaniw {{mm}} ukhamäkchisa, jisk’a dominio sutinakax {{ww}} ukat {{ffss}} ukhama.Ukhamajj jupanakan dominio sutinakapax mayj mayjawa.",
+    "isSameParent": ": Pachpa awki tayka thakhixa, {{tt}} ukaxa jïsa, {{ff}} ukaxa janiwa.",
+    "isPageSublink": ": Jichha pankax ch’iqt’at chimpun jisk’a pankapakiti, {{tt}} ukax jïsa, {{ff}} ukax janiw sañjamakiti.",
+    "isPageMultilevelSublink": ": Jichha pankax ch’iqt’at chimpun jan tukuskir jisk’a panka ukhamächiti, {{tt}} ukax jïsa, {{ff}} ukax janiw sañjamakiti.",
+    "isClickSublink": ": Ch’iqt’at chimpux jichha pankan jisk’a chimpupawa, {{tt}} ukax jïsa, {{ff}} ukax janiw sañjamakiti.",
+    "isClickMultilevelSublink": ": Ch’iqt’at chimpux jichha pankan jan limitat sub-enlace ukhamächiti, {{tt}} ukax jïsa, {{ff}} ukax janiw sañjamakiti.",
     "returnVariables": {
       "title": "Kutt’ayañjam variables ukanaka",
-      "rightTab": ": Uka link ukax machaq tabla ukanw ch’iqa tuqin jist’arasi",
-      "leftTab": ": Link ukax machaq tabla ukan ch’iqa tuqin jist’aratawa",
-      "currentWindow": "jichha pacha ventana",
-      "newWindow": "machaq ventana",
-      "incognitoWindow": "Jan uñt’at ventana",
-      "popupWindow": "Ukax mä jach’a uñacht’äwiwa",
-      "currentTab": "Jichha pachanxa",
-      "active": "Jichhax activañamawa",
-      "inactive": "Janiwa activatäkiti"
+      "window": {
+        "title": "wintana",
+        "currentWindow": ":Jichha pacha ventana",
+        "newWindow": ":machaq ventana",
+        "incognitoWindow": ":Jan uñjkaya ventana",
+        "popupWindow": ":pop-up ukat juk’ampinaka",
+        "externalBrowser": ":Anqäx uñakipiri (kunjamatix {{tt}}, ukat juk’ampinaka)"
+      },
+      "tab": {
+        "title": "tab ukan uñt’ayata",
+        "rightTab": ": Uka link ukax machaq tabla ukanw ch’iqa tuqin jist’arasi",
+        "leftTab": ": Link ukax machaq tabla ukan ch’iqa tuqin jist’aratawa",
+        "currentTab": ":Jichha pachanxa"
+      },
+      "active": {
+        "title": "estado activo ukaxa",
+        "active": ": Jank’akiw activaña",
+        "inactive": ":Janiw kunas utjkiti"
+      }
+    },
+    "functions": {
+      "title": "Uñstayata lurawi yänaka",
+      "minimatch": ": {{gg}} chikancht’asiñ thakhix {{mm}} biblioteca apnaqi Uñakipt’añatakix <a>Uñxatt’aña</a> apnaqañ thakhi, jan ukax {{gg}} apnaqañ thakhi thaqharaksnawa."
     }
   },
   "menu": {

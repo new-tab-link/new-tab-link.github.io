@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Verfügbare Variablen",
-    "page": ": Die Variable ist das URL-Objekt der aktuellen Webseite. Weitere Informationen finden Sie unter <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> siehe</a>",
+    "title": "Verfügbare Variablen- und Funktionsobjekte",
+    "click": ": Das URL-Objekt des angeklickten Links. Weitere Informationen finden Sie <a>siehe</a>",
+    "page": ": Das URL-Objekt der aktuellen Webseite (normalerweise die Adressleiste), ausführliche Einführung <a>Siehe</a>",
     "pageHost": ": Der Domänenname der aktuellen Webseite",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Derselbe Domainname. Beachten Sie, dass die Hauptdomainnamen von {{_youtube_}} und {{_families_}} beide {{_mainDomain_}} sind, die Subdomainnamen jedoch {{_youtubeSubDomain_}} sind. _familiesSubDomain_}} Daher sind ihre Domänennamen unterschiedlich.",
-    "click": ": der Link, auf den geklickt wurde",
     "clickpath": ": Der Pfad des angeklickten Links",
-    "minimatch": ": {{_glob_}}-Abgleichmethode, Verwendung der {{_minimatch_}}-Bibliothek, Verwendungsmethode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Siehe < /a>, oder Sie können nach {{_glob_}} suchen.",
-    "isSameDomain": ": Ob es sich um denselben Domainnamen handelt, {{_true_}} ist ja, {{_false_}} ist nein.",
-    "isSameParent": ": Ob es sich um denselben übergeordneten Pfad handelt, {{_true_}} ist ja, {{_false_}} ist nein.",
-    "isPageSublink": ": Ob die aktuelle Seite eine Unterseite des angeklickten Links ist, {{_true_}} ist ja, {{_false_}} ist nein.",
-    "isPageMultilevelSublink": ": Ob die aktuelle Seite eine unendliche Unterseite des angeklickten Links ist, {{_true_}} ist ja, {{_false_}} ist nein.",
-    "isClickSublink": ": Ob der angeklickte Link ein Unterlink der aktuellen Seite ist, {{_true_}} ist ja, {{_false_}} ist nein.",
-    "isClickMultilevelSublink": ": Ob der angeklickte Link ein unbegrenzter Unterlink der aktuellen Seite ist, {{_true_}} ist ja, {{_false_}} ist nein.",
+    "isSameDomain": ": Ob es sich um denselben Domainnamen handelt, {{tt}} ist ja, {{ff}} ist nein.",
+    "isSameSubDomain": "{{ss}}: Derselbe Domänenname. Beachten Sie, dass die Hauptdomänennamen von {{yy}} und {{ff}} beide {{mm}} sind, die Unterdomänennamen jedoch {{ww}} und sind {{ffss}} Ihre Domainnamen sind also unterschiedlich.",
+    "isSameParent": ": Ob es sich um denselben übergeordneten Pfad handelt, {{tt}} ist ja, {{ff}} ist nein.",
+    "isPageSublink": ": Ob die aktuelle Seite eine Unterseite des angeklickten Links ist, {{tt}} ist ja, {{ff}} ist nein.",
+    "isPageMultilevelSublink": ": Ob die aktuelle Seite eine unendliche Unterseite des angeklickten Links ist, {{tt}} ist ja, {{ff}} ist nein.",
+    "isClickSublink": ": Ob der angeklickte Link ein Unterlink der aktuellen Seite ist, {{tt}} ist ja, {{ff}} ist nein.",
+    "isClickMultilevelSublink": ": Ob der angeklickte Link ein unbegrenzter Unterlink der aktuellen Seite ist, {{tt}} ist ja, {{ff}} ist nein.",
     "returnVariables": {
       "title": "Rückgabefähige Variablen",
-      "rightTab": ": Der Link wird rechts in einem neuen Tab geöffnet",
-      "leftTab": ": Der Link wird in einem neuen Tab auf der linken Seite geöffnet",
-      "currentWindow": "aktuelles Fenster",
-      "newWindow": "neues Fenster",
-      "incognitoWindow": "Inkognito-Fenster",
-      "popupWindow": "Popup-Fenster",
-      "currentTab": "Aktuelle Registerkarte",
-      "active": "Jetzt aktivieren",
-      "inactive": "Nicht aktiviert"
+      "window": {
+        "title": "Fenster",
+        "currentWindow": ":Aktuelles Fenster",
+        "newWindow": ":neues Fenster",
+        "incognitoWindow": ":Unsichtbares Fenster",
+        "popupWindow": ":Popup-Fenster",
+        "externalBrowser": ":Externer Browser (z. B. {{tt}} usw.)"
+      },
+      "tab": {
+        "title": "Registerkarte Seite",
+        "rightTab": ": Der Link wird rechts in einem neuen Tab geöffnet",
+        "leftTab": ": Der Link wird in einem neuen Tab auf der linken Seite geöffnet",
+        "currentTab": ":Aktuelle Registerkarte"
+      },
+      "active": {
+        "title": "aktiver Zustand",
+        "active": ": Sofort aktivieren",
+        "inactive": ":Inaktiv"
+      }
+    },
+    "functions": {
+      "title": "Verfügbare Funktionsobjekte",
+      "minimatch": ": Die {{gg}}-Vergleichsmethode verwendet die {{mm}}-Bibliothek für die Verwendungsmethode. Sie können auch nach der Verwendungsmethode von {{gg}} suchen."
     }
   },
   "menu": {

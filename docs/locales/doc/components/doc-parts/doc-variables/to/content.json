@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Ngaahi kehekehe 'oku ma'u",
-    "page": ": Ko e kehekehe ko e me'a URL 'o e peesi uepi lolotonga Ki he fakaikiiki, <a href='https://developer. vakai</a>",
+    "title": "'Oku ma'u 'a e ngaahi me'a kehekehe mo e ngaue",
+    "click": ": Ko e meʻa URL ʻo e fehokotakiʻanga kuo lomiʻí Ki he fakaikiikí, <a>vakai</a>.",
+    "page": ": Ko e me'a URL 'o e peesi uepi lolotonga ('oku angamaheni 'aki 'a e pa tu'asila), fakafe'iloaki fakaikiiki <a>Vakai</a>",
     "pageHost": ": Ko e hingoa tomeini 'o e peesi uepi lolotonga .",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Ko e hingoa tomeini tatau pe Fakatokanga'i ange neongo ko e ngaahi hingoa tomeini tefito 'o e {{_youtube_}} mo e {{_ngaahi famili_}} 'oku fakatou {{_mainDomain_}}, ko e ngaahi hingoa tomeini si'isi'i ko e {{_youtubeSubDomain_}} mo e {{ _familiSubDomain_}} fakahokohoko Ko ia 'oku kehekehe honau ngaahi hingoa tomeini.",
-    "click": ": ko e fehokotaki'anga na'e lomi'i",
     "clickpath": ": Ko e hala 'o e fehokotaki'anga kuo lomi'i .",
-    "minimatch": ": {{_glob_}} founga fakafehoanaki, 'o faka'aonga'i 'a e {{_minimatch_}} laipeli, founga faka'aonga'i <a href='https://github.com/isaacs/minimatch' taumu'a='_'ata'ataa' rel='norereferr'>Vakai ki he < /a>, pe te ke lava ʻo kumi ki he {{_glob_}}.",
-    "isSameDomain": ": Pe ko e hingoa tomeini tatau, {{_mo'oni_}} 'oku 'io, {{_loi_}} 'oku 'ikai.",
-    "isSameParent": ": Pe ko e hala matu'a tatau, {{_mo'oni_}} 'oku 'io, {{_loi_}} 'oku 'ikai.",
-    "isPageSublink": ": Pe ko e peesi lolotonga ko ha peesi si'isi'i 'o e fehokotaki'anga kuo lomi'i, {{_mo'oni_}} 'oku 'io, {{_loi_}} 'oku 'ikai.",
-    "isPageMultilevelSublink": ": Pe ko e peesi lolotonga ko ha peesi si'isi'i ta'efakangatangata 'o e fehokotaki'anga kuo lomi'i, {{_mo'oni_}} 'oku 'io, {{_false_}} 'oku 'ikai.",
-    "isClickSublink": ": Pe ko e fehokotaki'anga kuo lomi'i ko ha fehokotaki'anga si'isi'i 'o e peesi lolotonga, {{_mo'oni_}} 'oku 'io, {{_false_}} 'oku 'ikai.",
-    "isClickMultilevelSublink": ": Pe ko e fehokotaki'anga kuo lomi'i ko ha fehokotaki'anga si'isi'i ta'e fakangatangata 'o e peesi lolotonga, {{_true_}} 'oku 'io, {{_false_}} 'oku 'ikai.",
+    "isSameDomain": ": Pe ko e hingoa tomeini tatau, {{tt}} 'oku 'io, {{ff}} 'oku 'ikai.",
+    "isSameSubDomain": "{{ss}}: Ko e hingoa tomeini tatau Fakatokanga'i ange neongo ko e ngaahi hingoa tomeini tefito 'o e {{yy}} mo e {{ff}} 'oku fakatou {{mm}}, ko e ngaahi hingoa tomeini si'isi'i ko e {{ww}} mo e. {{ffss}} fakahokohoko Ko ia 'oku kehekehe honau ngaahi hingoa tomeini.",
+    "isSameParent": ": Pe ko e hala matu'a tatau, {{tt}} 'oku 'io, {{ff}} 'oku 'ikai.",
+    "isPageSublink": ": Pe ko e peesi lolotonga ko ha peesi si'i 'o e fehokotaki'anga kuo lomi'i, {{tt}} 'oku 'io, {{ff}} 'oku 'ikai.",
+    "isPageMultilevelSublink": ": Pe ko e peesi lolotonga ko ha peesi si'isi'i ta'efakangatangata 'o e fehokotaki'anga kuo lomi'i, {{tt}} 'oku 'io, {{ff}} 'oku 'ikai.",
+    "isClickSublink": ": Pe ko e fehokotaki'anga kuo lomi'i ko ha fehokotaki'anga si'isi'i 'o e peesi lolotonga, {{tt}} 'oku 'io, {{ff}} 'oku 'ikai.",
+    "isClickMultilevelSublink": ": Pe ko e fehokotaki'anga kuo lomi'i ko ha fehokotaki'anga si'isi'i ta'e fakangatangata 'o e peesi lolotonga, {{tt}} 'oku 'io, {{ff}} 'oku 'ikai.",
     "returnVariables": {
       "title": "Ngaahi kehekehe 'oku lava ke fakafoki",
-      "rightTab": ": 'Oku fakaava 'a e fehokotaki'anga 'i ha tab fo'ou 'i he to'omata'u .",
-      "leftTab": ": 'Oku fakaava 'a e fehokotaki'anga 'i ha tab fo'ou 'i he to'ohema .",
-      "currentWindow": "matapa sio'ata lolotonga",
-      "newWindow": "matapā sioʻata foʻou",
-      "incognitoWindow": "Matapā sioʻata fakapulipuli",
-      "popupWindow": "Matapā sioʻata ʻoku ʻasi hake",
-      "currentTab": "Tab lolotonga",
-      "active": "Fakalele he taimi ni",
-      "inactive": "'Oku 'ikai ke faka'aonga'i"
+      "window": {
+        "title": "sio'ata",
+        "currentWindow": ":Window lolotonga",
+        "newWindow": ":matapa sio'ata fo'ou",
+        "incognitoWindow": ":Matapa sio'ata ta'e 'asi",
+        "popupWindow": ":matapa sio'ata 'oku 'asi hake",
+        "externalBrowser": ":Ko e browser 'i tu'a (hange ko e {{tt}}, etc.)"
+      },
+      "tab": {
+        "title": "peesi tab",
+        "rightTab": ": 'Oku fakaava 'a e fehokotaki'anga 'i ha tab fo'ou 'i he to'omata'u .",
+        "leftTab": ": 'Oku fakaava 'a e fehokotaki'anga 'i ha tab fo'ou 'i he to'ohema .",
+        "currentTab": ":Tab lolotonga"
+      },
+      "active": {
+        "title": "tu'unga ngaue",
+        "active": ": Fakalele vave .",
+        "inactive": ":'Oku 'ikai ke ngaue"
+      }
+    },
+    "functions": {
+      "title": "Ngaahi me'a ngaue 'oku ma'u",
+      "minimatch": ": ʻOku fakaʻaongaʻi ʻe he founga fakafehoanaki {{gg}} ʻa e laipeli {{mm}} Kātaki ʻo vakai ki he <a>Vakai</a> ki he founga fakaʻaongaʻi, pe te ke lava foki ʻo kumi ki he founga fakaʻaongaʻi ʻo e {{gg}}."
     }
   },
   "menu": {

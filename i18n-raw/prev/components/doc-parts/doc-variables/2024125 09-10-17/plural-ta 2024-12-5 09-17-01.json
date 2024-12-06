@@ -1,0 +1,42 @@
+{
+  "doc": {
+    "title": "可用变量",
+    "page": " : 当前网页（一般是地址栏）的URL对象，详细介绍 <a>参见</a>",
+    "pageHost": " : 当前网页的域名",
+    "isSameSubDomain": "{{s}} : 同一个域名，注意{{y}}和{{f}}虽然主域名都是{{m}}，但是子域名分别是{{w}}和{{fs}}，所以它们域名不同。",
+    "click": " : 被点击的链接的URL对象，详细介绍 <a>参见</a>",
+    "clickpath": " ： 被点击链接的路径",
+    "minimatch": " : {{g}}匹配方式，使用的是{{m}}库，使用方式 <a>参见</a>，或者您也可以用搜索{{g}}的使用方法。",
+    "isSameDomain": " : 是否是同一个域名, {{t}}是，{{f}}否。",
+    "isSameParent": " : 是否是同一个父级路径, {{t}}是，{{f}}否。",
+    "isPageSublink": " : 当前页面是否是点击链接的子页面, {{t}}是，{{f}}否。",
+    "isPageMultilevelSublink": " : 当前页面是否是点击链接的无限子页面, {{t}}是，{{f}}否。",
+    "isClickSublink": " : 点击链接是否是当前页面的子链接, {{t}}是，{{f}}否。",
+    "isClickMultilevelSublink": " : 点击链接是否是当前页面的无限子链接, {{t}}是，{{f}}否。",
+    "returnVariables": {
+      "title": "可返回的变量",
+      "window": {
+        "title": "窗口",
+        "currentWindow": ":当前窗口",
+        "newWindow": ":新窗口",
+        "incognitoWindow": ":隐身窗口",
+        "popupWindow": ":弹窗",
+        "externalBrowser": ":外部浏览器（如{{t}}等）"
+      },
+      "tab": {
+        "title": "标签页",
+        "rightTab": " ： 链接在右侧新标签页打开",
+        "leftTab": " ： 链接在左侧新标签页打开",
+        "currentTab": ":当前标签页"
+      },
+      "active": {
+        "title": "激活状态",
+        "active": ":立即激活",
+        "inactive": ":不激活"
+      }
+    }
+  },
+  "menu": {
+    "main": "可用变量"
+  }
+}

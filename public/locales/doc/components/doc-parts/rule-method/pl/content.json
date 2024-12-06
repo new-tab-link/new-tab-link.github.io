@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Ustawienia wprowadzania reguł",
+    "rule": {
+      "edit": "Dodaj lub edytuj wpisy reguł",
+      "description": "Możesz wprowadzić to ustawienie za pomocą menu wyświetlanego prawym przyciskiem myszy na dowolnej stronie internetowej. Podczas wchodzenia ze strony internetowej adres URL strony internetowej zostanie domyślnie dodany. Dostępne formaty wyjaśniono poniżej .",
+      "formats": {
+        "title": "wzór reguły",
+        "url": {
+          "title": "Tryb URL, pełny adres URL.",
+          "example": {
+            "as": "Na przykład:"
+          },
+          "explain": "Ta metoda może dopasować pełny adres URL."
+        },
+        "glob": {
+          "title": "Metoda glob wykorzystuje bibliotekę {{1}}. <a>Sprawdź</a>, aby zapoznać się z jej użyciem, lub możesz wyszukać użycie {{2}}.",
+          "example": {
+            "as": "Na przykład:",
+            "a": "{{1}}, który pasuje do strony głównej YouTube i wszystkich podstron."
+          }
+        },
+        "regexp": {
+          "title": "Wyrażenie regularne. Aby zapoznać się z jego użyciem, zobacz <a>Zobacz</a>."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Ustawienia wprowadzania reguł"
+  }
+}

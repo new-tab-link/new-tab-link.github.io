@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Fikirana fampidirana fitsipika",
+    "rule": {
+      "edit": "Manampia na manitsy ny fidirana amin'ny fitsipika",
+      "description": "Azonao atao ny miditra amin'ity toe-javatra ity amin'ny alàlan'ny menio kitiho havanana amin'ny pejin-tranonkala rehetra Rehefa miditra amin'ny pejin-tranonkala iray dia ampiana ho fitsipika ny fitsipika .",
+      "formats": {
+        "title": "fitsipika fitsipika",
+        "url": {
+          "title": "Fomba URL, URL feno.",
+          "example": {
+            "as": "Ohatra:"
+          },
+          "explain": "Ity fomba ity dia afaka mifanandrify amin'ny URL feno."
+        },
+        "glob": {
+          "title": "Ny fomba glob dia mampiasa ny tranomboky {{1}} azafady <a>jereo</a> raha ampiasaina, na azonao atao ny mikaroka ny fampiasana ny {{2}}.",
+          "example": {
+            "as": "Ohatra:",
+            "a": "{{1}}, izay mifanandrify amin'ny pejy fandraisana YouTube sy ny zana-pejy rehetra."
+          }
+        },
+        "regexp": {
+          "title": "Fiteny mahazatra, azafady jereo <a>Jereo</a> raha ampiasaina."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Fikirana fampidirana fitsipika"
+  }
+}

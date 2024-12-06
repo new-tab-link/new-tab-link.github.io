@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Diseting tsa go tsenya molao",
+    "rule": {
+      "edit": "Tsenya kgotsa tseleganya ditsenngwa tsa molao",
+      "description": "O ka tsenya seting eno ka menyu wa go tobetsa ka fa mojeng mo tsebeng nngwe le nngwe ya webo Fa o tsenya go tswa mo tsebeng ya webo, URL ya tsebe ya webo e tla tsenngwa jaaka molao ka thulaganyetsoruri O ka tseleganya melao e e leng teng e tlhalosiwa fa tlase. .",
+      "formats": {
+        "title": "paterone ya molao",
+        "url": {
+          "title": "Mokgwa wa URL, URL e e feletseng.",
+          "example": {
+            "as": "Sekai:"
+          },
+          "explain": "Mokgwa ono o ka tshwana le URL e e feletseng."
+        },
+        "glob": {
+          "title": "Mokgwa wa glob o dirisa laeborari ya {{1}} Tsweetswee <a>bona</a> tiriso, kgotsa o ka batla tiriso ya {{2}}.",
+          "example": {
+            "as": "Sekai:",
+            "a": "{{1}}, e e tshwanang le tsebegae ya YouTube le ditsebepotlana tsotlhe."
+          }
+        },
+        "regexp": {
+          "title": "Tlhagiso ya ka metlha, tsweetswee leba <a>Bona</a> go bona tiriso."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Diseting tsa go tsenya molao"
+  }
+}

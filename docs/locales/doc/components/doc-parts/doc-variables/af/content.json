@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Beskikbare veranderlikes",
-    "page": ": Die veranderlike is die URL-objek van die huidige webblad Vir besonderhede, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. sien</a>",
+    "title": "Beskikbare veranderlike en funksie-objekte",
+    "click": ": Die URL-voorwerp van die geklikte skakel Vir besonderhede, <a>sien</a>",
+    "page": ": Die URL-voorwerp van die huidige webblad (gewoonlik die adresbalk), gedetailleerde inleiding <a>Sien</a>",
     "pageHost": ": Die domeinnaam van die huidige webblad",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Dieselfde domeinnaam Let daarop dat alhoewel die hoofdomeinname van {{_youtube_}} en {{_families_}} beide {{_mainDomain_}} is, is die subdomeinname {{_youtubeSubDomain_}} en {{. _familiesSubDomain_}} onderskeidelik Dus hul domeinname verskil.",
-    "click": ": die skakel wat geklik is",
     "clickpath": ": Die pad van die geklikte skakel",
-    "minimatch": ": {{_glob_}}-passingsmetode, gebruik die {{_minimatch_}}-biblioteek, gebruiksmetode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Sien <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Sien < /a>, of jy kan vir {{_glob_}} soek.",
-    "isSameDomain": ": Of dit dieselfde domeinnaam is, {{_true_}} is ja, {{_false_}} is nee.",
-    "isSameParent": ": Of dit dieselfde ouerpad is, {{_true_}} is ja, {{_false_}} is nee.",
-    "isPageSublink": ": Of die huidige bladsy 'n subbladsy van die geklikte skakel is, {{_true_}} is ja, {{_false_}} is nee.",
-    "isPageMultilevelSublink": ": Of die huidige bladsy 'n oneindige subbladsy van die geklikte skakel is, {{_true_}} is ja, {{_false_}} is nee.",
-    "isClickSublink": ": Of die geklikte skakel 'n subskakel van die huidige bladsy is, {{_true_}} is ja, {{_false_}} is nee.",
-    "isClickMultilevelSublink": ": Of die geklikte skakel 'n onbeperkte subskakel van die huidige bladsy is, {{_true_}} is ja, {{_false_}} is nee.",
+    "isSameDomain": ": Of dit dieselfde domeinnaam is, {{tt}} is ja, {{ff}} is nee.",
+    "isSameSubDomain": "{{ss}}: Dieselfde domeinnaam Let daarop dat alhoewel die hoofdomeinname van {{yy}} en {{ff}} beide {{mm}} is, is die sub-domeinname {{ww}} en. {{ffss}} onderskeidelik Dus hul domeinname verskil.",
+    "isSameParent": ": Of dit dieselfde ouerpad is, {{tt}} is ja, {{ff}} is nee.",
+    "isPageSublink": ": Of die huidige bladsy 'n subbladsy van die geklikte skakel is, {{tt}} is ja, {{ff}} is nee.",
+    "isPageMultilevelSublink": ": Of die huidige bladsy 'n oneindige subbladsy van die geklikte skakel is, {{tt}} is ja, {{ff}} is nee.",
+    "isClickSublink": ": Of die geklikte skakel 'n subskakel van die huidige bladsy is, {{tt}} is ja, {{ff}} is nee.",
+    "isClickMultilevelSublink": ": Of die geklikte skakel 'n onbeperkte subskakel van die huidige bladsy is, {{tt}} is ja, {{ff}} is nee.",
     "returnVariables": {
       "title": "Terugkeerbare veranderlikes",
-      "rightTab": ": Die skakel maak in 'n nuwe oortjie aan die regterkant oop",
-      "leftTab": ": Die skakel maak in 'n nuwe oortjie aan die linkerkant oop",
-      "currentWindow": "huidige venster",
-      "newWindow": "nuwe venster",
-      "incognitoWindow": "Incognito venster",
-      "popupWindow": "Pop-up venster",
-      "currentTab": "Huidige oortjie",
-      "active": "Aktiveer nou",
-      "inactive": "Nie geaktiveer nie"
+      "window": {
+        "title": "venster",
+        "currentWindow": ": Huidige venster",
+        "newWindow": ":nuwe venster",
+        "incognitoWindow": ": Onsigbare venster",
+        "popupWindow": ":opspringvenster",
+        "externalBrowser": ":Eksterne blaaier (soos {{tt}}, ens.)"
+      },
+      "tab": {
+        "title": "oortjie bladsy",
+        "rightTab": ": Die skakel maak in 'n nuwe oortjie aan die regterkant oop",
+        "leftTab": ": Die skakel maak in 'n nuwe oortjie aan die linkerkant oop",
+        "currentTab": ": Huidige oortjie"
+      },
+      "active": {
+        "title": "aktiewe toestand",
+        "active": ": Aktiveer onmiddellik",
+        "inactive": ": Onaktief"
+      }
+    },
+    "functions": {
+      "title": "Beskikbare funksie-objekte",
+      "minimatch": ": Die {{gg}}-pasmetode gebruik die {{mm}}-biblioteek Sien asseblief <a>Sien</a> vir die gebruiksmetode, of jy kan ook soek vir die gebruiksmetode van {{gg}}."
     }
   },
   "menu": {

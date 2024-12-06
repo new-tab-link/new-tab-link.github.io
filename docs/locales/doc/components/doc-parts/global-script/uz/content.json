@@ -3,16 +3,7 @@
     "title": "Global skript sozlamalari",
     "description": "Siz javascript yordamida o'z skriptingizni yozishingiz mumkin",
     "examplesTitle": "Misol",
-    "checkedUseSetting": "Ushbu sozlamani yoqish uchun belgilang.",
-    "variables": {
-      "title": "Mavjud o'zgaruvchilar",
-      "click": "Bosilgan havola, bu atribut <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> sinf obyektidir.",
-      "page": "Joriy sahifaning havolasi bu atribut <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. sinf ob'ekti."
-    },
-    "returnVariables": {
-      "title": "Qaytarilishi mumkin bo'lgan qiymatlar",
-      "rightTab": "O'ng tarafdagi yangi oynada oching"
-    }
+    "checkedUseSetting": "Ushbu sozlamani yoqish uchun belgilang."
   },
   "menu": {
     "main": "global skript"

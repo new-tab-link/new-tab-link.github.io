@@ -3,16 +3,7 @@
     "title": "Genel komut dosyası ayarları",
     "description": "Javascript kullanarak kendi betiğinizi yazabilirsiniz.",
     "examplesTitle": "Örnek",
-    "checkedUseSetting": "Bu ayarı etkinleştirmek için işaretleyin.",
-    "variables": {
-      "title": "Mevcut değişkenler",
-      "click": "Tıklanan bağlantı, bu özellik bir <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> sınıfı nesnesidir.",
-      "page": "Geçerli sayfanın bağlantısı Bu özellik bir <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>'dir. sınıf nesnesi."
-    },
-    "returnVariables": {
-      "title": "Döndürülebilecek değerler",
-      "rightTab": "Sağdaki yeni sekmede aç"
-    }
+    "checkedUseSetting": "Bu ayarı etkinleştirmek için işaretleyin."
   },
   "menu": {
     "main": "küresel komut dosyası"

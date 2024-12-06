@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Paramètres de saisie des règles",
+    "rule": {
+      "edit": "Ajouter ou modifier des entrées de règle",
+      "description": "Vous pouvez saisir ce paramètre dans le menu contextuel de n'importe quelle page Web. sont expliqués ci-dessous.",
+      "formats": {
+        "title": "modèle de règle",
+        "url": {
+          "title": "Mode URL, URL complète.",
+          "example": {
+            "as": "Par exemple :"
+          },
+          "explain": "Cette méthode peut correspondre à l'URL complète."
+        },
+        "glob": {
+          "title": "La méthode glob utilise la bibliothèque {{1}} Veuillez <a>voir</a> pour l'utilisation, ou vous pouvez rechercher l'utilisation de {{2}}.",
+          "example": {
+            "as": "Par exemple :",
+            "a": "{{1}}, qui correspond à la page d'accueil YouTube et à toutes les sous-pages."
+          }
+        },
+        "regexp": {
+          "title": "Expression régulière, veuillez consulter <a>Voir</a> pour l'utilisation."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Paramètres de saisie des règles"
+  }
+}

@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Geytimta milallaagimitte",
-    "page": ": milallaagi URL abto awakih qarok qari gali addatinoh, <a href='https://dadlise.mozilla.org/senad/qarok qari/API/URL' hadaf='_foyya' rel='mabla'>. ubul</a>",
+    "title": "Geytimta milallaaguu kee abni duyyeeya",
+    "click": ": URL abto xukkutteh tan yasgaarawih addatinoh, <a> ubul</a>.",
+    "page": ": URL abto awakih qarok-qariitâ galil ( mango uddur sugmenti baar), oyti culma <a> ubul</a>",
     "pageHost": ": Awayî qarok-qariitâ galih domain migaq",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Inki qaynatih domain migaq kinnim cubbus, takkay immay lafa le domain migaaqitte {{_youtube_}} kee {{_buxah mara_}}, qunxa domain migaq {{_youtube_}} kee {{. _buxah marih guddaaqa_}} yaakumik ciggiilil ken guubuk migaaqitte baxsa le.",
-    "click": ": xukkusen yasgaarawi",
     "clickpath": ": xukkuten yasgaarawih gita",
-    "minimatch": ": {{_global_}} ramaddos cogda, {{_qunxa ramad_}} kitoobah buxat duqaysimak, cogdat duqaysimak <a href='https://github.com/isaacs/qunxa ramad' hadaf='_foyya' rel='noreferrer'> ubul < /a>, akkek atu gorrissam duddah {{_global_}}.",
-    "isSameDomain": ": toh inki domain migaq tekkek, {{_numma_}} yeey, {{_dirab_}} hinna.",
-    "isSameParent": ": toh inki xaleenah gita tekkek, {{_numma_}} yeey, {{_diraaba_}} hinna.",
-    "isPageSublink": ": awayih uddur yan gali, {{_numma_}} yeey, {{_dirab_}} hinna.",
-    "isPageMultilevelSublink": ": Awayih uddur yan gali elle geytimam, {{_true_}} yeey, {{_false_}} hinna.",
-    "isClickSublink": ": xagnimte xakbise awayih uddur yan galil qunxa xakbise tekkek, {{_numma_}} yeey, {{_diraaba_}} hinna.",
-    "isClickMultilevelSublink": ": xukkusen xakbise waado sinni qunxa xakbise awayih uddur, {{_numma_}} yeey, {{_dirab_}} hinna.",
+    "isSameDomain": ": toh inki domain migaq tekkek, {{tt}} yeey, {{ff}} hinna.",
+    "isSameSubDomain": "{{ss}}: Inki qaynatih domain migaq {{yy}} kee {{ff}} inkih {{mm}} kinnim takkay immay, qunxa domain migaq {{w}} kee. {{ffss}} yaakumik ciggiilil ken domain migaaqitte baxsa le.",
+    "isSameParent": ": toh inki xaleenah gita tekkek, {{tt}} yeey, {{ff}} hinna.",
+    "isPageSublink": ": Awayih uddur yan gali, {{tt}} yeey, {{ff}} hinna.",
+    "isPageMultilevelSublink": ": awayih uddur tan gali elle yan innal, {{tt}} yeey, {{ff}} hinna.",
+    "isClickSublink": ": xukkusen xakbise awayih uddur yan galil qunxa xakbise tekkek, {{tt}} yeey, {{ff}} hinna.",
+    "isClickMultilevelSublink": ": xukkusen xakbise waado sinni qunxa xakbise awayih uddur, {{tt}} yeey, {{ff}} hinna.",
     "returnVariables": {
       "title": "Taduure milallaagimitte",
-      "rightTab": ": Yasgaarawi migdi gabuuk qusba abalso fakkiima",
-      "leftTab": ": Yasgaarawi guri kabuk qusba abalsoh addat fakkiima",
-      "currentWindow": "Awayih xangabu",
-      "newWindow": "qusba xangabu",
-      "incognitoWindow": "Amixxige sinni xangabu",
-      "popupWindow": "Pop-up xangabu",
-      "currentTab": "Awayih abalso",
-      "active": "Away ugus",
-      "inactive": "mataamitinna"
+      "window": {
+        "title": "taagata",
+        "currentWindow": ":Awayih xangabu",
+        "newWindow": ":qusba xangabu",
+        "incognitoWindow": ":Amballe sinni xangabu",
+        "popupWindow": ":pop-up xangabu",
+        "externalBrowser": ":Iroh birowser (axcih {{tt}}, w.w tanim.)"
+      },
+      "tab": {
+        "title": "abalso gali",
+        "rightTab": ": Yasgaarawi migdi gabuuk qusba abalso fakkiima",
+        "leftTab": ": Yasgaarawi guri kabuk qusba abalsoh addat fakkiima",
+        "currentTab": ":Awayih abalso"
+      },
+      "active": {
+        "title": "abinal yan caalat",
+        "active": ": too wakaak taamita",
+        "inactive": ":Angaaraw mali"
+      }
+    },
+    "functions": {
+      "title": "Geytimta tuxxiq le duyyeeya",
+      "minimatch": ": {{gg}} celta cogda {{mm}} laybireerit tantifiqe, ku maganak <a>See</a> wagita, hinnay kaadu {{gg}} celta cogda gorris."
     }
   },
   "menu": {

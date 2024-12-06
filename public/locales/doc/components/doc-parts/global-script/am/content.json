@@ -3,16 +3,7 @@
     "title": "የአለምአቀፍ ስክሪፕት ቅንብሮች",
     "description": "ጃቫስክሪፕት በመጠቀም የራስዎን ስክሪፕት መጻፍ ይችላሉ።",
     "examplesTitle": "ለምሳሌ",
-    "checkedUseSetting": "ይህን ቅንብር ለማንቃት ያረጋግጡ።",
-    "variables": {
-      "title": "የሚገኙ ተለዋዋጮች",
-      "click": "ጠቅ የተደረገ አገናኝ፣ ይህ አይነታ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ክፍል ነገር ነው።",
-      "page": "የአሁኑ ገጽ አገናኝ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ነው። ክፍል ነገር."
-    },
-    "returnVariables": {
-      "title": "ሊመለሱ የሚችሉ እሴቶች",
-      "rightTab": "በቀኝ በኩል ባለው አዲስ ትር ይክፈቱ"
-    }
+    "checkedUseSetting": "ይህን ቅንብር ለማንቃት ያረጋግጡ።"
   },
   "menu": {
     "main": "ዓለም አቀፍ ስክሪፕት"

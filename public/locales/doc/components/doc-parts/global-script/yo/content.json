@@ -3,16 +3,7 @@
     "title": "Awọn eto iwe afọwọkọ agbaye",
     "description": "O le kọ iwe afọwọkọ tirẹ nipa lilo JavaScript",
     "examplesTitle": "Apeere",
-    "checkedUseSetting": "Ṣayẹwo lati mu eto yii ṣiṣẹ.",
-    "variables": {
-      "title": "Awọn oniyipada ti o wa",
-      "click": "Ọna asopọ ti a tẹ, ẹda yii jẹ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ohun kilasi.",
-      "page": "Ọna asopọ ti oju-iwe lọwọlọwọ. nkan kilasi."
-    },
-    "returnVariables": {
-      "title": "Awọn iye ti o le da pada",
-      "rightTab": "Ṣii ni taabu tuntun ni apa ọtun"
-    }
+    "checkedUseSetting": "Ṣayẹwo lati mu eto yii ṣiṣẹ."
   },
   "menu": {
     "main": "agbaye akosile"

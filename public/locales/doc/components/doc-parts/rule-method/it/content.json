@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Impostazioni di immissione delle regole",
+    "rule": {
+      "edit": "Aggiungi o modifica le voci delle regole",
+      "description": "È possibile accedere a questa impostazione tramite il menu di scelta rapida su qualsiasi pagina Web Quando si accede da una pagina Web, l'URL della pagina Web verrà aggiunto come regola per impostazione predefinita. È possibile modificare le regole. I formati disponibili sono spiegati di seguito .",
+      "formats": {
+        "title": "modello di regola",
+        "url": {
+          "title": "Modalità URL, URL completo.",
+          "example": {
+            "as": "Per esempio:"
+          },
+          "explain": "Questo metodo può corrispondere all'URL completo."
+        },
+        "glob": {
+          "title": "Il metodo glob utilizza la libreria {{1}}. Per favore <a>vedi</a> per l'utilizzo, oppure puoi cercare l'utilizzo di {{2}}.",
+          "example": {
+            "as": "Per esempio:",
+            "a": "{{1}}, che corrisponde alla home page di YouTube e a tutte le pagine secondarie."
+          }
+        },
+        "regexp": {
+          "title": "Espressione regolare, vedere <a>Vedi</a> per l'utilizzo."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Impostazioni di immissione delle regole"
+  }
+}

@@ -3,16 +3,7 @@
     "title": "Tautuhinga tuhinga mo te ao",
     "description": "Ka taea e koe te tuhi i to ake tuhinga ma te whakamahi i te javascript",
     "examplesTitle": "Tauira",
-    "checkedUseSetting": "Takina kia taea ai tenei tautuhinga.",
-    "variables": {
-      "title": "Taurangi wātea",
-      "click": "Kua paatohia te hononga, he <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> te ahanoa akomanga tenei huanga.",
-      "page": "Ko te hononga o te wharangi o naianei he <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ahanoa akomanga."
-    },
-    "returnVariables": {
-      "title": "Nga uara ka taea te whakahoki",
-      "rightTab": "Tuwhera ki te ripa hou i te taha matau"
-    }
+    "checkedUseSetting": "Takina kia taea ai tenei tautuhinga."
   },
   "menu": {
     "main": "hōtuhi ao"

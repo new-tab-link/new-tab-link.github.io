@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Sariya doncogo sigicogo",
+    "rule": {
+      "edit": "Sariyasenw sɛbɛnniw fara ɲɔgɔn kan walima k’u ladilan",
+      "description": "I bɛ se ka nin sigicogo in don ni kininbolo digilen ye ɛntɛrinɛti yɔrɔ o yɔrɔ la Ni i donna ka bɔ ɛntɛrinɛti yɔrɔ dɔ la, ɛntɛrinɛti yɔrɔ in URL bɛna fara a kan i n’a fɔ sariya I bɛ se ka sariyaw ladilan minnu bɛ sɔrɔ .",
+      "formats": {
+        "title": "sariya misali",
+        "url": {
+          "title": "URL cogoya, URL dafalen.",
+          "example": {
+            "as": "I n'a fo:"
+          },
+          "explain": "O fɛɛrɛ bɛ se ka bɛn URL dafalen ma."
+        },
+        "glob": {
+          "title": "Glob fɛɛrɛ bɛ baara kɛ ni {{1}} gafemarayɔrɔ ye Aw ye <a>lajɛ</a> baarakɛcogo la, walima aw bɛ se ka {{2}} baarakɛcogo ɲini.",
+          "example": {
+            "as": "I n'a fo:",
+            "a": "{{1}}, min bɛ bɛn YouTube ka dakun fɔlɔ ni ɲɛ fitinin bɛɛ ma."
+          }
+        },
+        "regexp": {
+          "title": "Kumasen basigilen, aw ye <a>A’ ye</a> lajɛ walasa ka baara kɛ ni a ye."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Sariya doncogo sigicogo"
+  }
+}

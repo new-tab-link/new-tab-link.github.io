@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "I setbisio siha put i tinige' put i lai siha",
+    "rule": {
+      "edit": "Addåpta pat na'lå'la' i lai siha",
+      "description": "Siña un hålom gi i right-click na menu gi maseha hafa na web page, i URL i web page para u ma addåpta komo un lai gi i default Siña un na'lå'la' i lai siha. .",
+      "formats": {
+        "title": "i lai",
+        "url": {
+          "title": "URL na modun, kompletu na URL.",
+          "example": {
+            "as": "Pot ehemplu:"
+          },
+          "explain": "Este na manera siña ha na'parehu i kompletu na URL."
+        },
+        "glob": {
+          "title": "I glob na manera ha usa i {{1}} na librarian På'go <a>atan</a> para i uson-ña, pat siña un sodda' i uson-ña {{2}}.",
+          "example": {
+            "as": "Pot ehemplu:",
+            "a": "{{1}}, ni' parehu yan i fine'nina na pahina gi YouTube yan todu i subpahina siha."
+          }
+        },
+        "regexp": {
+          "title": "Regular na ekspresion, atan i <a>Atan</a> para i uson-ña."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "I setbisio siha put i tinige' put i lai siha"
+  }
+}

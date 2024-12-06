@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Ba paramètres ya bokoti ya mibeko",
+    "rule": {
+      "edit": "Bakisa to bongisa ba entrées ya mibeko",
+      "description": "Okoki kokotisa paramètre oyo na nzela ya menu ya kofina na loboko ya mobali na lokasa nyonso ya internet Tango ozali kokota uta na lokasa ya web, URL ya lokasa ya web ekobakisama lokola mobeko na ndenge ya libela Okoki kobongisa mibeko Ba formats oyo ezali .",
+      "formats": {
+        "title": "motindo ya mibeko",
+        "url": {
+          "title": "Mode URL, URL mobimba.",
+          "example": {
+            "as": "Na ndakisa:"
+          },
+          "explain": "Méthode oyo ekoki ko correspondre na URL mobimba."
+        },
+        "glob": {
+          "title": "Méthode glob esalelaka bibliothèque {{1}} Svp <a>tala</a> pona usage, to okoki koluka usage ya {{2}}.",
+          "example": {
+            "as": "Na ndakisa:",
+            "a": "{{1}}, oyo ekokani na lokasa ya ebandeli ya YouTube mpe nkasa ya mike nyonso."
+          }
+        },
+        "regexp": {
+          "title": "Elobami ya mbala na mbala, tosengi otala <a>Tala</a> mpo na bosaleli."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Ba paramètres ya bokoti ya mibeko"
+  }
+}

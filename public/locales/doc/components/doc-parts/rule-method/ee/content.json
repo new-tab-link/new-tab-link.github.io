@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Sewo ŋɔŋlɔ ƒe ɖoɖowo",
+    "rule": {
+      "edit": "Tsɔ se ƒe nyawo kpee alo trɔ asi le wo ŋu",
+      "description": "Àte ŋu age ɖe ɖoɖo sia me to ɖusime-ziƒoƒo ƒe nyawo me le nyatakakadzraɖoƒe ƒe axa ɖesiaɖe dzi la, woatsɔ nyatakakadzraɖoƒea ƒe URL akpe ɖe eŋu abe se ene le gɔmedzedzea me .",
+      "formats": {
+        "title": "se ƒe kpɔɖeŋu",
+        "url": {
+          "title": "URL ƒe nɔnɔme, URL bliboa.",
+          "example": {
+            "as": "Le kpɔɖeŋu me:"
+          },
+          "explain": "Mɔnu sia ate ŋu asɔ kple URL bliboa."
+        },
+        "glob": {
+          "title": "Glob mɔnu zãa {{1}} agbalẽdzraɖoƒe Taflatse <a>kpɔ</a> hena zazã, alo àteŋu adi {{2}} zazã.",
+          "example": {
+            "as": "Le kpɔɖeŋu me:",
+            "a": "{{1}}, si sɔ kple YouTube ƒe gɔmedzedze kple axa suewo katã."
+          }
+        },
+        "regexp": {
+          "title": "Nyagbɔgblɔ edziedzi, taflatse kpɔ <a>Kpɔ</a> hena zazã."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Sewo ŋɔŋlɔ ƒe ɖoɖowo"
+  }
+}

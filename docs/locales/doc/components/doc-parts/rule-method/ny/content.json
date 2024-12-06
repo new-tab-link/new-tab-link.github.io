@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Zokonda zolowera malamulo",
+    "rule": {
+      "edit": "Onjezani kapena sinthani malamulo",
+      "description": "Mutha kuyika izi podina kumanja patsamba lililonse lawebusayiti, ulalo wa tsambali udzawonjezedwa mwachisawawa .",
+      "formats": {
+        "title": "ndondomeko ya malamulo",
+        "url": {
+          "title": "Ulalo wa URL, ulalo wathunthu.",
+          "example": {
+            "as": "Mwachitsanzo:"
+          },
+          "explain": "Njira iyi ingafanane ndi ulalo wathunthu."
+        },
+        "glob": {
+          "title": "Njira yapadziko lonse lapansi imagwiritsa ntchito laibulale ya {{1}} Chonde <a>onani</a> kuti mugwiritse ntchito, kapena mutha kusaka kugwiritsa ntchito {{2}}.",
+          "example": {
+            "as": "Mwachitsanzo:",
+            "a": "{{1}}, yomwe ikufanana ndi tsamba lofikira la YouTube ndi masamba onse ang'onoang'ono."
+          }
+        },
+        "regexp": {
+          "title": "Kufotokozera pafupipafupi, chonde onani <a>Onani</a> kuti mugwiritse ntchito."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Zokonda zolowera malamulo"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Rule entry settings",
+    "rule": {
+      "edit": "Kobaik ak ukōt kakien ko",
+      "description": "Kwomaroñ deloñ ilo right-click menu eo ilo jabdrewot web page Ñe kwoj deloñ jen juon web page, URL eo an web page eo enaj kobaiktok einwot juon rule ilo default. .",
+      "formats": {
+        "title": "rule pattern",
+        "url": {
+          "title": "URL mode, complete URL.",
+          "example": {
+            "as": "Ñan waanjoñak:"
+          },
+          "explain": "Wāween in emaron in jejjet ñan URL eo eweeppān."
+        },
+        "glob": {
+          "title": "Wãwen glob ej kajerbal {{1}} library eo Jouj im <a>lale</a> ñan kajerbale, ak kwomaroñ bukõt kin kajerbale {{2}}.",
+          "example": {
+            "as": "Ñan waanjoñak:",
+            "a": "{{1}}, eo ej errā ippān YouTube homepage eo im aolep subpage ko."
+          }
+        },
+        "regexp": {
+          "title": "Regular expression, jouj im lale <a>See</a> ñan kōjerbale."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Rule entry settings"
+  }
+}

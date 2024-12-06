@@ -3,16 +3,7 @@
     "title": "Anviwònman script mondyal",
     "description": "Ou ka ekri pwòp script ou lè l sèvi avèk javascript",
     "examplesTitle": "Egzanp",
-    "checkedUseSetting": "Tcheke pou pèmèt paramèt sa a.",
-    "variables": {
-      "title": "Varyab ki disponib",
-      "click": "Klike sou lyen, atribi sa a se yon objè klas <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Lyen paj aktyèl la se yon <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. objè klas la."
-    },
-    "returnVariables": {
-      "title": "Valè ki ka retounen",
-      "rightTab": "Louvri nan nouvo tab sou bò dwat la"
-    }
+    "checkedUseSetting": "Tcheke pou pèmèt paramèt sa a."
   },
   "menu": {
     "main": "script mondyal"

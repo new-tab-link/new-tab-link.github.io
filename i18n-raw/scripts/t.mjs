@@ -9,6 +9,8 @@ import {transMulti, createMultiConf} from '@0xff336699/js-i18n-translator'
 const __filename = fileURLToPath(import.meta.url); // get the resolved path to the file
 const __dirname = path.dirname(__filename); 
 const lng = 'zh-CN'
+const lngMap = googleGeminiIntersectionEn
+// const lngMap = {'tt':googleGeminiIntersectionEn['tt']}
 function createConf(){
     // const root = `C:\\work\\chrome-extenstions\\open-links\\new-tab-link.github.io`
     const root = path.join(__dirname, "../../")
@@ -17,12 +19,12 @@ function createConf(){
     const transConfTemplate = {
         folderWithLng: true,
         templateFileLanguage: lng,
-        translaterSupportLngMap: googleGeminiIntersectionEn,
-        appSupportLngMap: googleGeminiIntersectionEn,
+        translaterSupportLngMap: lngMap,
+        appSupportLngMap: lngMap,
         fromLng: lng,
         translatorType: 'google',
         savePrevFile:true,
-        exportFileName:'content'
+        exportFileName:'content',
     }
     const conf = createMultiConf(root, i18nRaw, pub, {transConfTemplate})
     return conf
@@ -30,6 +32,8 @@ function createConf(){
 
 async function main() {
     const multi = createConf()
+    // multi.debug = true
+    // multi.onlyDebugPath = ['components\\doc-parts\\doc-variables\\content.json']
     await transMulti(multi)
     console.log('totally complete')
 }

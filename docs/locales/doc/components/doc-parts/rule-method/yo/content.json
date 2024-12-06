@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Awọn eto titẹsi ofin",
+    "rule": {
+      "edit": "Ṣafikun tabi ṣatunkọ awọn titẹ sii ofin",
+      "description": "O le tẹ eto yii sii nipasẹ titẹ-ọtun lori oju-iwe wẹẹbu eyikeyi Nigbati o ba nwọle lati oju-iwe wẹẹbu kan, URL ti oju-iwe wẹẹbu yoo ṣafikun bi ofin nipasẹ aiyipada .",
+      "formats": {
+        "title": "ilana ilana",
+        "url": {
+          "title": "Ipo URL, URL pipe.",
+          "example": {
+            "as": "Fun apere:"
+          },
+          "explain": "Ọna yii le baamu URL pipe."
+        },
+        "glob": {
+          "title": "Ọna glob nlo {{1}} ikawe Jowo <a>wo</a> fun lilo, tabi o le wa lilo {{2}}.",
+          "example": {
+            "as": "Fun apere:",
+            "a": "{{1}}, eyiti o baamu oju-iwe akọọkan YouTube ati gbogbo awọn oju-iwe abẹlẹ."
+          }
+        },
+        "regexp": {
+          "title": "Ọrọ sisọ deede, jọwọ wo <a>Wo</a> fun lilo."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Awọn eto titẹsi ofin"
+  }
+}

@@ -3,16 +3,7 @@
     "title": "Pengaturan skrip global",
     "description": "Anda dapat menulis skrip Anda sendiri menggunakan javascript",
     "examplesTitle": "Contoh",
-    "checkedUseSetting": "Centang untuk mengaktifkan pengaturan ini.",
-    "variables": {
-      "title": "Variabel yang tersedia",
-      "click": "Tautan yang diklik, atribut ini adalah objek kelas <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Tautan laman saat ini. Atribut ini adalah <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> objek kelas."
-    },
-    "returnVariables": {
-      "title": "Nilai yang bisa dikembalikan",
-      "rightTab": "Buka di tab baru di sebelah kanan"
-    }
+    "checkedUseSetting": "Centang untuk mengaktifkan pengaturan ini."
   },
   "menu": {
     "main": "skrip global"

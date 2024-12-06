@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Zosintha zomwe zilipo",
-    "page": ": Ulalo ndi chinthu chomwe chili patsamba latsambali kuti mudziwe zambiri, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> onani</a>",
+    "title": "Zomwe zilipo zosinthika ndi ntchito",
+    "click": ": Ulalo wa ulalo womwe wadina kuti mumve zambiri, <a>onani</a>",
+    "page": ": Ulalo womwe uli patsamba lapano (kawirikawiri ndi bar), mawu oyambira <a>Onani</a>",
     "pageHost": ": Dzina lachidziwitso la tsamba lamakono",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Dzina la domeni lomwelo, ngakhale mayina akuluakulu a {{_youtube_}} ndi {{_families_}} onse ndi {{_mainDomain_}}, mayina a subdomain ndi {{_youtubeSubDomain_}} ndi {{ _familiesSubDomain_}} motsatana, mayina awo amasiyana.",
-    "click": ": ulalo womwe wadina",
     "clickpath": ": Njira ya ulalo womwe wadina",
-    "minimatch": ": {{_glob_}} njira yofananira, pogwiritsa ntchito laibulale ya {{_minimatch_}}, njira yogwiritsira ntchito <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Onani < /a>, kapena mutha kusaka {{_glob_}}.",
-    "isSameDomain": ": Kaya ndi dzina lomwelo, {{_zoona_}} ndi inde, {{_false_}} ayi.",
-    "isSameParent": ": Kaya ndi njira ya makolo omwewo, {{_zoona_}} ndi inde, {{_zabodza_}} ayi.",
-    "isPageSublink": ": Ngati tsamba lapanoli ndi tsamba laling'ono la ulalo womwe wadina, {{_zoona_}} ndi inde, {{_false_}} ayi.",
-    "isPageMultilevelSublink": ": Ngati tsamba lapanoli ndi tsamba laling'ono la ulalo womwe wadina, {{_zoona_}} ndi inde, {{_false_}} ayi.",
-    "isClickSublink": ": Kaya ulalo wodindayo uli ulalo wapatsambali, {{_zoona_}} ndi inde, {{_false_}} ayi.",
-    "isClickMultilevelSublink": ": Kaya ulalo wodindayo uli ulalo wopanda malire wa tsambali, {{_zoona_}} ndi inde, {{_false_}} ayi.",
+    "isSameDomain": ": Kaya ndi dzina lomwelo, {{tt}} inde, {{ff}} ayi.",
+    "isSameSubDomain": "{{ss}}: Dzina la domain lomwelo {{ffss}} motero mayina awo amasiyana.",
+    "isSameParent": ": Kaya ndi njira ya makolo omwewo, {{tt}} inde, {{ff}} ayi.",
+    "isPageSublink": ": Ngati tsamba lapanoli ndi tsamba laling'ono la ulalo womwe wadina, {{tt}} ndi inde, {{ff}} ayi.",
+    "isPageMultilevelSublink": ": Kaya tsamba lapanoli ndi tsamba laling'ono la ulalo womwe wadina, {{tt}} ndi inde, {{ff}} ayi.",
+    "isClickSublink": ": Kaya ulalo wodindayo uli ulalo wapatsamba lomwe lili pano, {{tt}} ndi inde, {{ff}} ayi.",
+    "isClickMultilevelSublink": ": Kaya ulalo wodindayo ndi ulalo wopanda malire wa tsambali, {{tt}} ndi inde, {{ff}} ayi.",
     "returnVariables": {
       "title": "Zosintha zobweza",
-      "rightTab": ": Ulalo umatsegulidwa mu tabu yatsopano kumanja",
-      "leftTab": ": Ulalo umatsegulidwa mu tabu yatsopano kumanzere",
-      "currentWindow": "zenera lapano",
-      "newWindow": "zenera latsopano",
-      "incognitoWindow": "Incognito zenera",
-      "popupWindow": "Iwindo la pop-up",
-      "currentTab": "Tsamba lapano",
-      "active": "Yambitsani tsopano",
-      "inactive": "Osatsegulidwa"
+      "window": {
+        "title": "zenera",
+        "currentWindow": ": Zenera lapano",
+        "newWindow": ":windo latsopano",
+        "incognitoWindow": ":windo losawoneka",
+        "popupWindow": ":windo la pop-up",
+        "externalBrowser": ":Msakatuli wakunja (monga {{tt}}, ndi zina)"
+      },
+      "tab": {
+        "title": "tsamba la tabu",
+        "rightTab": ": Ulalo umatsegulidwa mu tabu yatsopano kumanja",
+        "leftTab": ": Ulalo umatsegulidwa mu tabu yatsopano kumanzere",
+        "currentTab": ":Tabu yapano"
+      },
+      "active": {
+        "title": "dziko logwira ntchito",
+        "active": ": Yambitsani nthawi yomweyo",
+        "inactive": ":Osagwira ntchito"
+      }
+    },
+    "functions": {
+      "title": "Zinthu zomwe zilipo",
+      "minimatch": ": Njira zofananira za {{gg}} zimagwiritsa ntchito laibulale ya {{mm}}                                                                                                                                                                                                                                                    "
     }
   },
   "menu": {

@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Enkyukakyuka eziriwo",
-    "page": ": Enkyukakyuka kye kintu kya URL eky'olupapula lw'omukutu oluliwo kati Okusobola okumanya ebisingawo, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> laba</a>",
+    "title": "Ebintu ebikyukakyuka n’ebikola ebiriwo",
+    "click": ": Ekintu kya URL eky'omukago ogunyigiddwa Okumanya ebisingawo, <a>laba</a>",
+    "page": ": Ekintu kya URL eky'olupapula lw'omukutu oluliwo (ebiseera ebisinga ebbaala y'endagiriro), ennyanjula enzijuvu <a>Laba</a>",
     "pageHost": ": Erinnya lya domain ly'olupapula lw'omukutu oluliwo kati",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Erinnya ly'ekitundu lye limu Weetegereze nti wadde ng'amannya g'ekifo amakulu aga {{_youtube_}} ne {{_families_}} gombi {{_mainDomain_}}, amannya g'ekifo ekitono ge ga {{_youtubeSubDomain_}} ne {{. _familiesSubDomain_}} respectively. Kale amannya ga domain gaabwe ga njawulo.",
-    "click": ": link eyanyigiddwa",
     "clickpath": ": Ekkubo ly'omukago ogunyigiddwa",
-    "minimatch": ": {{_glob_}} enkola y'okukwatagana, nga okozesa {{_minimatch_}} etterekero, enkola y'okukozesa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Laba < /a>, oba osobola okunoonya {{_glob_}}.",
-    "isSameDomain": ": Oba linnya lya domain lye limu, {{_true_}} ye ye, {{_false_}} ye nedda.",
-    "isSameParent": ": Oba kkubo lye limu ery'omuzadde, {{_true_}} ye ye, {{_false_}} ye nedda.",
-    "isPageSublink": ": Oba omuko oguliwo kati gwe muko omutono ogw'omukago ogunyigiddwa, {{_true_}} ye ye, {{_false_}} ye nedda.",
-    "isPageMultilevelSublink": ": Oba omuko oguliwo kati muko mutono ogutaliiko kkomo ogw'omukago ogunyigiddwa, {{_true_}} ye ye, {{_false_}} ye nedda.",
-    "isClickSublink": ": Oba enkolagana enyigiddwa ye nkolagana entono ey'olupapula oluliwo, {{_true_}} ye ye, {{_false_}} nedda.",
-    "isClickMultilevelSublink": ": Oba enkolagana enyigiddwa ye nkolagana entono etaliiko kkomo ey'olupapula oluliwo, {{_true_}} ye ye, {{_false_}} ye nedda.",
+    "isSameDomain": ": Oba linnya lya domain lye limu, {{tt}} ye ye, {{ff}} ye nedda.",
+    "isSameSubDomain": "{{ss}}: Erinnya ly'ekitundu lye limu Weetegereze nti wadde ng'amannya g'ekifo amakulu ga {{yy}} ne {{ff}} gombi {{mm}}, amannya g'ekitundu ekitono ge ga {{ww}} ne {{ffss}} respectively. Kale amannya ga domain gaabwe ga njawulo.",
+    "isSameParent": ": Oba kkubo lye limu ery'omuzadde, {{tt}} ye ye, {{ff}} ye nedda.",
+    "isPageSublink": ": Oba omuko oguliwo kati gwe muko omutono ogw'omukago ogunyigiddwa, {{tt}} ye ye, {{ff}} ye nedda.",
+    "isPageMultilevelSublink": ": Oba omuko oguliwo kati muko mutono ogutaliiko kkomo ogw'omukago ogunyigiddwa, {{tt}} ye ye, {{ff}} ye nedda.",
+    "isClickSublink": ": Oba enkolagana enyigiddwa ye nkolagana entono ey'olupapula oluliwo, {{tt}} ye ye, {{ff}} ye nedda.",
+    "isClickMultilevelSublink": ": Oba enkolagana enyigiddwa ye nkolagana entono etaliiko kkomo ey'olupapula oluliwo, {{tt}} ye ye, {{ff}} ye nedda.",
     "returnVariables": {
       "title": "Enkyukakyuka eziddizibwa",
-      "rightTab": ": Link eggulwawo mu tab empya ku ddyo",
-      "leftTab": ": Link eggulawo mu tab empya ku kkono",
-      "currentWindow": "eddirisa eririko kati",
-      "newWindow": "eddirisa eppya",
-      "incognitoWindow": "Eddirisa eritali lya magezi",
-      "popupWindow": "Eddirisa erifuluma",
-      "currentTab": "Taabu eriwo kati",
-      "active": "Kola kati",
-      "inactive": "Tekikoleddwa"
+      "window": {
+        "title": "eddirisa",
+        "currentWindow": ":Eddirisa eririwo kati",
+        "newWindow": ":eddirisa eppya",
+        "incognitoWindow": ":Eddirisa eritalabika",
+        "popupWindow": ":eddirisa erifuluma",
+        "externalBrowser": ":Brawuza ey'ebweru (nga {{tt}}, n'ebirala)"
+      },
+      "tab": {
+        "title": "omuko gwa tab",
+        "rightTab": ": Link eggulwawo mu tab empya ku ddyo",
+        "leftTab": ": Link eggulawo mu tab empya ku kkono",
+        "currentTab": ":Tabu eriwo kati"
+      },
+      "active": {
+        "title": "embeera ekola",
+        "active": ": Kola mu bwangu",
+        "inactive": ":Ekitakola"
+      }
+    },
+    "functions": {
+      "title": "Ebintu by’omulimu ebiriwo",
+      "minimatch": ": Enkola y'okukwatagana {{gg}} ekozesa etterekero lya {{mm}} Nsaba olabe <a>Laba</a> ku nkola y'okukozesa, oba osobola n'okunoonya enkola y'enkozesa ya {{gg}}."
     }
   },
   "menu": {

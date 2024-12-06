@@ -3,16 +3,7 @@
     "title": "Глобал скрипт тохиргоо",
     "description": "Та javascript ашиглан өөрийн скрипт бичиж болно",
     "examplesTitle": "Жишээ",
-    "checkedUseSetting": "Энэ тохиргоог идэвхжүүлэхийн тулд шалгана уу.",
-    "variables": {
-      "title": "Боломжтой хувьсагч",
-      "click": "Холбоосыг товшсон, энэ атрибут нь <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ангийн объект юм.",
-      "page": "Одоогийн хуудасны холбоос нь <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> юм. ангийн объект."
-    },
-    "returnVariables": {
-      "title": "Буцаах боломжтой утгууд",
-      "rightTab": "Баруун талд байгаа шинэ таб дээр нээнэ үү"
-    }
+    "checkedUseSetting": "Энэ тохиргоог идэвхжүүлэхийн тулд шалгана уу."
   },
   "menu": {
     "main": "дэлхийн скрипт"

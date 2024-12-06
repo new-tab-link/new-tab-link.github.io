@@ -3,16 +3,7 @@
     "title": "Ngaahi fokotuʻutuʻu ʻo e tohi fakamāmani lahí",
     "description": "Te ke lava ʻo tohi hoʻo tohi ʻo fakaʻaongaʻi ʻa e javascript .",
     "examplesTitle": "Fakatātā",
-    "checkedUseSetting": "Siaki ke fakaʻatā ʻa e fokotuʻutuʻu ko ʻení.",
-    "variables": {
-      "title": "Ngaahi kehekehe 'oku ma'u",
-      "click": "Lomi'i 'a e fehokotaki'anga, ko e 'ulungaanga ko 'eni ko ha me'a kalasi 'o e <a href = '",
-      "page": "Ko e fehokotakiʻanga ʻo e peesi lolotongá ko e ʻulungaanga ko ʻení ko ha URL</a>. meʻa ʻo e kalasí."
-    },
-    "returnVariables": {
-      "title": "Ngaahi mahu'inga 'e lava ke fakafoki",
-      "rightTab": "Fakaava 'i he tab fo'ou 'i he to'omata'u ."
-    }
+    "checkedUseSetting": "Siaki ke fakaʻatā ʻa e fokotuʻutuʻu ko ʻení."
   },
   "menu": {
     "main": "tohi fakamamani lahi"

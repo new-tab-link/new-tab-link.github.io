@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Cài đặt mục nhập quy tắc",
+    "rule": {
+      "edit": "Thêm hoặc chỉnh sửa các mục quy tắc",
+      "description": "Bạn có thể nhập cài đặt này thông qua menu chuột phải trên bất kỳ trang web nào. Khi nhập từ một trang web, URL của trang web sẽ được thêm làm quy tắc theo mặc định. .",
+      "formats": {
+        "title": "mẫu quy tắc",
+        "url": {
+          "title": "Chế độ URL, URL hoàn chỉnh.",
+          "example": {
+            "as": "Ví dụ:"
+          },
+          "explain": "Phương pháp này có thể khớp với URL hoàn chỉnh."
+        },
+        "glob": {
+          "title": "Phương thức toàn cầu sử dụng thư viện {{1}}. Vui lòng <a>xem</a> để biết cách sử dụng hoặc bạn có thể tìm kiếm cách sử dụng của {{2}}.",
+          "example": {
+            "as": "Ví dụ:",
+            "a": "{{1}}, phù hợp với trang chủ YouTube và tất cả các trang phụ."
+          }
+        },
+        "regexp": {
+          "title": "Biểu thức chính quy, vui lòng xem <a>Xem</a> để biết cách sử dụng."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Cài đặt mục nhập quy tắc"
+  }
+}

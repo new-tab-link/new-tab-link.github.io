@@ -3,16 +3,7 @@
     "title": "Igenamiterere ry'imyandikire ku isi",
     "description": "Urashobora kwandika inyandiko yawe ukoresheje javascript",
     "examplesTitle": "Urugero",
-    "checkedUseSetting": "Reba kugirango ushoboze igenamiterere.",
-    "variables": {
-      "title": "Ibihinduka biboneka",
-      "click": "Kanda ahanditse, iyi miterere ni <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' intego = '_ ubusa' rel = 'noreferrer'> URL </a> ikintu cyishuri.",
-      "page": "Ihuza ryurupapuro rwubu Iyi miterere ni <a href = 'https: //iterambere icyiciro."
-    },
-    "returnVariables": {
-      "title": "Indangagaciro zishobora gusubizwa",
-      "rightTab": "Fungura muri tab nshya iburyo"
-    }
+    "checkedUseSetting": "Reba kugirango ushoboze igenamiterere."
   },
   "menu": {
     "main": "Inyandiko"

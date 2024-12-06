@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Innsláttarstillingar reglu",
+    "rule": {
+      "edit": "Bæta við eða breyta reglufærslum",
+      "description": "Þú getur slegið inn þessa stillingu í gegnum hægrismellisvalmyndina á hvaða vefsíðu sem er. Þegar þú ferð inn frá vefsíðu verður sjálfgefið slóð vefsíðunnar. Þú getur breytt reglunum .",
+      "formats": {
+        "title": "reglu mynstur",
+        "url": {
+          "title": "URL háttur, heill vefslóð.",
+          "example": {
+            "as": "Til dæmis:"
+          },
+          "explain": "Þessi aðferð getur passað við heildar vefslóðina."
+        },
+        "glob": {
+          "title": "Glob-aðferðin notar {{1}} bókasafnið Vinsamlega <a>sjá</a> fyrir notkun, eða þú getur leitað að notkun á {{2}}.",
+          "example": {
+            "as": "Til dæmis:",
+            "a": "{{1}}, sem passar við heimasíðu YouTube og allar undirsíður."
+          }
+        },
+        "regexp": {
+          "title": "Venjuleg tjáning, vinsamlegast sjáðu <a>Sjá</a> fyrir notkun."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Innsláttarstillingar reglu"
+  }
+}

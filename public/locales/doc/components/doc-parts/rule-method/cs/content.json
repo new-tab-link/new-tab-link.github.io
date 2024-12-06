@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Nastavení zadávání pravidel",
+    "rule": {
+      "edit": "Přidejte nebo upravte položky pravidel",
+      "description": "Toto nastavení můžete zadat pomocí nabídky po kliknutí pravým tlačítkem na libovolné webové stránce. Při zadávání z webové stránky bude standardně přidána adresa URL webové stránky. Dostupné formáty jsou vysvětleny níže .",
+      "formats": {
+        "title": "vzor pravidla",
+        "url": {
+          "title": "Režim URL, úplná adresa URL.",
+          "example": {
+            "as": "Například:"
+          },
+          "explain": "Tato metoda může odpovídat úplné adrese URL."
+        },
+        "glob": {
+          "title": "Metoda glob používá knihovnu {{1}} o použití, <a>viz</a> nebo můžete vyhledat použití {{2}}.",
+          "example": {
+            "as": "Například:",
+            "a": "{{1}}, která odpovídá domovské stránce YouTube a všem podstránkám."
+          }
+        },
+        "regexp": {
+          "title": "Regulární výraz, použití viz <a>Viz</a>."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Nastavení zadávání pravidel"
+  }
+}

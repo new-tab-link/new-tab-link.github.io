@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Tetapan kemasukan peraturan",
+    "rule": {
+      "edit": "Tambah atau edit entri peraturan",
+      "description": "Anda boleh memasukkan tetapan ini melalui menu klik kanan pada mana-mana halaman web Apabila memasuki dari halaman web, URL halaman web akan ditambah sebagai peraturan secara lalai. Format yang tersedia dijelaskan di bawah .",
+      "formats": {
+        "title": "corak peraturan",
+        "url": {
+          "title": "Mod URL, URL lengkap.",
+          "example": {
+            "as": "Contohnya:"
+          },
+          "explain": "Kaedah ini boleh memadankan URL lengkap."
+        },
+        "glob": {
+          "title": "Kaedah glob menggunakan pustaka {{1}} Sila <a>lihat</a> untuk penggunaan, atau anda boleh mencari penggunaan {{2}}.",
+          "example": {
+            "as": "Contohnya:",
+            "a": "{{1}}, yang sepadan dengan halaman utama YouTube dan semua subhalaman."
+          }
+        },
+        "regexp": {
+          "title": "Ungkapan biasa, sila lihat <a>Lihat</a> untuk kegunaan."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Tetapan kemasukan peraturan"
+  }
+}

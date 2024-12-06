@@ -3,16 +3,7 @@
     "title": "Suidheachaidhean sgriobt cruinne",
     "description": "Faodaidh tu do sgriobt fhèin a sgrìobhadh a’ cleachdadh javascript",
     "examplesTitle": "eisimpleir",
-    "checkedUseSetting": "Dèan cinnteach gus an suidheachadh seo a chomasachadh.",
-    "variables": {
-      "title": "Caochladairean a tha rim faighinn",
-      "click": "Ceangal air a bhriogadh, 's e <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> nì clas a tha san fheart seo.",
-      "page": "'S e <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> an ceangal dhan duilleag làithreach. nì clas."
-    },
-    "returnVariables": {
-      "title": "Luachan a dh'fhaodar a thilleadh",
-      "rightTab": "Fosgail ann an taba ùr air an làimh dheis"
-    }
+    "checkedUseSetting": "Dèan cinnteach gus an suidheachadh seo a chomasachadh."
   },
   "menu": {
     "main": "sgriobt cruinne"

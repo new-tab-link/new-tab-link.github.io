@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Ibihinduka bibonetse",
-    "page": ": Ihinduka ni ikintu ca URL c'urubuga rwo muri iki gihe Kugira ngo ubone amakuru arambuye, <a href='https://umuhinguzi. raba</a>",
+    "title": "Ibintu bihinduka n'ibikorwa bibonetse",
+    "click": ": Ikintu ca URL c'ihuriro ryafyondewe, <a>raba</a>.",
+    "page": ": Ikintu ca URL ca paji y'urubuga (kenshi ni umurongo w'aderesi), intangamarara ido n'ido <a>Raba</a>",
     "pageHost": ": Izina ry'indangarubuga rya paji y'urubuga",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Izina ry'indangarubuga rimwe Zirikana ko naho amazina y'indangarubuga nyamukuru ya {{_youtube_}} na {{_imiryango_}} yose ari {{_Indangarubuga_}}, amazina y'indangarubuga_}} na {{. _imiryangoSubDomain_}} rero amazina yabo y'itongo aratandukanye.",
-    "click": ": ihuza ryafyondewe",
     "clickpath": ": Inzira y'ihuriro ry'akanda",
-    "minimatch": ": {{_glob_}} uburyo bwo guhuza, hakoreshejwe ububiko bw'ibitabo, uburyo bwo gukoresha <a href='https://github.com/isaacs/minimatch' intego='_ubusa' rel='norereferrer'>Raba < /a>, canke ushobora kurondera {{_glob_}}.",
-    "isSameDomain": ": Niba ari izina ry'indangarubuga rimwe, {{_ukuri_}} ni egome, {{_ikinyoma_}} ni oya.",
-    "isSameParent": ": Niba ari inzira imwe y'umuvyeyi, {{_ukuri_}} ni egome, {{_ikinyoma_}} ni oya.",
-    "isPageSublink": ": Niba urupapuro ruriho ubu ari urupapuro ruto rw'ihuriro ryafyondewe, {{_ukuri_}} ni ego, {{_ikinyoma_}} ni oya.",
-    "isPageMultilevelSublink": ": Niba urupapuro ruriho ubu ari urupapuro ruto rudahera rw'ihuriro ryakanda, {{_ukuri_}} ni ego, {{_ikinyoma_}} ni oya.",
-    "isClickSublink": ": Niba ihuriro ry'akanda ari ihuriro rito ry'urupapuro ruriho, {{_ukuri_}} ni ego, {{_ikinyoma_}} ni oya.",
-    "isClickMultilevelSublink": ": Niba ihuriro ry'akanda ari ihuriro rito ritagira aho rigarukira rya paji iriho, {{_ukuri_}} ni ego, {{_ikinyoma_}} ni oya.",
+    "isSameDomain": ": Niba ari izina ry'indangarubuga rimwe, {{tt}} ni egome, {{ff}} ni oya.",
+    "isSameSubDomain": "{{ss}}: Izina ry'indangarubuga rimwe Zirikana ko naho amazina y'indangarubuga nyamukuru ya {{yy}} na {{ff}} yose ari {{mm}}, amazina y'indangarubuga mato ni {{ww}} na {{ww}}. {{ffss}} rero amazina yabo y'indangarubuga aratandukanye.",
+    "isSameParent": ": Niba ari inzira imwe y'umuvyeyi, {{tt}} ni ego, {{ff}} ni oya.",
+    "isPageSublink": ": Nimba urupapuro ruriho ubu ari urupapuro ruto rw'ihuriro ryafyondewe, {{tt}} ni ego, {{ff}} ni oya.",
+    "isPageMultilevelSublink": ": Niba urupapuro ruriho ubu ari urupapuro ruto rudahera rw'ihuriro ryafyondewe, {{tt}} ni ego, {{ff}} ni oya.",
+    "isClickSublink": ": Niba ihuriro ry'akanda ari ihuriro rito ry'urupapuro ruriho, {{tt}} ni ego, {{ff}} ni oya.",
+    "isClickMultilevelSublink": ": Nimba ihuriro ry'akanda ari ihuriro rito ritagira aho rigarukira rya paji iriho, {{tt}} ni ego, {{ff}} ni oya.",
     "returnVariables": {
       "title": "Ibihinduka bishobora gusubirwamwo",
-      "rightTab": ": Ihuza rifungura mu gice gishasha iburyo",
-      "leftTab": ": Ihuza rifungura mu gice gishasha ibubamfu",
-      "currentWindow": "idirisha ririho ubu",
-      "newWindow": "idirisha rishasha",
-      "incognitoWindow": "Idirisha ry'ibanga",
-      "popupWindow": "Idirisha riza",
-      "currentTab": "Urupapuro rw'ubu",
-      "active": "Gukoresha ubu",
-      "inactive": "Ntiyakoreshejwe"
+      "window": {
+        "title": "amadirisha",
+        "currentWindow": ":Idirisha ry'ubu",
+        "newWindow": ":idirisha rishasha",
+        "incognitoWindow": ":Idirisha ritaboneka",
+        "popupWindow": ":idirisha riza",
+        "externalBrowser": ":Umucukumbuzi wo hanze (nka {{tt}}, n'ibindi)"
+      },
+      "tab": {
+        "title": "urupapuro",
+        "rightTab": ": Ihuza rifungura mu gice gishasha iburyo",
+        "leftTab": ": Ihuza rifungura mu gice gishasha ibubamfu",
+        "currentTab": ":Urupapuro rw'ubu"
+      },
+      "active": {
+        "title": "Leta ikora",
+        "active": ": Gukoresha ubwo nyene",
+        "inactive": ":Ntibikora"
+      }
+    },
+    "functions": {
+      "title": "Ibintu biboneka",
+      "minimatch": ": Uburyo bwo guhuza {{gg}} bukoresha ububiko bw'ibitabo {{mm}} Raba <a>Raba</a> uburyo bwo gukoresha, canke ushobora no kurondera uburyo bwo gukoresha {{gg}}."
     }
   },
   "menu": {

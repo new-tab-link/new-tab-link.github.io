@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Inställningar för regelinmatning",
+    "rule": {
+      "edit": "Lägg till eller redigera regelposter",
+      "description": "Du kan ange denna inställning via högerklicksmenyn på vilken webbsida som helst. När du går in från en webbsida läggs webbsidans URL till som standard. De tillgängliga formaten förklaras nedan .",
+      "formats": {
+        "title": "regelmönster",
+        "url": {
+          "title": "URL-läge, fullständig URL.",
+          "example": {
+            "as": "Till exempel:"
+          },
+          "explain": "Denna metod kan matcha hela webbadressen."
+        },
+        "glob": {
+          "title": "Globmetoden använder {{1}}-biblioteket <a>se</a> för användning, eller så kan du söka efter användningen av {{2}}.",
+          "example": {
+            "as": "Till exempel:",
+            "a": "{{1}}, som matchar YouTubes startsida och alla undersidor."
+          }
+        },
+        "regexp": {
+          "title": "Reguljärt uttryck, se <a>Se</a> för användning."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Inställningar för regelinmatning"
+  }
+}

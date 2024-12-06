@@ -3,16 +3,7 @@
     "title": "Globale scriptindstillinger",
     "description": "Du kan skrive dit eget script ved hjælp af javascript",
     "examplesTitle": "Eksempel",
-    "checkedUseSetting": "Marker for at aktivere denne indstilling.",
-    "variables": {
-      "title": "Tilgængelige variabler",
-      "click": "Klik på linket, denne attribut er et <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klasseobjekt.",
-      "page": "Linket til den aktuelle side Denne attribut er en <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. klasseobjekt."
-    },
-    "returnVariables": {
-      "title": "Værdier, der kan returneres",
-      "rightTab": "Åbn i ny fane til højre"
-    }
+    "checkedUseSetting": "Marker for at aktivere denne indstilling."
   },
   "menu": {
     "main": "globalt script"

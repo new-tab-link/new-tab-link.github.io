@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "የሚገኙ ተለዋዋጮች",
-    "page": "ተለዋዋጩ የአሁኑ ድረ-ገጽ የዩአርኤል ነገር ነው ለዝርዝሮች <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> ተመልከት</a>",
+    "title": "የሚገኙ ተለዋዋጭ እና የተግባር እቃዎች",
+    "click": "ጠቅ የተደረገው አገናኝ URL ነገር ለዝርዝሮች <a>ይመልከቱ</a>",
+    "page": "የአሁኑ ድረ-ገጽ URL ነገር (በተለምዶ የአድራሻ አሞሌ)፣ ዝርዝር መግቢያ <a>ይመልከቱ</a>",
     "pageHost": "አሁን ያለው የድረ-ገጽ ስም",
-    "isSameSubDomain": "{{_isSameSubDomain_}}፡ ተመሳሳይ የጎራ ስም ምንም እንኳን የ{{_youtube_}} እና {{_families_}} ዋና ዋና ስሞች ሁለቱም {{_mainDomain_}} ቢሆኑም የንኡስ ጎራ ስሞች {{_youtubeSubDomain_}} እና {{ _familiesSubDomain_}} እንደቅደም ተከተላቸው የጎራ ስሞቻቸው የተለያዩ ናቸው።",
-    "click": ": ጠቅ የተደረገው ሊንክ",
     "clickpath": ": ጠቅ የተደረገው አገናኝ መንገድ",
-    "minimatch": ": {{_glob_}} የማዛመጃ ዘዴ፣ {{_minimatch_}} ቤተ-መጽሐፍትን በመጠቀም የአጠቃቀም ዘዴ <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'> << ተመልከት /a>፣ ወይም {{_glob_}}ን መፈለግ ትችላለህ።",
-    "isSameDomain": ": ተመሳሳይ የጎራ ስም ይሁን {{_እውነተኛ_}} አዎ ነው፣ {{_false_}} አይደለም።",
-    "isSameParent": ": ተመሳሳይ የወላጅ መንገድ ይሁን፣ {{_እውነተኛ_}} አዎ ነው፣ {{_false_}} አይሆንም።",
-    "isPageSublink": "አሁን ያለው ገጽ ጠቅ የተደረገው አገናኝ ንዑስ ገጽ ይሁን፣ {{_እውነት_}} አዎ ነው፣ {{_false_}} የለም ነው።",
-    "isPageMultilevelSublink": "አሁን ያለው ገጽ ጠቅ የተደረገው አገናኝ ማለቂያ የሌለው ንዑስ ገጽ ይሁን፣ {{_እውነት_}} አዎ ነው፣ {{_false_}} የለም ነው።",
-    "isClickSublink": "ጠቅ የተደረገው ማገናኛ የአሁኑ ገጽ ንዑስ አገናኝ ይሁን፣ {{_እውነት_}} አዎ ነው፣ {{_false_}} የለም ነው።",
-    "isClickMultilevelSublink": "ጠቅ የተደረገው ማገናኛ ያልተገደበ የአሁኑ ገጽ ንዑስ-አገናኝ ይሁን፣ {{_እውነተኛ_}} አዎ ነው፣ {{_false_}} የለም ነው።",
+    "isSameDomain": ": ተመሳሳይ የጎራ ስም ይሁን፣ {{tt}} አዎ ነው፣ {{ff}} የለም ነው።",
+    "isSameSubDomain": "{{ss}}፡ ተመሳሳይ የጎራ ስም ምንም እንኳን የ{{yy}} እና {{ff}} ዋና ዋና ስሞች ሁለቱም {{mm}} ቢሆኑም የንዑስ ጎራ ስሞች {{ww}} እና {{ffss}} እንደቅደም ተከተላቸው።",
+    "isSameParent": ": ተመሳሳይ የወላጅ መንገድ ቢሆን፣ {{tt}} አዎ ነው፣ {{ff}} አይደለም ነው።",
+    "isPageSublink": "አሁን ያለው ገጽ ጠቅ የተደረገው አገናኝ ንዑስ ገጽ ይሁን፣ {{tt}} አዎ ነው፣ {{ff}} አይደለም ነው።",
+    "isPageMultilevelSublink": "አሁን ያለው ገጽ ጠቅ የተደረገው አገናኝ ማለቂያ የሌለው ንዑስ ገጽ ይሁን፣ {{tt}} አዎ ነው፣ {{ff}} የለም ነው።",
+    "isClickSublink": "ጠቅ የተደረገው ማገናኛ የአሁኑ ገጽ ንዑስ አገናኝ ይሁን፣ {{tt}} አዎ ነው፣ {{ff}} የለም ነው።",
+    "isClickMultilevelSublink": "ጠቅ የተደረገው ማገናኛ ያልተገደበ የአሁኑ ገጽ ንዑስ-አገናኝ ይሁን፣ {{tt}} አዎ ነው፣ {{ff}} የለም ነው።",
     "returnVariables": {
       "title": "ሊመለሱ የሚችሉ ተለዋዋጮች",
-      "rightTab": ": አገናኙ በቀኝ በኩል ባለው አዲስ ትር ውስጥ ይከፈታል",
-      "leftTab": ": አገናኙ በግራ በኩል በአዲስ ትር ውስጥ ይከፈታል",
-      "currentWindow": "የአሁኑ መስኮት",
-      "newWindow": "አዲስ መስኮት",
-      "incognitoWindow": "ማንነት የማያሳውቅ መስኮት",
-      "popupWindow": "ብቅ ባይ መስኮት",
-      "currentTab": "የአሁኑ ትር",
-      "active": "አሁን አግብር",
-      "inactive": "አልነቃም።"
+      "window": {
+        "title": "መስኮት",
+        "currentWindow": "አሁን ያለው መስኮት",
+        "newWindow": ": አዲስ መስኮት",
+        "incognitoWindow": "የማይታይ መስኮት",
+        "popupWindow": "ብቅ ባይ መስኮት",
+        "externalBrowser": "ውጫዊ አሳሽ (እንደ {{tt}} ወዘተ.)"
+      },
+      "tab": {
+        "title": "ትር ገጽ",
+        "rightTab": ": አገናኙ በቀኝ በኩል ባለው አዲስ ትር ውስጥ ይከፈታል",
+        "leftTab": ": አገናኙ በግራ በኩል በአዲስ ትር ውስጥ ይከፈታል",
+        "currentTab": "አሁን ያለው ትር"
+      },
+      "active": {
+        "title": "ንቁ ሁኔታ",
+        "active": ": ወዲያውኑ ያግብሩ",
+        "inactive": "ንቁ ያልሆነ"
+      }
+    },
+    "functions": {
+      "title": "የሚገኙ ተግባር ነገሮች",
+      "minimatch": "{{gg}} የማዛመጃ ዘዴው {{mm}} ላይብረሪውን ይጠቀማል። እባክዎ የአጠቃቀም ዘዴውን <a>ይመልከቱ</a> ወይም ደግሞ የ{gg}}ን የአጠቃቀም ዘዴ መፈለግ ይችላሉ።"
     }
   },
   "menu": {

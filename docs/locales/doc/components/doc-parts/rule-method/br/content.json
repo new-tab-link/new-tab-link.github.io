@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Arventennoù mont e-barzh ar reolennoù",
+    "rule": {
+      "edit": "Ouzhpennañ pe kemmañ enankad reolennoù",
+      "description": "Gallout a rit lakaat an arventennoù-mañ dre al lañser klikañ gant ar stokell dehou war ne vern pe bajenn web e vo ouzhpennet URL ar bajenn web dre ziouer. .",
+      "formats": {
+        "title": "patrom ar reolenn",
+        "url": {
+          "title": "Mod URL, URL klok.",
+          "example": {
+            "as": "Da skouer:"
+          },
+          "explain": "An doare-mañ a c'hall klotañ gant an URL klok."
+        },
+        "glob": {
+          "title": "An doare glob a implij al levraoueg {{1}} Mar plij <a>see</a> evit an implij, pe e c'hallit klask implij {{2}}.",
+          "example": {
+            "as": "Da skouer:",
+            "a": "{{1}}, a glot gant pajenn degemer YouTube hag an holl ispajennoù."
+          }
+        },
+        "regexp": {
+          "title": "Esaouenn reoliek, sellit ouzh <a>See</a> evit an arver."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Arventennoù mont e-barzh ar reolennoù"
+  }
+}

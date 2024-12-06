@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Kural girişi ayarları",
+    "rule": {
+      "edit": "Kural girişlerini ekleme veya düzenleme",
+      "description": "Bu ayara herhangi bir web sayfasındaki sağ tıklama menüsünden girebilirsiniz. Bir web sayfasından girdiğinizde, varsayılan olarak web sayfasının URL'si eklenecektir. Kullanılabilir formatlar aşağıda açıklanmıştır. .",
+      "formats": {
+        "title": "kural deseni",
+        "url": {
+          "title": "URL modu, tam URL.",
+          "example": {
+            "as": "Örneğin:"
+          },
+          "explain": "Bu yöntem tam URL ile eşleşebilir."
+        },
+        "glob": {
+          "title": "Glob yöntemi, {{1}} kitaplığını kullanır. Kullanımı için lütfen <a>bakın</a> veya {{2}} kullanımını arayabilirsiniz.",
+          "example": {
+            "as": "Örneğin:",
+            "a": "{{1}}, YouTube ana sayfası ve tüm alt sayfalarla eşleşir."
+          }
+        },
+        "regexp": {
+          "title": "Normal ifade, kullanım için lütfen <a>Bakın</a>'a bakın."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Kural girişi ayarları"
+  }
+}

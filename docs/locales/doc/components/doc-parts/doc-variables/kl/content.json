@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variabilit atorneqarsinnaasut",
-    "page": ": Variabili tassaavoq ullumikkut nittartakkami URL-objekti Immikkuualuttut pillugit <a href='ineriartortitsisoq takuuk</a>",
+    "title": "Variabilit aamma funktionit atorneqarsinnaasut",
+    "click": ": Link-ip URL-objektia Annertunerusumik paasisaqarusukkuit, <a>takuuk</a>",
+    "page": ": URL-objekti ullumikkut nittartakkami (nalinginnaasumik adresse-bar), peqqissaartumik aallaqqaasiut <a>Takuuk</a>",
     "pageHost": ": Nittartakkap ullumikkut domæne-ata aqqa",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Domæne-navn ataaseq Maluginiaruk, naak {{_youtube_}}-imi aamma {{_families_}}-imi domæne-t pingaarnerit tamarmik {{_mainDomain_}}-iugaluartut, domæne-t aqqi tassaapput {{_youtubeSubDomain_}} aamma {{. _familierSubDomain_}} taamaattumik domæne-tik assigiinngisitaarput.",
-    "click": ": linki toqqarneqarsimasoq",
     "clickpath": ": Linkip toqqarneqartup aqqutaa",
-    "minimatch": ": {{_glob_}} naleqqussarnermut periuseq, {{_minimatch_}} atuagaarniarfik atorlugu, atuinermut periuseq <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Takuuk < /a>, imaluunniit ujaasisinnaavutit {{_glob_}}.",
-    "isSameDomain": ": Tassaavoq domæne-navn ataaseq, {{_true_}} tassaavoq aap, {{_false_}} tassaavoq aap.",
-    "isSameParent": ": Taanna angajoqqaatut aqqut taanna, {{_true_}} tassaavoq aap, {{_false_}} tassaavoq aap.",
-    "isPageSublink": ": Qupperneq maannakkut atuuttoq linkip toqqarneqartup allatut quppernera, {{_true_}} tassaavoq aap, {{_false_}} tassaavoq aap.",
-    "isPageMultilevelSublink": ": Qupperneq maannakkut atuuttoq linkip toqqarneqartup allatut quppernera naassaanngitsoq, {{_true_}} tassaavoq aap, {{_false_}} tassaavoq aap.",
-    "isClickSublink": ": Innersuussineq toqqarneqartoq quppernerup maannakkut atuuttup allattorsimaffianiittoq, {{_true_}} tassaavoq aap, {{_false_}} tassaavoq aap.",
-    "isClickMultilevelSublink": ": Innersuussineq toqqarneqartoq quppernerup maannamut atuuttup killilersugaanngitsumik aalajangersimasumik innersuussisuuppat, {{_true_}} tassaavoq aap, {{_false_}} tassaavoq aap.",
+    "isSameDomain": ": Domæne-mik taaguuteqarpat, {{tt}} tassaavoq aap, {{ff}} tassaavoq aap.",
+    "isSameSubDomain": "{{ss}}: Domæne-navn ataaseq Maluginiaruk, naak {{yy}} aamma {{ff}}-p pingaarnertut domæne-t tamarmik {{mm}}-iugaluartut, allat domæne-t aqqi tassaapput {{ww}} aamma {{ffss}} taamaattumik domæne-tik assigiinngisitaarput.",
+    "isSameParent": ": Taanna angajoqqaatut aqqut taanna, {{tt}} tassaavoq aap, {{ff}} tassaavoq aap.",
+    "isPageSublink": ": Qupperneq maannakkut atuuttoq linkip toqqarneqartup allatut quppernera, {{tt}} tassaavoq aap, {{ff}} tassaavoq aap.",
+    "isPageMultilevelSublink": ": Qupperneq maannakkut atuuttoq linkip toqqarneqartup allaffiani qupperneq naassaanngitsoq, {{tt}} tassaavoq aap, {{ff}} tassaavoq aap.",
+    "isClickSublink": ": Innersuussineq toqqarneqartoq quppernerup maannakkut atuuttup allattorsimaffianiittoq, {{tt}} tassaavoq aap, {{ff}} tassaavoq aap.",
+    "isClickMultilevelSublink": ": Innersuussineq toqqarneqartoq quppernerup maannamut killilersugaanngitsumik allanut innersuussisuuppat, {{tt}} tassaavoq aap, {{ff}} tassaavoq aap.",
     "returnVariables": {
       "title": "Utertitsisinnaasut variabilit",
-      "rightTab": ": Linki talerperlikkut nutaamik ilanngussami ammassaaq",
-      "leftTab": ": Link-i illuatungaani nutaamik ilanngussami ammassaaq",
-      "currentWindow": "ullumikkut igalaaq",
-      "newWindow": "igalaaq nutaaq",
-      "incognitoWindow": "Inkognito-mik igalaaq",
-      "popupWindow": "Igalaaq pop-up",
-      "currentTab": "Ullumikkut fliker",
-      "active": "Maannakkut aktiivigiuk",
-      "inactive": "Aktiverneqanngilaq"
+      "window": {
+        "title": "igalaaq",
+        "currentWindow": ":Maannakkut igalaaq",
+        "newWindow": ":igalaaq nutaaq",
+        "incognitoWindow": ":Igalaaq takuneqarsinnaanngitsoq",
+        "popupWindow": ":pop-up-igalaaq",
+        "externalBrowser": ":Browsereq avataaniittoq (soorlu {{tt}} il.il.)"
+      },
+      "tab": {
+        "title": "tab qupperneq",
+        "rightTab": ": Linki talerperlikkut nutaamik ilanngussami ammassaaq",
+        "leftTab": ": Link-i illuatungaani nutaamik ilanngussami ammassaaq",
+        "currentTab": ":Ullumikkut fliker"
+      },
+      "active": {
+        "title": "aktive tilstand",
+        "active": ": Aktiveqarneq ingerlaannaq",
+        "inactive": ":Inaktiv"
+      }
+    },
+    "functions": {
+      "title": "Funktionsobjektit pissarsiarineqarsinnaasut",
+      "minimatch": ": {{gg}}-mik naleqqussaanermi periuseq {{mm}}-mik atuinermut periuseq takuuk <a>Takuuk</a>, imaluunniit aamma {{gg}}-mik atuinermut periuseq ujarsinnaavat."
     }
   },
   "menu": {

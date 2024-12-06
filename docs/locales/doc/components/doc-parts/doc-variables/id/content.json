@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variabel yang tersedia",
-    "page": ": Variabelnya adalah objek URL halaman web saat ini. Untuk detailnya, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> lihat</a>",
+    "title": "Variabel dan objek fungsi yang tersedia",
+    "click": ": Objek URL dari tautan yang diklik. Untuk detailnya, <a>lihat</a>",
+    "page": ": Objek URL laman web saat ini (biasanya bilah alamat), pengenalan mendetail <a>Lihat</a>",
     "pageHost": ": Nama domain halaman web saat ini",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Nama domain yang sama. Perlu diperhatikan bahwa meskipun nama domain utama {{_youtube_}} dan {{_families_}} keduanya adalah {{_mainDomain_}}, nama subdomainnya adalah {{_youtubeSubDomain_}} dan {{ _familiesSubDomain_}} masing-masing. Jadi nama domainnya berbeda.",
-    "click": ": tautan yang diklik",
     "clickpath": ": Jalur tautan yang diklik",
-    "minimatch": ": {{_glob_}} metode pencocokan, menggunakan pustaka {{_minimatch_}}, metode penggunaan <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Lihat < /a>, atau Anda dapat mencari {{_glob_}}.",
-    "isSameDomain": ": Apakah nama domainnya sama, {{_true_}} adalah ya, {{_false_}} adalah tidak.",
-    "isSameParent": ": Apakah jalur induknya sama, {{_true_}} adalah ya, {{_false_}} adalah tidak.",
-    "isPageSublink": ": Apakah halaman saat ini merupakan subhalaman dari link yang diklik, {{_true_}} adalah ya, {{_false_}} adalah tidak.",
-    "isPageMultilevelSublink": ": Apakah laman saat ini merupakan subhalaman tak terbatas dari tautan yang diklik, {{_true_}} adalah ya, {{_false_}} adalah tidak.",
-    "isClickSublink": ": Apakah link yang diklik merupakan sub-link dari halaman saat ini, {{_true_}} adalah ya, {{_false_}} adalah tidak.",
-    "isClickMultilevelSublink": ": Apakah tautan yang diklik merupakan sub-tautan tak terbatas dari laman saat ini, {{_true_}} adalah ya, {{_false_}} adalah tidak.",
+    "isSameDomain": ": Apakah nama domainnya sama, {{tt}} adalah ya, {{ff}} adalah tidak.",
+    "isSameSubDomain": "{{ss}}: Nama domain yang sama. Perhatikan bahwa meskipun nama domain utama {{yy}} dan {{ff}} keduanya adalah {{mm}}, nama subdomainnya adalah {{ww}} dan {{ffss}} masing-masing. Jadi nama domainnya berbeda.",
+    "isSameParent": ": Apakah jalur induknya sama, {{tt}} adalah ya, {{ff}} adalah tidak.",
+    "isPageSublink": ": Apakah halaman saat ini merupakan subhalaman dari link yang diklik, {{tt}} adalah ya, {{ff}} adalah tidak.",
+    "isPageMultilevelSublink": ": Apakah halaman saat ini merupakan subhalaman tak terbatas dari link yang diklik, {{tt}} adalah ya, {{ff}} adalah tidak.",
+    "isClickSublink": ": Apakah link yang diklik merupakan sub-link dari halaman saat ini, {{tt}} adalah ya, {{ff}} adalah tidak.",
+    "isClickMultilevelSublink": ": Apakah link yang diklik merupakan sub-link tak terbatas dari halaman saat ini, {{tt}} adalah ya, {{ff}} adalah tidak.",
     "returnVariables": {
       "title": "Variabel yang dapat dikembalikan",
-      "rightTab": ": Tautan terbuka di tab baru di sebelah kanan",
-      "leftTab": ": Tautan terbuka di tab baru di sebelah kiri",
-      "currentWindow": "jendela saat ini",
-      "newWindow": "jendela baru",
-      "incognitoWindow": "Jendela penyamaran",
-      "popupWindow": "Jendela pop-up",
-      "currentTab": "Tab saat ini",
-      "active": "Aktifkan sekarang",
-      "inactive": "Tidak diaktifkan"
+      "window": {
+        "title": "jendela",
+        "currentWindow": ":Jendela saat ini",
+        "newWindow": ": jendela baru",
+        "incognitoWindow": ":Jendela tak terlihat",
+        "popupWindow": ": jendela pop-up",
+        "externalBrowser": ":Browser eksternal (seperti {{tt}}, dll.)"
+      },
+      "tab": {
+        "title": "halaman tab",
+        "rightTab": ": Tautan terbuka di tab baru di sebelah kanan",
+        "leftTab": ": Tautan terbuka di tab baru di sebelah kiri",
+        "currentTab": ":Tab saat ini"
+      },
+      "active": {
+        "title": "keadaan aktif",
+        "active": ": Aktifkan segera",
+        "inactive": ": Tidak aktif"
+      }
+    },
+    "functions": {
+      "title": "Objek fungsi yang tersedia",
+      "minimatch": ": Metode pencocokan {{gg}} menggunakan pustaka {{mm}}. Silakan lihat <a>Lihat</a> untuk metode penggunaannya, atau Anda juga dapat mencari metode penggunaan {{gg}}."
     }
   },
   "menu": {

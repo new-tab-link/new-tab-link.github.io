@@ -3,16 +3,7 @@
     "title": "Amagenamiterere y'inyandiko kw'isi yose",
     "description": "Ushobora kwandika inyandiko yawe ukoresheje javascript",
     "examplesTitle": "Akarorero",
-    "checkedUseSetting": "Suzuma kugira ngo ushoboze iyi nzira.",
-    "variables": {
-      "title": "Ibihinduka bibonetse",
-      "click": "Ihuza ry'akanda, iki kimenyetso ni ikintu c'umugwi.",
-      "page": "Ihuza rya paji iriho ubu ni <a href='URL</a> ikintu c'ishure."
-    },
-    "returnVariables": {
-      "title": "Agaciro gashobora kugaruka",
-      "rightTab": "Gufungura mu gice gishasha iburyo"
-    }
+    "checkedUseSetting": "Suzuma kugira ngo ushoboze iyi nzira."
   },
   "menu": {
     "main": "inyandiko y'isi yose"

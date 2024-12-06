@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "利用可能な変数",
-    "page": ": 変数は現在の Web ページの URL オブジェクトです。詳細については、<a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> を参照してください。参照</a>",
+    "title": "使用可能な変数および関数オブジェクト",
+    "click": ": クリックされたリンクの URL オブジェクト。詳細については、「<a>」を参照</a>してください。",
+    "page": ": 現在の Web ページの URL オブジェクト (通常はアドレス バー)、詳細な説明は<a>参照</a>",
     "pageHost": ": 現在の Web ページのドメイン名",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: 同じドメイン名です。{{_youtube_}} と {{_families_}} のメイン ドメイン名は両方とも {{_mainDomain_}} ですが、サブドメイン名は {{_youtubeSubDomain_}} と {{ _familiesSubDomain_}} なので、それぞれのドメイン名は異なります。",
-    "click": ": クリックされたリンク",
     "clickpath": ": クリックされたリンクのパス",
-    "minimatch": ": {{_glob_}} マッチング方法、{{_minimatch_}} ライブラリを使用、使用方法 <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>参照 < /a>、または {{_glob_}} を検索できます。",
-    "isSameDomain": ": 同じドメイン名かどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
-    "isSameParent": ": 同じ親パスかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
-    "isPageSublink": ": 現在のページがクリックされたリンクのサブページかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
-    "isPageMultilevelSublink": ": 現在のページがクリックされたリンクの無限サブページであるかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
-    "isClickSublink": ": クリックされたリンクが現在のページのサブリンクかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
-    "isClickMultilevelSublink": ": クリックされたリンクが現在のページの無制限のサブリンクであるかどうか。{{_true_}} は「はい」、{{_false_}} は「いいえ」です。",
+    "isSameDomain": ": 同じドメイン名かどうか、{{tt}} は「はい」、{{ff}} は「いいえ」です。",
+    "isSameSubDomain": "{{ss}}: 同じドメイン名。{{yy}} と {{ff}} のメイン ドメイン名は両方とも {{mm}} ですが、サブドメイン名は {{ww}} と{{ffss}} なので、それぞれのドメイン名は異なります。",
+    "isSameParent": ": 同じ親パスであるかどうか、{{tt}} は Yes、{{ff}} は No です。",
+    "isPageSublink": ": 現在のページがクリックされたリンクのサブページかどうか。{{tt}} は「はい」、{{ff}} は「いいえ」です。",
+    "isPageMultilevelSublink": ": 現在のページがクリックされたリンクの無限サブページであるかどうか。{{tt}} は「はい」、{{ff}} は「いいえ」です。",
+    "isClickSublink": ": クリックされたリンクが現在のページのサブリンクかどうか。{{tt}} は「はい」、{{ff}} は「いいえ」です。",
+    "isClickMultilevelSublink": ": クリックされたリンクが現在のページの無制限のサブリンクであるかどうか。{{tt}} は「はい」、{{ff}} は「いいえ」です。",
     "returnVariables": {
       "title": "リターン可能な変数",
-      "rightTab": ": リンクは右側の新しいタブで開きます",
-      "leftTab": ": リンクは左側の新しいタブで開きます",
-      "currentWindow": "現在のウィンドウ",
-      "newWindow": "新しいウィンドウ",
-      "incognitoWindow": "シークレットウィンドウ",
-      "popupWindow": "ポップアップウィンドウ",
-      "currentTab": "現在のタブ",
-      "active": "今すぐアクティブ化する",
-      "inactive": "アクティブ化されていません"
+      "window": {
+        "title": "ウィンドウ",
+        "currentWindow": ":現在のウィンドウ",
+        "newWindow": ":新しいウィンドウ",
+        "incognitoWindow": ":見えない窓",
+        "popupWindow": ":ポップアップウィンドウ",
+        "externalBrowser": ":外部ブラウザ({{tt}}など)"
+      },
+      "tab": {
+        "title": "タブページ",
+        "rightTab": ": リンクは右側の新しいタブで開きます",
+        "leftTab": ": リンクは左側の新しいタブで開きます",
+        "currentTab": ":現在のタブ"
+      },
+      "active": {
+        "title": "アクティブ状態",
+        "active": ": すぐに有効化します",
+        "inactive": ":非アクティブ"
+      }
+    },
+    "functions": {
+      "title": "利用可能な関数オブジェクト",
+      "minimatch": ": {{gg}} のマッチング メソッドは {{mm}} ライブラリを使用します。使用方法については<a>参照</a>を参照してください。または、{{gg}} の使用方法を検索することもできます。"
     }
   },
   "menu": {

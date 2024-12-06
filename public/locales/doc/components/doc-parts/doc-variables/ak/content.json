@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Nsakrae ahorow a ɛwɔ hɔ",
-    "page": ": Nsakraeɛ no yɛ URL adeɛ a ɛwɔ wɛb krataafa a ɛwɔ hɔ mprempren no mu hwɛ</a>",
+    "title": "Nneɛma a ɛsakra ne nea ɛyɛ adwuma a ɛwɔ hɔ",
+    "click": ": URL adeɛ a ɛwɔ link a wɔakliki no mu",
+    "page": ": URL ade a ɛwɔ wɛb krataafa a ɛwɔ hɔ mprempren no mu (mpɛn pii no address bar), nnianim asɛm a ɛkɔ akyiri <a>Hwɛ</a>",
     "pageHost": ": Domain din a ɛwɔ wɛbsaet krataafa a ɛwɔ hɔ mprempren no so",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Domain din koro no ara Hyɛ no nsow sɛ ɛwom sɛ {{_youtube_}} ne {{_families_}} domain din titiriw no nyinaa yɛ {{_mainDomain_}} de, nanso subdomain din no yɛ {{_youtubeSubDomain_}} ne {{. _familiesSubDomain_}} sɛnea ɛte biara Enti wɔn domain din yɛ soronko.",
-    "click": ": link a wɔde kliki so no",
     "clickpath": ": Ɔkwan a link a wɔakliki no fa so",
-    "minimatch": ": {{_glob_}} kwan a wɔfa so hyia, de {{_minimatch_}} nhomakorabea di dwuma, ɔkwan a wɔfa so de di dwuma <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Hwɛ < /a>, anaa wobɛtumi ahwehwɛ {{_glob_}}.",
-    "isSameDomain": ": Sɛ ɛyɛ domain din koro no ara a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
-    "isSameParent": ": Sɛ ɛyɛ ɔwofo kwan koro no ara a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
-    "isPageSublink": ": Sɛ́ ebia krataafa a ɛwɔ hɔ mprempren no yɛ kratafa ketewa a ɛwɔ link a wɔakliki no mu a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
-    "isPageMultilevelSublink": ": Sɛ́ ebia krataafa a ɛwɔ hɔ mprempren no yɛ kratafa ketewa a enni ano wɔ link a wɔakliki no mu a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
-    "isClickSublink": ": Sɛ ebia link a wɔakliki no yɛ krataafa a ɛwɔ hɔ mprempren no sub-link a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
-    "isClickMultilevelSublink": ": Sɛ ebia link a wɔakliki no yɛ mprempren krataafa no sub-link a anohyeto nni mu a, {{_true_}} yɛ yiw, {{_false_}} yɛ dabi.",
+    "isSameDomain": ": Sɛ ɛyɛ domain din koro no ara a, {{tt}} yɛ yiw, {{ff}} yɛ dabi.",
+    "isSameSubDomain": "{{ss}}: Domain din koro no ara Hyɛ no nsow sɛ ɛwom sɛ domain din titiriw a ɛwɔ {{yy}} ne {{ff}} nyinaa yɛ {{mm}} de, nanso sub-domain din no yɛ {{ww}} ne {{ffss}} sɛnea ɛte biara. Enti wɔn domain din no yɛ soronko.",
+    "isSameParent": ": Sɛ ɛyɛ ɔwofo kwan koro no ara a, {{tt}} yɛ yiw, {{ff}} yɛ dabi.",
+    "isPageSublink": ": Sɛ́ ebia krataafa a ɛwɔ hɔ mprempren no yɛ kratafa ketewa a ɛwɔ link a wɔakliki no mu a, {{tt}} yɛ yiw, {{ff}} yɛ dabi.",
+    "isPageMultilevelSublink": ": Sɛ́ ebia krataafa a ɛwɔ hɔ mprempren no yɛ kratafa ketewa a enni ano wɔ link a wɔakliki no mu a, {{tt}} yɛ yiw, {{ff}} yɛ dabi.",
+    "isClickSublink": ": Sɛ ebia link a wɔakliki no yɛ kratafa a ɛwɔ hɔ mprempren no sub-link a, {{tt}} yɛ yiw, {{ff}} yɛ dabi.",
+    "isClickMultilevelSublink": ": Sɛ ebia link a wɔakliki no yɛ krataafa a ɛwɔ hɔ mprempren no sub-link a anohyeto nni mu a, {{tt}} yɛ yiw, {{ff}} yɛ dabi.",
     "returnVariables": {
       "title": "Nsakrae a wotumi san de ba",
-      "rightTab": ": Link no bebue wɔ tab foforo bi mu wɔ nifa so",
-      "leftTab": ": Link no bebue wɔ tab foforo bi mu wɔ benkum so",
-      "currentWindow": "mprempren mfɛnsere",
-      "newWindow": "mfɛnsere foforo",
-      "incognitoWindow": "Incgnito mfɛnsere",
-      "popupWindow": "Pop-up mfɛnsere",
-      "currentTab": "Mprempren tab a ɛwɔ hɔ",
-      "active": "Fa yɛ adwuma mprempren",
-      "inactive": "Ɛnyɛ nea wɔayɛ no adwuma"
+      "window": {
+        "title": "mpoma",
+        "currentWindow": ":Mfɛnsere a ɛwɔ hɔ mprempren",
+        "newWindow": ":mfɛnsere foforo",
+        "incognitoWindow": ":Mfɛnsere a aniwa nhu",
+        "popupWindow": ":pop-up mfɛnsere",
+        "externalBrowser": ":Abɔnten brawsa (te sɛ {{tt}}, ne nea ɛkeka ho)"
+      },
+      "tab": {
+        "title": "tab krataafa no",
+        "rightTab": ": Link no bebue wɔ tab foforo bi mu wɔ nifa so",
+        "leftTab": ": Link no bebue wɔ tab foforo bi mu wɔ benkum so",
+        "currentTab": ":Mprempren tab a ɛwɔ hɔ"
+      },
+      "active": {
+        "title": "tebea a ɛyɛ adwuma",
+        "active": ": Fa yɛ adwuma ntɛm ara",
+        "inactive": ":Ɛnyɛ adwuma"
+      }
+    },
+    "functions": {
+      "title": "Dwumadi nneɛma a ɛwɔ hɔ",
+      "minimatch": ": {{gg}} kwan a ɛne ne ho hyia no de {{mm}} nhomakorabea di dwuma Yɛsrɛ wo hwɛ <a>Hwɛ</a> ma ɔkwan a wɔfa so de di dwuma, anaa wubetumi nso ahwehwɛ ɔkwan a wɔfa so de di dwuma a {{gg}}."
     }
   },
   "menu": {

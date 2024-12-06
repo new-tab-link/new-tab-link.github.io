@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Nastavitve vnosa pravil",
+    "rule": {
+      "edit": "Dodajte ali uredite vnose pravil",
+      "description": "To nastavitev lahko vnesete prek menija z desno tipko miške na kateri koli spletni strani, privzeto bo dodan URL spletne strani. Pravila, ki so na voljo, so razložena spodaj .",
+      "formats": {
+        "title": "vzorec pravila",
+        "url": {
+          "title": "Način URL, celoten URL.",
+          "example": {
+            "as": "Na primer:"
+          },
+          "explain": "Ta metoda se lahko ujema s celotnim URL-jem."
+        },
+        "glob": {
+          "title": "Metoda glob uporablja knjižnico {{1}} za uporabo <a>glejte</a> ali pa poiščite uporabo {{2}}.",
+          "example": {
+            "as": "Na primer:",
+            "a": "{{1}}, ki se ujema z domačo stranjo YouTube in vsemi podstranmi."
+          }
+        },
+        "regexp": {
+          "title": "Regularni izraz, glejte <a>Glejte</a> za uporabo."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Nastavitve vnosa pravil"
+  }
+}

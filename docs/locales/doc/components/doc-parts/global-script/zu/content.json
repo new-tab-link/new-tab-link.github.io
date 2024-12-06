@@ -3,16 +3,7 @@
     "title": "Izilungiselelo zombhalo zomhlaba jikelele",
     "description": "Ungabhala esakho iskripthi usebenzisa i-javascript",
     "examplesTitle": "Isibonelo",
-    "checkedUseSetting": "Hlola ukuze unike amandla lesi silungiselelo.",
-    "variables": {
-      "title": "Okuguquguqukayo okutholakalayo",
-      "click": "Isixhumanisi esichofoziwe, lesi sibaluli <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> siyinto yekilasi.",
-      "page": "Isixhumanisi sekhasi lamanje. Lesi sibaluli <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> into yekilasi."
-    },
-    "returnVariables": {
-      "title": "Amanani angabuyiswa",
-      "rightTab": "Vula kuthebhu entsha kwesokudla"
-    }
+    "checkedUseSetting": "Hlola ukuze unike amandla lesi silungiselelo."
   },
   "menu": {
     "main": "script global"

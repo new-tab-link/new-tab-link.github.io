@@ -3,16 +3,7 @@
     "title": "Futu ruwo dunyabe",
     "description": "Javascript lan faidatə ruwo kəlanzəye ruwojin",
     "examplesTitle": "Misal",
-    "checkedUseSetting": "Kulasne setting adəga yitagattəgəro.",
-    "variables": {
-      "title": "Awowa gade-gade mbeji",
-      "click": "Link do tǝkǝna dǝ, sifa adǝ shima awo ajiye.",
-      "page": "Link warak kərmabedə shima <a href='URL</a> awo ajiye."
-    },
-    "returnVariables": {
-      "title": "Daraja do raktǝ waltǝyinma",
-      "rightTab": "Tab bəlin kəmburamlan katə"
-    }
+    "checkedUseSetting": "Kulasne setting adəga yitagattəgəro."
   },
   "menu": {
     "main": "ruwo dunyabe"

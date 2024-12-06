@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variabili disponibili",
-    "page": ": La variabile è l'oggetto URL della pagina Web corrente. Per i dettagli, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> vedi</a>",
+    "title": "Oggetti variabili e funzione disponibili",
+    "click": ": l'oggetto URL del collegamento cliccato. Per i dettagli, <a>vedi</a>",
+    "page": ": L'oggetto URL della pagina web corrente (solitamente la barra degli indirizzi), introduzione dettagliata <a>Vedi</a>",
     "pageHost": ": il nome di dominio della pagina Web corrente",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: lo stesso nome di dominio. Tieni presente che sebbene i nomi di dominio principali di {{_youtube_}} e {{_families_}} siano entrambi {{_mainDomain_}}, i nomi di sottodominio sono {{_youtubeSubDomain_}} e {{ _familiesSubDomain_}} rispettivamente, quindi i loro nomi di dominio sono diversi.",
-    "click": ": il collegamento su cui è stato fatto clic",
     "clickpath": ": il percorso del collegamento cliccato",
-    "minimatch": ": metodo di corrispondenza {{_glob_}}, utilizzando la libreria {{_minimatch_}}, metodo di utilizzo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vedi < /a> oppure puoi cercare {{_glob_}}.",
-    "isSameDomain": ": Che si tratti dello stesso nome di dominio, {{_true_}} è sì, {{_false_}} è no.",
-    "isSameParent": ": Che si tratti dello stesso percorso principale, {{_true_}} è sì, {{_false_}} è no.",
-    "isPageSublink": ": se la pagina corrente è una sottopagina del collegamento cliccato, {{_true_}} è sì, {{_false_}} è no.",
-    "isPageMultilevelSublink": ": se la pagina corrente è una sottopagina infinita del collegamento cliccato, {{_true_}} è sì, {{_false_}} è no.",
-    "isClickSublink": ": se il collegamento cliccato è un collegamento secondario della pagina corrente, {{_true_}} è sì, {{_false_}} è no.",
-    "isClickMultilevelSublink": ": se il collegamento cliccato è un collegamento secondario illimitato della pagina corrente, {{_true_}} è sì, {{_false_}} è no.",
+    "isSameDomain": ": Che si tratti dello stesso nome di dominio, {{tt}} è sì, {{ff}} è no.",
+    "isSameSubDomain": "{{ss}}: lo stesso nome di dominio. Tieni presente che sebbene i nomi di dominio principali di {{yy}} e {{ff}} siano entrambi {{mm}}, i nomi di sottodominio sono {{ww}} e {{ffss}} rispettivamente. Quindi i loro nomi di dominio sono diversi.",
+    "isSameParent": ": Che si tratti dello stesso percorso principale, {{tt}} è sì, {{ff}} è no.",
+    "isPageSublink": ": Se la pagina corrente è una sottopagina del collegamento cliccato, {{tt}} è sì, {{ff}} è no.",
+    "isPageMultilevelSublink": ": Se la pagina corrente è una sottopagina infinita del collegamento cliccato, {{tt}} è sì, {{ff}} è no.",
+    "isClickSublink": ": Se il collegamento cliccato è un collegamento secondario della pagina corrente, {{tt}} è sì, {{ff}} è no.",
+    "isClickMultilevelSublink": ": Se il collegamento cliccato è un collegamento secondario illimitato della pagina corrente, {{tt}} è sì, {{ff}} è no.",
     "returnVariables": {
       "title": "Variabili restituibili",
-      "rightTab": ": il collegamento si apre in una nuova scheda a destra",
-      "leftTab": ": il collegamento si apre in una nuova scheda a sinistra",
-      "currentWindow": "finestra corrente",
-      "newWindow": "nuova finestra",
-      "incognitoWindow": "Finestra di navigazione in incognito",
-      "popupWindow": "Finestra pop-up",
-      "currentTab": "Scheda corrente",
-      "active": "Attiva ora",
-      "inactive": "Non attivato"
+      "window": {
+        "title": "finestra",
+        "currentWindow": ":Finestra corrente",
+        "newWindow": ":nuova finestra",
+        "incognitoWindow": ": Finestra invisibile",
+        "popupWindow": ":finestra pop-up",
+        "externalBrowser": ":Browser esterno (come {{tt}}, ecc.)"
+      },
+      "tab": {
+        "title": "scheda",
+        "rightTab": ": il collegamento si apre in una nuova scheda a destra",
+        "leftTab": ": il collegamento si apre in una nuova scheda a sinistra",
+        "currentTab": ":Scheda corrente"
+      },
+      "active": {
+        "title": "stato attivo",
+        "active": ": Attiva immediatamente",
+        "inactive": ":Inattivo"
+      }
+    },
+    "functions": {
+      "title": "Oggetti funzione disponibili",
+      "minimatch": ": Il metodo di corrispondenza {{gg}} utilizza la libreria {{mm}} Consulta <a>Vedi</a> per il metodo di utilizzo oppure puoi anche cercare il metodo di utilizzo di {{gg}}."
     }
   },
   "menu": {

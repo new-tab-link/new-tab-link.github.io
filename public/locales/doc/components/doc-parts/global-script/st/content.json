@@ -3,16 +3,7 @@
     "title": "Litlhophiso tsa mongolo oa lefatše lohle",
     "description": "U ka ngola mongolo oa hau u sebelisa javascript",
     "examplesTitle": "Mohlala",
-    "checkedUseSetting": "Sheba ho bulela tlhophiso ena.",
-    "variables": {
-      "title": "Mefuta e fumanehang",
-      "click": "Sehokelo se tonngoeng, tšobotsi ena ke <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ntho ea maemo.",
-      "page": "Sehokelo sa leqephe la hajoale. Tšobotsi ena ke <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ntho ea sehlopha."
-    },
-    "returnVariables": {
-      "title": "Litekanyetso tse ka khutlisoang",
-      "rightTab": "Bula ho tab e ncha ka ho le letona"
-    }
+    "checkedUseSetting": "Sheba ho bulela tlhophiso ena."
   },
   "menu": {
     "main": "mongolo oa lefatše lohle"

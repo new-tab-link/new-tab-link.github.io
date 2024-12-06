@@ -3,16 +3,7 @@
     "title": "全域腳本設定",
     "description": "您可以使用javascript編寫您自己的腳本",
     "examplesTitle": "範例",
-    "checkedUseSetting": "勾選可以啟用此設定。",
-    "variables": {
-      "title": "可用變數",
-      "click": "點擊的鏈接，此屬性為<a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>類別物件。",
-      "page": "目前頁面的鏈接，此屬性為<a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>類別物件。"
-    },
-    "returnVariables": {
-      "title": "可傳回的值",
-      "rightTab": "在右側新分頁打開"
-    }
+    "checkedUseSetting": "勾選可以啟用此設定。"
   },
   "menu": {
     "main": "全域腳本"

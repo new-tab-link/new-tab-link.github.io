@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variables yi jàppandi",
-    "page": ": Soppikukat bi mooy mbiru URL bu xëtu web bi fi nekk Ngir am leeraay, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='norererer'> xoolal</a>",
+    "title": "Mbir yiy soppiku ak fonction yu jàppandi",
+    "click": ": Mbiru URL bu lëkkalekaay bi nga bës Ngir am ci leeraay, <a>xoolal</a>.",
+    "page": ": Mbiru URL bu xët web bi fi nekk (dafay faral di nekk barabu adres bi), duggal bu leer <a>Xool</a>",
     "pageHost": ": Tur domen bu xët web bi fi nekk",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Benn turu domen bi nga xam ne doonte tur domen yu mag yi ci {{_youtube_}} ak {{_families_}} ñoom ñaar {{_domen_ bu mag_}} lañu, waaye turu domen yi ñooy {{_youtubeSubDomain_}} ak {{. Kon seeni tur domen wuute nañu.",
-    "click": ": lëkkalekaay biñ klike",
     "clickpath": ": Yoonu lëkkalekaay biñ klike",
-    "minimatch": ": {{_glob_}} anam wu méngoo, jëfandikoo {{_minimatch_}} bibliotek, anam jëfandikoo <a href='https://github.com/isaacs/minimatch' /a>, wala nga seet ci {{_glob_}}.",
-    "isSameDomain": ": Mën na nekk benn tur domen, {{_true_}} mooy waaw, {{_false_}} mooy déet.",
-    "isSameParent": ": Mën na nekk benn yoon waajur, {{_true_}} mooy waaw, {{_false_}} mooy déet.",
-    "isPageSublink": ": Ndax xët wi fi nekk ab xët bu ndaw la ci lëkkalekaay biñ bës, {{_true_}} mooy waaw, {{_false_}} mooy déet.",
-    "isPageMultilevelSublink": ": Ndax xët wi fi nekk ab xët bu ndaw la bu amul àpp ci lëkkalekaay biñ bës, {{_true_}} mooy waaw, {{_false_}} mooy déet.",
-    "isClickSublink": ": Ndax lëkkalekaay bi nga bës ab lëkkalekaay bu ndaw la ci xët wi fi nekk, {{_true_}} mooy waaw, {{_false_}} mooy déet.",
-    "isClickMultilevelSublink": ": Ndax lëkkalekaay bi nga bës ab lëkkalekaay bu amul àpp la ci xët wi fi nekk, {{_true_}} mooy waaw, {{_false_}} mooy déet.",
+    "isSameDomain": ": Mën na nekk benn tur domen, {{tt}} mooy waaw, {{ff}} mooy déet.",
+    "isSameSubDomain": "{{ss}}: Benn tur domen bi. {{ffss}} kon seeni tur domen wuute nañu.",
+    "isSameParent": ": Mën na nekk benn yoon waajur, {{tt}} mooy waaw, {{ff}} mooy déet.",
+    "isPageSublink": ": Bu dee xët wi fi nekk aw xëtu lëkkalekaay la, {{tt}} mooy waaw, {{ff}} mooy déet.",
+    "isPageMultilevelSublink": ": Ndax xët wi fi nekk ab xët bu ndaw la bu amul àpp ci lëkkalekaay biñ bës, {{tt}} mooy waaw, {{ff}} mooy déet.",
+    "isClickSublink": ": Ndax lëkkalekaay bi nga bës ab lëkkalekaay bu ndaw la ci xët wi fi nekk, {{tt}} mooy waaw, {{ff}} mooy déet.",
+    "isClickMultilevelSublink": ": Ndax lëkkalekaay bi nga bës ab lëkkalekaay bu amul àpp la ci xët wi fi nekk, {{tt}} mooy waaw, {{ff}} mooy déet.",
     "returnVariables": {
       "title": "Variable yuñ mëna delloo",
-      "rightTab": ": Lëkkalekaay bi dafay ubbeeku ci lëkkalekaay bu bees ci ndeyjoor",
-      "leftTab": ": Lëkkalekaay bi dafay ubbeeku ci lëkkalekaay bu bees ci cammoy bi",
-      "currentWindow": "palanteer bi fi nekk",
-      "newWindow": "palanteer bu bees",
-      "incognitoWindow": "Palanteer bu nëbbu",
-      "popupWindow": "Palanteer buy jameet",
-      "currentTab": "Onglet bi fi nekk",
-      "active": "Aktiwiseel leegi",
-      "inactive": "Aktiwisewul"
+      "window": {
+        "title": "palanteer",
+        "currentWindow": ":Palanteer bi fi nekk",
+        "newWindow": ":palanteer bu bees",
+        "incognitoWindow": ":Palanteer buñudul gis",
+        "popupWindow": ":palanteer buy jameet",
+        "externalBrowser": ":Navigateur bu biti (lu melni {{tt}}, ak ñoom seen)"
+      },
+      "tab": {
+        "title": "xëtu lëkkalekaay",
+        "rightTab": ": Lëkkalekaay bi dafay ubbeeku ci lëkkalekaay bu bees ci ndeyjoor",
+        "leftTab": ": Lëkkalekaay bi dafay ubbeeku ci lëkkalekaay bu bees ci cammoy bi",
+        "currentTab": ":Onglet bi fi nekk"
+      },
+      "active": {
+        "title": "stade actif",
+        "active": ": Aktiwise ci saasi",
+        "inactive": ":Du liggéey"
+      }
+    },
+    "functions": {
+      "title": "Objet fonction yi jàppandi",
+      "minimatch": ": Pexem méngoo bu {{gg}} dafay jëfandikoo kàggu {{mm}} Seetal <a>Xool</a> ngir xam pexem jëfandikoo gi, wala nga seet itam pexem jëfandikoo gi ci {{gg}}."
     }
   },
   "menu": {

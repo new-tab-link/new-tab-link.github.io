@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variablat e disponueshëm",
-    "page": ": Ndryshorja është objekti URL i faqes aktuale të internetit për detaje, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. shih</a>",
+    "title": "Objektet e variablave dhe funksioneve të disponueshme",
+    "click": ": Objekti i URL-së së lidhjes së klikuar për detaje, <a>shih</a>",
+    "page": ": Objekti i URL-së së faqes aktuale të internetit (zakonisht shiriti i adresave), hyrje e detajuar <a>Shih</a>",
     "pageHost": ": Emri i domenit të faqes aktuale të internetit",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: I njëjti emër domeni, megjithëse emrat kryesorë të domenit të {{_youtube_}} dhe {{_families_}} janë të dy {{_mainDomain_}}, emrat e nëndimenit janë {{_youtubeSubDomain_}} dhe {{. _familiesSubDomain_}}, pra emrat e tyre të domenit janë të ndryshëm.",
-    "click": ": lidhja që u klikua",
     "clickpath": ": Rruga e lidhjes së klikuar",
-    "minimatch": ": {{_glob_}} metodë e përputhjes, duke përdorur bibliotekën {{_minimatch_}}, metodën e përdorimit <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Shih < /a>, ose mund të kërkoni për {{_glob_}}.",
-    "isSameDomain": ": Pavarësisht nëse është i njëjti emër domeni, {{_true_}} është po, {{_false_}} është jo.",
-    "isSameParent": ": Pavarësisht nëse është e njëjta rrugë prindi, {{_true_}} është po, {{_false_}} është jo.",
-    "isPageSublink": ": Nëse faqja aktuale është një nënfaqe e lidhjes së klikuar, {{_true_}} është po, {{_false_}} jo.",
-    "isPageMultilevelSublink": ": Nëse faqja aktuale është një nënfaqe e pafundme e lidhjes së klikuar, {{_true_}} është po, {{_false_}} jo.",
-    "isClickSublink": ": Nëse lidhja e klikuar është një nënlidhje e faqes aktuale, {{_true_}} është po, {{_false_}} jo.",
-    "isClickMultilevelSublink": ": Nëse lidhja e klikuar është një nën-lidhje e pakufizuar e faqes aktuale, {{_true_}} është po, {{_false_}} jo.",
+    "isSameDomain": ": Pavarësisht nëse është i njëjti emër domeni, {{tt}} është po, {{ff}} është jo.",
+    "isSameSubDomain": "{{ss}}: I njëjti emër domeni, megjithëse emrat kryesorë të domenit të {{yy}} dhe {{ff}} janë të dy {{mm}}, emrat e nëndomaineve janë {{ww}} dhe. {{ffss}}, pra, emrat e tyre të domenit janë të ndryshëm.",
+    "isSameParent": ": Nëse është e njëjta rrugë prind, {{tt}} është po, {{ff}} është jo.",
+    "isPageSublink": ": Nëse faqja aktuale është një nënfaqe e lidhjes së klikuar, {{tt}} është po, {{ff}} jo.",
+    "isPageMultilevelSublink": ": Nëse faqja aktuale është një nënfaqe e pafundme e lidhjes së klikuar, {{tt}} është po, {{ff}} jo.",
+    "isClickSublink": ": Nëse lidhja e klikuar është një nënlidhje e faqes aktuale, {{tt}} është po, {{ff}} jo.",
+    "isClickMultilevelSublink": ": Nëse lidhja e klikuar është një nën-lidhje e pakufizuar e faqes aktuale, {{tt}} është po, {{ff}} jo.",
     "returnVariables": {
       "title": "Variablat e kthyeshme",
-      "rightTab": ": Lidhja hapet në një skedë të re në të djathtë",
-      "leftTab": ": Lidhja hapet në një skedë të re në të majtë",
-      "currentWindow": "dritare aktuale",
-      "newWindow": "dritare e re",
-      "incognitoWindow": "Dritarja e fshehtë",
-      "popupWindow": "Dritarja kërcyese",
-      "currentTab": "Skeda aktuale",
-      "active": "Aktivizojeni tani",
-      "inactive": "Nuk është aktivizuar"
+      "window": {
+        "title": "dritare",
+        "currentWindow": ":Dritarja aktuale",
+        "newWindow": ":dritare e re",
+        "incognitoWindow": ":Dritarja e padukshme",
+        "popupWindow": ":dritare pop-up",
+        "externalBrowser": ":Shfletuesi i jashtëm (si p.sh. {{tt}}, etj.)"
+      },
+      "tab": {
+        "title": "faqe skedash",
+        "rightTab": ": Lidhja hapet në një skedë të re në të djathtë",
+        "leftTab": ": Lidhja hapet në një skedë të re në të majtë",
+        "currentTab": ": Skeda aktuale"
+      },
+      "active": {
+        "title": "gjendje aktive",
+        "active": ": Aktivizoni menjëherë",
+        "inactive": ":Jaktiv"
+      }
+    },
+    "functions": {
+      "title": "Objektet e funksionit të disponueshëm",
+      "minimatch": ": Metoda e përputhjes së {{gg}} përdor bibliotekën {{mm}} Ju lutemi, shihni <a>Shiko</a> për metodën e përdorimit, ose mund të kërkoni gjithashtu metodën e përdorimit të {{gg}}."
     }
   },
   "menu": {

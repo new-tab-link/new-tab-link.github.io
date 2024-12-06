@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Reegli sisestamise seaded",
+    "rule": {
+      "edit": "Reeglikirjete lisamine või muutmine",
+      "description": "Selle seadistuse saate sisestada mis tahes veebilehe paremklõpsu menüü kaudu. Veebilehe URL lisatakse reeglina .",
+      "formats": {
+        "title": "reegli muster",
+        "url": {
+          "title": "URL-i režiim, täielik URL.",
+          "example": {
+            "as": "Näiteks:"
+          },
+          "explain": "See meetod võib ühtida kogu URL-iga."
+        },
+        "glob": {
+          "title": "Meetod glob kasutab teeki {{1}}. Kasutamise kohta <a>vaadake</a> või otsige {{2}} kasutamist.",
+          "example": {
+            "as": "Näiteks:",
+            "a": "{{1}}, mis vastab YouTube'i avalehele ja kõikidele alamlehtedele."
+          }
+        },
+        "regexp": {
+          "title": "Regulaaravaldis, kasutamise kohta vaadake jaotist <a>Vaata</a>."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Reegli sisestamise seaded"
+  }
+}

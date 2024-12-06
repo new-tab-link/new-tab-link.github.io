@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Reglufrágreiðingar innstillingar",
+    "rule": {
+      "edit": "Legg til ella rætta reglufrágreiðingar",
+      "description": "Tú kanst skriva hesa innstilling gjøgnum høgraklikk valmyndina á einari og hvørjari vevsíðu, verður URL'ið á vevsíðuni lagt afturat sum regla Tú kanst rætta tøku sniðini. .",
+      "formats": {
+        "title": "reglumynstur",
+        "url": {
+          "title": "URL-stilling, fullfíggjað URL.",
+          "example": {
+            "as": "Til dømis:"
+          },
+          "explain": "Hesin hátturin kann passa til alla slóðina."
+        },
+        "glob": {
+          "title": "Glob hátturin brúkar {{1}} bókasavnið Vinarliga <a>sí</a> fyri nýtslu, ella kanst tú leita eftir nýtsluni av {{2}}.",
+          "example": {
+            "as": "Til dømis:",
+            "a": "{{1}}, sum passar til YouTube heimasíðuna og allar undirsíðurnar."
+          }
+        },
+        "regexp": {
+          "title": "Vanligt úttrykk, vinarliga sí <a>Sí</a> fyri nýtslu."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Reglufrágreiðingar innstillingar"
+  }
+}

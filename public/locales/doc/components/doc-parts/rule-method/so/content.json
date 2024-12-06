@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Hababka gelida qaanuunka",
+    "rule": {
+      "edit": "Ku dar ama wax ka beddel gelinta xeerka",
+      "description": "Waxaad ka geli kartaa goobtan menu-guji bog kasta markaad ka soo galayso bogga shabakadda, URL-ka bogga internetka ayaa lagu dari doonaa sida caadiga ah .",
+      "formats": {
+        "title": "nidaamka xeer",
+        "url": {
+          "title": "Habka URL, URL dhamaystiran.",
+          "example": {
+            "as": "Tusaale ahaan:"
+          },
+          "explain": "Habkani wuxuu u dhigmi karaa URL-ka oo dhammaystiran."
+        },
+        "glob": {
+          "title": "Habka glob wuxuu isticmaalaa {{1}} maktabadda Fadlan <a>eeg</a> isticmaalka, ama waxaad raadin kartaa isticmaalka {{2}}.",
+          "example": {
+            "as": "Tusaale ahaan:",
+            "a": "{{1}}, kaas oo u dhigma bogga hoyga YouTube iyo dhammaan bogag-hoosaadyada."
+          }
+        },
+        "regexp": {
+          "title": "Odhaah joogto ah, fadlan eeg <a>eeg</a> si aad u isticmaasho."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Hababka gelida qaanuunka"
+  }
+}

@@ -3,16 +3,7 @@
     "title": "Xexeame katã ƒe nuŋɔŋlɔ ƒe ɖoɖowo",
     "description": "Àte ŋu aŋlɔ wò ŋutɔ wò script to javascript zazã me",
     "examplesTitle": "Kpɔɖeŋu",
-    "checkedUseSetting": "Kpɔe ɖa be nàwɔ ɖoɖo sia ŋudɔ.",
-    "variables": {
-      "title": "Trɔtrɔnu siwo li",
-      "click": "Ne èzi kadodo dzi la, nɔnɔme sia nye <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ƒe hatsotso ƒe nu.",
-      "page": "Axa si li fifia ƒe kadodo.Nɔnɔme sia nye <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klass ƒe nu."
-    },
-    "returnVariables": {
-      "title": "Asixɔxɔ siwo woate ŋu atrɔ",
-      "rightTab": "Ʋu le tab yeye me le ɖusime"
-    }
+    "checkedUseSetting": "Kpɔe ɖa be nàwɔ ɖoɖo sia ŋudɔ."
   },
   "menu": {
     "main": "xexeame katã ƒe nuŋɔŋlɔ"

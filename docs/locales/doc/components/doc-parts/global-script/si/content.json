@@ -3,16 +3,7 @@
     "title": "ගෝලීය ස්ක්‍රිප්ට් සැකසුම්",
     "description": "ඔබට ජාවාස්ක්‍රිප්ට් භාවිතයෙන් ඔබේම ස්ක්‍රිප්ට් ලිවිය හැක",
     "examplesTitle": "උදාහරණය",
-    "checkedUseSetting": "මෙම සැකසුම සබල කිරීමට පරීක්ෂා කරන්න.",
-    "variables": {
-      "title": "පවතින විචල්‍යයන්",
-      "click": "ක්ලික් කළ සබැඳිය, මෙම ගුණාංගය <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> පන්ති වස්තුවකි.",
-      "page": "වත්මන් පිටුවෙහි සබැඳිය <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> වේ. පන්ති වස්තුව."
-    },
-    "returnVariables": {
-      "title": "ආපසු ලබා දිය හැකි අගයන්",
-      "rightTab": "දකුණු පස ඇති නව ටැබයක විවෘත කරන්න"
-    }
+    "checkedUseSetting": "මෙම සැකසුම සබල කිරීමට පරීක්ෂා කරන්න."
   },
   "menu": {
     "main": "ගෝලීය පිටපත"

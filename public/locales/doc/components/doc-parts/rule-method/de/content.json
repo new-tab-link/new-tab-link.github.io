@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Regeleintragseinstellungen",
+    "rule": {
+      "edit": "Regeleinträge hinzufügen oder bearbeiten",
+      "description": "Sie können diese Einstellung über das Rechtsklick-Menü auf jeder Webseite eingeben. Bei der Eingabe von einer Webseite wird standardmäßig die URL der Webseite hinzugefügt. Die verfügbaren Formate werden unten erläutert .",
+      "formats": {
+        "title": "Regelmuster",
+        "url": {
+          "title": "URL-Modus, vollständige URL.",
+          "example": {
+            "as": "Zum Beispiel:"
+          },
+          "explain": "Diese Methode kann die vollständige URL abgleichen."
+        },
+        "glob": {
+          "title": "Die Glob-Methode verwendet die Bibliothek {{1}}. Bitte sehen Sie sich die Verwendung an, oder suchen Sie nach der Verwendung von {{2}}.",
+          "example": {
+            "as": "Zum Beispiel:",
+            "a": "{{1}}, was der YouTube-Startseite und allen Unterseiten entspricht."
+          }
+        },
+        "regexp": {
+          "title": "Regulärer Ausdruck, Informationen zur Verwendung finden Sie unter <a>Siehe</a>."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Regeleintragseinstellungen"
+  }
+}

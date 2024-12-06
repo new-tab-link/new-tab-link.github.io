@@ -3,16 +3,7 @@
     "title": "ग्लोबल स्क्रिप्ट सेटिङहरू",
     "description": "तपाईं जाभास्क्रिप्ट प्रयोग गरेर आफ्नै लिपि लेख्न सक्नुहुन्छ",
     "examplesTitle": "उदाहरण",
-    "checkedUseSetting": "यो सेटिङ सक्षम गर्न जाँच गर्नुहोस्।",
-    "variables": {
-      "title": "उपलब्ध चरहरू",
-      "click": "क्लिक गरिएको लिङ्क, यो विशेषता <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> वर्ग वस्तु हो।",
-      "page": "हालको पृष्ठको लिङ्क यो विशेषता हो <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>। वर्ग वस्तु।"
-    },
-    "returnVariables": {
-      "title": "फिर्ता गर्न सकिने मानहरू",
-      "rightTab": "दायाँमा नयाँ ट्याब खोल्नुहोस्"
-    }
+    "checkedUseSetting": "यो सेटिङ सक्षम गर्न जाँच गर्नुहोस्।"
   },
   "menu": {
     "main": "विश्वव्यापी लिपि"

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Configurazione di entrata di regula",
+    "rule": {
+      "edit": "Aghjunghjite o edità entrate di regula",
+      "description": "Pudete inserisce stu paràmetru cù u menù di cliccà nantu à qualsiasi pagina web, l'URL di a pagina web serà aghjustatu in modu predeterminatu .",
+      "formats": {
+        "title": "mudellu di regula",
+        "url": {
+          "title": "Modu URL, URL cumpletu.",
+          "example": {
+            "as": "Per esempiu:"
+          },
+          "explain": "Stu metudu pò currisponde à l'URL cumpletu."
+        },
+        "glob": {
+          "title": "U metudu globu usa a libreria {{1}} Per piacè <a>vede</a> per l'usu, o pudete cercà l'usu di {{2}}.",
+          "example": {
+            "as": "Per esempiu:",
+            "a": "{{1}}, chì currisponde à a homepage di YouTube è à tutte e sottopagine."
+          }
+        },
+        "regexp": {
+          "title": "Espressione regulare, per piacè vede <a>Vede</a> per l'usu."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Configurazione di entrata di regula"
+  }
+}

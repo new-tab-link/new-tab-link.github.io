@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Regel ynfier ynstellings",
+    "rule": {
+      "edit": "Regelyngongen tafoegje of bewurkje",
+      "description": "Jo kinne dizze ynstelling ynfiere fia it rjochts-klikmenu op elke webside .",
+      "formats": {
+        "title": "regel patroan",
+        "url": {
+          "title": "URL-modus, folsleine URL.",
+          "example": {
+            "as": "Bygelyks:"
+          },
+          "explain": "Dizze metoade kin oerienkomme mei de folsleine URL."
+        },
+        "glob": {
+          "title": "De glob-metoade brûkt de bibleteek {{1}} <a>sjoch</a> foar gebrûk, of jo kinne sykje nei it gebrûk fan {{2}}.",
+          "example": {
+            "as": "Bygelyks:",
+            "a": "{{1}}, dy't oerienkomt mei de YouTube-thússide en alle subsiden."
+          }
+        },
+        "regexp": {
+          "title": "Reguliere ekspresje, sjoch asjebleaft <a>Sjoch</a> foar gebrûk."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Regel ynfier ynstellings"
+  }
+}

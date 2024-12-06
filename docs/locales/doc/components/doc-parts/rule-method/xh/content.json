@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Imimiselo yokungena yomthetho",
+    "rule": {
+      "edit": "Yongeza okanye uhlele amangeniso omgaqo",
+      "description": "Ungangenisa esi silungiselelo ngokucofa-ekunene kwimenyu nakweliphi na iphepha lewebhu .",
+      "formats": {
+        "title": "ipateni yomgaqo",
+        "url": {
+          "title": "Imowudi ye-URL, i-URL epheleleyo.",
+          "example": {
+            "as": "Umzekelo:"
+          },
+          "explain": "Le ndlela inokuhambelana ne-URL epheleleyo."
+        },
+        "glob": {
+          "title": "Indlela yeglobhu isebenzisa i {{1}} ilayibrari Nceda <a>ubone</a> ukuze uyisebenzise, ​​okanye unokukhangela ukusetyenziswa kwe{2}}",
+          "example": {
+            "as": "Umzekelo:",
+            "a": "{{1}}, ehambelana nephepha lasekhaya likaYouTube kunye nawo onke amaphetshana."
+          }
+        },
+        "regexp": {
+          "title": "Ukubonakaliswa okuqhelekileyo, nceda ubone <a>Bona</a> ukusetyenziswa."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Imimiselo yokungena yomthetho"
+  }
+}

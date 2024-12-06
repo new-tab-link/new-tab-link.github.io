@@ -3,16 +3,7 @@
     "title": "वैश्विक स्क्रिप्ट सेटिंग्स",
     "description": "आप जावास्क्रिप्ट का उपयोग करके अपनी स्वयं की स्क्रिप्ट लिख सकते हैं",
     "examplesTitle": "उदाहरण",
-    "checkedUseSetting": "इस सेटिंग को सक्षम करने के लिए जांचें.",
-    "variables": {
-      "title": "उपलब्ध चर",
-      "click": "क्लिक किए गए लिंक पर, यह विशेषता एक <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> क्लास ऑब्जेक्ट है।",
-      "page": "वर्तमान पृष्ठ का लिंक एक <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> है। क्लास ऑब्जेक्ट."
-    },
-    "returnVariables": {
-      "title": "वे मान जिन्हें वापस किया जा सकता है",
-      "rightTab": "दाईं ओर नए टैब में खोलें"
-    }
+    "checkedUseSetting": "इस सेटिंग को सक्षम करने के लिए जांचें."
   },
   "menu": {
     "main": "वैश्विक स्क्रिप्ट"

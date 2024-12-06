@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Gosodiadau mynediad rheol",
+    "rule": {
+      "edit": "Ychwanegu neu olygu cofnodion rheolau",
+      "description": "Gallwch fynd i mewn i'r gosodiad hwn trwy'r ddewislen clicio ar y dde ar unrhyw dudalen we Wrth fynd i mewn o dudalen we, bydd URL y dudalen we yn cael ei ychwanegu fel rheol yn ddiofyn Gallwch olygu'r rheolau isod .",
+      "formats": {
+        "title": "patrwm rheol",
+        "url": {
+          "title": "Modd URL, URL cyflawn.",
+          "example": {
+            "as": "Er enghraifft:"
+          },
+          "explain": "Gall y dull hwn gyd-fynd â'r URL cyflawn."
+        },
+        "glob": {
+          "title": "Mae'r dull glob yn defnyddio'r llyfrgell {{1}} os gwelwch yn dda <a>gweler</a> i'w defnyddio, neu gallwch chwilio am ddefnydd {{2}}.",
+          "example": {
+            "as": "Er enghraifft:",
+            "a": "{{1}}, sy'n cyfateb i hafan YouTube a phob is-dudalen."
+          }
+        },
+        "regexp": {
+          "title": "Mynegiant rheolaidd, gweler <a>Gweler</a> i'w ddefnyddio."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Gosodiadau mynediad rheol"
+  }
+}

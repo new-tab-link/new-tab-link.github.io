@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Edde xinti culmah guddaaqa",
+    "rule": {
+      "edit": "madqah culmaami osis akkek ceysas",
+      "description": "Ta setting right-click menu fanah culsaanam duudumtah, web page fanah culta waqdi, URL elle tan innal madqah addat cultam duddah. .",
+      "formats": {
+        "title": "madqah wale",
+        "url": {
+          "title": "URL caalat, URL kibne.",
+          "example": {
+            "as": "Ceelalloh:"
+          },
+          "explain": "Ta cogda duddale URL lih ramaddossaanam duudumtah."
+        },
+        "glob": {
+          "title": "glob cogda {{1}} kitoobah buxat xoqoysimta, kumagan <a>wagit</a> xoqoyso, hinnay atu {{2}} xoqoyso gorris.",
+          "example": {
+            "as": "Ceelalloh:",
+            "a": "{{1}}, Youtube buxah galii kee inkih tan qunxa galitte celta."
+          }
+        },
+        "regexp": {
+          "title": "Madabiinoh baxxaqsa, kumagan ubul <a> ubul</a> xoqoysoh."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Edde xinti culmah guddaaqa"
+  }
+}

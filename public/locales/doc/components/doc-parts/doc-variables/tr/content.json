@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Mevcut değişkenler",
-    "page": ": Değişken, geçerli web sayfasının URL nesnesidir. Ayrıntılar için, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. bakın</a>",
+    "title": "Mevcut değişken ve fonksiyon nesneleri",
+    "click": ": Tıklanan bağlantının URL nesnesi. Ayrıntılar için <a>bkz.</a>.",
+    "page": ": Geçerli web sayfasının URL nesnesi (genellikle adres çubuğu), ayrıntılı tanıtım <a>Bkz.</a>",
     "pageHost": ": Geçerli web sayfasının alan adı",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Aynı alan adı. {{_youtube_}} ve {{_families_}} ana alan adlarının her ikisinin de {{_mainDomain_}} olmasına rağmen alt alan adlarının {{_youtubeSubDomain_}} ve {{ olduğunu unutmayın. _familiesSubDomain_}} Yani alan adları farklıdır.",
-    "click": ": tıklanan bağlantı",
     "clickpath": ": Tıklanan bağlantının yolu",
-    "minimatch": ": {{_glob_}} eşleştirme yöntemi, {{_minimatch_}} kitaplığını kullanma, kullanım yöntemi <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Bkz. < /a> veya {{_glob_}} ifadesini arayabilirsiniz.",
-    "isSameDomain": ": Aynı alan adı olsun, {{_true_}} evet, {{_false_}} hayır.",
-    "isSameParent": ": Aynı ana yol olsun, {{_true_}} evet, {{_false_}} hayırdır.",
-    "isPageSublink": ": Geçerli sayfanın tıklanan bağlantının bir alt sayfası olup olmadığı, {{_true_}} evet, {{_false_}} hayırdır.",
-    "isPageMultilevelSublink": ": Geçerli sayfanın tıklanan bağlantının sonsuz bir alt sayfası olup olmadığı, {{_true_}} evet, {{_false_}} hayırdır.",
-    "isClickSublink": ": Tıklanan bağlantının geçerli sayfanın bir alt bağlantısı olup olmadığı, {{_true_}} evet, {{_false_}} hayırdır.",
-    "isClickMultilevelSublink": ": Tıklanan bağlantının geçerli sayfanın sınırsız bir alt bağlantısı olup olmadığı, {{_true_}} evet, {{_false_}} hayırdır.",
+    "isSameDomain": ": Aynı alan adı olsun, {{tt}} evet, {{ff}} hayır.",
+    "isSameSubDomain": "{{ss}}: Aynı alan adı. {{yy}} ve {{ff}} ana alan adlarının her ikisinin de {{mm}} olmasına rağmen, alt alan adlarının {{ww}} ve olduğunu unutmayın. {{ffss}} Yani alan adları farklıdır.",
+    "isSameParent": ": Aynı ana yol olsun, {{tt}} evet, {{ff}} hayır.",
+    "isPageSublink": ": Geçerli sayfanın tıklanan bağlantının bir alt sayfası olup olmadığı, {{tt}} evet, {{ff}} hayırdır.",
+    "isPageMultilevelSublink": ": Geçerli sayfanın tıklanan bağlantının sonsuz bir alt sayfası olup olmadığı, {{tt}} evet, {{ff}} hayırdır.",
+    "isClickSublink": ": Tıklanan bağlantının geçerli sayfanın bir alt bağlantısı olup olmadığı, {{tt}} evet, {{ff}} hayırdır.",
+    "isClickMultilevelSublink": ": Tıklanan bağlantının mevcut sayfanın sınırsız bir alt bağlantısı olup olmadığı, {{tt}} evet, {{ff}} hayırdır.",
     "returnVariables": {
       "title": "İade edilebilir değişkenler",
-      "rightTab": ": Bağlantı sağdaki yeni sekmede açılır",
-      "leftTab": ": Bağlantı soldaki yeni sekmede açılır",
-      "currentWindow": "geçerli pencere",
-      "newWindow": "yeni pencere",
-      "incognitoWindow": "Gizli pencere",
-      "popupWindow": "Açılır pencere",
-      "currentTab": "Geçerli sekme",
-      "active": "Şimdi etkinleştir",
-      "inactive": "Etkinleştirilmedi"
+      "window": {
+        "title": "pencere",
+        "currentWindow": ":Geçerli pencere",
+        "newWindow": ":yeni pencere",
+        "incognitoWindow": ":Görünmez pencere",
+        "popupWindow": ":açılır pencere",
+        "externalBrowser": ":Harici tarayıcı ({{tt}} vb. gibi)"
+      },
+      "tab": {
+        "title": "sekme sayfası",
+        "rightTab": ": Bağlantı sağdaki yeni sekmede açılır",
+        "leftTab": ": Bağlantı soldaki yeni sekmede açılır",
+        "currentTab": ":Geçerli sekme"
+      },
+      "active": {
+        "title": "aktif durum",
+        "active": ": Hemen etkinleştirin",
+        "inactive": ":Aktif değil"
+      }
+    },
+    "functions": {
+      "title": "Mevcut fonksiyon nesneleri",
+      "minimatch": ": {{gg}} eşleştirme yöntemi, {{mm}} kitaplığını kullanır. Kullanım yöntemi için lütfen <a>Bakın</a>'a bakın veya ayrıca {{gg}} kullanım yöntemini de arayabilirsiniz."
     }
   },
   "menu": {

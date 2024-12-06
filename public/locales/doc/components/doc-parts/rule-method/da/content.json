@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Indstillinger for indtastning af regler",
+    "rule": {
+      "edit": "Tilføj eller rediger regelposter",
+      "description": "Du kan indtaste denne indstilling via højrekliksmenuen på en hvilken som helst webside. Når du går ind fra en webside, vil web-sidens URL blive tilføjet som standard. De tilgængelige formater er forklaret nedenfor .",
+      "formats": {
+        "title": "regelmønster",
+        "url": {
+          "title": "URL-tilstand, komplet URL.",
+          "example": {
+            "as": "For eksempel:"
+          },
+          "explain": "Denne metode kan matche den komplette URL."
+        },
+        "glob": {
+          "title": "Glob-metoden bruger {{1}}-biblioteket <a>se</a> for brug, eller du kan søge efter brugen af ​​{{2}}.",
+          "example": {
+            "as": "For eksempel:",
+            "a": "{{1}}, som matcher YouTube-startsiden og alle undersider."
+          }
+        },
+        "regexp": {
+          "title": "Regulært udtryk, se venligst <a>Se</a> for brug."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Indstillinger for indtastning af regler"
+  }
+}

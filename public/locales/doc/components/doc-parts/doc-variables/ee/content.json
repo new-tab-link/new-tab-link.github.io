@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Trɔtrɔnu siwo li",
-    "page": ": Trɔtrɔ la nye URL nusi le nyatakakadzraɖoƒe si li fifia Ne èdi nyatakakawo la, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> kpɔ</a>",
+    "title": "Nusiwo trɔna kple dɔwɔwɔ siwo li",
+    "click": ": URL nusi le kadodo si wozi la me Ne èdi nyatakakawo la, <a>kpɔ</a>",
+    "page": ": URL nusi le nyatakakadzraɖoƒe si li fifia (zi geɖe la, adrɛs ƒe dzesi), ŋgɔdonya tsitotsito <a>Kpɔ</a>",
     "pageHost": ": Nyatakakadzraɖoƒe si li fifia ƒe domenyiŋkɔ",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Domenyiŋkɔ ɖeka ma ke De dzesii be togbɔ be {{_youtube_}} kple {{_families_}} ƒe domenyiŋkɔ veviwo nye {{_mainDomain_}} hã la, domenyinyi ƒe ŋkɔ sueawo nye {{_youtubeSubDomain_}} kple {{. _familiesSubDomain_}} ɖe wo nɔewo yome Eyata woƒe domenyiŋusẽfianu ŋkɔwo to vovo.",
-    "click": ": kadodo si dzi wozi la",
     "clickpath": ": Mɔ si dzi kadodo si dzi nèzi la le",
-    "minimatch": ": {{_glob_}} sɔsɔ ƒe mɔnu, zã {{_minimatch_}} agbalẽdzraɖoƒe, zazã mɔnu <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Kpɔ < /a>, alo àteŋu adi {{_glob_}}.",
-    "isSameDomain": ": Eɖanye domenyiŋkɔ ɖeka ma ke o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
-    "isSameParent": ": Eɖanye dzila ƒe mɔ ɖeka ma ke o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
-    "isPageSublink": ": Eɖanye axa si li fifia nye kadodo si wozi la ƒe axa sue o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
-    "isPageMultilevelSublink": ": Eɖanye axa si li fifia nye axa sue si seɖoƒe meli na o le kadodo si wozi la me o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
-    "isClickSublink": ": Eɖanye kadodo si wozi la nye axa si li fifia ƒe kadodo sue aɖe o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
-    "isClickMultilevelSublink": ": Eɖanye kadodo si wozi la nye axa si li fifia ƒe kadodo sue si seɖoƒe meli na o, {{_true_}} nye ẽ, {{_false_}} nye ao.",
+    "isSameDomain": ": Eɖanye domenyiŋkɔ ɖeka ma ke o, {{tt}} nye ẽ, {{ff}} nye ao.",
+    "isSameSubDomain": "{{ss}}: Domenyiŋkɔ ɖeka ma ke De dzesii be togbɔ be domenyiŋkɔ vevi siwo le {{yy}} kple {{ff}} siaa nye {{mm}} hã la, domenyinyi ƒe ŋkɔ sueawo nye {{ww}} kple {{ffss}} ɖe wo nɔewo yome.Eyata woƒe domenyiŋusẽfianu ŋkɔwo to vovo.",
+    "isSameParent": ": Eɖanye dzila ƒe mɔ ɖeka ma ke o, {{tt}} nye ẽ, {{ff}} nye ao.",
+    "isPageSublink": ": Eɖanye axa si li fifia nye kadodo si wozi la ƒe axa sue o, {{tt}} nye ẽ, {{ff}} nye ao.",
+    "isPageMultilevelSublink": ": Eɖanye axa si li fifia nye axa sue si seɖoƒe meli na o le kadodo si wozi la me o, {{tt}} nye ẽ, {{ff}} nye ao.",
+    "isClickSublink": ": Eɖanye kadodo si wozi la nye axa si li fifia ƒe kadodo sue aɖe o, {{tt}} nye ẽ, {{ff}} nye ao.",
+    "isClickMultilevelSublink": ": Eɖanye kadodo si wozi la nye axa si li fifia ƒe kadodo sue si seɖoƒe meli na o, {{tt}} nye ẽ, {{ff}} nye ao.",
     "returnVariables": {
       "title": "Trɔtrɔnu siwo woate ŋu atrɔ",
-      "rightTab": ": Kadodoa aʋu le tab yeye aɖe me le ɖusime",
-      "leftTab": ": Kadodoa aʋu le tab yeye aɖe me le miame",
-      "currentWindow": "fesre si li fifia",
-      "newWindow": "fesre yeye",
-      "incognitoWindow": "Fesre si womenya o",
-      "popupWindow": "Fesre si dona ɖe ŋgɔ",
-      "currentTab": "Tab si li fifia",
-      "active": "Wɔ dɔ fifia",
-      "inactive": "Womewɔe dɔ o"
+      "window": {
+        "title": "fesre",
+        "currentWindow": ":Fesre si li fifia",
+        "newWindow": ":fesre yeye",
+        "incognitoWindow": ":Fesre si womekpɔna o",
+        "popupWindow": ":fesre si dona ɖe ŋgɔ",
+        "externalBrowser": ":External browser (abe {{tt}}, kple bubuawo ene)"
+      },
+      "tab": {
+        "title": "tab ƒe axa",
+        "rightTab": ": Kadodoa aʋu le tab yeye aɖe me le ɖusime",
+        "leftTab": ": Kadodoa aʋu le tab yeye aɖe me le miame",
+        "currentTab": ":Tab si li fifia"
+      },
+      "active": {
+        "title": "nɔnɔme si le dɔ wɔm",
+        "active": ": Wɔ dɔ enumake",
+        "inactive": ":Nu aɖeke mele dɔ wɔm o"
+      }
+    },
+    "functions": {
+      "title": "Dɔwɔwɔ ƒe nusiwo li",
+      "minimatch": ": {{gg}} ƒe sɔsɔmɔnu zãa {{mm}} agbalẽdzraɖoƒe Taflatse kpɔ <a>Kpɔ</a> hena zazã mɔnu, alo àteŋu adi {{gg}} ƒe zazã mɔnu hã."
     }
   },
   "menu": {

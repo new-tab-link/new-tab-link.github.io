@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Tilungiselelo tekufaka umtsetfo",
+    "rule": {
+      "edit": "Ngeta noma hlela lokufakiwe kwemtsetfo",
+      "description": "Ungafaka lesethingi ngemenyu yekuchofota ngesekudla kunobe nguliphi likhasi lewebhu Nawufaka kusuka ekhasini lewebhu, i-URL yelikhasi lewebhu itawungetwa njengemtsetfo ngekuzenzakalela Ungahlela imitsetfo lekhonako ichazwe ngetansi. .",
+      "formats": {
+        "title": "iphethini yemtsetfo",
+        "url": {
+          "title": "Imodi ye-URL, i-URL lephelele.",
+          "example": {
+            "as": "Ngokwesibonelo:"
+          },
+          "explain": "Lendlela ingahambisana ne-URL lephelele."
+        },
+        "glob": {
+          "title": "Indlela ye glob isebentisa umtapo we {{1}} Sicela <a>buka</a> kusetjentiswa, noma ungasesha kusetjentiswa kwa {{2}}.",
+          "example": {
+            "as": "Ngokwesibonelo:",
+            "a": "{{1}}, lehambisana nelikhasi lekucala le-YouTube kanye nawo onkhe emakhasi lamancane."
+          }
+        },
+        "regexp": {
+          "title": "Inkhulumo levamile, sicela ubuke <a>Bona</a> kusetjentiswa."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Tilungiselelo tekufaka umtsetfo"
+  }
+}

@@ -3,16 +3,7 @@
     "title": "গ্লোবেল স্ক্ৰিপ্ট ছেটিংছ",
     "description": "জাভাস্ক্রিপ্ট ব্যৱহাৰ কৰি আপুনি নিজৰ লিপি লিখিব পাৰে",
     "examplesTitle": "উদাহৰণ",
-    "checkedUseSetting": "এই সংহতি সামৰ্থবান কৰিবলে পৰীক্ষা কৰক।",
-    "variables": {
-      "title": "উপলব্ধ চলকসমূহ",
-      "click": "ক্লিক কৰা লিংক, এই বৈশিষ্ট্য এটা <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> শ্ৰেণী বস্তু।",
-      "page": "এই বৈশিষ্ট্য এটা <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ক্লাছ বস্তু।"
-    },
-    "returnVariables": {
-      "title": "ঘূৰাই দিব পৰা মানসমূহ",
-      "rightTab": "সোঁফালে নতুন টেবত খোলক"
-    }
+    "checkedUseSetting": "এই সংহতি সামৰ্থবান কৰিবলে পৰীক্ষা কৰক।"
   },
   "menu": {
     "main": "গোলকীয় লিপি"

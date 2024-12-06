@@ -3,16 +3,7 @@
     "title": "Globalne ustawienia skryptu",
     "description": "Możesz napisać własny skrypt za pomocą JavaScript",
     "examplesTitle": "Przykład",
-    "checkedUseSetting": "Zaznacz, aby włączyć to ustawienie.",
-    "variables": {
-      "title": "Dostępne zmienne",
-      "click": "Kliknięty link, ten atrybut jest obiektem klasy <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Link do bieżącej strony Ten atrybut to <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. obiekt klasy."
-    },
-    "returnVariables": {
-      "title": "Wartości, które można zwrócić",
-      "rightTab": "Otwórz w nowej karcie po prawej stronie"
-    }
+    "checkedUseSetting": "Zaznacz, aby włączyć to ustawienie."
   },
   "menu": {
     "main": "skrypt globalny"

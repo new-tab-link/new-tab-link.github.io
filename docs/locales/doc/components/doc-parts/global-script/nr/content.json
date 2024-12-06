@@ -3,16 +3,7 @@
     "title": "Amasethingi weskripthi wephasi loke",
     "description": "Ungatlola iskripthi sakho usebenzisa i-javascript",
     "examplesTitle": "Isibonelo",
-    "checkedUseSetting": "Hlola ukuvumela isethingi le.",
-    "variables": {
-      "title": "Iintjhuguluko ezitholakalako",
-      "click": "Isixhumanisi esiqhafaziwe, le mfanelo yi-<a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> into yeklasi.",
-      "page": "Isixhumanisi sekhasi lamanje. Le mfanelo yi-URL</a> into yeklasi."
-    },
-    "returnVariables": {
-      "title": "Amagugu angabuyiselwa emuva",
-      "rightTab": "Vula ithebhu etja ngesidleni"
-    }
+    "checkedUseSetting": "Hlola ukuvumela isethingi le."
   },
   "menu": {
     "main": "umtlolo wephasi loke"

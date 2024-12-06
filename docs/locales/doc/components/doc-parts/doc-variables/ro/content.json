@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Variabile disponibile",
-    "page": ": variabila este obiectul URL al paginii web curente. Pentru detalii, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. vezi</a>",
+    "title": "Obiecte variabile și funcție disponibile",
+    "click": ": obiectul URL al linkului pe care s-a făcut clic pentru detalii, <a>consultați</a>",
+    "page": ": obiectul URL al paginii web curente (de obicei bara de adrese), introducere detaliată <a>Vezi</a>",
     "pageHost": ": Numele de domeniu al paginii web curente",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: același nume de domeniu Rețineți că, deși numele de domenii principale ale {{_youtube_}} și {{_families_}} sunt ambele {{_mainDomain_}}, numele de subdomeniu sunt {{_youtubeSubDomain_}} și {{. _familiesSubDomain_}}, deci, numele lor de domeniu sunt diferite.",
-    "click": ": linkul pe care s-a făcut clic",
     "clickpath": ": Calea linkului pe care s-a făcut clic",
-    "minimatch": ": metoda de potrivire {{_glob_}}, folosind biblioteca {{_minimatch_}}, metoda de utilizare <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vezi < /a>, sau puteți căuta {{_glob_}}.",
-    "isSameDomain": ": Indiferent dacă este același nume de domeniu, {{_true_}} este da, {{_false_}} este nu.",
-    "isSameParent": ": Indiferent dacă este aceeași cale părinte, {{_true_}} este da, {{_false_}} este nu.",
-    "isPageSublink": ": Indiferent dacă pagina curentă este o subpagină a linkului pe care s-a făcut clic, {{_true_}} este da, {{_false_}} este nu.",
-    "isPageMultilevelSublink": ": Indiferent dacă pagina curentă este o subpagină infinită a linkului pe care s-a făcut clic, {{_true_}} este da, {{_false_}} este nu.",
-    "isClickSublink": ": Indiferent dacă linkul pe care s-a făcut clic este un sublink al paginii curente, {{_true_}} este da, {{_false_}} este nu.",
-    "isClickMultilevelSublink": ": Indiferent dacă linkul pe care s-a făcut clic este un sublink nelimitat al paginii curente, {{_true_}} este da, {{_false_}} este nu.",
+    "isSameDomain": ": Indiferent dacă este același nume de domeniu, {{tt}} este da, {{ff}} este nu.",
+    "isSameSubDomain": "{{ss}}: același nume de domeniu Rețineți că, deși numele de domenii principale ale {{yy}} și {{ff}} sunt ambele {{mm}}, numele de subdomeniu sunt {{ww}} și respectiv {{ffss}}. Deci, numele lor de domeniu sunt diferite.",
+    "isSameParent": ": Indiferent dacă este aceeași cale părinte, {{tt}} este da, {{ff}} este nu.",
+    "isPageSublink": ": Indiferent dacă pagina curentă este o subpagină a linkului pe care s-a făcut clic, {{tt}} este da, {{ff}} este nu.",
+    "isPageMultilevelSublink": ": Indiferent dacă pagina curentă este o subpagină infinită a linkului pe care s-a făcut clic, {{tt}} este da, {{ff}} este nu.",
+    "isClickSublink": ": Indiferent dacă linkul pe care s-a făcut clic este un sublink al paginii curente, {{tt}} este da, {{ff}} este nu.",
+    "isClickMultilevelSublink": ": Indiferent dacă linkul pe care s-a făcut clic este un sublink nelimitat al paginii curente, {{tt}} este da, {{ff}} este nu.",
     "returnVariables": {
       "title": "Variabile returnabile",
-      "rightTab": ": Linkul se deschide într-o filă nouă din dreapta",
-      "leftTab": ": Linkul se deschide într-o filă nouă din stânga",
-      "currentWindow": "fereastra curentă",
-      "newWindow": "fereastră nouă",
-      "incognitoWindow": "Fereastra incognito",
-      "popupWindow": "Fereastra pop-up",
-      "currentTab": "Fila curentă",
-      "active": "Activați acum",
-      "inactive": "Nu este activat"
+      "window": {
+        "title": "fereastră",
+        "currentWindow": ": Fereastra curentă",
+        "newWindow": ": fereastră nouă",
+        "incognitoWindow": ": Fereastra invizibila",
+        "popupWindow": ": fereastră pop-up",
+        "externalBrowser": ": Browser extern (cum ar fi {{tt}} etc.)"
+      },
+      "tab": {
+        "title": "pagina cu filă",
+        "rightTab": ": Linkul se deschide într-o filă nouă din dreapta",
+        "leftTab": ": Linkul se deschide într-o filă nouă din stânga",
+        "currentTab": ":Fila curentă"
+      },
+      "active": {
+        "title": "stare activă",
+        "active": ": Activați imediat",
+        "inactive": ":Inactiv"
+      }
+    },
+    "functions": {
+      "title": "Obiecte funcție disponibile",
+      "minimatch": ": Metoda de potrivire {{gg}} utilizează biblioteca {{mm}} Consultați <a>Vedeți</a> pentru metoda de utilizare sau puteți căuta și metoda de utilizare a {{gg}}."
     }
   },
   "menu": {

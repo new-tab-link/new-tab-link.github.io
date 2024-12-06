@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Reguleniraj agordoj",
+    "rule": {
+      "edit": "Aldonu aŭ redaktu regulojn",
+      "description": "Vi povas eniri ĉi tiun agordon per la dekstra klaka menuo en iu ajn retpaĝo, la URL de la retpaĝo estos aldonita defaŭlte. La disponeblaj formatoj estas klarigitaj .",
+      "formats": {
+        "title": "regulŝablono",
+        "url": {
+          "title": "URL-reĝimo, kompleta URL.",
+          "example": {
+            "as": "Ekzemple:"
+          },
+          "explain": "Ĉi tiu metodo povas kongrui kun la kompleta URL."
+        },
+        "glob": {
+          "title": "La glob-metodo uzas la bibliotekon {{1}} Bonvolu <a>vidi</a> pri uzado, aŭ vi povas serĉi la uzadon de {{2}}.",
+          "example": {
+            "as": "Ekzemple:",
+            "a": "{{1}}, kiu kongruas kun la jutuba hejmpaĝo kaj ĉiuj subpaĝoj."
+          }
+        },
+        "regexp": {
+          "title": "Regula esprimo, bonvolu vidi <a>Vidi</a> por uzado."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Reguleniraj agordoj"
+  }
+}

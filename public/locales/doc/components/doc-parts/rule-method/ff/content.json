@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Cuɓe naatgol kuule",
+    "rule": {
+      "edit": "Ɓeydu walla waylu naatgol kuule",
+      "description": "Aɗa waawi naatde e ndee doggol rewrude e menyu ɓuuɓɗo e kala hello web So a naatii e hello web ngoo, URL hello web ngoo maa ɓeyde e kuulal ngal e dow mbaydi kuuɓtodinndi .",
+      "formats": {
+        "title": "mbaydi kuule",
+        "url": {
+          "title": "Mode URL, URL timmuɗo.",
+          "example": {
+            "as": "Bana sappinol:"
+          },
+          "explain": "Ooɗoo feere ina waawi yahdude e URL timmuɗo oo."
+        },
+        "glob": {
+          "title": "Laawol glob huutortoo ko defterdu {{1}} Tiiɗno <a>ndaar</a> ngam huutoraade, walla aɗa waawi yiylaade kuutoragol {{2}}.",
+          "example": {
+            "as": "Bana sappinol:",
+            "a": "{{1}}, ko nanndi e hello jaɓɓorgo YouTube e denndaangal kelle tokoose."
+          }
+        },
+        "regexp": {
+          "title": "Haala joopiika, ƴeew <a>Ƴeew</a> ngam kuutoragol."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Cuɓe naatgol kuule"
+  }
+}

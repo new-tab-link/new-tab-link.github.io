@@ -3,16 +3,7 @@
     "title": "Globalne nastavitve skripta",
     "description": "S pomočjo javascripta lahko napišete svoj skript",
     "examplesTitle": "Primer",
-    "checkedUseSetting": "Označite, da omogočite to nastavitev.",
-    "variables": {
-      "title": "Razpoložljive spremenljivke",
-      "click": "Kliknite povezavo, ta atribut je objekt razreda <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Povezava trenutne strani je <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. predmet razreda."
-    },
-    "returnVariables": {
-      "title": "Vrednosti, ki jih je mogoče vrniti",
-      "rightTab": "Odpri v novem zavihku na desni"
-    }
+    "checkedUseSetting": "Označite, da omogočite to nastavitev."
   },
   "menu": {
     "main": "globalni skript"

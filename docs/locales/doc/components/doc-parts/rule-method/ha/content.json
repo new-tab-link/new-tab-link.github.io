@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Saitunan shigarwa na doka",
+    "rule": {
+      "edit": "Ƙara ko gyara shigarwar ƙa'ida",
+      "description": "Kuna iya shigar da wannan saitin ta hanyar menu na dama akan kowane shafin yanar gizon Lokacin shigar da shafin yanar gizon, za a ƙara URL na shafin yanar gizon ta hanyar tsoho .",
+      "formats": {
+        "title": "tsarin mulki",
+        "url": {
+          "title": "Yanayin URL, cikakken URL.",
+          "example": {
+            "as": "Misali:"
+          },
+          "explain": "Wannan hanyar zata iya dacewa da cikakkiyar URL."
+        },
+        "glob": {
+          "title": "Hanyar glob tana amfani da ɗakin karatu na {{1}} Don Allah <a>duba</a> don amfani, ko kuna iya nemo amfanin {{2}}.",
+          "example": {
+            "as": "Misali:",
+            "a": "{{1}}, wanda yayi daidai da shafin farko na YouTube da duk ƙananan shafuka."
+          }
+        },
+        "regexp": {
+          "title": "Magana na yau da kullun, da fatan za a duba <a>Duba</a> don amfani."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Saitunan shigarwa na doka"
+  }
+}

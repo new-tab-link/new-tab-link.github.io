@@ -143,7 +143,7 @@ importers:
         version: https://codeload.github.com/0xff336699/js-i18n-lngs/tar.gz/d4641d0f1e9d9afd86c4f4fa3546beecd9a1b7c8
       '@0xff336699/js-i18n-translator':
         specifier: github:0xff336699/js-i18n-translator
-        version: git+https://git@github.com:0xff336699/js-i18n-translator.git#44a4aa47e76e68b7d98f0b23fec7c3ef18e6ee6c
+        version: git+https://git@github.com:0xff336699/js-i18n-translator.git#db0b7e02bcafeb94af9828413dce1c38150ce884
       '@babel/core':
         specifier: ^7.25.2
         version: 7.26.0
@@ -260,9 +260,9 @@ packages:
     resolution: {tarball: https://codeload.github.com/0xff336699/js-i18n-lngs/tar.gz/d4641d0f1e9d9afd86c4f4fa3546beecd9a1b7c8}
     version: 1.0.37
 
-  '@0xff336699/js-i18n-translator@git+https://git@github.com:0xff336699/js-i18n-translator.git#44a4aa47e76e68b7d98f0b23fec7c3ef18e6ee6c':
-    resolution: {commit: 44a4aa47e76e68b7d98f0b23fec7c3ef18e6ee6c, repo: git@github.com:0xff336699/js-i18n-translator.git, type: git}
-    version: 1.0.15
+  '@0xff336699/js-i18n-translator@git+https://git@github.com:0xff336699/js-i18n-translator.git#db0b7e02bcafeb94af9828413dce1c38150ce884':
+    resolution: {commit: db0b7e02bcafeb94af9828413dce1c38150ce884, repo: git@github.com:0xff336699/js-i18n-translator.git, type: git}
+    version: 1.0.25
 
   '@alloc/quick-lru@5.2.0':
     resolution: {integrity: sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw==}
@@ -1951,8 +1951,8 @@ packages:
     resolution: {integrity: sha512-RE3mdQ7P3FRSe7eqCWoeQ/Z9QXrtniSjp1wUjt5nRC3WIpz5rSCve6o3fsZ2aCpJtrZjSZgjwXAoTO5k4tEI0w==}
     engines: {node: '>=4'}
 
-  axios@1.7.7:
-    resolution: {integrity: sha512-S4kL7XrjgBmvdGut0sN3yJxqYzrDOnivkBiN0OFs6hLiUam3UPvswUo0kqGyhqUZGEOytHyumEdXsAkgCOUf3Q==}
+  axios@1.7.9:
+    resolution: {integrity: sha512-LhLcE7Hbiryz8oMDdDptSrWowmB4Bl6RCt6sIJKpRB4XtVf0iEgewX3au/pJqm+Py1kCASkb/FFKjxQaLtxJvw==}
 
   axobject-query@4.1.0:
     resolution: {integrity: sha512-qIj0G9wZbMGNLjLmg1PT6v2mE9AH2zlnADJD/2tC6E00hgmhUOfEB6greHPAfLRSufHqROIUTkw6E+M3lH0PTQ==}
@@ -4276,11 +4276,11 @@ snapshots:
 
   '@0xff336699/js-i18n-lngs@https://codeload.github.com/0xff336699/js-i18n-lngs/tar.gz/d4641d0f1e9d9afd86c4f4fa3546beecd9a1b7c8': {}
 
-  '@0xff336699/js-i18n-translator@git+https://git@github.com:0xff336699/js-i18n-translator.git#44a4aa47e76e68b7d98f0b23fec7c3ef18e6ee6c':
+  '@0xff336699/js-i18n-translator@git+https://git@github.com:0xff336699/js-i18n-translator.git#db0b7e02bcafeb94af9828413dce1c38150ce884':
     dependencies:
       '@0xff336699/js-i18n-lngs': https://codeload.github.com/0xff336699/js-i18n-lngs/tar.gz/d4641d0f1e9d9afd86c4f4fa3546beecd9a1b7c8
       '@google/generative-ai': 0.15.0
-      axios: 1.7.7
+      axios: 1.7.9
       glob: 11.0.0
       lodash: 4.17.21
       safe-eval: 0.4.1
@@ -6100,7 +6100,7 @@ snapshots:
 
   axe-core@4.10.2: {}
 
-  axios@1.7.7:
+  axios@1.7.9:
     dependencies:
       follow-redirects: 1.15.9
       form-data: 4.0.1

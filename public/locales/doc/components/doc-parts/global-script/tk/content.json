@@ -3,16 +3,7 @@
     "title": "Global skript sazlamalary",
     "description": "Javascript ulanyp, öz skriptiňizi ýazyp bilersiňiz",
     "examplesTitle": "Mysal",
-    "checkedUseSetting": "Bu sazlamany işletmek üçin barlaň.",
-    "variables": {
-      "title": "Elýeterli üýtgeýjiler",
-      "click": "Basylan baglanyşyk, bu atribut <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' target = '_ blank' rel = 'noreferrer'> URL </a> synp obýektidir.",
-      "page": "Häzirki sahypanyň baglanyşygy Bu atribut <href = 'https: //developer.mozilla.org/docs/Web/API/URL' target = '_ blank' rel = 'noreferrer'> URL </a> synp obýekti."
-    },
-    "returnVariables": {
-      "title": "Yzyna gaýtaryp boljak gymmatlyklar",
-      "rightTab": "Sag tarapdaky täze goýmada açyň"
-    }
+    "checkedUseSetting": "Bu sazlamany işletmek üçin barlaň."
   },
   "menu": {
     "main": "global skript"

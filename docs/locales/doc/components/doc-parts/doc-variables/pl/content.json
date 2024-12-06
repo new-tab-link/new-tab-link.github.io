@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Dostępne zmienne",
-    "page": ": zmienna jest obiektem adresu URL bieżącej strony internetowej. Aby uzyskać szczegółowe informacje, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> zobacz</a>",
+    "title": "Dostępne obiekty zmienne i funkcyjne",
+    "click": ": obiekt URL klikniętego łącza. Aby uzyskać szczegółowe informacje, <a>zobacz</a>",
+    "page": ": Obiekt adresu URL bieżącej strony internetowej (zwykle pasek adresu), szczegółowe wprowadzenie <a>Zobacz</a>",
     "pageHost": ": Nazwa domeny bieżącej strony internetowej",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: ta sama nazwa domeny. Pamiętaj, że chociaż główne nazwy domen {{_youtube_}} i {{_families_}} to {{_mainDomain_}}, nazwy subdomen to {{_youtubeSubDomain_}} i {{ _familiesSubDomain_}}, więc ich nazwy domen są różne.",
-    "click": ": link, który został kliknięty",
     "clickpath": ": Ścieżka klikniętego łącza",
-    "minimatch": ": metoda dopasowywania {{_glob_}}, użycie biblioteki {{_minimatch_}}, metoda użycia <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Zobacz < /a> lub możesz wyszukać {{_glob_}}.",
-    "isSameDomain": ": Niezależnie od tego, czy jest to ta sama nazwa domeny, {{_true_}} oznacza tak, {{_false_}} oznacza nie.",
-    "isSameParent": ": Niezależnie od tego, czy jest to ta sama ścieżka nadrzędna, {{_true_}} oznacza tak, {{_false_}} oznacza nie.",
-    "isPageSublink": ": Niezależnie od tego, czy bieżąca strona jest podstroną klikniętego linku, {{_true_}} oznacza tak, {{_false_}} oznacza nie.",
-    "isPageMultilevelSublink": ": Niezależnie od tego, czy bieżąca strona jest nieskończoną podstroną klikniętego linku, {{_true_}} oznacza tak, {{_false_}} oznacza nie.",
-    "isClickSublink": ": Niezależnie od tego, czy kliknięty link jest linkiem podrzędnym bieżącej strony, {{_true_}} oznacza tak, {{_false_}} oznacza nie.",
-    "isClickMultilevelSublink": ": Niezależnie od tego, czy kliknięty link jest nieograniczonym linkiem podrzędnym bieżącej strony, {{_true_}} oznacza tak, {{_false_}} oznacza nie.",
+    "isSameDomain": ": Niezależnie od tego, czy jest to ta sama nazwa domeny, {{tt}} oznacza tak, {{ff}} oznacza nie.",
+    "isSameSubDomain": "{{ss}}: Ta sama nazwa domeny Należy pamiętać, że chociaż główne nazwy domen {{yy}} i {{ff}} to {{mm}}, nazwy subdomen to {{ww}} i Odpowiednio {{ffss}}, więc ich nazwy domen są różne.",
+    "isSameParent": ": Niezależnie od tego, czy jest to ta sama ścieżka nadrzędna, {{tt}} oznacza tak, {{ff}} oznacza nie.",
+    "isPageSublink": ": Niezależnie od tego, czy bieżąca strona jest podstroną klikniętego linku, {{tt}} oznacza tak, {{ff}} oznacza nie.",
+    "isPageMultilevelSublink": ": Niezależnie od tego, czy bieżąca strona jest nieskończoną podstroną klikniętego linku, {{tt}} oznacza tak, {{ff}} oznacza nie.",
+    "isClickSublink": ": Niezależnie od tego, czy kliknięty link jest linkiem podrzędnym bieżącej strony, {{tt}} oznacza tak, {{ff}} oznacza nie.",
+    "isClickMultilevelSublink": ": Niezależnie od tego, czy kliknięty link jest nieograniczonym linkiem podrzędnym bieżącej strony, {{tt}} oznacza tak, {{ff}} oznacza nie.",
     "returnVariables": {
       "title": "Zmienne zwrotne",
-      "rightTab": ": Link otwiera się w nowej karcie po prawej stronie",
-      "leftTab": ": Link otwiera się w nowej karcie po lewej stronie",
-      "currentWindow": "aktualne okno",
-      "newWindow": "nowe okno",
-      "incognitoWindow": "Okno incognito",
-      "popupWindow": "Wyskakujące okienko",
-      "currentTab": "Bieżąca zakładka",
-      "active": "Aktywuj teraz",
-      "inactive": "Nieaktywowany"
+      "window": {
+        "title": "okno",
+        "currentWindow": ":Bieżące okno",
+        "newWindow": ":nowe okno",
+        "incognitoWindow": ":Niewidzialne okno",
+        "popupWindow": ":wyskakujące okienko",
+        "externalBrowser": ":Przeglądarka zewnętrzna (taka jak {{tt}} itp.)"
+      },
+      "tab": {
+        "title": "zakładka",
+        "rightTab": ": Link otwiera się w nowej karcie po prawej stronie",
+        "leftTab": ": Link otwiera się w nowej karcie po lewej stronie",
+        "currentTab": ":Aktualna zakładka"
+      },
+      "active": {
+        "title": "stan aktywny",
+        "active": ": Aktywuj natychmiast",
+        "inactive": ":Nieaktywny"
+      }
+    },
+    "functions": {
+      "title": "Dostępne obiekty funkcyjne",
+      "minimatch": ": Metoda dopasowywania {{gg}} wykorzystuje bibliotekę {{mm}}. Aby zapoznać się z metodą użycia, zobacz <a>Zobacz</a>. Możesz też wyszukać metodę użycia {{gg}}."
     }
   },
   "menu": {

@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Iintjhuguluko ezitholakalako",
-    "page": ": I-variable yinto ye-URL yekhasi lewebhu lamanje. qala</a>",
+    "title": "Izinto ezitholakalako eziguquguqukako nezisebenzako",
+    "click": ": Into ye-URL yesixhumanisi esichofoziweko Ukuthola imininingwana, <a>bona</a>.",
+    "page": ": Into ye-URL yekhasi lewebhu lamanje (ngokuvamileko ibha yamakheli), isingeniso esinabileko <a>Qala</a>",
     "pageHost": ": Ibizo lesizinda sekhasi lewebhu lamanje",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Ibizo lesizinda elifanako Tjheja bona nanyana amabizo wesizinda amakhulu we-{{_youtube_}} kanye ne-{{_imindeni_}} zombili ziyi-{{_mainDomain_}}, amagama we-subdomain ngu-{{_youtubeSubDomain_}} kanye no-{{_ _familiesSubDomain_}} ngokulandelana.",
-    "click": ": isixhumanisi esichofoziweko",
     "clickpath": ": Indlela yesixhumanisi esitlikithiweko",
-    "minimatch": ": {{_glob_}} indlela yokumadanisa, ngokusebenzisa ilayibrari ye-{{_minimatch_}}, indlela yokusebenzisa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Qala < /a>, nofana ungasesha {{_glob_}}.",
-    "isSameDomain": ": Nanyana kulibizo lesizinda elifanako, {{_iqiniso_}} nguyebo, {{_amanga_}} ngu-awa.",
-    "isSameParent": ": Noma ngabe yindlela efanako yomzali, {{_iqiniso_}} nguyebo, {{_amanga_}} ngu-awa.",
-    "isPageSublink": ": Noma ngabe ikhasi lamanje liyikhasi elingaphasi lekhonkco elichofoziweko, {{_iqiniso_}} ngu-iye, {{_amanga_}} ngu-awa.",
-    "isPageMultilevelSublink": ": Noma ngabe ikhasi lamanje lilikhasi elingapheliko lekhonkco elichofoziweko, {{_iqiniso_}} ngu-iye, {{_amanga_}} ngu-awa.",
-    "isClickSublink": ": Noma ngabe isixhumanisi esichofoziweko siyisixhumanisi esingezansi sekhasi lamanje, {{_iqiniso_}} nguyebo, {{_amanga_}} ngu-awa.",
-    "isClickMultilevelSublink": ": Noma ngabe isixhumanisi esichofoziweko siyisixhumanisi esingenamkhawulo sekhasi lamanje, {{_iqiniso_}} ngu-iye, {{_amanga_}} ngu-awa.",
+    "isSameDomain": ": Nanyana kulibizo lesizinda elifanako, {{tt}} nguyebo, {{ff}} ngu-awa.",
+    "isSameSubDomain": "{{ss}}: Ibizo lesizinda elifanako Tjheja bona nanyana amagama wesizinda amakhulu we-{{yy}} kanye no-{{ff}} womabili angu-{{mm}}, amagama wesizinda angaphasi kwawo ngu-{{ww}} kanye no-{{ww}}. {{ffss}} ngokulandelana. Njeke amabizo wabo wesizinda ahlukile.",
+    "isSameParent": ": Noma ngabe yindlela efanako yomzali, {{tt}} nguyebo, {{ff}} ngu-awa.",
+    "isPageSublink": ": Noma ngabe ikhasi lamanje lilikhasi elingaphasi lekhonkco elichofoziweko, {{tt}} ngu-iye, {{ff}} ngu-awa.",
+    "isPageMultilevelSublink": ": Noma ngabe ikhasi lamanje lilikhasi elingapheliko lekhonkco eliqhafaziweko, {{tt}} ngu-iye, {{ff}} ngu-awa.",
+    "isClickSublink": ": Noma ngabe isixhumanisi esiqhafaziweko siyisixhumanisi esingezansi sekhasi lamanje, {{tt}} ngu-yebo, {{ff}} ngu-awa.",
+    "isClickMultilevelSublink": ": Noma ngabe isixhumanisi esiqhafaziweko siyisixhumanisi esingenamkhawulo sekhasi lamanje, {{tt}} ngu-iye, {{ff}} ngu-awa.",
     "returnVariables": {
       "title": "Iintjhuguluko ezibuyiselwako",
-      "rightTab": ": Isixhumanisi sivuleka kuthebhu etja ngakwesokudla",
-      "leftTab": ": Isixhumanisi sivuleka ngethebhu etja ngesinceleni",
-      "currentWindow": "iwindi lamanje",
-      "newWindow": "ifasitela elitjha",
-      "incognitoWindow": "Ifasitela elifihlakeleko",
-      "popupWindow": "Ifasitela elivelako",
-      "currentTab": "Ithebhu yamanje",
-      "active": "Vumela kwanje",
-      "inactive": "Ayisebenzi"
+      "window": {
+        "title": "ifesdere",
+        "currentWindow": ":Ifasitela lamanje",
+        "newWindow": ":ifasitela elitjha",
+        "incognitoWindow": ":Iwindi elingabonakaliko",
+        "popupWindow": ":ifasitela elivelako",
+        "externalBrowser": ":Isiphequluli sangaphandle (njenge-{{tt}}, njll.)"
+      },
+      "tab": {
+        "title": "ikhasi lethebhu",
+        "rightTab": ": Isixhumanisi sivuleka kuthebhu etja ngakwesokudla",
+        "leftTab": ": Isixhumanisi sivuleka ngethebhu etja ngesinceleni",
+        "currentTab": ":Ithebhu yamanje"
+      },
+      "active": {
+        "title": "ubujamo obusebenzako",
+        "active": ": Vulela khonokho",
+        "inactive": ":Akusebenzi"
+      }
+    },
+    "functions": {
+      "title": "Izinto zomsebenzi ezitholakalayo",
+      "minimatch": ": Indlela yokufanisa i-{{gg}} isebenzisa ilayibrari ye-{{mm}} Sibawa uqale <a>Qala</a> malungana nendlela yokusebenzisa, namkha ungasesha nendlela yokusebenzisa ye-{{gg}}."
     }
   },
   "menu": {

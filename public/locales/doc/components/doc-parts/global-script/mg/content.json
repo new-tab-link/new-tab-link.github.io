@@ -3,16 +3,7 @@
     "title": "Fikirana script maneran-tany",
     "description": "Azonao atao ny manoratra ny scripto manokana mampiasa javascript",
     "examplesTitle": "OHATRA",
-    "checkedUseSetting": "Hamarino mba hahafahanao ity fanovana ity.",
-    "variables": {
-      "title": "Variable misy",
-      "click": "Rohy voakitika, ity toetra ity dia zavatra kilasy <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Ny rohin'ny pejy ankehitriny ity toetra ity dia <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> zavatra kilasy."
-    },
-    "returnVariables": {
-      "title": "Soatoavina azo averina",
-      "rightTab": "Sokafy amin'ny tabilao vaovao eo ankavanana"
-    }
+    "checkedUseSetting": "Hamarino mba hahafahanao ity fanovana ity."
   },
   "menu": {
     "main": "script manerantany"

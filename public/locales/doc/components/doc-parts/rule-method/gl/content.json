@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Configuración de entrada de regras",
+    "rule": {
+      "edit": "Engadir ou editar entradas de regras",
+      "description": "Podes introducir esta configuración a través do menú do botón dereito do rato en calquera páxina web. Ao ingresar desde unha páxina web, o URL da páxina web engadirase por defecto. Podes editar as regras a continuación .",
+      "formats": {
+        "title": "patrón de regra",
+        "url": {
+          "title": "Modo URL, URL completo.",
+          "example": {
+            "as": "Por exemplo:"
+          },
+          "explain": "Este método pode coincidir co URL completo."
+        },
+        "glob": {
+          "title": "O método glob usa a biblioteca {{1}} <a>consulta</a> o uso ou podes buscar o uso de {{2}}.",
+          "example": {
+            "as": "Por exemplo:",
+            "a": "{{1}}, que coincide coa páxina de inicio de YouTube e todas as subpáxinas."
+          }
+        },
+        "regexp": {
+          "title": "Expresión regular, consulte <a>Ver</a> para o seu uso."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Configuración de entrada de regras"
+  }
+}

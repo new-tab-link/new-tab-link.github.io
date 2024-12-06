@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Setări de introducere a regulilor",
+    "rule": {
+      "edit": "Adăugați sau editați intrări de reguli",
+      "description": "Puteți introduce această setare prin meniul cu clic dreapta pe orice pagină web. Când intrați dintr-o pagină web, URL-ul paginii web va fi adăugat în mod implicit. Formatele disponibile sunt explicate .",
+      "formats": {
+        "title": "model de regulă",
+        "url": {
+          "title": "Mod URL, URL complet.",
+          "example": {
+            "as": "De exemplu:"
+          },
+          "explain": "Această metodă se poate potrivi cu adresa URL completă."
+        },
+        "glob": {
+          "title": "Metoda glob folosește biblioteca {{1}} Vă rugăm să <a>consultați</a> pentru utilizare sau puteți căuta utilizarea {{2}}.",
+          "example": {
+            "as": "De exemplu:",
+            "a": "{{1}}, care se potrivește cu pagina de pornire YouTube și cu toate paginile secundare."
+          }
+        },
+        "regexp": {
+          "title": "Expresie regulată, consultați <a>Vedeți</a> pentru utilizare."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Setări de introducere a regulilor"
+  }
+}

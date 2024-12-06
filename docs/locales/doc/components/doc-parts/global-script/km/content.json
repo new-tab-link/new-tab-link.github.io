@@ -3,16 +3,7 @@
     "title": "ការកំណត់ស្គ្រីបសកល",
     "description": "អ្នកអាចសរសេរស្គ្រីបផ្ទាល់ខ្លួនរបស់អ្នកដោយប្រើ javascript",
     "examplesTitle": "ឧទាហរណ៍",
-    "checkedUseSetting": "ពិនិត្យដើម្បីបើកការកំណត់នេះ។",
-    "variables": {
-      "title": "អថេរដែលមាន",
-      "click": "តំណដែលបានចុច គុណលក្ខណៈនេះគឺជា <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> class object ។",
-      "page": "តំណនៃទំព័របច្ចុប្បន្ន។ គុណលក្ខណៈនេះគឺជា <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> វត្ថុថ្នាក់។"
-    },
-    "returnVariables": {
-      "title": "តម្លៃ​ដែល​អាច​ត្រូវ​បាន​ត្រឡប់​មក​វិញ​",
-      "rightTab": "បើកផ្ទាំងថ្មីនៅខាងស្តាំ"
-    }
+    "checkedUseSetting": "ពិនិត្យដើម្បីបើកការកំណត់នេះ។"
   },
   "menu": {
     "main": "ស្គ្រីបសកល"

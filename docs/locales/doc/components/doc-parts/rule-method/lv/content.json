@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Noteikumu ievades iestatījumi",
+    "rule": {
+      "edit": "Pievienojiet vai rediģējiet kārtulu ierakstus",
+      "description": "Šo iestatījumu var ievadīt, izmantojot labās pogas izvēlni jebkurā tīmekļa lapā, pēc noklusējuma tiek pievienots tīmekļa lapas URL .",
+      "formats": {
+        "title": "noteikumu modelis",
+        "url": {
+          "title": "URL režīms, pilnīgs URL.",
+          "example": {
+            "as": "Piemēram:"
+          },
+          "explain": "Šī metode var atbilst visam URL."
+        },
+        "glob": {
+          "title": "Metode glob izmanto bibliotēku {{1}}, lūdzu, <a>skatiet</a>, vai varat meklēt {{2}} lietojumu.",
+          "example": {
+            "as": "Piemēram:",
+            "a": "{{1}}, kas atbilst YouTube sākumlapai un visām apakšlapām."
+          }
+        },
+        "regexp": {
+          "title": "Regulārā izteiksme, lūdzu, skatiet sadaļu <a>Skatiet</a>, lai uzzinātu, kā to lietot."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Noteikumu ievades iestatījumi"
+  }
+}

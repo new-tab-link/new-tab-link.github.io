@@ -3,16 +3,7 @@
     "title": "Tuvatuva ni volavola raraba",
     "description": "E rawa ni o vola na nomu ivolavolai ena nomu vakayagataka na javascript .",
     "examplesTitle": "IVakaraitaki",
-    "checkedUseSetting": "Raica me rawa kina na ituvatuva oqo.",
-    "variables": {
-      "title": "Veisau e rawa",
-      "click": "Kiliki ena isema, na itovo oqo e dua na <a href = 'vakatorocaketaka.",
-      "page": "Na isema ni draunipepa ni gauna oqo na itovo oqo e dua na <a href='URL</a> na ka ni kalasi."
-    },
-    "returnVariables": {
-      "title": "Na veika e rawa ni vakasukai",
-      "rightTab": "Dolava ena tabana vou ena imatau"
-    }
+    "checkedUseSetting": "Raica me rawa kina na ituvatuva oqo."
   },
   "menu": {
     "main": "volavola raraba"

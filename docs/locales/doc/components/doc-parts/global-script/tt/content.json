@@ -3,16 +3,7 @@
     "title": "Глобаль сценарий көйләүләре",
     "description": "Сез үз скриптыгызны javascript ярдәмендә яза аласыз",
     "examplesTitle": "Мисал",
-    "checkedUseSetting": "Бу көйләнүне эшләтеп карагыз.",
-    "variables": {
-      "title": "Мөмкин булган үзгәрүләр",
-      "click": "Басылган сылтама, бу атрибут - <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' target = '_ blank' rel = 'noreferrer'> URL </a> класс объекты.",
-      "page": "Хәзерге битнең сылтамасы Бу атрибут <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' target = '_ blank' rel = 'noreferrer'> URL </a> класс объекты."
-    },
-    "returnVariables": {
-      "title": "Кире кайтарыла торган кыйммәтләр",
-      "rightTab": "Уң яктагы яңа кыстыргычта ачыгыз"
-    }
+    "checkedUseSetting": "Бу көйләнүне эшләтеп карагыз."
   },
   "menu": {
     "main": "глобаль сценарий"

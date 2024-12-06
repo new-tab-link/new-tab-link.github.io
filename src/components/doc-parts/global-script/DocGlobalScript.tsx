@@ -33,8 +33,6 @@ function Doc(){
                     </Box>
                 </li>
                 <li>
-                    {/* <DocVariables.Variables />
-                    <DocVariables.ReturnVariables /> */}
                     <DocVariables.Doc />
                 </li>
             </ol>

@@ -3,16 +3,7 @@
     "title": "Impostazioni globali dello script",
     "description": "Puoi scrivere il tuo script utilizzando Javascript",
     "examplesTitle": "Esempio",
-    "checkedUseSetting": "Seleziona per abilitare questa impostazione.",
-    "variables": {
-      "title": "Variabili disponibili",
-      "click": "Link cliccato, questo attributo è un oggetto di classe <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Il collegamento alla pagina corrente Questo attributo è un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. oggetto di classe."
-    },
-    "returnVariables": {
-      "title": "Valori che possono essere restituiti",
-      "rightTab": "Apri in una nuova scheda a destra"
-    }
+    "checkedUseSetting": "Seleziona per abilitare questa impostazione."
   },
   "menu": {
     "main": "scrittura globale"

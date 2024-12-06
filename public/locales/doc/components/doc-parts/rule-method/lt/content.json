@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Taisyklių įvedimo nustatymai",
+    "rule": {
+      "edit": "Pridėti arba redaguoti taisyklių įrašus",
+      "description": "Galite įvesti šį nustatymą dešiniuoju pelės mygtuku spustelėkite bet kuriame tinklalapyje .",
+      "formats": {
+        "title": "taisyklės modelis",
+        "url": {
+          "title": "URL režimas, užpildykite URL.",
+          "example": {
+            "as": "Pavyzdžiui:"
+          },
+          "explain": "Šis metodas gali atitikti visą URL."
+        },
+        "glob": {
+          "title": "Metodas „glob“ naudoja {{1}} biblioteką <a>žr.</a>, kaip naudoti, arba galite ieškoti {{2}}.",
+          "example": {
+            "as": "Pavyzdžiui:",
+            "a": "{{1}}, kuris atitinka pagrindinį „YouTube“ puslapį ir visus antrinius puslapius."
+          }
+        },
+        "regexp": {
+          "title": "Reguliarusis posakis, apie naudojimą žr. <a>Žr.</a>."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Taisyklių įvedimo nustatymai"
+  }
+}

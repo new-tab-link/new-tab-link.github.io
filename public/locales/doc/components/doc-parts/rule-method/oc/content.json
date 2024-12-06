@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Paramètres d'entrada de règla",
+    "rule": {
+      "edit": "Apondre o modificar las dintradas de règla",
+      "description": "Podètz dintrar aqueste paramètre a travèrs lo menú amb lo boton drech sus quina pagina web que siá Al moment de la dintrada dempuèi una pagina web, l'URL de la pagina web serà aponduda per defaut Podètz modificar las règlas disponiblas. .",
+      "formats": {
+        "title": "modèl de règla",
+        "url": {
+          "title": "Mòde URL, URL completa.",
+          "example": {
+            "as": "Per exemple:"
+          },
+          "explain": "Aqueste metòde pòt correspondre a l'URL complet."
+        },
+        "glob": {
+          "title": "Lo metòde glob utiliza la bibliotèca {{1}} Mercés de <a>veire</a> per l'utilizacion, o podètz recercar l'utilizacion de {{2}}.",
+          "example": {
+            "as": "Per exemple:",
+            "a": "{{1}}, que correspond a la pagina d'acuèlh de YouTube e a totas las sospaginas."
+          }
+        },
+        "regexp": {
+          "title": "Expression regulara, vejatz <a>Veire</a> per l'usatge."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Paramètres d'entrada de règla"
+  }
+}

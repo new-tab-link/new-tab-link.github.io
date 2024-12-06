@@ -3,16 +3,7 @@
     "title": "ကမ္ဘာလုံးဆိုင်ရာ ဇာတ်ညွှန်းဆက်တင်များ",
     "description": "javascript ကို အသုံးပြု၍ သင့်ကိုယ်ပိုင် script ကို ရေးသားနိုင်သည်။",
     "examplesTitle": "ဥပမာ",
-    "checkedUseSetting": "ဤဆက်တင်ကိုဖွင့်ရန် စစ်ဆေးပါ။",
-    "variables": {
-      "title": "ရနိုင်သော ကိန်းရှင်များ",
-      "click": "နှိပ်လိုက်သောလင့်ခ်၊ ဤရည်ညွှန်းချက်သည် <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> အတန်းအစား အရာဝတ္ထုတစ်ခုဖြစ်သည်။",
-      "page": "လက်ရှိစာမျက်နှာ၏ လင့်ခ်သည် ဤရည်ညွှန်းချက်မှာ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ဖြစ်သည်။ class object ပါ။"
-    },
-    "returnVariables": {
-      "title": "တန်ဘိုးတွေ ပြန်ရနိုင်တယ်။",
-      "rightTab": "ညာဘက်ရှိ တက်ဘ်အသစ်တွင် ဖွင့်ပါ။"
-    }
+    "checkedUseSetting": "ဤဆက်တင်ကိုဖွင့်ရန် စစ်ဆေးပါ။"
   },
   "menu": {
     "main": "ကမ္ဘာလုံးဆိုင်ရာ ဇာတ်ညွှန်း"

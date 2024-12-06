@@ -3,16 +3,7 @@
     "title": "Gidoien ezarpen orokorrak",
     "description": "Zure script-a idatzi dezakezu javascript erabiliz",
     "examplesTitle": "Adibidea",
-    "checkedUseSetting": "Egiaztatu ezarpen hau gaitzeko.",
-    "variables": {
-      "title": "Eskuragarri dauden aldagaiak",
-      "click": "Egin klik estekan, atributu hau <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klaseko objektua da.",
-      "page": "Uneko orriaren esteka <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URLa</a> da. klaseko objektua."
-    },
-    "returnVariables": {
-      "title": "Itzul daitezkeen balioak",
-      "rightTab": "Ireki eskuineko fitxa berri batean"
-    }
+    "checkedUseSetting": "Egiaztatu ezarpen hau gaitzeko."
   },
   "menu": {
     "main": "gidoi globala"

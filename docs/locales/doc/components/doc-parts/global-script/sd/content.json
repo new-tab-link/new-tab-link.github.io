@@ -3,16 +3,7 @@
     "title": "گلوبل اسڪرپٽ سيٽنگون",
     "description": "توھان جاوا اسڪرپٽ استعمال ڪندي پنھنجو اسڪرپٽ لکي سگھو ٿا",
     "examplesTitle": "مثال",
-    "checkedUseSetting": "ھن سيٽنگ کي چالو ڪرڻ لاء چيڪ ڪريو.",
-    "variables": {
-      "title": "موجود متغير",
-      "click": "ڪلڪ ڪيو ويو لنڪ، هي انتساب هڪ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> طبقي جو اعتراض آهي.",
-      "page": "موجوده صفحي جو لنڪ هي خاصيت هڪ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> آهي. طبقاتي اعتراض."
-    },
-    "returnVariables": {
-      "title": "قيمتون جيڪي واپس ڪري سگھجن ٿيون",
-      "rightTab": "ساڄي پاسي نئين ٽيب ۾ کوليو"
-    }
+    "checkedUseSetting": "ھن سيٽنگ کي چالو ڪرڻ لاء چيڪ ڪريو."
   },
   "menu": {
     "main": "عالمي رسم الخط"

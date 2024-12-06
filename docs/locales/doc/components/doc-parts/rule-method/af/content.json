@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Reëlinvoerinstellings",
+    "rule": {
+      "edit": "Voeg reëlinskrywings by of wysig dit",
+      "description": "Jy kan hierdie instelling deur die regs-kliekkieslys op enige webblad invoer .",
+      "formats": {
+        "title": "reël patroon",
+        "url": {
+          "title": "URL-modus, volledige URL.",
+          "example": {
+            "as": "Byvoorbeeld:"
+          },
+          "explain": "Hierdie metode kan ooreenstem met die volledige URL."
+        },
+        "glob": {
+          "title": "Die glob-metode gebruik die {{1}}-biblioteek <a>sien</a> vir gebruik, of jy kan soek vir die gebruik van {{2}}.",
+          "example": {
+            "as": "Byvoorbeeld:",
+            "a": "{{1}}, wat ooreenstem met die YouTube-tuisblad en alle subbladsye."
+          }
+        },
+        "regexp": {
+          "title": "Gereelde uitdrukking, sien asseblief <a>Sien</a> vir gebruik."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Reëlinvoerinstellings"
+  }
+}

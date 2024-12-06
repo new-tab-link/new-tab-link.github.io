@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Qayda girişi parametrləri",
+    "rule": {
+      "edit": "Qayda qeydlərini əlavə edin və ya redaktə edin",
+      "description": "Siz bu parametri istənilən veb-səhifədə sağ klik menyusu vasitəsilə daxil edə bilərsiniz. Bir qayda olaraq veb səhifənin URL-i əlavə olunacaq .",
+      "formats": {
+        "title": "qayda nümunəsi",
+        "url": {
+          "title": "URL rejimi, tam URL.",
+          "example": {
+            "as": "Məsələn:"
+          },
+          "explain": "Bu üsul tam URL-ə uyğun ola bilər."
+        },
+        "glob": {
+          "title": "Glob metodu {{1}} kitabxanasından istifadə edir, lütfən, istifadə üçün <a>baxın</a> və ya {{2}} istifadəsini axtara bilərsiniz.",
+          "example": {
+            "as": "Məsələn:",
+            "a": "{{1}}, YouTube əsas səhifəsinə və bütün alt səhifələrə uyğun gəlir."
+          }
+        },
+        "regexp": {
+          "title": "Daimi ifadə, istifadə üçün <a>Bax</a>-a baxın."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Qayda girişi parametrləri"
+  }
+}

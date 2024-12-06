@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Beschikbare variabelen",
-    "page": ": De variabele is het URL-object van de huidige webpagina. Voor details, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. zie</a>",
+    "title": "Beschikbare variabele- en functieobjecten",
+    "click": ": Het URL-object van de aangeklikte link. Voor details, <a>zie</a>",
+    "page": ": Het URL-object van de huidige webpagina (meestal de adresbalk), gedetailleerde introductie <a>Zie</a>",
     "pageHost": ": De domeinnaam van de huidige webpagina",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: dezelfde domeinnaam. Hoewel de hoofddomeinnamen van {{_youtube_}} en {{_families_}} beide {{_mainDomain_}} zijn, zijn de subdomeinnamen {{_youtubeSubDomain_}} en {{ _familiesSubDomain_}} Hun domeinnamen zijn dus verschillend.",
-    "click": ": de link waarop is geklikt",
     "clickpath": ": Het pad van de aangeklikte link",
-    "minimatch": ": {{_glob_}} matchingmethode, met behulp van de {{_minimatch_}} bibliotheek, gebruiksmethode <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Zie < /a>, of u kunt zoeken naar {{_glob_}}.",
-    "isSameDomain": ": Of het nu dezelfde domeinnaam is, {{_true_}} is ja, {{_false_}} is nee.",
-    "isSameParent": ": Of het nu hetzelfde bovenliggende pad is, {{_true_}} is ja, {{_false_}} is nee.",
-    "isPageSublink": ": Of de huidige pagina een subpagina is van de aangeklikte link, {{_true_}} is ja, {{_false_}} is nee.",
-    "isPageMultilevelSublink": ": Of de huidige pagina een oneindige subpagina is van de aangeklikte link, {{_true_}} is ja, {{_false_}} is nee.",
-    "isClickSublink": ": Of de aangeklikte link een sublink van de huidige pagina is, {{_true_}} is ja, {{_false_}} is nee.",
-    "isClickMultilevelSublink": ": Of de aangeklikte link een onbeperkte sublink van de huidige pagina is, {{_true_}} is ja, {{_false_}} is nee.",
+    "isSameDomain": ": Of het nu dezelfde domeinnaam is, {{tt}} is ja, {{ff}} is nee.",
+    "isSameSubDomain": "{{ss}}: Dezelfde domeinnaam. Merk op dat hoewel de hoofddomeinnamen van {{yy}} en {{ff}} beide {{mm}} zijn, de subdomeinnamen {{ww}} en zijn. respectievelijk {{ffss}}. Hun domeinnamen zijn dus verschillend.",
+    "isSameParent": ": Of het nu hetzelfde bovenliggende pad is, {{tt}} is ja, {{ff}} is nee.",
+    "isPageSublink": ": Of de huidige pagina een subpagina is van de aangeklikte link, {{tt}} is ja, {{ff}} is nee.",
+    "isPageMultilevelSublink": ": Of de huidige pagina een oneindige subpagina is van de aangeklikte link, {{tt}} is ja, {{ff}} is nee.",
+    "isClickSublink": ": Of de aangeklikte link een sublink van de huidige pagina is, {{tt}} is ja, {{ff}} is nee.",
+    "isClickMultilevelSublink": ": Of de aangeklikte link een onbeperkte sublink van de huidige pagina is, {{tt}} is ja, {{ff}} is nee.",
     "returnVariables": {
       "title": "Retourneerbare variabelen",
-      "rightTab": ": De link wordt rechts in een nieuw tabblad geopend",
-      "leftTab": ": De link wordt links in een nieuw tabblad geopend",
-      "currentWindow": "huidige venster",
-      "newWindow": "nieuw venster",
-      "incognitoWindow": "Incognitovenster",
-      "popupWindow": "Pop-upvenster",
-      "currentTab": "Huidig ​​tabblad",
-      "active": "Activeer nu",
-      "inactive": "Niet geactiveerd"
+      "window": {
+        "title": "raam",
+        "currentWindow": ":Huidige venster",
+        "newWindow": ":nieuw venster",
+        "incognitoWindow": ":Onzichtbaar raam",
+        "popupWindow": ":pop-upvenster",
+        "externalBrowser": ":Externe browser (zoals {{tt}}, enz.)"
+      },
+      "tab": {
+        "title": "tabblad",
+        "rightTab": ": De link wordt rechts in een nieuw tabblad geopend",
+        "leftTab": ": De link wordt links in een nieuw tabblad geopend",
+        "currentTab": ":Huidige tabblad"
+      },
+      "active": {
+        "title": "actieve staat",
+        "active": ": Onmiddellijk activeren",
+        "inactive": ":Inactief"
+      }
+    },
+    "functions": {
+      "title": "Beschikbare functieobjecten",
+      "minimatch": ": De {{gg}}-matchingsmethode maakt gebruik van de {{mm}}-bibliotheek. Zie <a>Zie</a> voor de gebruiksmethode, of u kunt ook zoeken naar de gebruiksmethode van {{gg}}."
     }
   },
   "menu": {

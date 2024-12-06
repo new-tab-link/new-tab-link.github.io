@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Tiltækar breytur",
-    "page": ": Breytan er URL hlutur núverandi vefsíðu Fyrir frekari upplýsingar, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. sjá</a>",
+    "title": "Tiltækir breytilegir og virka hlutir",
+    "click": ": Vefslóð hlutur hlekksins sem smellt er á Fyrir frekari upplýsingar, <a>sjá</a>",
+    "page": ": Vefslóðarhlutur núverandi vefsíðu (venjulega veffangastikan), nákvæm kynning <a>Sjá</a>",
     "pageHost": ": Lén núverandi vefsíðu",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Sama lén. Athugaðu að þó að aðallén {{_youtube_}} og {{_families_}} séu bæði {{_mainDomain_}}, þá eru undirlénin {{_youtubeSubDomain_}} og {{. _familiesSubDomain_}} í sömu röð Svo lén þeirra eru önnur.",
-    "click": ": tengilinn sem smellt var á",
     "clickpath": ": Slóð hlekksins sem smellt er á",
-    "minimatch": ": {{_glob_}} samsvörunaraðferð, með {{_minimatch_}} bókasafninu, notkunaraðferð <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Sjá <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Sjá < /a>, eða þú getur leitað að {{_glob_}}.",
-    "isSameDomain": ": Hvort sem það er sama lén, {{_true_}} er já, {{_false_}} er nei.",
-    "isSameParent": ": Hvort sem það er sama foreldri leið, {{_true_}} er já, {{_false_}} er nei.",
-    "isPageSublink": ": Hvort sem núverandi síða er undirsíða af hlekknum sem smellt er á, þá er {{_true_}} já, {{_false_}} er nei.",
-    "isPageMultilevelSublink": ": Hvort sem núverandi síða er óendanleg undirsíða af hlekknum sem smellt er á, þá er {{_true_}} já, {{_false_}} er nei.",
-    "isClickSublink": ": Hvort sem smellt er á hlekkinn er undirtengill núverandi síðu er {{_true_}} já, {{_false_}} er nei.",
-    "isClickMultilevelSublink": ": Hvort sem smellt er á hlekkinn er ótakmarkaður undirtengill núverandi síðu, {{_true_}} er já, {{_false_}} er nei.",
+    "isSameDomain": ": Hvort sem það er sama lén, {{tt}} er já, {{ff}} er nei.",
+    "isSameSubDomain": "{{ss}}: Sama lén Athugaðu að þó að aðallén {{yy}} og {{ff}} séu bæði {{mm}}, þá eru undirlénin {{ww}} og. {{ffss}} í sömu röð, svo lén þeirra eru önnur.",
+    "isSameParent": ": Hvort sem það er sama foreldri leið, {{tt}} er já, {{ff}} er nei.",
+    "isPageSublink": ": Hvort sem núverandi síða er undirsíða af hlekknum sem smellt er á þá er {{tt}} já, {{ff}} er nei.",
+    "isPageMultilevelSublink": ": Hvort sem núverandi síða er óendanleg undirsíða af hlekknum sem smellt er á, þá er {{tt}} já, {{ff}} er nei.",
+    "isClickSublink": ": Hvort sem smellt er á hlekkinn er undirtengill núverandi síðu, þá er {{tt}} já, {{ff}} er nei.",
+    "isClickMultilevelSublink": ": Hvort sem smellt er á hlekkinn er ótakmarkaður undirtengill núverandi síðu, þá er {{tt}} já, {{ff}} er nei.",
     "returnVariables": {
       "title": "Skilabreytur",
-      "rightTab": ": Tengillinn opnast í nýjum flipa hægra megin",
-      "leftTab": ": Hlekkurinn opnast í nýjum flipa til vinstri",
-      "currentWindow": "núverandi glugga",
-      "newWindow": "nýr gluggi",
-      "incognitoWindow": "huliðsgluggi",
-      "popupWindow": "Sprettigluggi",
-      "currentTab": "Núverandi flipi",
-      "active": "Virkjaðu núna",
-      "inactive": "Ekki virkjað"
+      "window": {
+        "title": "glugga",
+        "currentWindow": ": Núverandi gluggi",
+        "newWindow": ": nýr gluggi",
+        "incognitoWindow": ": Ósýnilegur gluggi",
+        "popupWindow": ":sprettigluggi",
+        "externalBrowser": ":Ytri vafri (eins og {{tt}} osfrv.)"
+      },
+      "tab": {
+        "title": "flipasíðu",
+        "rightTab": ": Tengillinn opnast í nýjum flipa hægra megin",
+        "leftTab": ": Hlekkurinn opnast í nýjum flipa til vinstri",
+        "currentTab": ": Núverandi flipi"
+      },
+      "active": {
+        "title": "virkt ástand",
+        "active": ": Virkjaðu strax",
+        "inactive": ": Óvirkur"
+      }
+    },
+    "functions": {
+      "title": "Tiltækir virka hlutir",
+      "minimatch": ": Samsvörunaraðferðin {{gg}} notar {{mm}} bókasafnið Vinsamlegast sjáðu <a>Sjá</a> fyrir notkunaraðferðina, eða þú getur líka leitað að notkunaraðferðinni fyrir {{gg}}."
     }
   },
   "menu": {

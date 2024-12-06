@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Definições de entrada de regras",
+    "rule": {
+      "edit": "Adicionar ou editar entradas de regras",
+      "description": "Pode introduzir esta definição através do menu do botão direito do rato em qualquer página web Ao entrar a partir de uma página web, o URL da página web será adicionado como regra por defeito.",
+      "formats": {
+        "title": "padrão de regra",
+        "url": {
+          "title": "Modo URL, URL completo.",
+          "example": {
+            "as": "Por exemplo:"
+          },
+          "explain": "Este método pode corresponder ao URL completo."
+        },
+        "glob": {
+          "title": "O método glob utiliza a biblioteca {{1}}.",
+          "example": {
+            "as": "Por exemplo:",
+            "a": "{{1}}, que corresponde à página inicial do YouTube e a todas as subpáginas."
+          }
+        },
+        "regexp": {
+          "title": "Expressão regular, consulte <a>Ver</a> para utilização."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Definições de entrada de regras"
+  }
+}

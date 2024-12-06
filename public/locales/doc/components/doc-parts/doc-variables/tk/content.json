@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Elýeterli üýtgeýjiler",
-    "page": ": Üýtgeýji häzirki web sahypasynyň URL obýektidir. Jikme-jiklikler üçin <a href = 'https: //developer.mozilla.org/docs/Web/API/URL' target = '_ blank' rel = 'noreferrer'> seret </a>",
+    "title": "Elýeterli üýtgeýän we funksiýa obýektleri",
+    "click": ": Basylan baglanyşygyň URL obýekti Jikme-jiklikler üçin <a> serediň </a>",
+    "page": ": Häzirki web sahypasynyň URL obýekti (köplenç salgy salgysy), jikme-jik giriş <a> Seret </a>",
     "pageHost": ": Häzirki web sahypasynyň domen ady",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Şol bir domen ady, {{_youtube_}} we {{_ maşgala_}} esasy domen atlarynyň ikisiniňem {{_mainDomain_}} bolandygyna üns beriň, aşaky domen atlary {{_youtubeSubDomain_}} we {{ _familySubDomain_} respectively degişlilikde olaryň domen atlary başga.",
-    "click": ": basylan baglanyşyk",
     "clickpath": ": Basylan baglanyşygyň ýoly",
-    "minimatch": ": {{_minobatch_}} kitaphanasyny ulanyp, {{_glob_}} gabat gelýän usul, ulanyş usuly <a href = 'https: //github.com/isaacs/minimatch' target = '_ blank' rel = 'noreferrer'> Seret < / a> ýa-da {{_glob_} for gözläp bilersiňiz.",
-    "isSameDomain": ": Şol bir domen ady bolsun, {{_true_} yes hawa, {{_false_}} ýok.",
-    "isSameParent": ": Şol bir ene-atanyň ýoly bolsun, {{_true_} yes hawa, {{_false_}} ýok.",
-    "isPageSublink": ": Häzirki sahypa basylan baglanyşygyň kiçi sahypasymy ýa-da ýok, {{_true_} yes hawa, {{_false_} no ýok.",
-    "isPageMultilevelSublink": ": Häzirki sahypanyň basylan baglanyşygyň çäksiz sahypasydygyna ýa-da ýokdugyna {{_true_} yes hawa, {{_false_}} ýok.",
-    "isClickSublink": ": Basylan baglanyşyk häzirki sahypanyň kiçi baglanyşygymy ýa-da ýokmy, {{_true_} yes hawa, {{_false_} no ýok.",
-    "isClickMultilevelSublink": ": Basylan baglanyşyk häzirki sahypanyň çäksiz kiçi baglanyşygymy ýa-da ýokmy, {{_true_} yes hawa, {{_false_}} ýok.",
+    "isSameDomain": ": Şol bir domen ady bolsun, {{tt} yes hawa, {{ff} no ýok.",
+    "isSameSubDomain": "{ss}}: Şol bir domen ady {{yy}} we {{ff}} esasy domen atlarynyň ikisiniňem {{mm} aredygyna üns beriň, kiçi domen atlary {{ww}} we {ffss}} degişlilikde olaryň domen atlary başga.",
+    "isSameParent": ": Şol bir ene-atanyň ýoly bolsun, {{tt} yes hawa, {{ff}} ýok.",
+    "isPageSublink": ": Häzirki sahypa basylan baglanyşygyň kiçi sahypasy bolsun ýa-da ýok, {{tt} yes hawa, {{ff} no ýok.",
+    "isPageMultilevelSublink": ": Häzirki sahypa basylan baglanyşygyň çäksiz sahypasydygyna ýa-da ýokdugyna {{tt} yes hawa, {{ff} no ýok.",
+    "isClickSublink": ": Basylan baglanyşyk häzirki sahypanyň kiçi baglanyşygymy ýa-da ýokmy, {{tt} yes hawa, {{ff} no ýok.",
+    "isClickMultilevelSublink": ": Basylan baglanyşyk häzirki sahypanyň çäksiz kiçi baglanyşygymy ýa-da ýokmy, {{tt} yes hawa, {{ff} no ýok.",
     "returnVariables": {
       "title": "Yza gaýtarylýan üýtgeýjiler",
-      "rightTab": ": Salgy sag tarapdaky täze goýmada açylýar",
-      "leftTab": ": Salgy çep tarapdaky täze goýmada açylýar",
-      "currentWindow": "häzirki penjire",
-      "newWindow": "täze penjire",
-      "incognitoWindow": "Incognito penjiresi",
-      "popupWindow": "Açylýan penjire",
-      "currentTab": "Häzirki goýma",
-      "active": "Indi işjeňleşdiriň",
-      "inactive": "Işledilmedik"
+      "window": {
+        "title": "penjire",
+        "currentWindow": ": Häzirki penjire",
+        "newWindow": ": täze penjire",
+        "incognitoWindow": ": Görünmeýän penjire",
+        "popupWindow": ": açylýan penjire",
+        "externalBrowser": ": Daşarky brauzer ({{tt}} we ş.m.)"
+      },
+      "tab": {
+        "title": "goýma sahypasy",
+        "rightTab": ": Salgy sag tarapdaky täze goýmada açylýar",
+        "leftTab": ": Salgy çep tarapdaky täze goýmada açylýar",
+        "currentTab": ": Häzirki goýma"
+      },
+      "active": {
+        "title": "işjeň ýagdaý",
+        "active": ": Derrew işjeňleşdiriň",
+        "inactive": ": Aktiw däl"
+      }
+    },
+    "functions": {
+      "title": "Elýeterli funksiýa obýektleri",
+      "minimatch": ": {{Gg}} gabat gelýän usul {{mm}} kitaphanasyny ulanýar, ulanyş usuly üçin <a> Seret </a> serediň, ýa-da {{gg} use ulanyş usulyny gözläp bilersiňiz."
     }
   },
   "menu": {

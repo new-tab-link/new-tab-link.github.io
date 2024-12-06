@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Available variables",
-    "page": ": Musiyano ndicho chinhu cheURL chepeji yewebhu yazvino, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> ona</a>",
+    "title": "Available variable uye basa zvinhu",
+    "click": ": Chinhu cheURL chekubatanidza chadzvanywa, <a>ona</a>",
+    "page": ": Chinhu cheURL chepeji yewebhu iripo (kazhinji kero bar), sumo ine udzame <a>Ona</a>",
     "pageHost": ": The domain name of the current web page",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Zita redomeini rimwechete. Ziva kuti kunyange zvazvo mazita edomeini e{{_youtube_}} ne {{_families_}} ari ese {{_mainDomain_}}, mazita edomain ndeaya {{_youtubeSubDomain_}} uye {{ _familiesSubDomain_}} saka mazita avo akasiyana.",
-    "click": ": link yakadzvanywa",
     "clickpath": ": Nzira yekudzvanya link",
-    "minimatch": ": {{_glob_}} nzira yekuenzanisa, uchishandisa {{_minimatch_}} raibhurari, nzira yekushandisa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ona < /a>, kana kuti unogona kutsvaga {{_glob_}}.",
-    "isSameDomain": ": Kana riri zita renzvimbo imwe chete, {{_true_}} ndihongu, {{_false_}} kwete.",
-    "isSameParent": ": Kunyangwe iri nzira yevabereki imwe chete, {{_true_}} ndihongu, {{_false_}} kwete.",
-    "isPageSublink": ": Ingave peji yazvino idiki relink yakadzvanywa, {{_true_}} hongu, {{_false_}} kwete.",
-    "isPageMultilevelSublink": ": Kunyangwe peji razvino riri peji diki risingaperi repanodzvanywa link, {{_true_}} hongu, {{_false_}} kwete.",
-    "isClickSublink": ": Kunyangwe link yadzvanywa iri sub-link yepeji razvino, {{_true_}} hongu, {{_false_}} kwete.",
-    "isClickMultilevelSublink": ": Kunyangwe iyo link yadzvanya iri sub-link isina muganhu yepeji razvino, {{_true_}} ndihongu, {{_false_}} kwete.",
+    "isSameDomain": ": Kana riri zita renzvimbo imwe chete, {{tt}} ndihongu, {{ff}} kwete.",
+    "isSameSubDomain": "{{ss}}: Iro zita renzvimbo imwe chete {{ffss}} saka mazita enzvimbo yavo akasiyana.",
+    "isSameParent": ": Kana iri nzira yemubereki mumwechete, {{tt}} ndihongu, {{ff}} kwete.",
+    "isPageSublink": ": Ingave peji razvino idiki rechikamu chadzvanywa, {{tt}} hongu, {{ff}} kwete.",
+    "isPageMultilevelSublink": ": Kunyangwe peji razvino riri peji diki risingaperi repanodzvanywa link, {{tt}} hongu, {{ff}} kwete.",
+    "isClickSublink": ": Kunyangwe link yadzvanywa iri sub-link yepeji razvino, {{tt}} hongu, {{ff}} kwete.",
+    "isClickMultilevelSublink": ": Kunyangwe iyo link yadzvanya iri sub-link isina muganho yepeji razvino, {{tt}} ndihongu, {{ff}} kwete.",
     "returnVariables": {
       "title": "Returnable variables",
-      "rightTab": ": Iyo link inovhura mune nyowani tab kurudyi",
-      "leftTab": ": Iyo link inovhura mune nyowani tab kuruboshwe",
-      "currentWindow": "hwindo razvino",
-      "newWindow": "hwindo idzva",
-      "incognitoWindow": "Incognito hwindo",
-      "popupWindow": "Pop-up window",
-      "currentTab": "Current tab",
-      "active": "Activate izvozvi",
-      "inactive": "Not activated"
+      "window": {
+        "title": "hwindo",
+        "currentWindow": ":Hwindi razvino",
+        "newWindow": ":hwindo idzva",
+        "incognitoWindow": ":Hwindi risingaoneki",
+        "popupWindow": ": pop-up hwindo",
+        "externalBrowser": ":browser yekunze (senge {{tt}}, nezvimwewo)"
+      },
+      "tab": {
+        "title": "tab peji",
+        "rightTab": ": Iyo link inovhura mune nyowani tab kurudyi",
+        "leftTab": ": Iyo link inovhura mune nyowani tab kuruboshwe",
+        "currentTab": ":Yazvino tab"
+      },
+      "active": {
+        "title": "active state",
+        "active": ": Vhura ipapo",
+        "inactive": ":Isina kushanda"
+      }
+    },
+    "functions": {
+      "title": "Available basa zvinhu",
+      "minimatch": ": {{gg}} nzira yekuenzanisa inoshandisa {{mm}} library"
     }
   },
   "menu": {

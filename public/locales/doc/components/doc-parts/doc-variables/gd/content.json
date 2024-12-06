@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Caochladairean a tha rim faighinn",
-    "page": ": 'S e an caochladair cuspair URL na duilleige-lìn làithreach. Airson mion-fhiosrachadh, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> faic</a>",
+    "title": "Feartan caochlaideach agus gnìomh a tha rim faighinn",
+    "click": ": An nì URL aig a' cheangal air an deach briogadh Airson mion-fhiosrachadh, <a>faic</a>",
+    "page": ": An nì URL aig an duilleag-lìn làithreach (mar as trice am bàr seòlaidh), ro-ràdh mionaideach <a>Faic</a>",
     "pageHost": ": Ainm àrainn na duilleige lìn làithreach",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: An aon ainm àrainn. _familiesSubDomain_}} fa leth Mar sin tha na h-ainmean àrainn aca eadar-dhealaichte.",
-    "click": ": an ceangal a chaidh a bhriogadh",
     "clickpath": ": Slighe a’ cheangail a chaidh a bhriogadh",
-    "minimatch": ": {{_glob_}} modh maidsidh, a' cleachdadh an leabharlainn {{_minimatch_}}, modh cleachdaidh <a href='https://github.com/isaacs/minimatch' target='_blank' rel= 'noreferrer'>Faic < /a>, no 's urrainn dhut {{_glob_}} a lorg.",
-    "isSameDomain": ": Co-dhiù an e an aon ainm àrainn a th' ann, tha {{_true_}} tha, chan eil {{_false_}} ann.",
-    "isSameParent": ": Co-dhiù an e an aon shlighe phàrant a th' ann, tha {{_true_}} tha, chan eil {{_false_}} ann.",
-    "isPageSublink": ": Co-dhiù an e fo-dhuilleag den cheangal a chaidh a bhriogadh a tha san duilleag làithreach, tha {{_true_}} tha, chan eil {{_false_}}.",
-    "isPageMultilevelSublink": ": Co-dhiù an e fo-dhuilleag neo-chrìochnach den cheangal a chaidh a bhriogadh a tha san duilleag làithreach, tha {{_true_}} tha, chan eil {{_false_}}.",
-    "isClickSublink": ": Co-dhiù an e fo-cheangal den duilleag làithreach a tha sa cheangal a chaidh a bhriogadh, tha {{_true_}} tha, chan eil {{_false_}}.",
-    "isClickMultilevelSublink": ": Co-dhiù a tha an ceangal cliogadh 'na fho-cheangal neo-chuingealaichte dhen duilleag làithreach, tha {{_true_}} tha, chan eil {{_false_}}.",
+    "isSameDomain": ": Co-dhiù an e an aon ainm àrainn a th' ann, {{tt}} tha, chan eil {{ff}}.",
+    "isSameSubDomain": "{{ ss}}: An aon ainm àrainn. {{ffss}} fa leth. Mar sin tha na h-ainmean àrainn aca eadar-dhealaichte.",
+    "isSameParent": ": Co-dhiù an e an aon shlighe phàrant a th' ann, tha {{tt}} tha, chan eil {{ff}}.",
+    "isPageSublink": ": Co-dhiù an e fo-dhuilleag den cheangal a chaidh a bhriogadh a tha san duilleag làithreach, tha {{tt}} tha, chan eil {{ff}}.",
+    "isPageMultilevelSublink": ": Co-dhiù a tha an duilleag làithreach 'na fo-dhuilleag neo-chrìochnach den cheangal a chaidh a bhriogadh, tha {{tt}} tha, chan eil {{ff}}.",
+    "isClickSublink": ": Co-dhiù an e fo-cheangal den duilleag làithreach a tha sa cheangal a chaidh a bhriogadh, tha {{tt}} tha, chan eil {{ff}}.",
+    "isClickMultilevelSublink": ": Co-dhiù an e fo-cheangal neo-chuingealaichte den duilleag làithreach a tha sa cheangal a chaidh a bhriogadh, tha {{tt}} tha, chan eil {{ff}}.",
     "returnVariables": {
       "title": "Caochladairean a ghabhas tilleadh",
-      "rightTab": ": Tha an ceangal a' fosgladh ann an taba ùr air an taobh dheas",
-      "leftTab": ": Tha an ceangal a’ fosgladh ann an taba ùr air an taobh chlì",
-      "currentWindow": "uinneag làithreach",
-      "newWindow": "uinneag ùr",
-      "incognitoWindow": "Uinneag neo-aithnichte",
-      "popupWindow": "Uinneag pop-up",
-      "currentTab": "Clàr làithreach",
-      "active": "Cuir an gnìomh a-nis",
-      "inactive": "Gun ghnìomhachadh"
+      "window": {
+        "title": "uinneag",
+        "currentWindow": ": An uinneag an-dràsta",
+        "newWindow": ":uinneag ùr",
+        "incognitoWindow": ": Uinneag neo-fhaicsinneach",
+        "popupWindow": ": uinneag pop-up",
+        "externalBrowser": ": Brabhsair taobh a-muigh (leithid {{tt}}, msaa.)"
+      },
+      "tab": {
+        "title": "duilleag tab",
+        "rightTab": ": Tha an ceangal a' fosgladh ann an taba ùr air an taobh dheas",
+        "leftTab": ": Tha an ceangal a’ fosgladh ann an taba ùr air an taobh chlì",
+        "currentTab": ": tab làithreach"
+      },
+      "active": {
+        "title": "staid gnìomhach",
+        "active": ": Cuir an gnìomh sa bhad",
+        "inactive": ": Neo-ghnìomhach"
+      }
+    },
+    "functions": {
+      "title": "Feartan gnìomh a tha rim faighinn",
+      "minimatch": ": Tha an dòigh fhreagarrach {{gg}} a' cleachdadh an leabharlainn {{mm}}. Faic <a>Faic</a> airson an dòigh cleachdaidh, no 's urrainn dhut am modh cleachdaidh aig {{gg}} a lorg cuideachd."
     }
   },
   "menu": {

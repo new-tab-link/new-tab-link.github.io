@@ -3,16 +3,7 @@
     "title": "Globale skripinstellings",
     "description": "Jy kan jou eie skrif skryf deur Javascript te gebruik",
     "examplesTitle": "Voorbeeld",
-    "checkedUseSetting": "Merk om hierdie instelling te aktiveer.",
-    "variables": {
-      "title": "Beskikbare veranderlikes",
-      "click": "Geklikte skakel, hierdie kenmerk is 'n <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klasvoorwerp.",
-      "page": "Die skakel van die huidige bladsy Hierdie kenmerk is 'n <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. klas voorwerp."
-    },
-    "returnVariables": {
-      "title": "Waardes wat teruggestuur kan word",
-      "rightTab": "Maak in 'n nuwe oortjie aan die regterkant oop"
-    }
+    "checkedUseSetting": "Merk om hierdie instelling te aktiveer."
   },
   "menu": {
     "main": "globale skrif"

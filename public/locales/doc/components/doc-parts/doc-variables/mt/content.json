@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Varjabbli disponibbli",
-    "page": ": Il-varjabbli hija l-oġġett tal-URL tal-paġna web attwali Għad-dettalji, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. ara</a>",
+    "title": "Oġġetti varjabbli u funzjoni disponibbli",
+    "click": ": L-oġġett tal-URL tal-link ikklikkjat Għad-dettalji, <a>ara</a>",
+    "page": ": L-oġġett tal-URL tal-paġna tal-web kurrenti (ġeneralment il-bar tal-indirizz), introduzzjoni dettaljata <a>Ara</a>",
     "pageHost": ": L-isem tad-dominju tal-paġna web attwali",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: L-istess isem tad-dominju Innota li għalkemm l-ismijiet tad-dominju prinċipali ta' {{_youtube_}} u {{_families_}} huma t-tnejn {{_mainDomain_}}, l-ismijiet tas-sottodominju huma {{_youtubeSubDomain_}} u {{. _familiesSubDomain_}} rispettivament. Allura l-ismijiet tad-dominju tagħhom huma differenti.",
-    "click": ": il-link li għafast",
     "clickpath": ": Il-mogħdija tal-link ikklikkjat",
-    "minimatch": ": {{_glob_}} metodu ta' tqabbil, bl-użu tal-librerija {{_minimatch_}}, metodu ta' użu <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Ara < /a>, jew tista' tfittex {{_glob_}}.",
-    "isSameDomain": ": Kemm jekk huwiex l-istess isem tad-dominju, {{_true_}} huwa iva, {{_false_}} huwa le.",
-    "isSameParent": ": Kemm jekk huwiex l-istess mogħdija ġenitur, {{_true_}} hija iva, {{_false_}} hija le.",
-    "isPageSublink": ": Kemm jekk il-paġna attwali hijiex subpaġna tal-link ikklikkjat, {{_true_}} hija iva, {{_false_}} hija le.",
-    "isPageMultilevelSublink": ": Kemm jekk il-paġna attwali hijiex subpaġna infinita tal-link ikklikkjat, {{_true_}} hija iva, {{_false_}} hija le.",
-    "isClickSublink": ": Kemm jekk il-link ikklikkjat hijiex sublink tal-paġna kurrenti, {{_true_}} hija iva, {{_false_}} hija le.",
-    "isClickMultilevelSublink": ": Kemm jekk il-link ikklikkjat hijiex sublink illimitat tal-paġna attwali, {{_true_}} hija iva, {{_false_}} hija le.",
+    "isSameDomain": ": Kemm jekk huwiex l-istess isem tad-dominju, {{tt}} hija iva, {{ff}} hija le.",
+    "isSameSubDomain": "{{ss}}: L-istess isem tad-dominju Innota li għalkemm l-ismijiet tad-dominju prinċipali ta' {{yy}} u {{ff}} huma t-tnejn {{mm}}, l-ismijiet tas-subdominju huma {{ww}} u. {{ffss}} rispettivament. Allura l-ismijiet tad-dominju tagħhom huma differenti.",
+    "isSameParent": ": Kemm jekk huwiex l-istess mogħdija ġenitur, {{tt}} hija iva, {{ff}} hija le.",
+    "isPageSublink": ": Jekk il-paġna attwali hijiex subpaġna tal-link ikklikkjat, {{tt}} hija iva, {{ff}} hija le.",
+    "isPageMultilevelSublink": ": Jekk il-paġna attwali hijiex subpaġna infinita tal-link ikklikkjat, {{tt}} hija iva, {{ff}} hija le.",
+    "isClickSublink": ": Kemm jekk il-link ikklikkjat hijiex sub-link tal-paġna attwali, {{tt}} hija iva, {{ff}} hija le.",
+    "isClickMultilevelSublink": ": Kemm jekk il-link ikklikkjat hijiex sublink illimitat tal-paġna attwali, {{tt}} hija iva, {{ff}} hija le.",
     "returnVariables": {
       "title": "Varjabbli ritornabbli",
-      "rightTab": ": Il-link tiftaħ f'tab ġdida fuq il-lemin",
-      "leftTab": ": Il-link tiftaħ f'tab ġdida fuq ix-xellug",
-      "currentWindow": "tieqa kurrenti",
-      "newWindow": "tieqa ġdida",
-      "incognitoWindow": "Tieqa incognito",
-      "popupWindow": "Tieqa pop-up",
-      "currentTab": "Tab kurrenti",
-      "active": "Attiva issa",
-      "inactive": "Mhux attivat"
+      "window": {
+        "title": "tieqa",
+        "currentWindow": ": Tieqa kurrenti",
+        "newWindow": ":tieqa ġdida",
+        "incognitoWindow": ": Tieqa inviżibbli",
+        "popupWindow": ":tieqa pop-up",
+        "externalBrowser": ":Brawer estern (bħal {{tt}}, eċċ.)"
+      },
+      "tab": {
+        "title": "paġna tab",
+        "rightTab": ": Il-link tiftaħ f'tab ġdida fuq il-lemin",
+        "leftTab": ": Il-link tiftaħ f'tab ġdida fuq ix-xellug",
+        "currentTab": ":Tab kurrenti"
+      },
+      "active": {
+        "title": "stat attiv",
+        "active": ": Attiva immedjatament",
+        "inactive": ":Inattiv"
+      }
+    },
+    "functions": {
+      "title": "Oġġetti tal-funzjoni disponibbli",
+      "minimatch": ": Il-metodu ta' tqabbil ta' {{gg}} juża l-librerija ta' {{mm}} Jekk jogħġbok ara <a>Ara</a> għall-metodu ta' użu, jew tista' wkoll tfittex il-metodu ta' użu ta' {{gg}}."
     }
   },
   "menu": {

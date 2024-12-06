@@ -3,16 +3,7 @@
     "title": "Algemene scriptinstellingen",
     "description": "U kunt uw eigen script schrijven met behulp van javascript",
     "examplesTitle": "Voorbeeld",
-    "checkedUseSetting": "Vink aan om deze instelling in te schakelen.",
-    "variables": {
-      "title": "Beschikbare variabelen",
-      "click": "Als u op de link klikt, is dit kenmerk een <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> klasseobject.",
-      "page": "De link van de huidige pagina. Dit kenmerk is een <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. klasse object."
-    },
-    "returnVariables": {
-      "title": "Waarden die kunnen worden geretourneerd",
-      "rightTab": "Open in een nieuw tabblad aan de rechterkant"
-    }
+    "checkedUseSetting": "Vink aan om deze instelling in te schakelen."
   },
   "menu": {
     "main": "mondiaal schrift"

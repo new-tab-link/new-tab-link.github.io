@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "jekkal dugal sàrt",
+    "rule": {
+      "edit": "Yokk wala soppali duggal sàrt yi",
+      "description": "Mën nga dugal jekkal bii jaaraleko ci mënu klike ci ndeyjoor ci xët web bumu ci mëna doon, URL xët web bi dafay nekk sàrt buñ tëral. .",
+      "formats": {
+        "title": "modèlu sàrt",
+        "url": {
+          "title": "Mode URL, URL bu mat.",
+          "example": {
+            "as": "Ci misaal:"
+          },
+          "explain": "Xeet wi mën na méngoo ak URL bi yépp."
+        },
+        "glob": {
+          "title": "Pexem glob dafay jëfandikoo kàttanug {{1}} di nga seet <a>xoolal</a> jëfandikoo gi, walla nga mën a seet ci jëfandikoo {{2}}.",
+          "example": {
+            "as": "Ci misaal:",
+            "a": "{{1}}, mi méngoo ak xëtu dalal YouTube ak bépp ndawu xët."
+          }
+        },
+        "regexp": {
+          "title": "Baatu regleer, xoolal <a>Xool</a> ngir jëfandikoo ko."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "jekkal dugal sàrt"
+  }
+}

@@ -3,16 +3,7 @@
     "title": "Switirhisiwa swa matsalwa ya misava hinkwayo",
     "description": "U nga tsala tsalwa ra wena hi ku tirhisa javascript",
     "examplesTitle": "Xikombiso",
-    "checkedUseSetting": "Languta ku endla leswaku xiyimiso lexi xi tirha.",
-    "variables": {
-      "title": "Swilo leswi cinca-cincaka leswi kumekaka",
-      "click": "Xihlanganisi lexi tsindziyeriweke, xihlawulekisi lexi i <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> nchumu wa tlilasi.",
-      "page": "Xihlanganisi xa tluka ra sweswi.Xihlawulekisi lexi i <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> nchumu wa tlilasi."
-    },
-    "returnVariables": {
-      "title": "Mimpimo leyi nga tlheriseriwaka",
-      "rightTab": "Pfula eka thebhu leyintshwa etlhelo ra xinene"
-    }
+    "checkedUseSetting": "Languta ku endla leswaku xiyimiso lexi xi tirha."
   },
   "menu": {
     "main": "tsalwa ra misava hinkwayo"

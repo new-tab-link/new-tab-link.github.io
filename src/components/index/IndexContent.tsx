@@ -4,12 +4,13 @@ import { useAtomValue } from "jotai";
 import { Appbar } from "../appbar/Appbar";
 import { DocGlobal } from "../doc-parts/global/DocGlobal";
 import { DocOverview } from "../doc-parts/overview/DocOverview";
-import { DocVariables } from "../doc-parts/variables/DocVariables";
 import { Counter } from "./jotaitest";
 import { indexModel } from "./Model";
 import { DocAllLinks } from "../doc-parts/all-links/DocAllLinks";
 import { DocDiffDomainLink } from "../doc-parts/diff-domain-links/DocDiffDomainLinks";
 import { DocGlobalScript } from "../doc-parts/global-script/DocGlobalScript";
+import { DocVariables } from "../doc-parts/doc-variables/DocVariables";
+import { DocRuleMethod } from "../doc-parts/rule-method/RuleMethod";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -67,8 +68,8 @@ function LeftMenu() {
         <DocAllLinks.Menu />
         <DocDiffDomainLink.Menu />
         <DocGlobalScript.Menu />
-        {/* <DocGlobal.Menu /> */}
         <DocVariables.Menu />
+        <DocRuleMethod.Menu/>
     </MenuContainer>
 }
 
@@ -111,8 +112,7 @@ export function IndexContent() {
                         <DocAllLinks.Doc />
                         <DocDiffDomainLink.Doc />
                         <DocGlobalScript.Doc />
-                        {/* <DocGlobal.Doc /> */}
-                        {/* <DocVariables.Doc /> */}
+                        <DocRuleMethod.Doc />
                         <MediaQuery />
                     </div>
                 </Stack>

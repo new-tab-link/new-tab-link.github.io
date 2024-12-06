@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Cilësimet e hyrjes së rregullave",
+    "rule": {
+      "edit": "Shtoni ose modifikoni hyrjet e rregullave",
+      "description": "Mund ta futni këtë cilësim përmes menysë së klikuar me të djathtën në çdo faqe interneti, URL-ja e faqes në internet do të shtohet si rregull .",
+      "formats": {
+        "title": "model rregulli",
+        "url": {
+          "title": "Mënyra URL, URL e plotë.",
+          "example": {
+            "as": "Për shembull:"
+          },
+          "explain": "Kjo metodë mund të përputhet me URL-në e plotë."
+        },
+        "glob": {
+          "title": "Metoda glob përdor bibliotekën {{1}} Ju lutemi <a>shih</a> për përdorim, ose mund të kërkoni për përdorimin e {{2}}.",
+          "example": {
+            "as": "Për shembull:",
+            "a": "{{1}}, që përputhet me faqen kryesore të YouTube dhe të gjitha nënfaqet."
+          }
+        },
+        "regexp": {
+          "title": "Shprehje e rregullt, ju lutemi shihni <a>Shiko</a> për përdorim."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Cilësimet e hyrjes së rregullave"
+  }
+}

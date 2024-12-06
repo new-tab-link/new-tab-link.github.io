@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Parametre ya kukotisa bansiku",
+    "rule": {
+      "edit": "Yika to yidika mambu ya nsiku",
+      "description": "Nge lenda kota na parametre yai na nzila ya menu ya diboko ya kitata na konso lutiti ya Internet, URL ya lutiti ya Internet ta yikama bonso nsiku na luyantiku Nge lenda soba bansiku yina kele na nsi. .",
+      "formats": {
+        "title": "mbandu ya nsiku",
+        "url": {
+          "title": "Mode URL, URL ya mvimba.",
+          "example": {
+            "as": "Mu mbandu:"
+          },
+          "explain": "Mutindu yai lenda fwanana ti URL ya mvimba."
+        },
+        "glob": {
+          "title": "Mpila ya glob ke sadilaka lundilu ya {{1}} Pardo <a>tala</a> sambu na nsadila, to nge lenda sosa nsadila ya {{2}}.",
+          "example": {
+            "as": "Mu mbandu:",
+            "a": "{{1}}, yina ke wakana ti lutiti ya luyantiku ya YouTube mpi balutiti yonso ya fioti."
+          }
+        },
+        "regexp": {
+          "title": "Kutuba mbala na mbala, tala <a>Tala</a> sambu na kusadila."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Parametre ya kukotisa bansiku"
+  }
+}

@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Swilo leswi cinca-cincaka leswi kumekaka",
-    "page": ": Xihlawulekisi i nchumu wa URL wa tluka ra webu ra sweswi Ku kuma vuxokoxoko, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> vona</a>",
+    "title": "Swilo leswi cinca-cincaka na swa ntirho leswi kumekaka",
+    "click": ": Nchumu wa URL wa xihlanganisi lexi tsindziyeriweke Ku kuma vuxokoxoko, <a>vona</a>",
+    "page": ": Nchumu wa URL wa tluka ra webu ra sweswi (hi ntolovelo i bar ya tiadirese), xingheniso xa vuxokoxoko <a>Vona</a>",
     "pageHost": ": Vito ra domain ra pheji ya webu ya sweswi",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Vito ra domain rin’we Xiya leswaku hambileswi mavito lamakulu ya domain ya {{_youtube_}} na {{_families_}} hi vumbirhi bya wona ya nga {{_mainDomain_}}, mavito ya domain ya le hansi i {{_youtubeSubDomain_}} na {{. _familiesSubDomain_}} hi ku landzelelana.",
-    "click": ": link leyi yi nga clickiwa",
     "clickpath": ": Ndlela ya xihlanganisi lexi tsindziyeriweke",
-    "minimatch": ": {{_glob_}} ndlela yo fambelanisa, hi ku tirhisa layiburari ya {{_minimatch_}}, ndlela ya matirhiselo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Vona < /a>, kumbe u nga ha lavisisa {{_glob_}}.",
-    "isSameDomain": ": Hambi ku ri vito ra domain leri fanaka, {{_true_}} i ina, {{_false_}} i e-e.",
-    "isSameParent": ": Hambi ku ri ndlela yin’we ya mutswari, {{_true_}} i ina, {{_false_}} i e-e.",
-    "isPageSublink": ": Loko tluka ra sweswi i tluka leritsongo ra xihlanganisi lexi tsindziyeriweke, {{_true_}} i ina, {{_false_}} i e-e.",
-    "isPageMultilevelSublink": ": Loko tluka ra sweswi i tluka leritsongo leri nga heriki ra xihlanganisi lexi tsindziyeriweke, {{_true_}} i ina, {{_false_}} i e-e.",
-    "isClickSublink": ": Loko xihlanganisi lexi tsindziyeriweke i xihlanganisi lexitsongo xa tluka ra sweswi, {{_true_}} i ina, {{_false_}} i e-e.",
-    "isClickMultilevelSublink": ": Loko xihlanganisi lexi tsindziyeriweke i xihlanganisi lexi nga pimiwangiki xa tluka ra sweswi, {{_true_}} i ina, {{_false_}} i e-e.",
+    "isSameDomain": ": Hambi ku ri vito ra domain leri fanaka, {{tt}} i ina, {{ff}} i e-e.",
+    "isSameSubDomain": "{{ss}}: Vito ra domain rin’we Xiya leswaku hambi leswi mavito lamakulu ya domain ya {{yy}} na {{ff}} havumbirhi bya wona ya nga {{mm}}, mavito ya domain ya le hansi i {{ww}} na {{ffss}} hi ku landzelelana.",
+    "isSameParent": ": Hambi ku ri ndlela yin’we ya mutswari, {{tt}} i ina, {{ff}} i e-e.",
+    "isPageSublink": ": Loko tluka ra sweswi i tluka leritsongo ra xihlanganisi lexi tsindziyeriweke, {{tt}} i ina, {{ff}} i e-e.",
+    "isPageMultilevelSublink": ": Loko tluka ra sweswi i tluka leritsongo leri nga heriki ra xihlanganisi lexi tsindziyeriweke, {{tt}} i ina, {{ff}} i e-e.",
+    "isClickSublink": ": Loko xihlanganisi lexi tsindziyeriweke i xihlanganisi lexitsongo xa tluka ra sweswi, {{tt}} i ina, {{ff}} i e-e.",
+    "isClickMultilevelSublink": ": Loko xihlanganisi lexi tsindziyeriweke i xihlanganisi lexi nga riki na swipimelo xa tluka ra sweswi, {{tt}} i ina, {{ff}} i e-e.",
     "returnVariables": {
       "title": "Swilo leswi cinca-cincaka leswi vuyiseriwaka",
-      "rightTab": ": Xihlanganisi xi pfula eka thebhu leyintshwa etlhelo ra xinene",
-      "leftTab": ": Xihlanganisi xi pfula eka thebhu leyintshwa etlhelo ra ximatsi",
-      "currentWindow": "fasitere ra sweswi",
-      "newWindow": "fasitere lerintshwa",
-      "incognitoWindow": "Fasitere ra incognito",
-      "popupWindow": "Fasitere leri humelelaka",
-      "currentTab": "Thebhu ya sweswi",
-      "active": "Tirhisa sweswi",
-      "inactive": "A swi tirhisiwi"
+      "window": {
+        "title": "fasitere",
+        "currentWindow": ":Fasitere ra sweswi",
+        "newWindow": ":fasitere lerintshwa",
+        "incognitoWindow": ":Fasitere leri nga vonakiki",
+        "popupWindow": ":fasitere leri humelelaka",
+        "externalBrowser": ":Xihlamusela-marito xa le handle (ku fana na {{tt}}, na swin'wana)"
+      },
+      "tab": {
+        "title": "tluka ra thebhu",
+        "rightTab": ": Xihlanganisi xi pfula eka thebhu leyintshwa etlhelo ra xinene",
+        "leftTab": ": Xihlanganisi xi pfula eka thebhu leyintshwa etlhelo ra ximatsi",
+        "currentTab": ":Thebhu ya sweswi"
+      },
+      "active": {
+        "title": "xiyimo lexi tirhaka",
+        "active": ": Tirhisa hi ku hatlisa",
+        "inactive": ":A nga tirhi"
+      }
+    },
+    "functions": {
+      "title": "Swilo swa ntirho leswi kumekaka",
+      "minimatch": ": Ndlela yo fambelanisa {{gg}} yi tirhisa layiburari ya {{mm}} Hi kombela u vona <a>Vona</a> eka ndlela ya matirhiselo, kumbe u nga ha tlhela u lavisisa ndlela ya matirhiselo ya {{gg}}."
     }
   },
   "menu": {

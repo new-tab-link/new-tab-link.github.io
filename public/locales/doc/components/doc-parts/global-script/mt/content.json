@@ -3,16 +3,7 @@
     "title": "Settings tal-iskript globali",
     "description": "Tista' tikteb l-iskript tiegħek billi tuża javascript",
     "examplesTitle": "Eżempju",
-    "checkedUseSetting": "Iċċekkja biex tippermetti dan is-setting.",
-    "variables": {
-      "title": "Varjabbli disponibbli",
-      "click": "Link ikklikkjat, dan l-attribut huwa oġġett tal-klassi <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Il-link tal-paġna attwali Dan l-attribut huwa <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. oġġett tal-klassi."
-    },
-    "returnVariables": {
-      "title": "Valuri li jistgħu jiġu rritornati",
-      "rightTab": "Iftaħ f'tab ġdida fuq il-lemin"
-    }
+    "checkedUseSetting": "Iċċekkja biex tippermetti dan is-setting."
   },
   "menu": {
     "main": "kitba globali"

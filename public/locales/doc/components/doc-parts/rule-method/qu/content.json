@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Kamachiy yaykuy churanakuna",
+    "rule": {
+      "edit": "Kamachiy qillqakunata yapay icha allichay",
+      "description": "Kay churayta mayqin web p'anqapi paña ñit'iy menú kaqnintakama yaykuyta atikunki Web p'anqamanta URL kamachiy hina yapasqa kanqa Kamachiykunata llamk'achiyta atikunki .",
+      "formats": {
+        "title": "kamachiy patrón",
+        "url": {
+          "title": "URL modo, hunt'asqa URL.",
+          "example": {
+            "as": "Kay hina:"
+          },
+          "explain": "Kay ñanqa hunt'asqa URL kaqwan tupachiyta atin."
+        },
+        "glob": {
+          "title": "Glob ñanqa {{1}} bibliotecata llamk'achin Ama hina kaspa <a>qhaway</a> llamk'achinapaq, icha {{2}} llamk'achiyta maskayta atinki.",
+          "example": {
+            "as": "Kay hina:",
+            "a": "{{1}}, chaymi YouTube qallariy p'anqawan llapa huch'uy p'anqakunawan tupan."
+          }
+        },
+        "regexp": {
+          "title": "Sapa kuti rimay, ama hina kaspa qhaway <a>Qhaway</a> llamk'achinapaq."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Kamachiy yaykuy churanakuna"
+  }
+}

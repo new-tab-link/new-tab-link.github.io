@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Sajoo galtee seera",
+    "rule": {
+      "edit": "Galtee seeraa dabaluu ykn gulaaluu",
+      "description": "Sajoo kana karaa sajoo cuqaasaa mirgaa fuula weebsaayitii kamiyyuu irratti galchuu dandeessa, URL fuula weebsaayitii akka seeraatti durtiidhaan ni dabalama .",
+      "formats": {
+        "title": "akkaataa seeraa",
+        "url": {
+          "title": "Haalata URL, URL guutuu.",
+          "example": {
+            "as": "Fakkeenyaaf:"
+          },
+          "explain": "Malli kun URL guutuu wajjin walsimuu danda'a."
+        },
+        "glob": {
+          "title": "Malli glob mana kitaabaa {{1}} fayyadama Fayyadamaaf Maaloo <a>ilaali</a>, ykn itti fayyadama {{2}} barbaaduu dandeessa.",
+          "example": {
+            "as": "Fakkeenyaaf:",
+            "a": "{{1}}, kan fuula jalqabaa YouTube fi fuula xiqqaa hunda waliin walsimu."
+          }
+        },
+        "regexp": {
+          "title": "Ibsa idilee, maaloo itti fayyadamaaf <a>Ilaali</a> ilaali."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Sajoo galtee seera"
+  }
+}

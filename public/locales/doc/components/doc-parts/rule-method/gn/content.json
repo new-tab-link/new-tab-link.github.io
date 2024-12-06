@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Regla jeike ñemboheko",
+    "rule": {
+      "edit": "Oñemoĩ térã omohenda umi regla jeike",
+      "description": "Ikatu reike ko ñemboheko menúpe clic akatúa rupive oimeraẽva página web-pe Reike jave peteĩ página web-gui, oñembojoapýta URL página web-pegua peteĩchaguaicha Ikatu remohenda umi formato ojeguerekóva ko’ápe .",
+      "formats": {
+        "title": "regla patrón rehegua",
+        "url": {
+          "title": "Modo URL, URL completo.",
+          "example": {
+            "as": "Techapyrã ramo:"
+          },
+          "explain": "Ko método ikatu ombojoaju URL hekoitépe."
+        },
+        "glob": {
+          "title": "Pe glob rape oipuru {{1}} aranduka’i Por favor <a>ehecha</a> jepururã, térã ikatu eheka {{2}} jepuru.",
+          "example": {
+            "as": "Techapyrã ramo:",
+            "a": "{{1}}, ombojoajúva YouTube ñanduti renda ha opaite ñanduti renda michĩva."
+          }
+        },
+        "regexp": {
+          "title": "Expresión regular, ehecha <a>Ehecha</a> ojepuru hag̃ua."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Regla jeike ñemboheko"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Postavke unosa pravila",
+    "rule": {
+      "edit": "Dodajte ili uredite unose pravila",
+      "description": "Ovu postavku možete unijeti putem izbornika s bilo kojom web-stranicom, URL web-stranice će biti dodan prema zadanim postavkama. Dostupni formati su objašnjeni u nastavku .",
+      "formats": {
+        "title": "obrazac pravila",
+        "url": {
+          "title": "Način URL-a, potpuni URL.",
+          "example": {
+            "as": "Na primjer:"
+          },
+          "explain": "Ova metoda može odgovarati cijelom URL-u."
+        },
+        "glob": {
+          "title": "Metoda glob koristi biblioteku {{1}} <a>pogledajte</a> za upotrebu ili možete pretražiti upotrebu {{2}}.",
+          "example": {
+            "as": "Na primjer:",
+            "a": "{{1}}, što odgovara početnoj stranici usluge YouTube i svim podstranicama."
+          }
+        },
+        "regexp": {
+          "title": "Regularni izraz, pogledajte <a>Pogledajte</a> za upotrebu."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Postavke unosa pravila"
+  }
+}

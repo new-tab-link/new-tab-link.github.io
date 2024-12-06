@@ -3,16 +3,7 @@
     "title": "Global script settings",
     "description": "Unogona kunyora script yako uchishandisa javascript",
     "examplesTitle": "Muenzaniso",
-    "checkedUseSetting": "Tarisa kuti ugone kuseta iyi.",
-    "variables": {
-      "title": "Available variables",
-      "click": "Wadzvanya link, chimiro ichi <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> chinhu chekirasi.",
-      "page": "Link yepeji iripo. chinhu chekirasi."
-    },
-    "returnVariables": {
-      "title": "Mitemo inogona kudzorerwa",
-      "rightTab": "Vhura mune itsva tab kurudyi"
-    }
+    "checkedUseSetting": "Tarisa kuti ugone kuseta iyi."
   },
   "menu": {
     "main": "global script"

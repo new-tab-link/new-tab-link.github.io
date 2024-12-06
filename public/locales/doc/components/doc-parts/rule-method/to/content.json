@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Ngaahi fokotu'utu'u 'o e hū 'o e tu'utu'uni",
+    "rule": {
+      "edit": "Tānaki atu pe fakatonutonu ʻa e ngaahi tuʻutuʻuni .",
+      "description": "'E lava ke ke fakahu 'a e setting ko 'eni 'o fakafou 'i he menu 'o e lomi'i to'omata'u 'i ha fa'ahinga peesi uepi, 'e tanaki atu 'a e URL 'o e peesi uepi ko ha tu'utu'uni 'e he default 'E lava ke ke fakatonutonu 'a e ngaahi tu'utu'uni 'oku ma'u. .",
+      "formats": {
+        "title": "sīpinga tuʻutuʻuni",
+        "url": {
+          "title": "Mode URL, URL kakato.",
+          "example": {
+            "as": "Hangē ko 'eni:"
+          },
+          "explain": "'E lava ke fakafehoanaki 'e he founga ko 'eni 'a e URL kakato."
+        },
+        "glob": {
+          "title": "ʻOku fakaʻaongaʻi ʻe he founga glob ʻa e laipeli {{1}} Kātaki ʻo <a>sio</a> ki hono fakaʻaongaʻi, pe te ke lava ʻo kumi ʻa e fakaʻaongaʻi ʻo e {{2}}.",
+          "example": {
+            "as": "Hangē ko 'eni:",
+            "a": "{{1}}, 'a ia 'oku tatau mo e peesi 'uluaki 'o e YouTube mo e ngaahi peesi iiki kotoa pe."
+          }
+        },
+        "regexp": {
+          "title": "Fakalea tuʻumaʻu, kātaki ʻo vakai ki he <a>Vakai</a> ki hono fakaʻaongaʻí."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Ngaahi fokotu'utu'u 'o e hū 'o e tu'utu'uni"
+  }
+}

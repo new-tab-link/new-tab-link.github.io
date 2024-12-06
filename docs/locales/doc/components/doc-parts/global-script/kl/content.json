@@ -3,16 +3,7 @@
     "title": "Nunarsuaq tamakkerlugu script-ip inissititerneqarnera",
     "description": "Javascript atorlugu nammineq allassinnaavutit",
     "examplesTitle": "Assersuut",
-    "checkedUseSetting": "Inissiissut una atulersinniarlugu misissukkit.",
-    "variables": {
-      "title": "Variabilit atorneqarsinnaasut",
-      "click": "Linki toorlugu, una attribut tassaavoq <a href='ineriartortitsisoq.mozilla.org/docs/Web/API/URL' klassimi objekti.",
-      "page": "Quppernerup maannakkut atuuttup innersuussinera klassimi objekti."
-    },
-    "returnVariables": {
-      "title": "Pingaarnertut utertinneqarsinnaasut",
-      "rightTab": "Talerperliup tungaani nutaamik ilanngussaq ammaruk"
-    }
+    "checkedUseSetting": "Inissiissut una atulersinniarlugu misissukkit."
   },
   "menu": {
     "main": "nunarsuarmi allagartaq"

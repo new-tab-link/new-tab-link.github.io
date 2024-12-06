@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Okuguquguqukayo okutholakalayo",
-    "page": ": Okuguquguqukayo into ye-URL yekhasi lewebhu lamanje Ukuze uthole imininingwane, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> bona</a>",
+    "title": "Izinto eziguquguqukayo nezisebenzayo ezitholakalayo",
+    "click": ": Into ye-URL yesixhumanisi esichofoziwe. Ukuze uthole imininingwane, <a>bona</a>",
+    "page": ": Into ye-URL yekhasi lewebhu lamanje (imvamisa ibha yekheli), isingeniso esinemininingwane <a>Bona</a>",
     "pageHost": ": Igama lesizinda lekhasi lewebhu lamanje",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Igama lesizinda elifanayo. Qaphela ukuthi nakuba amagama esizinda se-{{_youtube_}} kanye ne-{{_families_}} kokubili {{_mainDomain_}}, amagama esizinda esincane athi {{_youtubeSubDomain_}} kanye nokuthi {{ _familiesSubDomain_}} Ngakho amagama abo esizinda ahlukile.",
-    "click": ": isixhumanisi esichofoziwe",
     "clickpath": ": Indlela yesixhumanisi esichofoziwe",
-    "minimatch": ": {{_glob_}} indlela yokufanisa, kusetshenziswa {{_minimatch_}} ilabhulali, indlela yokusebenzisa <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Bona < /a>, noma ungasesha i-{{_glob_}}.",
-    "isSameDomain": ": Kungakhathaliseki ukuthi igama lesizinda elifanayo, {{_true_}} uyebo, {{_false_}} cha.",
-    "isSameParent": ": Kungakhathaliseki ukuthi iyindlela efanayo yomzali, {{_iqiniso_}} uyebo, {{_amanga_}} uthi cha.",
-    "isPageSublink": ": Ukuthi ikhasi lamanje liyikhasi elincane lesixhumanisi esichofoziwe, {{_true_}} nguyebo, {{_false_}} cha.",
-    "isPageMultilevelSublink": ": Ukuthi ikhasi lamanje liyikhasi elincane elingapheli lesixhumanisi esichofoziwe, {{_true_}} uyebo, {{_false_}} cha.",
-    "isClickSublink": ": Ukuthi isixhumanisi esichofoziwe siyisixhumanisi esingaphansi sekhasi lamanje, {{_true_}} nguyebo, {{_false_}} cha.",
-    "isClickMultilevelSublink": ": Ukuthi isixhumanisi esichofoziwe siyisixhumanisi esincane esingenamkhawulo sekhasi lamanje, {{_true_}} uyebo, {{_false_}} cha.",
+    "isSameDomain": ": Kungakhathaliseki ukuthi igama lesizinda elifanayo, {{tt}} uyebo, {{ff}} cha.",
+    "isSameSubDomain": "{{ss}}: Igama lesizinda elifanayo. Qaphela ukuthi nakuba amagama esizinda esithi {{yy}} kanye ne-{{ff}} kokubili {{mm}}, amagama esizinda esincane athi {{ww}} futhi {{ffss}} ngakho-ke amagama esizinda sabo ahlukile.",
+    "isSameParent": ": Kungakhathaliseki ukuthi iyindlela efanayo yomzali, {{tt}} uyebo, {{ff}} uthi cha.",
+    "isPageSublink": ": Ukuthi ikhasi lamanje liyikhasi elincane lesixhumanisi esichofoziwe, {{tt}} uyebo, {{ff}} cha.",
+    "isPageMultilevelSublink": ": Ukuthi ikhasi lamanje liyikhasi elincane elingapheli lesixhumanisi esichofoziwe, {{tt}} uyebo, {{ff}} cha.",
+    "isClickSublink": ": Ukuthi isixhumanisi esichofoziwe siyisixhumanisi esincane sekhasi lamanje, {{tt}} uyebo, {{ff}} cha.",
+    "isClickMultilevelSublink": ": Ukuthi isixhumanisi esichofoziwe siyisixhumanisi esincane esingenamkhawulo sekhasi lamanje, {{tt}} uyebo, {{ff}} cha.",
     "returnVariables": {
       "title": "Okuguquguqukayo okubuyiselekayo",
-      "rightTab": ": Isixhumanisi sivula kuthebhu entsha kwesokudla",
-      "leftTab": ": Isixhumanisi sivula kuthebhu entsha kwesokunxele",
-      "currentWindow": "iwindi lamanje",
-      "newWindow": "iwindi elisha",
-      "incognitoWindow": "Iwindi le-incognito",
-      "popupWindow": "Iwindi le-pop-up",
-      "currentTab": "Ithebhu yamanje",
-      "active": "Yenza kusebenze manje",
-      "inactive": "Akucushiwe"
+      "window": {
+        "title": "ifasitela",
+        "currentWindow": ":Iwindi lamanje",
+        "newWindow": ":iwindi elisha",
+        "incognitoWindow": ":Iwindi elingabonakali",
+        "popupWindow": ":iwindi le-pop-up",
+        "externalBrowser": ":Isiphequluli sangaphandle (njenge-{{tt}}, njll.)"
+      },
+      "tab": {
+        "title": "ikhasi lethebhu",
+        "rightTab": ": Isixhumanisi sivula kuthebhu entsha kwesokudla",
+        "leftTab": ": Isixhumanisi sivula kuthebhu entsha kwesokunxele",
+        "currentTab": ":Ithebhu yamanje"
+      },
+      "active": {
+        "title": "isimo esisebenzayo",
+        "active": ": Yenza kusebenze ngokushesha",
+        "inactive": ":Ayisebenzi"
+      }
+    },
+    "functions": {
+      "title": "Izinto zokusebenza ezitholakalayo",
+      "minimatch": ": Indlela yokufanisa {{gg}} isebenzisa ilabhulali ye-{{mm}} Sicela ubone <a>Bona</a> ukuze uthole indlela yokusebenzisa, noma ungasesha indlela yokusebenzisa ye-{{gg}}."
     }
   },
   "menu": {

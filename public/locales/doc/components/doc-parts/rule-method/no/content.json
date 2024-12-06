@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Innstillinger for regeloppføring",
+    "rule": {
+      "edit": "Legg til eller rediger regeloppføringer",
+      "description": "Du kan angi denne innstillingen via høyreklikkmenyen på en hvilken som helst nettside. Når du går inn fra en nettside, vil URL-en til nettsiden bli lagt til som standard. De tilgjengelige formatene er forklart nedenfor .",
+      "formats": {
+        "title": "regelmønster",
+        "url": {
+          "title": "URL-modus, fullstendig URL.",
+          "example": {
+            "as": "For eksempel:"
+          },
+          "explain": "Denne metoden kan samsvare med hele URL-en."
+        },
+        "glob": {
+          "title": "Glob-metoden bruker {{1}}-biblioteket <a>se</a> for bruk, eller du kan søke etter bruken av {{2}}.",
+          "example": {
+            "as": "For eksempel:",
+            "a": "{{1}}, som samsvarer med YouTube-hjemmesiden og alle undersidene."
+          }
+        },
+        "regexp": {
+          "title": "Regulært uttrykk, se <a>Se</a> for bruk."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Innstillinger for regeloppføring"
+  }
+}

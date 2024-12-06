@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Kaida gaworam",
+    "rule": {
+      "edit": "Kaida gaworam yira au sasərne",
+      "description": "Raktə setting adəga gayin futu right-click menuben kəla warak webben gayinro waljiya, URL warak webbedəga tərayin futu dokaben Raktə shi dokadəga sasərtin. .",
+      "formats": {
+        "title": "futu dowa",
+        "url": {
+          "title": "Modu URL ye, URL samma.",
+          "example": {
+            "as": "Misalro:"
+          },
+          "explain": "Mundə adə URL sammaso'a samunjin."
+        },
+        "glob": {
+          "title": "Mundə globbedə {{1}} library faidatin Martəgəne <a>ruyi</a> faidatə nankaro, au raknəm faidatə {{2}}be kulasnəm.",
+          "example": {
+            "as": "Misalro:",
+            "a": "{{1}}, shi donyi warak YouTubebe-a kuru warakka gana samma-a samǝnzǝnama."
+          }
+        },
+        "regexp": {
+          "title": "Bayan sambisoro, martəgəne <a>Ruyi</a> faidatə nankaro."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Kaida gaworam"
+  }
+}

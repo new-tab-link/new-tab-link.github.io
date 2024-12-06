@@ -3,16 +3,7 @@
     "title": "Глобальнӧй скрипт лӧсьӧдӧм .",
     "description": "Ассьыд скрипттӧ позьӧ гижны javascript отсӧгӧн .",
     "examplesTitle": "Видлӧг",
-    "checkedUseSetting": "Прӧверитӧй, медым тайӧс лӧсьӧдны.",
-    "variables": {
-      "title": "Доступнӧй переменнӧйяс .",
-      "click": "Кликнитӧм ссылка, тайӧ атрибутыс лоӧ <a href='https://разработчик.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> класс объектӧн.",
-      "page": "Ӧнія лист боклӧн йитӧдыс — <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. класса объект."
-    },
-    "returnVariables": {
-      "title": "Значениеяс, кодъясӧс позьӧ бергӧдны .",
-      "rightTab": "Восьт выль вкладкаын веськыдвылас ."
-    }
+    "checkedUseSetting": "Прӧверитӧй, медым тайӧс лӧсьӧдны."
   },
   "menu": {
     "main": "глобальнӧй скрипт"

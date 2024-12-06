@@ -3,16 +3,7 @@
     "title": "ການຕັ້ງຄ່າສະຄຣິບທົ່ວໂລກ",
     "description": "ທ່ານສາມາດຂຽນ script ຂອງທ່ານເອງໂດຍໃຊ້ javascript",
     "examplesTitle": "ຕົວຢ່າງ",
-    "checkedUseSetting": "ກວດເບິ່ງເພື່ອເປີດໃຊ້ການຕັ້ງຄ່ານີ້.",
-    "variables": {
-      "title": "ຕົວແປທີ່ມີຢູ່",
-      "click": "ລິ້ງທີ່ຄລິກແລ້ວ, ຄຸນລັກສະນະນີ້ແມ່ນ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> class object.",
-      "page": "ລິ້ງຂອງໜ້າປັດຈຸບັນນີ້ແມ່ນ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ຫ້ອງຮຽນ."
-    },
-    "returnVariables": {
-      "title": "ມູນຄ່າທີ່ສາມາດສົ່ງຄືນໄດ້",
-      "rightTab": "ເປີດແຖບໃໝ່ຢູ່ເບື້ອງຂວາ"
-    }
+    "checkedUseSetting": "ກວດເບິ່ງເພື່ອເປີດໃຊ້ການຕັ້ງຄ່ານີ້."
   },
   "menu": {
     "main": "script ທົ່ວໂລກ"

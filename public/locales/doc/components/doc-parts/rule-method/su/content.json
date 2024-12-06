@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Setélan éntri aturan",
+    "rule": {
+      "edit": "Tambahkeun atawa édit éntri aturan",
+      "description": "Anjeun tiasa ngasupkeun setelan ieu ngaliwatan menu klik-katuhu dina kaca web mana wae .",
+      "formats": {
+        "title": "pola aturan",
+        "url": {
+          "title": "Mode URL, URL lengkep.",
+          "example": {
+            "as": "Salaku conto:"
+          },
+          "explain": "Metoda ieu tiasa cocog sareng URL lengkep."
+        },
+        "glob": {
+          "title": "Métode glob nganggo perpustakaan {{1}} Mangga <a>tingali</a> kanggo dianggo, atanapi anjeun tiasa milarian panggunaan {{2}}.",
+          "example": {
+            "as": "Salaku conto:",
+            "a": "{{1}}, anu cocog sareng halaman utama YouTube sareng sadaya subkaca."
+          }
+        },
+        "regexp": {
+          "title": "Ekspresi biasa, mangga tingali <a>Tingali</a> kanggo dianggo."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Setélan éntri aturan"
+  }
+}

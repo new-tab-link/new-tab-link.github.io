@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Rule entry settings",
+    "rule": {
+      "edit": "Add or edit rule entries",
+      "description": "You can enter this setting through the right-click menu on any web page. When entering from a web page, the URL of the web page will be added as a rule by default. You can edit the rules. The available formats are explained below.",
+      "formats": {
+        "title": "rule pattern",
+        "url": {
+          "title": "URL mode, complete URL.",
+          "example": {
+            "as": "For example:"
+          },
+          "explain": "This method can match the complete URL."
+        },
+        "glob": {
+          "title": "The glob method uses the {{1}} library. Please <a>see</a> for usage, or you can search for the usage of {{2}}.",
+          "example": {
+            "as": "For example:",
+            "a": "{{1}}, which matches the YouTube homepage and all subpages."
+          }
+        },
+        "regexp": {
+          "title": "Regular expression, please see <a>See</a> for usage."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Rule entry settings"
+  }
+}

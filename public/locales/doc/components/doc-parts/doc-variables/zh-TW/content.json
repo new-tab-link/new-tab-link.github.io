@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "可用變數",
-    "page": ": 變數是目前網頁的URL對象，詳細介紹 <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>參見</a>",
+    "title": "可用變數和函數對象",
+    "click": ": 被點擊的連結的URL對象，詳細介紹 <a>參見</a>",
+    "page": ": 目前網頁（一般是網址列）的URL對象，詳細介紹 <a>參見</a>",
     "pageHost": ": 目前網頁的域名",
-    "isSameSubDomain": "{{_isSameSubDomain_}} : 同一個域名，注意{{_youtube_}}和{{_families_}}雖然主域名都是{{_mainDomain_}}，但是子域名分別是{{_youtubeSubDomain_}}和{{_familiesSubDomain_}}，所以它們域名不同。",
-    "click": ": 被點擊的連結",
     "clickpath": "： 被點擊連結的路徑",
-    "minimatch": ": {{_glob_}}匹配方式，使用的是{{_minimatch_}}庫，使用方式<a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>參見</a>，或者您也可以使用搜尋{{_glob_}}的使用方法。",
-    "isSameDomain": ": 是否是同一個網域, {{_true_}}是，{{_false_}}否。",
-    "isSameParent": ": 是否為同一個父級路徑, {{_true_}}是，{{_false_}}否。",
-    "isPageSublink": ": 當前頁面是否為點擊連結的子頁面, {{_true_}}是，{{_false_}}否。",
-    "isPageMultilevelSublink": ": 目前頁面是否為點擊連結的無限子頁面, {{_true_}}是，{{_false_}}否。",
-    "isClickSublink": ": 點選連結是否為目前頁面的子連結, {{_true_}}是，{{_false_}}否。",
-    "isClickMultilevelSublink": ": 點選連結是否為目前頁面的無限子連結, {{_true_}}是，{{_false_}}否。",
+    "isSameDomain": ": 是否是同一個網域, {{tt}}是，{{ff}}否。",
+    "isSameSubDomain": "{{ss}} : 同一個域名，注意{{yy}}和{{ff}}雖然主域名都是{{mm}}，但子域名分別是{{ww}}和{{ffss}}，所以它們域名不同。",
+    "isSameParent": ": 是否為同一個父級路徑, {{tt}}是，{{ff}}否。",
+    "isPageSublink": ": 當前頁是否為點選連結的子頁, {{tt}}是，{{ff}}否。",
+    "isPageMultilevelSublink": ": 當前頁是否為點選連結的無限子頁, {{tt}}是，{{ff}}否。",
+    "isClickSublink": ": 點選連結是否為目前頁面的子連結, {{tt}}是，{{ff}}否。",
+    "isClickMultilevelSublink": ": 點選連結是否為目前頁面的無限子連結, {{tt}}是，{{ff}}否。",
     "returnVariables": {
       "title": "可返回的變數",
-      "rightTab": "： 連結在右側新標籤頁打開",
-      "leftTab": "： 連結在左側新標籤頁打開",
-      "currentWindow": "目前視窗",
-      "newWindow": "新視窗",
-      "incognitoWindow": "隱形窗口",
-      "popupWindow": "彈跳窗",
-      "currentTab": "目前標籤頁",
-      "active": "立即啟用",
-      "inactive": "不啟用設定"
+      "window": {
+        "title": "視窗",
+        "currentWindow": ":目前視窗",
+        "newWindow": ":新視窗",
+        "incognitoWindow": ":隱身窗口",
+        "popupWindow": ":彈跳窗",
+        "externalBrowser": ":外部瀏覽器（如{{tt}}等）"
+      },
+      "tab": {
+        "title": "標籤頁",
+        "rightTab": "： 連結在右側新標籤頁打開",
+        "leftTab": "： 連結在左側新標籤頁打開",
+        "currentTab": ":當前標籤頁"
+      },
+      "active": {
+        "title": "啟動狀態",
+        "active": ":立即激活",
+        "inactive": ":不啟動"
+      }
+    },
+    "functions": {
+      "title": "可用函數對象",
+      "minimatch": ": {{gg}}匹配方式，使用的是{{mm}}庫，使用方式請 <a>參見</a>，或者您也可以使用搜尋{{gg}}的使用方法。"
     }
   },
   "menu": {

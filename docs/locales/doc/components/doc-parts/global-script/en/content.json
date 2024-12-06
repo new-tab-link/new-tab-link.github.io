@@ -3,16 +3,7 @@
     "title": "Global script settings",
     "description": "You can write your own script using javascript",
     "examplesTitle": "Example",
-    "checkedUseSetting": "Check to enable this setting.",
-    "variables": {
-      "title": "Available variables",
-      "click": "Clicked link, this attribute is a <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> class object.",
-      "page": "The link of the current page. This attribute is a <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> class object."
-    },
-    "returnVariables": {
-      "title": "Values ​​that can be returned",
-      "rightTab": "Open in new tab on the right"
-    }
+    "checkedUseSetting": "Check to enable this setting."
   },
   "menu": {
     "main": "global script"

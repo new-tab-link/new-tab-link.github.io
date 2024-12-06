@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Amasethingi wokufaka umthetho",
+    "rule": {
+      "edit": "Faka nofana uhlele umthetho",
+      "description": "Ungafaka isethingi le ngemenyu yokuchofoza ngesidleni kiyo nanyana ngiliphi ikhasi lewebhu, i-URL yekhasi lewebhu izokufakwa njengomthetho ngokuzenzakalelayo Ungahlela imithetho ekhona. .",
+      "formats": {
+        "title": "iphetheni yomthetho",
+        "url": {
+          "title": "Imodi ye-URL, i-URL epheleleko.",
+          "example": {
+            "as": "Isibonelo:"
+          },
+          "explain": "Indlela le ingafanisa i-URL epheleleko."
+        },
+        "glob": {
+          "title": "Indlela ye-glob isebenzisa ilayibrari ye-{{1}} Sibawa <a>bona</a> malungana nokusetjenziswa, nofana ungafuna ukusetjenziswa kwe-{{2}}.",
+          "example": {
+            "as": "Isibonelo:",
+            "a": "{{1}}, ehambelana nekhasi lokuthoma le-YouTube nawo woke amakhasi angaphasi."
+          }
+        },
+        "regexp": {
+          "title": "Inkulumo ejayelekileko, sibawa ubone <a>Qala</a> malungana nokusetjenziswa."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Amasethingi wokufaka umthetho"
+  }
+}

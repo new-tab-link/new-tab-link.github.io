@@ -54,9 +54,9 @@ function Doc() {
         <AnchorAnimation anchor={anchorAllLinks}>
             <Box>
                 <DocTitle>{t("doc.title")}</DocTitle>
-                <div>
+                <Box>
                     <img className="autoImage" src={`/images/en/configuration-all-links.jpg`} />
-                </div>
+                </Box>
                 <ol style={{ "paddingInlineStart": "1rem" }}>
                     <li>
                         <Box>

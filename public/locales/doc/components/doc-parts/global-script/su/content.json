@@ -3,16 +3,7 @@
     "title": "Setélan naskah global",
     "description": "Anjeun tiasa nyerat skrip anjeun nyalira nganggo javascript",
     "examplesTitle": "Contona",
-    "checkedUseSetting": "Pariksa pikeun ngaktipkeun setelan ieu.",
-    "variables": {
-      "title": "variabel sadia",
-      "click": "Tumbu diklik, atribut ieu mangrupa <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> obyék kelas.",
-      "page": "Tautan kaca ayeuna. Atribut ieu mangrupa <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> objék kelas."
-    },
-    "returnVariables": {
-      "title": "Nilai anu tiasa dipulangkeun",
-      "rightTab": "Buka dina tab anyar di katuhu"
-    }
+    "checkedUseSetting": "Pariksa pikeun ngaktipkeun setelan ieu."
   },
   "menu": {
     "main": "naskah global"

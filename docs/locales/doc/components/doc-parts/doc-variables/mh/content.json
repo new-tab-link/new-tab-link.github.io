@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Menin oktak ko rej bed",
-    "page": ": Variable eo ej URL eo an web page eo kiõ. Ñan melele ko, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> lale</a>",
+    "title": "Men ko rej oktak im rej jerbal",
+    "click": ": URL eo an link eo kar click ñan melele ko, <a>lale</a>.",
+    "page": ": URL eo an web page eo kiō (ekkā an address bar eo), kōmeļeļe eo ealikar <a>Lale</a>",
     "pageHost": ": Etan domain eo an web page eo kiõ",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Ejja etan domain eo wot. _familiesSubDomain_}} kajjojo. Innem etan domain ko aer rej oktak.",
-    "click": ": link eo kar kōmmane",
     "clickpath": ": Iaḷ eo an link eo kar kōṃṃane",
-    "minimatch": ": {{_glob_}} matching method, using the {{_minimatch_}} library, usage method <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Lale < /a>, ak kwomaroñ pukōt {{_glob_}}.",
-    "isSameDomain": ": Men eo ej juon wōt etan domain eo, {{_mol_}} ej aet, {{_riab_}} ej jaab.",
-    "isSameParent": ": Men eo ej ejja ial eo wot, {{_mool_}} ej aet, {{_riab_}} ej jaab.",
-    "isPageSublink": ": Elañe peij eo kiõ ej juon peij in link eo kar click e, {{_mol_}} ej aet, {{_riab_}} ej jaab.",
-    "isPageMultilevelSublink": ": Elañe peij eo kiõ ej juon peij eo ejjab jemlok an link eo kar click e, {{_mol_}} ej aet, {{_riab_}} ej jaab.",
-    "isClickSublink": ": Elañe link eo kar click ej juon sub-link in peij eo kiõ, {{_mol_}} ej aet, {{_riab_}} ej jaab.",
-    "isClickMultilevelSublink": ": Elañe link eo kar click ej juon sub-link eo ejelok joñan an peij eo kiõ, {{_true_}} ej aet, {{_false_}} ej jaab.",
+    "isSameDomain": ": Men eo ej ejja etan domain eo wot, {{tt}} ej aet, {{ff}} ej jaab.",
+    "isSameSubDomain": "{{ss}}: Ejja etan domain eo wot. Lale bwe meñe etan domain ko relap an {{yy}} im {{ff}} rej jimor {{mm}}, etan domain ko redik rej {{ww}} im {{ffss}} kajjojo. Innem etan domain ko aer rej oktak.",
+    "isSameParent": ": Men eo ej ejja ial eo wot, {{tt}} ej aet, {{ff}} ej jaab.",
+    "isPageSublink": ": Elañe peij eo kiõ ej juon peij in link eo kar click e, {{tt}} ej aet, {{ff}} ej jaab.",
+    "isPageMultilevelSublink": ": Elañe peij eo kiõ ej juon peij eo ejjab jemlok an link eo kar click e, {{tt}} ej aet, {{ff}} ej jaab.",
+    "isClickSublink": ": Elañe link eo kar click ej juon sub-link in peij eo kiõ, {{tt}} ej aet, {{ff}} ej jaab.",
+    "isClickMultilevelSublink": ": Elañe link eo kar click ej juon sub-link eo ejelok joñan an peij eo kiõ, {{tt}} ej aet, {{ff}} ej jaab.",
     "returnVariables": {
       "title": "Men ko remaroñ bar jeblak",
-      "rightTab": "Link eo ej bellok ilo juon tab ekãl ilo turear",
-      "leftTab": "Link eo ej bellok ilo juon tab ekãl ilo turear",
-      "currentWindow": "wintō eo kiiō",
-      "newWindow": "wintō eo ekãl",
-      "incognitoWindow": "Wintō eo ejjab alikar",
-      "popupWindow": "Pop-up window",
-      "currentTab": "Tab eo kiõ",
-      "active": "Kōjerbal kiiō",
-      "inactive": "Ejjab jerbal"
+      "window": {
+        "title": "wūntō",
+        "currentWindow": ":Window eo kiō",
+        "newWindow": ":wintō eo ekãl",
+        "incognitoWindow": "Wintō eo ejjab alikar",
+        "popupWindow": ":pop-up window",
+        "externalBrowser": ":External browser (einwot {{tt}}, im ko jet)"
+      },
+      "tab": {
+        "title": "tab page",
+        "rightTab": "Link eo ej bellok ilo juon tab ekãl ilo turear",
+        "leftTab": "Link eo ej bellok ilo juon tab ekãl ilo turear",
+        "currentTab": ":Current tab"
+      },
+      "active": {
+        "title": "jerbal",
+        "active": ": Kōjerbal ilo ien eo wot",
+        "inactive": ":Ejjab jerbal"
+      }
+    },
+    "functions": {
+      "title": "Men ko rej jerbal",
+      "minimatch": ": {{gg}} ej kōjerbal {{mm}} library eo Jouj im lale <a>See</a> ñan wāween kōjerbale, ak kwomaroñ barāinwōt pukōt wāween kōjerbale {{gg}}."
     }
   },
   "menu": {

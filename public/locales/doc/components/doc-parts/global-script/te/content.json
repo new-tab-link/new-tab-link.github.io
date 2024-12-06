@@ -3,16 +3,7 @@
     "title": "గ్లోబల్ స్క్రిప్ట్ సెట్టింగ్‌లు",
     "description": "మీరు జావాస్క్రిప్ట్ ఉపయోగించి మీ స్వంత స్క్రిప్ట్‌ను వ్రాయవచ్చు",
     "examplesTitle": "ఉదాహరణ",
-    "checkedUseSetting": "ఈ సెట్టింగ్‌ని ప్రారంభించడానికి తనిఖీ చేయండి.",
-    "variables": {
-      "title": "అందుబాటులో వేరియబుల్స్",
-      "click": "క్లిక్ చేసిన లింక్, ఈ లక్షణం <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> తరగతి వస్తువు.",
-      "page": "ఈ లక్షణం <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. తరగతి వస్తువు."
-    },
-    "returnVariables": {
-      "title": "తిరిగి ఇవ్వగల విలువలు",
-      "rightTab": "కుడివైపున కొత్త ట్యాబ్‌లో తెరవండి"
-    }
+    "checkedUseSetting": "ఈ సెట్టింగ్‌ని ప్రారంభించడానికి తనిఖీ చేయండి."
   },
   "menu": {
     "main": "ప్రపంచ స్క్రిప్ట్"

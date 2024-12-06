@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Mga setting ng pagpasok ng panuntunan",
+    "rule": {
+      "edit": "Magdagdag o mag-edit ng mga entry ng panuntunan",
+      "description": "Maaari mong ipasok ang setting na ito sa pamamagitan ng right-click na menu sa anumang web page .",
+      "formats": {
+        "title": "pattern ng panuntunan",
+        "url": {
+          "title": "URL mode, kumpletong URL.",
+          "example": {
+            "as": "Halimbawa:"
+          },
+          "explain": "Maaaring tumugma ang paraang ito sa kumpletong URL."
+        },
+        "glob": {
+          "title": "Ginagamit ng glob method ang {{1}} library Mangyaring <a>tingnan</a> para sa paggamit, o maaari kang maghanap para sa paggamit ng {{2}}.",
+          "example": {
+            "as": "Halimbawa:",
+            "a": "{{1}}, na tumutugma sa homepage ng YouTube at lahat ng mga subpage."
+          }
+        },
+        "regexp": {
+          "title": "Regular na expression, pakitingnan ang <a>Tingnan</a> para sa paggamit."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Mga setting ng pagpasok ng panuntunan"
+  }
+}

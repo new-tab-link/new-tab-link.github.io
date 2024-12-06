@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Ntọala ntinye iwu",
+    "rule": {
+      "edit": "Tinye ma ọ bụ dezie ndenye iwu",
+      "description": "Ị nwere ike tinye ntọala a site na ịpị aka nri na ibe weebụ ọ bụla mgbe ị na-abanye na ibe weebụ, a ga-agbakwunye URL nke ibe weebụ na ndabara .",
+      "formats": {
+        "title": "ụkpụrụ iwu",
+        "url": {
+          "title": "Ụdị URL, URL zuru ezu.",
+          "example": {
+            "as": "Ọmụmaatụ:"
+          },
+          "explain": "Usoro a nwere ike dabara na URL zuru ezu."
+        },
+        "glob": {
+          "title": "Usoro glob na-eji {{1}} ọba akwụkwọ biko <a>hụ</a> maka ojiji, ma ọ bụ ị nwere ike chọọ ojiji nke {{2}}.",
+          "example": {
+            "as": "Ọmụmaatụ:",
+            "a": "{{1}, nke dabara na ibe YouTube na ibe ha niile."
+          }
+        },
+        "regexp": {
+          "title": "Okwu oge niile, biko hụ <a>Lee</a> maka ojiji."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Ntọala ntinye iwu"
+  }
+}

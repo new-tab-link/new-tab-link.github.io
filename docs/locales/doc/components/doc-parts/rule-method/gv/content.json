@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Soilshaghyn stiagh reill",
+    "rule": {
+      "edit": "Cur rish ny cur stiagh recortyssyn",
+      "description": "Faggys da'n rheynn shoh y chur stiagh trooid y list right-click er dagh duillag web Tra t'ou uss cur stiagh ass duillag web, bee URL y duillag web currit stiagh myr reiltys Faggys da'n rheynn shoh y rheynn. .",
+      "formats": {
+        "title": "pattyr reill;",
+        "url": {
+          "title": "Mod URL, URL cooilleenit.",
+          "example": {
+            "as": "Sonenmys:"
+          },
+          "explain": "Faggys da'n aght shoh y URL immeeaght."
+        },
+        "glob": {
+          "title": "Ta'n aght glob jannoo ymmyd jeh'n lioarlann {{1}} Cur-my-ner <a>fakin</a> son ymmyd, ny t'ou uss goaill ymmyd jeh {{2}}.",
+          "example": {
+            "as": "Sonenmys:",
+            "a": "{{1}}, ta cosoyley rish y duillag-baase YouTube as ooilley ny fo-duillagyn."
+          }
+        },
+        "regexp": {
+          "title": "Fockley magh reiltagh, jeeagh er <a>Jeeagh</a> son ymmyd."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Soilshaghyn stiagh reill"
+  }
+}

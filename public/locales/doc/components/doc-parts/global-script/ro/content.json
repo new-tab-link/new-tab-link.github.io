@@ -3,16 +3,7 @@
     "title": "Setări globale de script",
     "description": "Puteți scrie propriul script folosind javascript",
     "examplesTitle": "Exemplu",
-    "checkedUseSetting": "Bifați pentru a activa această setare.",
-    "variables": {
-      "title": "Variabile disponibile",
-      "click": "Pe linkul dat clic, acest atribut este un obiect de clasă <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Link-ul paginii curente Acest atribut este un <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. obiect de clasă."
-    },
-    "returnVariables": {
-      "title": "Valori care pot fi returnate",
-      "rightTab": "Deschideți într-o filă nouă din dreapta"
-    }
+    "checkedUseSetting": "Bifați pentru a activa această setare."
   },
   "menu": {
     "main": "script global"

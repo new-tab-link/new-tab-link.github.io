@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Dostupné proměnné",
-    "page": ": Proměnná je objekt adresy URL aktuální webové stránky Podrobnosti naleznete na <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. viz</a>",
+    "title": "Dostupné proměnné a funkční objekty",
+    "click": ": Objekt URL odkazu, na který bylo kliknuto, <a>viz</a>",
+    "page": ": Objekt URL aktuální webové stránky (obvykle adresní řádek), podrobný úvod <a>Viz</a>",
     "pageHost": ": Název domény aktuální webové stránky",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Stejný název domény, ačkoli hlavní názvy domén {{_youtube_}} a {{_families_}} jsou obě {{_mainDomain_}}, názvy subdomén jsou {{_youtubeSubDomain_}} a {{. _familiesSubDomain_}}, takže jejich názvy domén jsou různé.",
-    "click": ": odkaz, na který jste klikli",
     "clickpath": ": Cesta odkazu, na který bylo kliknuto",
-    "minimatch": ": {{_glob_}} metoda shody, pomocí knihovny {{_minimatch_}}, metoda použití <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Viz < /a> nebo můžete vyhledat {{_glob_}}.",
-    "isSameDomain": ": Ať už se jedná o stejný název domény, {{_true_}} je ano, {{_false_}} je ne.",
-    "isSameParent": ": Ať už se jedná o stejnou nadřazenou cestu, {{_true_}} je ano, {{_false_}} je ne.",
-    "isPageSublink": ": Ať už je aktuální stránka podstránkou odkazu, na který jste klikli, {{_true_}} je ano, {{_false_}} je ne.",
-    "isPageMultilevelSublink": ": Ať už je aktuální stránka nekonečnou podstránkou odkazu, na který jste klikli, {{_true_}} je ano, {{_false_}} je ne.",
-    "isClickSublink": ": Ať už je odkaz, na který jste klikli, dílčím odkazem aktuální stránky, {{_true_}} je ano, {{_false_}} je ne.",
-    "isClickMultilevelSublink": ": Ať už je odkaz, na který kliknete, neomezeným dílčím odkazem aktuální stránky, {{_true_}} je ano, {{_false_}} je ne.",
+    "isSameDomain": ": Ať už se jedná o stejný název domény, {{tt}} je ano, {{ff}} je ne.",
+    "isSameSubDomain": "{{ss}}: Stejný název domény Všimněte si, že ačkoli hlavní názvy domén {{yy}} a {{ff}} jsou oba {{mm}}, názvy subdomén jsou {{ww}} a. {{ffss}}, respektive jejich názvy domén.",
+    "isSameParent": ": Ať už se jedná o stejnou nadřazenou cestu, {{tt}} je ano, {{ff}} je ne.",
+    "isPageSublink": ": Zda je aktuální stránka podstránkou odkazu, na který jste klikli, {{tt}} je ano, {{ff}} je ne.",
+    "isPageMultilevelSublink": ": Zda je aktuální stránka nekonečnou podstránkou odkazu, na který jste klikli, {{tt}} je ano, {{ff}} je ne.",
+    "isClickSublink": ": Ať už je odkaz, na který jste klikli, dílčím odkazem aktuální stránky, {{tt}} je ano, {{ff}} je ne.",
+    "isClickMultilevelSublink": ": Zda je odkaz, na který jste klikli, neomezeným dílčím odkazem aktuální stránky, {{tt}} je ano, {{ff}} je ne.",
     "returnVariables": {
       "title": "Vratné proměnné",
-      "rightTab": ": Odkaz se otevře na nové kartě vpravo",
-      "leftTab": ": Odkaz se otevře na nové kartě vlevo",
-      "currentWindow": "aktuální okno",
-      "newWindow": "nové okno",
-      "incognitoWindow": "Anonymní okno",
-      "popupWindow": "Vyskakovací okno",
-      "currentTab": "Aktuální karta",
-      "active": "Aktivujte nyní",
-      "inactive": "Neaktivováno"
+      "window": {
+        "title": "okno",
+        "currentWindow": ": Aktuální okno",
+        "newWindow": ":nové okno",
+        "incognitoWindow": ":Neviditelné okno",
+        "popupWindow": ":vyskakovací okno",
+        "externalBrowser": ":Externí prohlížeč (jako {{tt}} atd.)"
+      },
+      "tab": {
+        "title": "kartu",
+        "rightTab": ": Odkaz se otevře na nové kartě vpravo",
+        "leftTab": ": Odkaz se otevře na nové kartě vlevo",
+        "currentTab": ": Aktuální karta"
+      },
+      "active": {
+        "title": "aktivní stav",
+        "active": ": Aktivujte okamžitě",
+        "inactive": ":Neaktivní"
+      }
+    },
+    "functions": {
+      "title": "Dostupné funkční objekty",
+      "minimatch": ": Metoda shody {{gg}} používá knihovnu {{mm}}. Způsob použití naleznete v části <a>Viz</a>, nebo můžete také vyhledat metodu použití {{gg}}."
     }
   },
   "menu": {

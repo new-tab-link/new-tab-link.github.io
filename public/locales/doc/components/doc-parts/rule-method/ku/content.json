@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Mîhengên ketina qaîdeyê",
+    "rule": {
+      "edit": "Têketinên qaîdeyê zêde bikin an biguherînin",
+      "description": "Hûn dikarin bi rêya menuya rast-klîk li ser her rûpelek malperê têkevin navnîşana malperê, wekî rêgez dê URL-ya malperê were zêdekirin .",
+      "formats": {
+        "title": "qaîdeya qaîdeyê",
+        "url": {
+          "title": "moda URL, URL-ya tevahî.",
+          "example": {
+            "as": "Bo nimûne:"
+          },
+          "explain": "Ev rêbaz dikare bi tevahî URL-ê re hevber bike."
+        },
+        "glob": {
+          "title": "Rêbaza glob pirtûkxaneya {{1}} bikar tîne.",
+          "example": {
+            "as": "Bo nimûne:",
+            "a": "{{1}}, ku rûpela sereke ya YouTube û hemî binerûpelan li hev dike."
+          }
+        },
+        "regexp": {
+          "title": "Gotina birêkûpêk, ji kerema xwe re ji bo bikaranînê binêre <a>Binêre</a>."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Mîhengên ketina qaîdeyê"
+  }
+}

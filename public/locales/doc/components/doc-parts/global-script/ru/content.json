@@ -3,16 +3,7 @@
     "title": "Глобальные настройки скрипта",
     "description": "Вы можете написать свой собственный скрипт, используя JavaScript.",
     "examplesTitle": "Пример",
-    "checkedUseSetting": "Установите флажок, чтобы включить этот параметр.",
-    "variables": {
-      "title": "Доступные переменные",
-      "click": "По нажатой ссылке этот атрибут представляет собой объект класса <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>.",
-      "page": "Ссылка на текущую страницу. Этот атрибут представляет собой <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a>. объект класса."
-    },
-    "returnVariables": {
-      "title": "Значения, которые можно вернуть",
-      "rightTab": "Открыть в новой вкладке справа"
-    }
+    "checkedUseSetting": "Установите флажок, чтобы включить этот параметр."
   },
   "menu": {
     "main": "глобальный скрипт"

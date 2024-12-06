@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Awọn oniyipada ti o wa",
-    "page": ": Oniyipada jẹ ohun URL ti oju-iwe wẹẹbu lọwọlọwọ, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'> wo</a>",
+    "title": "Wa oniyipada ati awọn nkan iṣẹ",
+    "click": ": Ohun URL ti ọna asopọ ti o tẹ Fun awọn alaye, <a>wo</a>",
+    "page": ": Ohun URL ti oju-iwe wẹẹbu lọwọlọwọ (nigbagbogbo aaye adirẹsi), ifihan alaye <a>Wo</a>",
     "pageHost": ": Orukọ ìkápá ti oju-iwe ayelujara lọwọlọwọ",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Orukọ agbegbe kanna ni akiyesi pe botilẹjẹpe awọn orukọ agbegbe akọkọ ti {{_youtube_}} ati {{_families_}} jẹ mejeeji {{_mainDomain_}}, awọn orukọ subdomain jẹ {{_youtubeSubDomain_}} ati {{ _familiesSubDomain_}} lẹsẹsẹ.",
-    "click": ": ọna asopọ ti a tẹ",
     "clickpath": ": Ọna ọna asopọ ti a tẹ",
-    "minimatch": ": {{_glob_}} ọna ti o baamu, ni lilo {{_minimatch_}} ikawe, ọna lilo <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Wo < /a>, tabi o le wa {{_glob_}}.",
-    "isSameDomain": ": Boya o jẹ orukọ agbegbe kanna, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
-    "isSameParent": ": Boya ọna obi kanna ni, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
-    "isPageSublink": ": Boya oju-iwe lọwọlọwọ jẹ oju-iwe kekere ti ọna asopọ ti o tẹ, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
-    "isPageMultilevelSublink": ": Boya oju-iwe ti o wa lọwọlọwọ jẹ oju-iwe ailopin ti ọna asopọ ti a tẹ, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
-    "isClickSublink": ": Boya ọna asopọ ti o tẹ jẹ ọna asopọ iha ti oju-iwe lọwọlọwọ, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
-    "isClickMultilevelSublink": ": Boya ọna asopọ ti a tẹ jẹ ọna asopọ-ailopin ti oju-iwe lọwọlọwọ, {{_otitọ_}} jẹ bẹẹni, {{_false_}} kii ṣe rara.",
+    "isSameDomain": ": Boya o jẹ orukọ agbegbe kanna, {{tt}} jẹ bẹẹni, {{ff}} kii ṣe rara.",
+    "isSameSubDomain": "{{ss}}: Orukọ ìkápá kan naa ni akiyesi pe botilẹjẹpe awọn orukọ ibugbe akọkọ ti {{yy}} ati {{ff}} mejeeji jẹ {{mm}}, awọn orukọ-ipin-ašẹ jẹ {{ww}} ati {{ffss}} lẹsẹsẹ.",
+    "isSameParent": ": Boya o jẹ ọna obi kanna, {{tt}} jẹ bẹẹni, {{ff}} kii ṣe rara.",
+    "isPageSublink": ": Boya oju-iwe lọwọlọwọ jẹ oju-iwe kekere ti ọna asopọ ti o tẹ, {{tt}} jẹ bẹẹni, {{ff}} kii ṣe rara.",
+    "isPageMultilevelSublink": ": Boya oju-iwe lọwọlọwọ jẹ oju-iwe ailopin ti ọna asopọ ti a tẹ, {{tt}} jẹ bẹẹni, {{ff}} kii ṣe rara.",
+    "isClickSublink": ": Boya ọna asopọ ti o tẹ jẹ ọna asopọ iha ti oju-iwe lọwọlọwọ, {{tt}} jẹ bẹẹni, {{ff}} kii ṣe rara.",
+    "isClickMultilevelSublink": ": Boya ọna asopọ ti o tẹ jẹ ọna asopọ-ailopin ti oju-iwe lọwọlọwọ, {{tt}} jẹ bẹẹni, {{ff}} kii ṣe rara.",
     "returnVariables": {
       "title": "Awọn oniyipada pada",
-      "rightTab": ": Ọna asopọ naa ṣii ni taabu tuntun ni apa ọtun",
-      "leftTab": ": Ọna asopọ naa ṣii ni taabu tuntun ni apa osi",
-      "currentWindow": "lọwọlọwọ window",
-      "newWindow": "titun window",
-      "incognitoWindow": "Ferese aimọkan",
-      "popupWindow": "Ferese agbejade",
-      "currentTab": "taabu lọwọlọwọ",
-      "active": "Mu ṣiṣẹ ni bayi",
-      "inactive": "Ko mu ṣiṣẹ"
+      "window": {
+        "title": "ferese",
+        "currentWindow": ":Free lọwọlọwọ",
+        "newWindow": ": window tuntun",
+        "incognitoWindow": ":Frese ti a ko ri",
+        "popupWindow": ": window agbejade",
+        "externalBrowser": ": Aṣawakiri ita (gẹgẹbi {{tt}}, ati bẹbẹ lọ)"
+      },
+      "tab": {
+        "title": "oju-iwe taabu",
+        "rightTab": ": Ọna asopọ naa ṣii ni taabu tuntun ni apa ọtun",
+        "leftTab": ": Ọna asopọ naa ṣii ni taabu tuntun ni apa osi",
+        "currentTab": ": Lọwọlọwọ taabu"
+      },
+      "active": {
+        "title": "ti nṣiṣe lọwọ ipinle",
+        "active": ": Mu ṣiṣẹ lẹsẹkẹsẹ",
+        "inactive": ":Aláìṣiṣẹ́"
+      }
+    },
+    "functions": {
+      "title": "Awọn nkan iṣẹ ti o wa",
+      "minimatch": ": Ọna ti o baamu {{gg}} nlo ile-ikawe {{mm}} Jọwọ wo <a>Wo</a> fun ọna lilo, tabi o tun le wa ọna lilo ti {{gg}}."
     }
   },
   "menu": {

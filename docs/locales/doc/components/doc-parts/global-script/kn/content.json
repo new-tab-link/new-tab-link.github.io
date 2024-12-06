@@ -3,16 +3,7 @@
     "title": "ಜಾಗತಿಕ ಸ್ಕ್ರಿಪ್ಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
     "description": "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಬಳಸಿ ನಿಮ್ಮ ಸ್ವಂತ ಸ್ಕ್ರಿಪ್ಟ್ ಅನ್ನು ನೀವು ಬರೆಯಬಹುದು",
     "examplesTitle": "ಉದಾಹರಣೆ",
-    "checkedUseSetting": "ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಪರಿಶೀಲಿಸಿ.",
-    "variables": {
-      "title": "ಲಭ್ಯವಿರುವ ಅಸ್ಥಿರಗಳು",
-      "click": "ಕ್ಲಿಕ್ ಮಾಡಿದ ಲಿಂಕ್, ಈ ಗುಣಲಕ್ಷಣವು <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ವರ್ಗ ವಸ್ತುವಾಗಿದೆ.",
-      "page": "ಪ್ರಸ್ತುತ ಪುಟದ ಲಿಂಕ್ <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>URL</a> ವರ್ಗ ವಸ್ತು."
-    },
-    "returnVariables": {
-      "title": "ಹಿಂತಿರುಗಿಸಬಹುದಾದ ಮೌಲ್ಯಗಳು",
-      "rightTab": "ಬಲಭಾಗದಲ್ಲಿರುವ ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
-    }
+    "checkedUseSetting": "ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಪರಿಶೀಲಿಸಿ."
   },
   "menu": {
     "main": "ಜಾಗತಿಕ ಲಿಪಿ"

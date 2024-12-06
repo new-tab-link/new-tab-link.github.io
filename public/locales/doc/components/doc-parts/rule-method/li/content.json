@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Regelinvoerinstellinge",
+    "rule": {
+      "edit": "Voeg regelinvoere toe of bewerke",
+      "description": "Geer kin deze insjtelling invoere via ‘t menu mit de rechtermuisknop op eder webpagina. .",
+      "formats": {
+        "title": "regelpatroon",
+        "url": {
+          "title": "URL-modus, volledige URL.",
+          "example": {
+            "as": "Bieveurbeeld:"
+          },
+          "explain": "Dees methode kin euvereinkómme mit de volledige URL."
+        },
+        "glob": {
+          "title": "De glob-methode gebruuk de {{1}}-bibliotheek, <a>zuug</a> veur gebruuk, of geer kin zeuke nao ‘t gebruuk vaan {{2}}.",
+          "example": {
+            "as": "Bieveurbeeld:",
+            "a": "{{1}}, wat euvereinkump mit de YouTube-homepagina en alle subpagina's."
+          }
+        },
+        "regexp": {
+          "title": "Regelmaotege oetdrökking, zuug <a>Zuug</a> veur gebruuk."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Regelinvoerinstellinge"
+  }
+}

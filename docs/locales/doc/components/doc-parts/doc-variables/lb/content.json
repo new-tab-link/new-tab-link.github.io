@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Verfügbar Variabelen",
-    "page": ": D'Variabel ass den URL-Objet vun der aktueller Websäit Fir Detailer, <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>. gesinn</a>",
+    "title": "Verfügbar Variabel a Funktiounsobjekter",
+    "click": ": Den URL-Objet vum geklickte Link Fir Detailer, <a>kuckt</a>",
+    "page": ": Den URL Objet vun der aktueller Websäit (normalerweis d'Adressbar), detailléiert Aféierung <a>Kuckt</a>",
     "pageHost": ": Den Domain Numm vun der aktueller Websäit",
-    "isSameSubDomain": "{{_isSameSubDomain_}}: Deeselwechten Domain Numm Notéiert datt obwuel d'Haaptdomänennimm vun {{_youtube_}} an {{_families_}} béid {{_mainDomain_}} sinn, sinn d'Subdomainnamen {{_youtubeSubDomain_}} an {{. _familiesSubDomain_}} respektiv Also hir Domain Nimm sinn anescht.",
-    "click": ": de Link deen geklickt gouf",
     "clickpath": ": De Wee vum geklickte Link",
-    "minimatch": ": {{_glob_}} passende Method, mat der {{_minimatch_}} Bibliothéik, Benotzungsmethod <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>Kuckt < /a>, oder Dir kënnt no {{_glob_}} sichen.",
-    "isSameDomain": ": Ob et dee selwechten Domain Numm ass, {{_true_}} ass jo, {{_false_}} ass nee.",
-    "isSameParent": ": Ob et dee selwechten Elterenwee ass, {{_true_}} ass jo, {{_false_}} ass nee.",
-    "isPageSublink": ": Ob déi aktuell Säit eng Ënnersäit vum geklickte Link ass, {{_true_}} ass jo, {{_false_}} ass nee.",
-    "isPageMultilevelSublink": ": Ob déi aktuell Säit eng onendlech Ënnersäit vum geklickte Link ass, {{_true_}} ass jo, {{_false_}} ass nee.",
-    "isClickSublink": ": Ob de geklickte Link en Ënnerlink vun der aktueller Säit ass, {{_true_}} ass jo, {{_false_}} ass nee.",
-    "isClickMultilevelSublink": ": Ob de geklickte Link en onlimitéierten Ënnerlink vun der aktueller Säit ass, {{_true_}} ass jo, {{_false_}} ass nee.",
+    "isSameDomain": ": Ob et deeselwechten Domainnumm ass, {{tt}} ass jo, {{ff}} ass nee.",
+    "isSameSubDomain": "{{ss}}: Dee selwechten Domain Numm Notéiert datt obwuel d'Haaptdomänennimm vun {{yy}} an {{ff}} béid {{mm}} sinn, sinn d'Ënnerdomainnimm {{ww}} an. {{ffss}} respektiv Also hir Domain Nimm sinn anescht.",
+    "isSameParent": ": Ob et dee selwechten Elterenwee ass, {{tt}} ass jo, {{ff}} ass nee.",
+    "isPageSublink": ": Ob déi aktuell Säit eng Ënnersäit vum geklickte Link ass, {{tt}} ass jo, {{ff}} ass Nee.",
+    "isPageMultilevelSublink": ": Ob déi aktuell Säit eng onendlech Ënnersäit vum geklickte Link ass, {{tt}} ass jo, {{ff}} ass nee.",
+    "isClickSublink": ": Ob de geklickte Link en Ënnerlink vun der aktueller Säit ass, {{tt}} ass jo, {{ff}} ass Nee.",
+    "isClickMultilevelSublink": ": Ob de geklickte Link en onlimitéierten Ënnerlink vun der aktueller Säit ass, {{tt}} ass jo, {{ff}} ass nee.",
     "returnVariables": {
       "title": "Retour Verännerlechen",
-      "rightTab": ": De Link eröffnet an enger neier Tab op der rietser Säit",
-      "leftTab": ": De Link mécht an enger neier Tab op der lénker Säit op",
-      "currentWindow": "aktuell Fënster",
-      "newWindow": "nei Fënster",
-      "incognitoWindow": "Incognito Fënster",
-      "popupWindow": "Pop-up Fënster",
-      "currentTab": "Aktuell Tab",
-      "active": "Aktivéiert elo",
-      "inactive": "Net aktivéiert"
+      "window": {
+        "title": "Fënster",
+        "currentWindow": ": Aktuell Fënster",
+        "newWindow": ": nei Fënster",
+        "incognitoWindow": ": Onsichtbar Fënster",
+        "popupWindow": ": Pop-up Fënster",
+        "externalBrowser": ":Extern Browser (wéi {{tt}}, etc.)"
+      },
+      "tab": {
+        "title": "Tab Säit",
+        "rightTab": ": De Link mécht an engem neien Tab op der rietser Säit op",
+        "leftTab": ": De Link mécht an enger neier Tab op der lénker Säit op",
+        "currentTab": ": Aktuelle Tab"
+      },
+      "active": {
+        "title": "aktiv Staat",
+        "active": ": Direkt aktivéieren",
+        "inactive": ": Inaktiv"
+      }
+    },
+    "functions": {
+      "title": "VerfÜgung Funktioun Objete",
+      "minimatch": ": D'{{gg}} passende Method benotzt d'{{mm}} Bibliothéik. Kuckt w.e.g. <a>Kuckt</a> fir d'Benotzungsmethod, oder Dir kënnt och no der Benotzungsmethod vun {{gg}} sichen."
     }
   },
   "menu": {

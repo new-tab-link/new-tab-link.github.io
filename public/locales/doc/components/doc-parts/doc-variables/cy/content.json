@@ -1,29 +1,42 @@
 {
   "doc": {
-    "title": "Newidynnau sydd ar gael",
-    "page": ": Y newidyn yw gwrthrych URL y dudalen we gyfredol. gweld</a>",
+    "title": "Gwrthrychau amrywiol a swyddogaeth sydd ar gael",
+    "click": ": Gwrthrych URL y ddolen a gliciwyd. Am fanylion, <a>gweler</a>",
+    "page": ": Gwrthrych URL y dudalen we gyfredol (y bar cyfeiriad fel arfer), cyflwyniad manwl <a>Gweler</a>",
     "pageHost": ": Enw parth y dudalen we gyfredol",
-    "isSameSubDomain": "{{_isSameSubDomain_}} : Yr un enw parth. Sylwch, er bod prif enwau parth {{_youtube_}} a {{_families_}} yn {{_mainDomain_}}, yr enwau is-barth yw {{_youtubeSubDomain_}} a {{ _familiesSubDomain_}} yn y drefn honno. Felly mae eu henwau parth yn wahanol.",
-    "click": ": y ddolen a gliciwyd",
     "clickpath": ": Llwybr y ddolen a gliciwyd",
-    "minimatch": ": {{_glob_}} dull paru, gan ddefnyddio'r llyfrgell {{_minimatch_}}, dull defnydd <a href='https://github.com/isaacs/minimatch' target='_blank' rel= 'noreferrer'>Gweler < /a>, neu gallwch chwilio am {{_glob_}}.",
-    "isSameDomain": ": P'un ai yw'r un enw parth, {{_true_}} ydy ydy, {_false_}} yw na.",
-    "isSameParent": ": P'un a yw'r un llwybr rhiant, {{_true_}} yw ydy, {{_false_}} yw na.",
-    "isPageSublink": ": P'un a yw'r dudalen gyfredol yn is-dudalen o'r ddolen a gliciwyd, mae {{_true_}} yn ydy, mae {{_false_}} yn nac ydy.",
-    "isPageMultilevelSublink": ": P'un a yw'r dudalen gyfredol yn is-dudalen anfeidrol o'r ddolen a gliciwyd, mae {{_true_}} yn ydy, mae {{_false_}} yn nac ydy.",
-    "isClickSublink": ": A yw'r ddolen a gliciwyd yn is-ddolen o'r dudalen gyfredol, mae {{_true_}} yn ydy, mae {{_false_}} yn nac ydy.",
-    "isClickMultilevelSublink": ": A yw'r ddolen a gliciwyd yn is-ddolen anghyfyngedig o'r dudalen gyfredol, mae {{_true_}} yn ydy, mae {{_false_}} yn nac ydy.",
+    "isSameDomain": ": P'un ai yw'r un enw parth, {{tt}} ydy, {{ff}} yw na.",
+    "isSameSubDomain": "{{ ss }} : Yr un enw parth. Sylwch, er bod prif enwau parth {{ yy}} a {{ff}} ill dau yn {{mm}}, yr enwau is-barth yw {{ww}} a {{ffss}} yn y drefn honno. Felly mae eu henwau parth yn wahanol.",
+    "isSameParent": ": P'un a yw'r un llwybr rhiant, {{tt}} ydy, {{ff}} yw na.",
+    "isPageSublink": ": P'un a yw'r dudalen gyfredol yn is-dudalen o'r ddolen a gliciwyd, {{tt}} yw ydy, {{ff}} yw na.",
+    "isPageMultilevelSublink": ": P'un a yw'r dudalen gyfredol yn is-dudalen anfeidrol o'r ddolen a gliciwyd, {{tt}} yw ydy, {{ff}} yw na.",
+    "isClickSublink": ": P'un a yw'r ddolen a gliciwyd yn is-ddolen o'r dudalen gyfredol, {{tt}} yw ydy, {{ff}} yw na.",
+    "isClickMultilevelSublink": ": P'un a yw'r ddolen a gliciwyd yn is-ddolen anghyfyngedig o'r dudalen gyfredol, {{tt}} yw ydy, {{ff}} yw na.",
     "returnVariables": {
       "title": "Newidynnau dychweladwy",
-      "rightTab": ": Mae'r ddolen yn agor mewn tab newydd ar y dde",
-      "leftTab": ": Mae'r ddolen yn agor mewn tab newydd ar y chwith",
-      "currentWindow": "ffenestr gyfredol",
-      "newWindow": "ffenestr newydd",
-      "incognitoWindow": "Ffenestr anhysbys",
-      "popupWindow": "Ffenestr naid",
-      "currentTab": "Tab cyfredol",
-      "active": "Gweithredwch nawr",
-      "inactive": "Heb ei actifadu"
+      "window": {
+        "title": "ffenestr",
+        "currentWindow": ": ffenestr bresennol",
+        "newWindow": ": ffenestr newydd",
+        "incognitoWindow": ": Ffenestr anweledig",
+        "popupWindow": ": ffenestr naid",
+        "externalBrowser": ": Porwr allanol (fel {{tt}}, ac ati)"
+      },
+      "tab": {
+        "title": "tudalen tab",
+        "rightTab": ": Mae'r ddolen yn agor mewn tab newydd ar y dde",
+        "leftTab": ": Mae'r ddolen yn agor mewn tab newydd ar y chwith",
+        "currentTab": ": tab presennol"
+      },
+      "active": {
+        "title": "cyflwr gweithredol",
+        "active": ": Ysgogi ar unwaith",
+        "inactive": ": Anweithredol"
+      }
+    },
+    "functions": {
+      "title": "Gwrthrychau swyddogaeth sydd ar gael",
+      "minimatch": ": Mae'r dull paru {{gg}} yn defnyddio'r llyfrgell {{mm}}. Gweler <a>Gweler</a> am y dull defnydd, neu gallwch hefyd chwilio am y dull defnydd o {{gg}}."
     }
   },
   "menu": {

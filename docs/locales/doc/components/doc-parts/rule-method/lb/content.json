@@ -1,0 +1,32 @@
+{
+  "doc": {
+    "title": "Regel Entrée Astellunge",
+    "rule": {
+      "edit": "Füügt oder ännert Regelentréeën",
+      "description": "Dir kënnt dës Astellung duerch d'Recht-Klickmenü op all Websäit aginn .",
+      "formats": {
+        "title": "Regel Muster",
+        "url": {
+          "title": "URL Modus, komplett URL.",
+          "example": {
+            "as": "Zum Beispill:"
+          },
+          "explain": "Dës Method kann mat der kompletter URL passen."
+        },
+        "glob": {
+          "title": "D'Glob-Methode benotzt d'{{1}} Bibliothéik <a>kuckt</a> fir d'Benotzung, oder Dir kënnt no der Notzung vun {{2}} sichen.",
+          "example": {
+            "as": "Zum Beispill:",
+            "a": "{{1}}, déi mat der YouTube Homepage an all Ënnersäiten entsprécht."
+          }
+        },
+        "regexp": {
+          "title": "Regelméisseg Ausdrock, kuckt w.e.g. <a>Kuckt</a> fir d'Benotzung."
+        }
+      }
+    }
+  },
+  "menu": {
+    "main": "Regel Entrée Astellunge"
+  }
+}
