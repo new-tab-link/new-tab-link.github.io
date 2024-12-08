@@ -9,9 +9,9 @@ interface MenuComponentProps extends PropsWithChildren {
 export function MenuAnchorComponent({anchor, children }: MenuComponentProps) {
     return (
         <>
-            <ListItem>
-                <ListItemButton onClick={() => {indexModel.anchor.setAnchor(anchor) }}>
-                    <ListItemText >
+            <ListItem sx={{p:0}}>
+                <ListItemButton sx={{m:0, p:0}} onClick={() => {indexModel.anchor.setAnchor(anchor) }}>
+                    <ListItemText sx={{p:0}} >
                         {children}
                     </ListItemText>
                 </ListItemButton>

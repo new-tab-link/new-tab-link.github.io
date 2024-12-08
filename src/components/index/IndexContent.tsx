@@ -11,6 +11,7 @@ import { DocDiffDomainLink } from "../doc-parts/diff-domain-links/DocDiffDomainL
 import { DocGlobalScript } from "../doc-parts/global-script/DocGlobalScript";
 import { DocVariables } from "../doc-parts/doc-variables/DocVariables";
 import { DocRuleMethod } from "../doc-parts/rule-method/RuleMethod";
+import { DocScriptDelSaveNew } from "../doc-parts/script-del-save-new/ScriptDelSaveNew";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -70,6 +71,7 @@ function LeftMenu() {
         <DocGlobalScript.Menu />
         <DocVariables.Menu />
         <DocRuleMethod.Menu/>
+        <DocScriptDelSaveNew.Menu/>
     </MenuContainer>
 }
 
@@ -113,6 +115,7 @@ export function IndexContent() {
                         <DocDiffDomainLink.Doc />
                         <DocGlobalScript.Doc />
                         <DocRuleMethod.Doc />
+                        <DocScriptDelSaveNew.Doc />
                         <MediaQuery />
                     </div>
                 </Stack>
