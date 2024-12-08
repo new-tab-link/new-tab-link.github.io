@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Krouiñ ur skript reolenn nevez",
+    "name": {
+      "title": "anv:",
+      "explain": "Anv ar skritur."
+    },
+    "script": {
+      "title": "testenn:",
+      "explain": "Danvez ar skript."
+    },
+    "delBtn": {
+      "title": "dilemel:",
+      "explain": "Dilemel ar skript bremanel"
+    },
+    "saveBtn": {
+      "title": "saveteiñ:",
+      "explain": "Enrollañ ar skript bremanel"
+    }
+  },
+  "menu": {
+    "main": "Krouiñ ur skript reolenn nevez"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ajout, suppression et modification de règles",
+    "newBtn": {
+      "title": "Nouveau:",
+      "explain": "Créer un nouveau script pour la règle"
+    },
+    "saveBtn": {
+      "title": "sauvegarder:",
+      "explain": "Enregistrer les paramètres de règle actuels"
+    },
+    "delBtn": {
+      "title": "supprimer:",
+      "explain": "Supprimer les paramètres de la règle actuelle"
+    },
+    "autoSave": {
+      "title": "Sauvegarde automatique :",
+      "explain": "Les paramètres de règle modifiés sont automatiquement enregistrés à chaque modification"
+    }
+  },
+  "menu": {
+    "main": "Ajout, suppression et modification de règles"
+  }
+}

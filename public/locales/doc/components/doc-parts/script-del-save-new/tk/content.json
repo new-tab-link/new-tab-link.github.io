@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Düzgünleri goşmak, aýyrmak we üýtgetmek",
+    "newBtn": {
+      "title": "Täze:",
+      "explain": "Düzgün üçin täze skript dörediň"
+    },
+    "saveBtn": {
+      "title": "tygşytlamak:",
+      "explain": "Häzirki düzgün sazlamalaryny ýazdyryň"
+    },
+    "delBtn": {
+      "title": "öçürmek:",
+      "explain": "Häzirki düzgüniň sazlamalaryny pozuň"
+    },
+    "autoSave": {
+      "title": "Awto tygşytlamak:",
+      "explain": "Üýtgedilen düzgün sazlamalary her üýtgeşme bilen awtomatiki usulda saklanýar"
+    }
+  },
+  "menu": {
+    "main": "Düzgünleri goşmak, aýyrmak we üýtgetmek"
+  }
+}

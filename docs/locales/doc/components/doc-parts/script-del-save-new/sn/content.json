@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kuwedzera, kudzima uye kugadziriswa kwemitemo",
+    "newBtn": {
+      "title": "Zvitsva:",
+      "explain": "Gadzira chinyorwa chitsva chemutemo"
+    },
+    "saveBtn": {
+      "title": "save:",
+      "explain": "Sevha zvigadziriso zvemitemo zvazvino"
+    },
+    "delBtn": {
+      "title": "delete:",
+      "explain": "Bvisa zvigadziriso zvemutemo wezvino"
+    },
+    "autoSave": {
+      "title": "Sevha otomatiki:",
+      "explain": "Yakashandurwa mutemo marongero anochengetwa otomatiki neshanduko yega yega"
+    }
+  },
+  "menu": {
+    "main": "Kuwedzera, kudzima uye kugadziriswa kwemitemo"
+  }
+}

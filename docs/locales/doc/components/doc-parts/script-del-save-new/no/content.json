@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tilføyelse, sletting og endring av regler",
+    "newBtn": {
+      "title": "Ny:",
+      "explain": "Opprett et nytt skript for regelen"
+    },
+    "saveBtn": {
+      "title": "spare:",
+      "explain": "Lagre gjeldende regelinnstillinger"
+    },
+    "delBtn": {
+      "title": "slett:",
+      "explain": "Slett innstillingene for gjeldende regel"
+    },
+    "autoSave": {
+      "title": "Autolagring:",
+      "explain": "Endrede regelinnstillinger lagres automatisk ved hver endring"
+    }
+  },
+  "menu": {
+    "main": "Tilføyelse, sletting og endring av regler"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Penambahan, penghapusan dan perubahan peraturan",
+    "newBtn": {
+      "title": "Baru:",
+      "explain": "Buat skrip baru untuk aturan tersebut"
+    },
+    "saveBtn": {
+      "title": "menyimpan:",
+      "explain": "Simpan pengaturan aturan saat ini"
+    },
+    "delBtn": {
+      "title": "menghapus:",
+      "explain": "Hapus pengaturan aturan saat ini"
+    },
+    "autoSave": {
+      "title": "Simpan otomatis:",
+      "explain": "Pengaturan aturan yang diubah secara otomatis disimpan dengan setiap perubahan"
+    }
+  },
+  "menu": {
+    "main": "Penambahan, penghapusan dan perubahan peraturan"
+  }
+}

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Nastavitve vnosa pravil"
+    "main": "Nastavitve vnosa pravil",
+    "onlyForCurrentRule": {
+      "title": "Velja samo za trenutno pravilo:",
+      "explain": "Če je označeno, se lahko uporablja samo za trenutno pravilo, sicer pa se lahko uporabijo vsa globalna pravila."
+    }
   }
 }

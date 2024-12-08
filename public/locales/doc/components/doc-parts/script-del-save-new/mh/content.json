@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kobaik, jolok im ukōt kakien ko",
+    "newBtn": {
+      "title": "Kāāl:",
+      "explain": "Kōmman juon script ekãl ñan kien eo"
+    },
+    "saveBtn": {
+      "title": "kakwōne:",
+      "explain": "Kōjparok kien ko kiiō"
+    },
+    "delBtn": {
+      "title": "jeere:",
+      "explain": "Jolok joñan ko an kien eo kiõ"
+    },
+    "autoSave": {
+      "title": "Auto save:",
+      "explain": "Kien ko kar ukōti rej make wōt kōjparok ilo kajjojo oktak"
+    }
+  },
+  "menu": {
+    "main": "Kobaik, jolok im ukōt kakien ko"
+  }
+}

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Innsláttarstillingar reglu"
+    "main": "Innsláttarstillingar reglu",
+    "onlyForCurrentRule": {
+      "title": "Tekur aðeins gildi fyrir núverandi reglu:",
+      "explain": "Ef hakað er við, er aðeins hægt að nota það fyrir núverandi reglu, annars er hægt að nota allar alþjóðlegar reglur."
+    }
   }
 }

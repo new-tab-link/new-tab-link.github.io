@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Switirhisiwa swo nghenisa milawu"
+    "main": "Switirhisiwa swo nghenisa milawu",
+    "onlyForCurrentRule": {
+      "title": "Swi sungula ku tirha ntsena eka nawu wa sweswi:",
+      "explain": "Loko yi kamberiwile, yi nga tirhisiwa ntsena eka nawu wa sweswi, handle ka sweswo milawu hinkwayo ya misava hinkwayo yi nga tirhisiwa."
+    }
   }
 }

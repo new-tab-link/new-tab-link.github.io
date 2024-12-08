@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Skep 'n nuwe reëlskrif",
+    "name": {
+      "title": "naam:",
+      "explain": "Die naam van die skrif."
+    },
+    "script": {
+      "title": "skrif:",
+      "explain": "Skrip inhoud."
+    },
+    "delBtn": {
+      "title": "verwyder:",
+      "explain": "Vee huidige skrif uit"
+    },
+    "saveBtn": {
+      "title": "stoor:",
+      "explain": "Stoor huidige skrif"
+    }
+  },
+  "menu": {
+    "main": "Skep 'n nuwe reëlskrif"
+  }
+}

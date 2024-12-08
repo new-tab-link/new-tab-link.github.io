@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Addició, supressió i modificació de normes",
+    "newBtn": {
+      "title": "Nou:",
+      "explain": "Creeu un script nou per a la regla"
+    },
+    "saveBtn": {
+      "title": "guardar:",
+      "explain": "Desa la configuració actual de la regla"
+    },
+    "delBtn": {
+      "title": "suprimir:",
+      "explain": "Suprimeix la configuració de la regla actual"
+    },
+    "autoSave": {
+      "title": "Desa automàticament:",
+      "explain": "La configuració de la regla canviada es desa automàticament amb cada canvi"
+    }
+  },
+  "menu": {
+    "main": "Addició, supressió i modificació de normes"
+  }
+}

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Qayda girişi parametrləri"
+    "main": "Qayda girişi parametrləri",
+    "onlyForCurrentRule": {
+      "title": "Yalnız cari qayda üçün qüvvəyə minir:",
+      "explain": "Yoxlandıqda, o, yalnız cari qayda üçün istifadə edilə bilər, əks halda bütün qlobal qaydalar istifadə edilə bilər."
+    }
   }
 }

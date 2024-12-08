@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Dala umbhalo lomusha wemtsetfo",
+    "name": {
+      "title": "libito:",
+      "explain": "Ligama lesibhalo lesibhalwe phansi."
+    },
+    "script": {
+      "title": "simo sokuloba:",
+      "explain": "Lokucuketfwe ngumbhalo."
+    },
+    "delBtn": {
+      "title": "sula:",
+      "explain": "Cisha umbhalo wamanje"
+    },
+    "saveBtn": {
+      "title": "gcina:",
+      "explain": "Gcina umbhalo wamanje"
+    }
+  },
+  "menu": {
+    "main": "Dala umbhalo lomusha wemtsetfo"
+  }
+}

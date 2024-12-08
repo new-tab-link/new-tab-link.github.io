@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ruwo doka bǝlin kunkunne",
+    "name": {
+      "title": "su:",
+      "explain": "Su ruwobedə."
+    },
+    "script": {
+      "title": "kakkadə:",
+      "explain": "Fasal ruwobe."
+    },
+    "delBtn": {
+      "title": "cintə:",
+      "explain": "Ruwo kərmabedə cinne"
+    },
+    "saveBtn": {
+      "title": "gənatə:",
+      "explain": "Ruwo kərmabedə gənanəmin"
+    }
+  },
+  "menu": {
+    "main": "Ruwo doka bǝlin kunkunne"
+  }
+}

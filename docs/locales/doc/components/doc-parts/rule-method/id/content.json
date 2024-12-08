@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Pengaturan entri aturan"
+    "main": "Pengaturan entri aturan",
+    "onlyForCurrentRule": {
+      "title": "Hanya berlaku untuk aturan saat ini:",
+      "explain": "Jika dicentang, ini hanya dapat digunakan untuk aturan saat ini, jika tidak, semua aturan global dapat digunakan."
+    }
   }
 }

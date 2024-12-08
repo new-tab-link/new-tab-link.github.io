@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Zokonda zolowera malamulo"
+    "main": "Zokonda zolowera malamulo",
+    "onlyForCurrentRule": {
+      "title": "Zimangoyamba kugwira ntchito pamalamulo apano:",
+      "explain": "Ngati yafufuzidwa, ingagwiritsidwe ntchito pa lamulo lamakono, apo ayi malamulo onse apadziko lonse angagwiritsidwe ntchito."
+    }
   }
 }

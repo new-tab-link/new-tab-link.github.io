@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Qoidalarni kiritish sozlamalari"
+    "main": "Qoidalarni kiritish sozlamalari",
+    "onlyForCurrentRule": {
+      "title": "Faqat joriy qoida uchun kuchga kiradi:",
+      "explain": "Belgilansa, u faqat joriy qoida uchun ishlatilishi mumkin, aks holda barcha global qoidalardan foydalanish mumkin."
+    }
   }
 }

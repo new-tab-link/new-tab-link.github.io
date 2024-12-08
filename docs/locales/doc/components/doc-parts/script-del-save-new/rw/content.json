@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ongeraho, gusiba no guhindura amategeko",
+    "newBtn": {
+      "title": "Gishya:",
+      "explain": "Kora inyandiko nshya kubitegeko"
+    },
+    "saveBtn": {
+      "title": "kuzigama:",
+      "explain": "Bika igenamiterere ry'amategeko"
+    },
+    "delBtn": {
+      "title": "gusiba:",
+      "explain": "Siba igenamiterere ry'amategeko agenga ubu"
+    },
+    "autoSave": {
+      "title": "Bika imodoka:",
+      "explain": "Guhindura amategeko igenamigambi ihita ibikwa hamwe na buri mpinduka"
+    }
+  },
+  "menu": {
+    "main": "Ongeraho, gusiba no guhindura amategeko"
+  }
+}

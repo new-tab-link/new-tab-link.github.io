@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kwongera, gukuraho no guhindura amategeko",
+    "newBtn": {
+      "title": "Nshasha:",
+      "explain": "Rema inyandiko nshasha y'itegeko"
+    },
+    "saveBtn": {
+      "title": "gukiza:",
+      "explain": "Bika amabwirizwa y'ubu"
+    },
+    "delBtn": {
+      "title": "gusiba:",
+      "explain": "Gukuraho amategeko y'ubu"
+    },
+    "autoSave": {
+      "title": "Bika ubwavyo:",
+      "explain": "Amategeko yahinduwe arabikwa ubwo nyene igihe cose hahinduwe"
+    }
+  },
+  "menu": {
+    "main": "Kwongera, gukuraho no guhindura amategeko"
+  }
+}

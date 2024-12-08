@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "I setbisio siha put i tinige' put i lai siha"
+    "main": "I setbisio siha put i tinige' put i lai siha",
+    "onlyForCurrentRule": {
+      "title": "Ha na'guaha ha' i lai på'go:",
+      "explain": "Yanggen ma chek, siña ha' ma usa para i lai på'go, yanggen ti siña ma usa todu i lai siha gi enteru mundo."
+    }
   }
 }

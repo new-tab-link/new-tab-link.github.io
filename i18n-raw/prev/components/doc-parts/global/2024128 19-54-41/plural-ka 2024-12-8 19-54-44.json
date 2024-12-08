@@ -1,0 +1,34 @@
+{
+  "doc": {
+    "title": "全局设置",
+    "checkedUseSetting": "勾选可以启用此设置。",
+    "excludeDomains": "添加要排除的域名，每次只能添加一条。",
+    "seeExcludeExamplesLink": "示例",
+    "exclude": {
+      "example": {
+        "domain": "您可以添加一个域名，例如<code>{{url}}</code>，排除整个域名。",
+        "url": "您可以添加一个链接，例如<code>{{url}}</code>，排除具体链接。",
+        "glob": "您可以添加一个{{glob}}模式，例如<code>{{minimatch}}</code>，模糊匹配。"
+      }
+    },
+    "script": "您还可以用js脚本来实现更精细复杂的控制。",
+    "checkedUseScript": "是否启用您的脚本，注意，您需要同时勾选两个选择框才会启用脚本。",
+    "scriptControll": {
+      "example1": {
+        "commentTitle": "当前在{{youtube}}网站，要在新标签页打开{{youtube}}的{{watch}}或{{shorts}}页面。",
+        "introVariables": "变量介绍",
+        "page": " : 变量是当前网页的URL对象，详细介绍 <a href='https://developer.mozilla.org/docs/Web/API/URL' target='_blank' rel='noreferrer'>请看</a>",
+        "pageHost": " : 当前网页的域名",
+        "isSameSubDomain": "{{isSameSubDomain}} : 同一个域名，注意{{youtube}}和{{families}}虽然主域名都是{{mainDomain}}，但是子域名分别是{{youtubeSubDomain}}和{{familiesSubDomain}}，所以它们域名不同。",
+        "click": " : 被点击的链接",
+        "clickpath": " ： 被点击链接的路径",
+        "minimatch": " : {{glob}}匹配方式，使用的是{{minimatch}}库，使用方式 <a href='https://github.com/isaacs/minimatch' target='_blank' rel='noreferrer'>请看</a>，或者您也可以用搜索{{glob}}的使用方法。",
+        "rightTab": " ： 链接在右侧新标签页打开",
+        "wholeCode": "整个代码的意思是当前在YouTube的{{www}}域名页面中，点击的链接如果是相同域名，并且路径是{{watch}}或{{shorts}}开头的，则在右侧新标签页打开。"
+      }
+    }
+  },
+  "menu": {
+    "main": "全局配置"
+  }
+}

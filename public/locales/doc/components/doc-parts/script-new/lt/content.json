@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Sukurkite naują taisyklės scenarijų",
+    "name": {
+      "title": "vardas:",
+      "explain": "Scenarijaus pavadinimas."
+    },
+    "script": {
+      "title": "scenarijus:",
+      "explain": "Scenarijaus turinys."
+    },
+    "delBtn": {
+      "title": "ištrinti:",
+      "explain": "Ištrinti dabartinį scenarijų"
+    },
+    "saveBtn": {
+      "title": "išsaugoti:",
+      "explain": "Išsaugoti esamą scenarijų"
+    }
+  },
+  "menu": {
+    "main": "Sukurkite naują taisyklės scenarijų"
+  }
+}

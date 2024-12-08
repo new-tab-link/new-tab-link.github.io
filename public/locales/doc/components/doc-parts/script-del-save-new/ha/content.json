@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ƙara, shafewa da gyara dokoki",
+    "newBtn": {
+      "title": "Sabo:",
+      "explain": "Ƙirƙiri sabon rubutun don ƙa'idar"
+    },
+    "saveBtn": {
+      "title": "ajiye:",
+      "explain": "Ajiye saitunan ƙa'ida na yanzu"
+    },
+    "delBtn": {
+      "title": "share:",
+      "explain": "Share saitunan tsarin mulki na yanzu"
+    },
+    "autoSave": {
+      "title": "Ajiye ta atomatik:",
+      "explain": "Ana adana saitunan ƙa'ida ta atomatik tare da kowane canji"
+    }
+  },
+  "menu": {
+    "main": "Ƙara, shafewa da gyara dokoki"
+  }
+}

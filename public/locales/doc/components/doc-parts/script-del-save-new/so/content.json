@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ku daridda, tirtirka iyo wax ka beddelka xeerarka",
+    "newBtn": {
+      "title": "Cusub:",
+      "explain": "U samee qoraal cusub xeerka"
+    },
+    "saveBtn": {
+      "title": "badbaadi:",
+      "explain": "Keydi dejinta xeerka hadda"
+    },
+    "delBtn": {
+      "title": "tirtir:",
+      "explain": "Tirtir habaynta xeerka hadda jira"
+    },
+    "autoSave": {
+      "title": "Keyd otomaatig ah:",
+      "explain": "Dejinta qaanuunka la beddelay si toos ah ayaa loo kaydiyaa isbeddel kasta"
+    }
+  },
+  "menu": {
+    "main": "Ku daridda, tirtirka iyo wax ka beddelka xeerarka"
+  }
+}

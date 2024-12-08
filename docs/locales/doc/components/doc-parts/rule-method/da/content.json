@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Indstillinger for indtastning af regler"
+    "main": "Indstillinger for indtastning af regler",
+    "onlyForCurrentRule": {
+      "title": "Træder kun i kraft for den nuværende regel:",
+      "explain": "Hvis det er markeret, kan det kun bruges til den aktuelle regel, ellers kan alle globale regler bruges."
+    }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ouzhpennañ, diverkañ ha kemmañ ar reolennoù",
+    "newBtn": {
+      "title": "Nevez:",
+      "explain": "Krouiñ ur skript nevez evit ar reolenn"
+    },
+    "saveBtn": {
+      "title": "saveteiñ:",
+      "explain": "Enrollañ arventennoù ar reolennoù bremanel"
+    },
+    "delBtn": {
+      "title": "dilemel:",
+      "explain": "Dilemel arventennoù ar reolenn bremanel"
+    },
+    "autoSave": {
+      "title": "Enrollañ emgefre :",
+      "explain": "Enrollet e vez arventennoù ar reolennoù kemmet ent emgefre gant pep kemm"
+    }
+  },
+  "menu": {
+    "main": "Ouzhpennañ, diverkañ ha kemmañ ar reolennoù"
+  }
+}

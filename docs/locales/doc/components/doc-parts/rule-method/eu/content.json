@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Arauak sartzeko ezarpenak"
+    "main": "Arauak sartzeko ezarpenak",
+    "onlyForCurrentRule": {
+      "title": "Oraingo araurako bakarrik izango du eragina:",
+      "explain": "Hautatuta, oraingo araurako bakarrik erabil daiteke, bestela, arau global guztiak erabil daitezke."
+    }
   }
 }

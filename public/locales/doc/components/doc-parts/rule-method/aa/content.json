@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Edde xinti culmah guddaaqa"
+    "main": "Edde xinti culmah guddaaqa",
+    "onlyForCurrentRule": {
+      "title": "Awayih madqa dubuk abbinoowele:",
+      "explain": "cubbusen kaa tekkek, toh dubuk away tan madqah xoqoysil asele, akkewaytek baad madqooqi inkih xoqoysil assam duuddah."
+    }
   }
 }

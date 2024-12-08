@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Mamorona script fitsipika vaovao",
+    "name": {
+      "title": "anarana:",
+      "explain": "Ny anaran'ny script."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Ny votoatin'ny script."
+    },
+    "delBtn": {
+      "title": "mamafa:",
+      "explain": "Fafao ny script ankehitriny"
+    },
+    "saveBtn": {
+      "title": "vonjeo:",
+      "explain": "Tehirizo ny script ankehitriny"
+    }
+  },
+  "menu": {
+    "main": "Mamorona script fitsipika vaovao"
+  }
+}

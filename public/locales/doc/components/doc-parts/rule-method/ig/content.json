@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Ntọala ntinye iwu"
+    "main": "Ntọala ntinye iwu",
+    "onlyForCurrentRule": {
+      "title": "Na-arụ ọrụ naanị maka iwu ugbu a:",
+      "explain": "Ọ bụrụ na enyocha ya, enwere ike iji ya naanị maka iwu ugbu a, ma ọ bụghị ya, enwere ike iji iwu ụwa niile."
+    }
   }
 }

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Nastavenia zadávania pravidiel"
+    "main": "Nastavenia zadávania pravidiel",
+    "onlyForCurrentRule": {
+      "title": "Platí len pre aktuálne pravidlo:",
+      "explain": "Ak je začiarknuté, možno ho použiť iba pre aktuálne pravidlo, inak možno použiť všetky globálne pravidlá."
+    }
   }
 }

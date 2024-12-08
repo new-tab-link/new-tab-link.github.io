@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Zousätzlech, Läschen an Ännerung vun Regelen",
+    "newBtn": {
+      "title": "Nei:",
+      "explain": "Erstellt en neit Skript fir d'Regel"
+    },
+    "saveBtn": {
+      "title": "späicheren:",
+      "explain": "Retten aktuell Regel Astellunge"
+    },
+    "delBtn": {
+      "title": "läschen:",
+      "explain": "Läschen d'Astellunge vun der aktueller Regel"
+    },
+    "autoSave": {
+      "title": "Auto späicheren:",
+      "explain": "Geännert Regelastellunge ginn automatesch mat all Ännerung gespäichert"
+    }
+  },
+  "menu": {
+    "main": "Zousätzlech, Läschen an Ännerung vun Regelen"
+  }
+}

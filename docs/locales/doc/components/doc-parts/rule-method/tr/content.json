@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Kural girişi ayarları"
+    "main": "Kural girişi ayarları",
+    "onlyForCurrentRule": {
+      "title": "Yalnızca geçerli kural için geçerli olur:",
+      "explain": "İşaretlenirse yalnızca geçerli kural için kullanılabilir, aksi takdirde tüm genel kurallar kullanılabilir."
+    }
   }
 }

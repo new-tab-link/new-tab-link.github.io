@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Creu sgript rheol newydd",
+    "name": {
+      "title": "enw:",
+      "explain": "Enw'r sgript."
+    },
+    "script": {
+      "title": "sgript:",
+      "explain": "Cynnwys y sgript."
+    },
+    "delBtn": {
+      "title": "dileu:",
+      "explain": "Dileu'r sgript gyfredol"
+    },
+    "saveBtn": {
+      "title": "arbed:",
+      "explain": "Cadw'r sgript gyfredol"
+    }
+  },
+  "menu": {
+    "main": "Creu sgript rheol newydd"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Cree script reiltys noa",
+    "name": {
+      "title": "ennym:",
+      "explain": "Ennym y screeu."
+    },
+    "script": {
+      "title": "Skriu:",
+      "explain": "Script y t'ayn."
+    },
+    "delBtn": {
+      "title": "dolley magh:",
+      "explain": "Smooinee er y script t'ayn nish"
+    },
+    "saveBtn": {
+      "title": "er-lhimmey:",
+      "explain": "Script ry-hoi"
+    }
+  },
+  "menu": {
+    "main": "Cree script reiltys noa"
+  }
+}

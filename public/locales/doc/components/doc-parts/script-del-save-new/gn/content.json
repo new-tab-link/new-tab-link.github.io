@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Oñembojoapy, oñembogue ha oñemoambue umi normativa",
+    "newBtn": {
+      "title": "Pyahu:",
+      "explain": "Ejapo peteĩ script pyahu pe regla-pe g̃uarã"
+    },
+    "saveBtn": {
+      "title": "pysyrõ:",
+      "explain": "Eñongatu umi regla ñemboheko ko’ag̃agua"
+    },
+    "delBtn": {
+      "title": "mboje'oha:",
+      "explain": "Embogue umi ñemboheko regla ko’áĝagua rehegua"
+    },
+    "autoSave": {
+      "title": "Auto save: 1.1.",
+      "explain": "Umi regla ñemboheko oñemoambuéva oñeñongatu ijeheguiete peteĩteĩ ñemoambue ndive"
+    }
+  },
+  "menu": {
+    "main": "Oñembojoapy, oñembogue ha oñemoambue umi normativa"
+  }
+}

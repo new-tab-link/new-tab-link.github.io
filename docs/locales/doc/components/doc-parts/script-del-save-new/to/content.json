@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tānaki atu, tamateʻi mo e fakaleleiʻi ʻo e ngaahi tuʻutuʻuní",
+    "newBtn": {
+      "title": "Fo'ou:",
+      "explain": "Fa'u ha tohi fo'ou ki he tu'utu'uni ."
+    },
+    "saveBtn": {
+      "title": "fakahaofi:",
+      "explain": "Tauhi 'a e ngaahi tu'utu'uni lolotonga"
+    },
+    "delBtn": {
+      "title": "tamate'i:",
+      "explain": "Tamate'i 'a e ngaahi settings 'o e tu'utu'uni lolotonga ."
+    },
+    "autoSave": {
+      "title": "Tauhi 'otometiki:",
+      "explain": "'Oku 'otometiki hono fakahaofi 'o e ngaahi tu'utu'uni 'o e tu'utu'uni kuo liliu 'i he liliu takitaha ."
+    }
+  },
+  "menu": {
+    "main": "Tānaki atu, tamateʻi mo e fakaleleiʻi ʻo e ngaahi tuʻutuʻuní"
+  }
+}

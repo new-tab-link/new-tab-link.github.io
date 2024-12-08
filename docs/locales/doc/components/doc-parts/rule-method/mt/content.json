@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Issettjar tad-dħul tar-regoli"
+    "main": "Issettjar tad-dħul tar-regoli",
+    "onlyForCurrentRule": {
+      "title": "Jidħol fis-seħħ biss għar-regola attwali:",
+      "explain": "Jekk iċċekkjat, jista 'jintuża biss għar-regola attwali, inkella jistgħu jintużaw ir-regoli globali kollha."
+    }
   }
 }

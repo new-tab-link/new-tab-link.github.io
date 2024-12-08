@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Sajoo galtee seera"
+    "main": "Sajoo galtee seera",
+    "onlyForCurrentRule": {
+      "title": "Seera amma jiruuf qofa hojiirra oola:",
+      "explain": "Yoo mallatteeffame, seera ammaa qofaaf fayyadamuu ni danda'ama, yoo kana hin taane seerotni addunyaa hundi fayyadamuu ni danda'ama."
+    }
   }
 }

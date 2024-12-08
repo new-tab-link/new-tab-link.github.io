@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Regula ingressum occasus"
+    "main": "Regula ingressum occasus",
+    "onlyForCurrentRule": {
+      "title": "Tantum valet ad regulam hodiernam:",
+      "explain": "Si repressit, solum ad regulam hodiernam adhiberi potest, alioquin omnes regulae globales adhiberi possunt."
+    }
   }
 }

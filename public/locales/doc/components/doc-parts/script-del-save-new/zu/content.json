@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ukwengezwa, ukususwa kanye nokuguqulwa kwemithetho",
+    "newBtn": {
+      "title": "Okusha:",
+      "explain": "Dala iskripthi esisha somthetho"
+    },
+    "saveBtn": {
+      "title": "gcina:",
+      "explain": "Londoloza izilungiselelo zesimiso samanje"
+    },
+    "delBtn": {
+      "title": "susa:",
+      "explain": "Susa izilungiselelo zomthetho wamanje"
+    },
+    "autoSave": {
+      "title": "Londoloza ngokuzenzakalela:",
+      "explain": "Izilungiselelo zomthetho ezishintshiwe zilondolozwa ngokuzenzakalelayo ngoshintsho ngalunye"
+    }
+  },
+  "menu": {
+    "main": "Ukwengezwa, ukususwa kanye nokuguqulwa kwemithetho"
+  }
+}

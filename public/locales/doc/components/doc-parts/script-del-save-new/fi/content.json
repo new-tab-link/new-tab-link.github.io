@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Sääntöjen lisääminen, poistaminen ja muuttaminen",
+    "newBtn": {
+      "title": "Uusi:",
+      "explain": "Luo säännölle uusi komentosarja"
+    },
+    "saveBtn": {
+      "title": "tallentaa:",
+      "explain": "Tallenna nykyiset sääntöasetukset"
+    },
+    "delBtn": {
+      "title": "poistaa:",
+      "explain": "Poista nykyisen säännön asetukset"
+    },
+    "autoSave": {
+      "title": "Automaattinen tallennus:",
+      "explain": "Muutetut sääntöasetukset tallennetaan automaattisesti jokaisen muutoksen yhteydessä"
+    }
+  },
+  "menu": {
+    "main": "Sääntöjen lisääminen, poistaminen ja muuttaminen"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Te taapiri, te whakakore me te whakarereke i nga ture",
+    "newBtn": {
+      "title": "Hou:",
+      "explain": "Waihangatia he hōtuhi hōu mō te ture"
+    },
+    "saveBtn": {
+      "title": "tiaki:",
+      "explain": "Tiakina nga tautuhinga ture o naianei"
+    },
+    "delBtn": {
+      "title": "muku:",
+      "explain": "Mukua nga tautuhinga o te ture o naianei"
+    },
+    "autoSave": {
+      "title": "Tiaki Aunoa:",
+      "explain": "Ka tiakina aunoa nga tautuhinga ture i ia huringa"
+    }
+  },
+  "menu": {
+    "main": "Te taapiri, te whakakore me te whakarereke i nga ture"
+  }
+}

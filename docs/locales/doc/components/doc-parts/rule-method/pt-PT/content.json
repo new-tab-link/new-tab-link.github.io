@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Definições de entrada de regras"
+    "main": "Definições de entrada de regras",
+    "onlyForCurrentRule": {
+      "title": "Só entra em vigor para a regra atual:",
+      "explain": "Se estiver marcada, só poderá ser utilizada para a regra atual, caso contrário, poderão ser utilizadas todas as regras globais."
+    }
   }
 }

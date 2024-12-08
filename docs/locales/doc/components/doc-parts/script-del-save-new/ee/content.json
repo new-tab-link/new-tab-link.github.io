@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Sewo tsɔtsɔ kpee, wo ɖeɖeɖa kple wo tɔtrɔ",
+    "newBtn": {
+      "title": "Yɛye:",
+      "explain": "Wɔ ŋɔŋlɔdzesi yeye na sea"
+    },
+    "saveBtn": {
+      "title": "dzrae ɖo:",
+      "explain": "Dzra se ƒe ɖoɖo siwo li fifia ɖo"
+    },
+    "delBtn": {
+      "title": "ɖe ɖa:",
+      "explain": "Tutu se si li fifia ƒe ɖoɖowo ɖa"
+    },
+    "autoSave": {
+      "title": "Auto save:",
+      "explain": "Wodzraa se ƒe ɖoɖo siwo wotrɔ ɖo le wo ɖokui si le tɔtrɔ ɖesiaɖe me"
+    }
+  },
+  "menu": {
+    "main": "Sewo tsɔtsɔ kpee, wo ɖeɖeɖa kple wo tɔtrɔ"
+  }
+}

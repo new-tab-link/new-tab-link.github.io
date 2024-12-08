@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ychwanegu, dileu ac addasu rheolau",
+    "newBtn": {
+      "title": "Newydd:",
+      "explain": "Creu sgript newydd ar gyfer y rheol"
+    },
+    "saveBtn": {
+      "title": "arbed:",
+      "explain": "Cadw gosodiadau rheolau cyfredol"
+    },
+    "delBtn": {
+      "title": "dileu:",
+      "explain": "Dileu gosodiadau'r rheol gyfredol"
+    },
+    "autoSave": {
+      "title": "Arbed yn awtomatig:",
+      "explain": "Mae gosodiadau rheol wedi'u newid yn cael eu cadw'n awtomatig gyda phob newid"
+    }
+  },
+  "menu": {
+    "main": "Ychwanegu, dileu ac addasu rheolau"
+  }
+}

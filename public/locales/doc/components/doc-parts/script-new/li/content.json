@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Maak un nuuj regelscript",
+    "name": {
+      "title": "naam:",
+      "explain": "De naam vaan ‘t script."
+    },
+    "script": {
+      "title": "gesjreve stuk:",
+      "explain": "Script-inhoud."
+    },
+    "delBtn": {
+      "title": "verwijdere:",
+      "explain": "Verwijder huidig ​​script"
+    },
+    "saveBtn": {
+      "title": "opsjloon:",
+      "explain": "Huidig ​​script opsjlaon"
+    }
+  },
+  "menu": {
+    "main": "Maak un nuuj regelscript"
+  }
+}

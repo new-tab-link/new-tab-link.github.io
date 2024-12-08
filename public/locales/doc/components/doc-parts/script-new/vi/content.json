@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tạo tập lệnh quy tắc mới",
+    "name": {
+      "title": "tên:",
+      "explain": "Tên của kịch bản."
+    },
+    "script": {
+      "title": "kịch bản:",
+      "explain": "Nội dung kịch bản."
+    },
+    "delBtn": {
+      "title": "xóa bỏ:",
+      "explain": "Xóa tập lệnh hiện tại"
+    },
+    "saveBtn": {
+      "title": "cứu:",
+      "explain": "Lưu tập lệnh hiện tại"
+    }
+  },
+  "menu": {
+    "main": "Tạo tập lệnh quy tắc mới"
+  }
+}

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Tilungiselelo tekufaka umtsetfo"
+    "main": "Tilungiselelo tekufaka umtsetfo",
+    "onlyForCurrentRule": {
+      "title": "Kusebenta kuphela kulomtsetfo lokhona nyalo:",
+      "explain": "Uma ihloliwe, ingasetjentiswa kuphela kumtsetfo lokhona nyalo, ngaphandle kwaloko yonkhe imitsetfo yemhlaba wonkhe ingasetjentiswa."
+    }
   }
 }

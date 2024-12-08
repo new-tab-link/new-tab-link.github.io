@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "ossotina, baysi kee madqooqi maysaasah",
+    "newBtn": {
+      "title": "Qusbah:",
+      "explain": "madqah qusba kutbe hadla"
+    },
+    "saveBtn": {
+      "title": "wadiyya:",
+      "explain": "Awayih madqah guddaaqa daagis"
+    },
+    "delBtn": {
+      "title": "bayis:",
+      "explain": "Awayih madqah guddaaqa duuga"
+    },
+    "autoSave": {
+      "title": "Birtaalî daagisiyya:",
+      "explain": "milaagimte madqah guddaaqa sissikuk daanimteh umman milaagul"
+    }
+  },
+  "menu": {
+    "main": "ossotina, baysi kee madqooqi maysaasah"
+  }
+}

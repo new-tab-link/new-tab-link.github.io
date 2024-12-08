@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ikuri, bokoci kei na veisautaki ni lawa .",
+    "newBtn": {
+      "title": "Vou:",
+      "explain": "Cakava e dua na volavola vou me baleta na lawa ."
+    },
+    "saveBtn": {
+      "title": "maroroi:",
+      "explain": "Maroroya na ituvatuva ni lawa ena gauna oqo"
+    },
+    "delBtn": {
+      "title": "bokoca:",
+      "explain": "Bokoca na ituvatuva ni lawa ni gauna oqo ."
+    },
+    "autoSave": {
+      "title": "Maroroi vakataki koya:",
+      "explain": "Na ituvatuva ni lawa veisautaki e maroroi vakataki koya ena veisau yadua ."
+    }
+  },
+  "menu": {
+    "main": "Ikuri, bokoci kei na veisautaki ni lawa ."
+  }
+}

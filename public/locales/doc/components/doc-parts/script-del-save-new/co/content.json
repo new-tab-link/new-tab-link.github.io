@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Aggiunta, eliminazione è mudificazione di e regule",
+    "newBtn": {
+      "title": "Novu:",
+      "explain": "Crea un novu script per a regula"
+    },
+    "saveBtn": {
+      "title": "salvà:",
+      "explain": "Salvà i paràmetri di regula attuale"
+    },
+    "delBtn": {
+      "title": "sguassà:",
+      "explain": "Eliminate i paràmetri di a regula attuale"
+    },
+    "autoSave": {
+      "title": "Salvà automaticamente:",
+      "explain": "I paràmetri di regula cambiati sò salvati automaticamente cù ogni cambiamentu"
+    }
+  },
+  "menu": {
+    "main": "Aggiunta, eliminazione è mudificazione di e regule"
+  }
+}

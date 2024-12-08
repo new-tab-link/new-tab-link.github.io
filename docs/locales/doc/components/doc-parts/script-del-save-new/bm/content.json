@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Sariyaw farali, u bɔli ani u caman cili",
+    "newBtn": {
+      "title": "Kura:",
+      "explain": "Sɛbɛnni kura dɔ dabɔ sariya in kama"
+    },
+    "saveBtn": {
+      "title": "ka mara:",
+      "explain": "Sariyasenw sigicogo minnu bɛ sen na sisan, olu mara"
+    },
+    "delBtn": {
+      "title": "ka jɔsi:",
+      "explain": "Sariya min bɛ sen na sisan, o ka sigidakow bɔ yen"
+    },
+    "autoSave": {
+      "title": "Auto save:",
+      "explain": "Sariyasen minnu bε Yεlεma, olu bε mara u yɛrɛma ni bεnkan kelen-kelen bεε"
+    }
+  },
+  "menu": {
+    "main": "Sariyaw farali, u bɔli ani u caman cili"
+  }
+}

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Maleruagassat allattorsimaffianni inissititernerit"
+    "main": "Maleruagassat allattorsimaffianni inissititernerit",
+    "onlyForCurrentRule": {
+      "title": "Aatsaat ullumikkut malittarisassamut atuutilersarpoq:",
+      "explain": "Misissuisoqarsimappat ullumikkut malittarisassamut taamaallaat atorneqarsinnaavoq, taamaanngippat nunarsuarmi malittarisassat tamarmik atorneqarsinnaapput."
+    }
   }
 }

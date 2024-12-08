@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Cur-ris, cuir às agus atharrachadh riaghailtean",
+    "newBtn": {
+      "title": "Ùr:",
+      "explain": "Cruthaich sgriobt ùr airson an riaghailt"
+    },
+    "saveBtn": {
+      "title": "sàbhail:",
+      "explain": "Sàbhail roghainnean riaghailtean gnàthach"
+    },
+    "delBtn": {
+      "title": "sguab às:",
+      "explain": "Sguab às roghainnean na riaghailt làithreach"
+    },
+    "autoSave": {
+      "title": "Sàbhaladh fèin-ghluasadach:",
+      "explain": "Thèid roghainnean riaghailt atharraichte a shàbhaladh gu fèin-ghluasadach le gach atharrachadh"
+    }
+  },
+  "menu": {
+    "main": "Cur-ris, cuir às agus atharrachadh riaghailtean"
+  }
+}

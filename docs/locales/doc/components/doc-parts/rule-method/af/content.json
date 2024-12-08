@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Reëlinvoerinstellings"
+    "main": "Reëlinvoerinstellings",
+    "onlyForCurrentRule": {
+      "title": "Tree slegs in werking vir die huidige reël:",
+      "explain": "As dit gemerk is, kan dit slegs vir die huidige reël gebruik word, anders kan alle globale reëls gebruik word."
+    }
   }
 }

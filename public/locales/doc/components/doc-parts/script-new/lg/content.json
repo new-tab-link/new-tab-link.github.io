@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tonda ekiwandiiko ky'amateeka ekipya",
+    "name": {
+      "title": "erinnya:",
+      "explain": "Erinnya ly’ekiwandiiko."
+    },
+    "script": {
+      "title": "ekiwandiiko:",
+      "explain": "Ebirimu mu script."
+    },
+    "delBtn": {
+      "title": "okusiimuula:",
+      "explain": "Ssaawo script eriwo kati"
+    },
+    "saveBtn": {
+      "title": "okununula:",
+      "explain": "Teeka script eriwo kati"
+    }
+  },
+  "menu": {
+    "main": "Tonda ekiwandiiko ky'amateeka ekipya"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kwengeta, kucishwa kanye nekuguculwa kwemitsetfo",
+    "newBtn": {
+      "title": "Lokusha:",
+      "explain": "Dala umbhalo lomusha wemtsetfo"
+    },
+    "saveBtn": {
+      "title": "gcina:",
+      "explain": "Gcina emasethingi emtsetfo lamanje"
+    },
+    "delBtn": {
+      "title": "sula:",
+      "explain": "Cisha emasethingi emtsetfo lokhona nyalo"
+    },
+    "autoSave": {
+      "title": "Gcina ngekuzenzakalela:",
+      "explain": "Tilungiselelo temtsetfo letishintjiwe tigcinwa ngekuzenzakalela ngelushintjo ngalunye"
+    }
+  },
+  "menu": {
+    "main": "Kwengeta, kucishwa kanye nekuguculwa kwemitsetfo"
+  }
+}

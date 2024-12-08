@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Dodavanje, brisanje i izmjena pravila",
+    "newBtn": {
+      "title": "Novo:",
+      "explain": "Kreirajte novu skriptu za pravilo"
+    },
+    "saveBtn": {
+      "title": "sačuvaj:",
+      "explain": "Sačuvajte trenutne postavke pravila"
+    },
+    "delBtn": {
+      "title": "izbriši:",
+      "explain": "Izbrišite postavke trenutnog pravila"
+    },
+    "autoSave": {
+      "title": "Automatsko spremanje:",
+      "explain": "Promijenjene postavke pravila se automatski pohranjuju sa svakom promjenom"
+    }
+  },
+  "menu": {
+    "main": "Dodavanje, brisanje i izmjena pravila"
+  }
+}

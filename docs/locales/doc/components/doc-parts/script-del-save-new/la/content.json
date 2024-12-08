@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Additio, deletio et modificatio regularum",
+    "newBtn": {
+      "title": "Novae:",
+      "explain": "Novam litteras regulae"
+    },
+    "saveBtn": {
+      "title": "salvum facere;",
+      "explain": "Servo current regula occasus"
+    },
+    "delBtn": {
+      "title": "delere;",
+      "explain": "Delere occasus regulae"
+    },
+    "autoSave": {
+      "title": "Auto salvum facere:",
+      "explain": "Mutatae regulae occasus automatice servatae sunt cum unaquaque mutatione"
+    }
+  },
+  "menu": {
+    "main": "Additio, deletio et modificatio regularum"
+  }
+}

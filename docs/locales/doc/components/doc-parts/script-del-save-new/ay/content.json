@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kamachinaka yapxataña, chhaqtayaña ukhamaraki mayjt’ayaña",
+    "newBtn": {
+      "title": "Machaqa:",
+      "explain": "Mä machaq script uka kamachi lurañataki"
+    },
+    "saveBtn": {
+      "title": "imaña:",
+      "explain": "Jichha kamachina utt’ayatanaka imaña"
+    },
+    "delBtn": {
+      "title": "phiskhsuña:",
+      "explain": "Jichha kamachin utt’ayatanakap chhaqtayaña"
+    },
+    "autoSave": {
+      "title": "Auto save ukax akhamawa:",
+      "explain": "Mayjt’at kamachinak utt’ayañax sapa mayjt’awimp chikaw imatäski"
+    }
+  },
+  "menu": {
+    "main": "Kamachinaka yapxataña, chhaqtayaña ukhamaraki mayjt’ayaña"
+  }
+}

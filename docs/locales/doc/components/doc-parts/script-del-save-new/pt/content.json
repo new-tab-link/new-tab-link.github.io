@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Adição, exclusão e modificação de regras",
+    "newBtn": {
+      "title": "Novo:",
+      "explain": "Crie um novo script para a regra"
+    },
+    "saveBtn": {
+      "title": "salvar:",
+      "explain": "Salvar configurações de regras atuais"
+    },
+    "delBtn": {
+      "title": "excluir:",
+      "explain": "Exclua as configurações da regra atual"
+    },
+    "autoSave": {
+      "title": "Salvamento automático:",
+      "explain": "As configurações de regras alteradas são salvas automaticamente a cada alteração"
+    }
+  },
+  "menu": {
+    "main": "Adição, exclusão e modificação de regras"
+  }
+}

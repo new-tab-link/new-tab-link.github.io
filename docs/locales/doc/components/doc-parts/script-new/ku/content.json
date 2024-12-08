@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Nivîsarek qaîdeyek nû biafirînin",
+    "name": {
+      "title": "nav:",
+      "explain": "Navê senaryoyê."
+    },
+    "script": {
+      "title": "nivîs:",
+      "explain": "Naveroka skrîptê."
+    },
+    "delBtn": {
+      "title": "jêbirin:",
+      "explain": "Nivîsara heyî jêbirin"
+    },
+    "saveBtn": {
+      "title": "rizgarkirin:",
+      "explain": "Skrîpta heyî hilînin"
+    }
+  },
+  "menu": {
+    "main": "Nivîsarek qaîdeyek nû biafirînin"
+  }
+}

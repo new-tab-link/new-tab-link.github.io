@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ƙirƙiri sabon rubutun doka",
+    "name": {
+      "title": "suna:",
+      "explain": "Sunan rubutun."
+    },
+    "script": {
+      "title": "rubutun:",
+      "explain": "Abubuwan rubutun."
+    },
+    "delBtn": {
+      "title": "share:",
+      "explain": "Share rubutun yanzu"
+    },
+    "saveBtn": {
+      "title": "ajiye:",
+      "explain": "Ajiye rubutun na yanzu"
+    }
+  },
+  "menu": {
+    "main": "Ƙirƙiri sabon rubutun doka"
+  }
+}

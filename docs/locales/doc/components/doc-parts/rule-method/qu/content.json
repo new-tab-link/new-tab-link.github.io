@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Kamachiy yaykuy churanakuna"
+    "main": "Kamachiy yaykuy churanakuna",
+    "onlyForCurrentRule": {
+      "title": "Kunan kamachiypaqlla kamachiyta qallarikun:",
+      "explain": "Ch'ikusqa kaptinqa, kunan kamachiypaqlla llamk'achiy atikun, mana hina kaqtinqa llapa pachantinpi kamachiykuna llamk'achiy atikun."
+    }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Sala script ya nsiku ya mpa",
+    "name": {
+      "title": "zina:",
+      "explain": "Zina ya nkanda."
+    },
+    "script": {
+      "title": "bangogo:",
+      "explain": "Mambu ya kele na script."
+    },
+    "delBtn": {
+      "title": "kuvwansa:",
+      "explain": "Kufwa script ya sesepi"
+    },
+    "saveBtn": {
+      "title": "kugulusa:",
+      "explain": "Lunda script ya sesepi"
+    }
+  },
+  "menu": {
+    "main": "Sala script ya nsiku ya mpa"
+  }
+}

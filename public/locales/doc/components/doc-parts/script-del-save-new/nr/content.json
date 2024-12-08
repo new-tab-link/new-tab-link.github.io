@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ukungezelela, ukususa nokutjhugulula imithetho",
+    "newBtn": {
+      "title": "Etja:",
+      "explain": "Yenza iskripthi esitjha somthetho"
+    },
+    "saveBtn": {
+      "title": "onga:",
+      "explain": "Londoloza amasethingi womthetho wamanje"
+    },
+    "delBtn": {
+      "title": "sula:",
+      "explain": "Susa amasethingi womthetho wamanje"
+    },
+    "autoSave": {
+      "title": "Ukulondoloza ngokuzenzakalelako:",
+      "explain": "Amasethingi womthetho atjhugululiweko alondolozwa ngokuzenzakalelako ngokutjhuguluka ngalinye"
+    }
+  },
+  "menu": {
+    "main": "Ukungezelela, ukususa nokutjhugulula imithetho"
+  }
+}

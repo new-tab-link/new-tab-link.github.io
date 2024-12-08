@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Noteikumu ievades iestatījumi"
+    "main": "Noteikumu ievades iestatījumi",
+    "onlyForCurrentRule": {
+      "title": "Stājas spēkā tikai pašreizējam noteikumam:",
+      "explain": "Ja atzīmēta, to var izmantot tikai pašreizējai kārtulai, pretējā gadījumā var izmantot visus globālos noteikumus."
+    }
   }
 }

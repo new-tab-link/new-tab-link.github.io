@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Te mau faanahoraa tomoraa ture"
+    "main": "Te mau faanahoraa tomoraa ture",
+    "onlyForCurrentRule": {
+      "title": "E ohipa noa ïa no te ture o teie nei:",
+      "explain": "Mai te mea e, e hi'opo'ahia, e nehenehe noa te reira e faaohipahia no te ture o teie nei, mai te mea e, e nehenehe te mau ture atoa o te ao nei e faaohipahia."
+    }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Dala iskripthi esisha somthetho",
+    "name": {
+      "title": "igama:",
+      "explain": "Igama lombhalo."
+    },
+    "script": {
+      "title": "umbhalo:",
+      "explain": "Okuqukethwe kweskripthi."
+    },
+    "delBtn": {
+      "title": "susa:",
+      "explain": "Susa umbhalo wamanje"
+    },
+    "saveBtn": {
+      "title": "gcina:",
+      "explain": "Londoloza iskripthi samanje"
+    }
+  },
+  "menu": {
+    "main": "Dala iskripthi esisha somthetho"
+  }
+}

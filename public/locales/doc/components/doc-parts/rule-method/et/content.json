@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Reegli sisestamise seaded"
+    "main": "Reegli sisestamise seaded",
+    "onlyForCurrentRule": {
+      "title": "Kehtib ainult praeguse reegli puhul:",
+      "explain": "Kui see on märgitud, saab seda kasutada ainult praeguse reegli jaoks, vastasel juhul saab kasutada kõiki globaalseid reegleid."
+    }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Crear un nuevo script de regla",
+    "name": {
+      "title": "nombre:",
+      "explain": "El nombre del guión."
+    },
+    "script": {
+      "title": "guion:",
+      "explain": "Contenido del guión."
+    },
+    "delBtn": {
+      "title": "borrar:",
+      "explain": "Eliminar secuencia de comandos actual"
+    },
+    "saveBtn": {
+      "title": "ahorrar:",
+      "explain": "Guardar guión actual"
+    }
+  },
+  "menu": {
+    "main": "Crear un nuevo script de regla"
+  }
+}

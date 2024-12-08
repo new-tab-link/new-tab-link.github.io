@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ejapo peteĩ script regla pyahu",
+    "name": {
+      "title": "téra:",
+      "explain": "Pe guión réra."
+    },
+    "script": {
+      "title": "apopyrã:",
+      "explain": "Contenido guión rehegua."
+    },
+    "delBtn": {
+      "title": "mboje'oha:",
+      "explain": "Embogue script ko’ag̃agua"
+    },
+    "saveBtn": {
+      "title": "pysyrõ:",
+      "explain": "Eñongatu script ko’ag̃agua"
+    }
+  },
+  "menu": {
+    "main": "Ejapo peteĩ script regla pyahu"
+  }
+}

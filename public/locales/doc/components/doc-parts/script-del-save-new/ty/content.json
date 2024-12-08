@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Te tahi atu, te iritiraa e te tauiraa i te mau ture",
+    "newBtn": {
+      "title": "Hou:",
+      "explain": "A hamani i te hoê papa'iraa apî no te ture"
+    },
+    "saveBtn": {
+      "title": "fa'aho'o:",
+      "explain": "Haapa'o i te mau faanahoraa ture o teie nei"
+    },
+    "delBtn": {
+      "title": "fa'a'ore:",
+      "explain": "A tumâ i te mau faanahoraa o te ture o teie nei"
+    },
+    "autoSave": {
+      "title": "Haapa'o auto:",
+      "explain": "E faaherehere - noa - hia te mau taviri ture i tauihia i te mau tauiraa atoa"
+    }
+  },
+  "menu": {
+    "main": "Te tahi atu, te iritiraa e te tauiraa i te mau ture"
+  }
+}

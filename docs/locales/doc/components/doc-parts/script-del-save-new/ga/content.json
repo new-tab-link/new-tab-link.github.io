@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Rialacha a shuimiú, a scriosadh agus a mhodhnú",
+    "newBtn": {
+      "title": "Nua:",
+      "explain": "Cruthaigh script nua don riail"
+    },
+    "saveBtn": {
+      "title": "shábháil:",
+      "explain": "Sábháil socruithe na rialacha reatha"
+    },
+    "delBtn": {
+      "title": "scrios:",
+      "explain": "Scrios socruithe na rialach reatha"
+    },
+    "autoSave": {
+      "title": "Sábháil uathoibríoch:",
+      "explain": "Déantar socruithe rialacha athraithe a shábháil go huathoibríoch le gach athrú"
+    }
+  },
+  "menu": {
+    "main": "Rialacha a shuimiú, a scriosadh agus a mhodhnú"
+  }
+}

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Instellingen voor regelinvoer"
+    "main": "Instellingen voor regelinvoer",
+    "onlyForCurrentRule": {
+      "title": "Wordt alleen van kracht voor de huidige regel:",
+      "explain": "Indien aangevinkt, kan deze alleen voor de huidige regel worden gebruikt, anders kunnen alle globale regels worden gebruikt."
+    }
   }
 }

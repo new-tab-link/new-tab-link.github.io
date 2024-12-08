@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Búðu til nýtt regluhandrit",
+    "name": {
+      "title": "nafn:",
+      "explain": "Nafn handritsins."
+    },
+    "script": {
+      "title": "handrit:",
+      "explain": "Innihald handrits."
+    },
+    "delBtn": {
+      "title": "eyða:",
+      "explain": "Eyða núverandi skriftu"
+    },
+    "saveBtn": {
+      "title": "vista:",
+      "explain": "Vistaðu núverandi handrit"
+    }
+  },
+  "menu": {
+    "main": "Búðu til nýtt regluhandrit"
+  }
+}

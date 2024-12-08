@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Igenamiterere ryinjira"
+    "main": "Igenamiterere ryinjira",
+    "onlyForCurrentRule": {
+      "title": "Gusa bitangira gukurikizwa kumategeko ariho:",
+      "explain": "Niba bigenzuwe, birashobora gukoreshwa gusa kubitegeko biriho, ubundi amategeko yose yisi arashobora gukoreshwa."
+    }
   }
 }

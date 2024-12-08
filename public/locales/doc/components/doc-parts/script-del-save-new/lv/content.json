@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Noteikumu pievienošana, dzēšana un grozīšana",
+    "newBtn": {
+      "title": "Jaunums:",
+      "explain": "Izveidojiet jaunu kārtulas skriptu"
+    },
+    "saveBtn": {
+      "title": "saglabāt:",
+      "explain": "Saglabājiet pašreizējos kārtulas iestatījumus"
+    },
+    "delBtn": {
+      "title": "dzēst:",
+      "explain": "Dzēsiet pašreizējās kārtulas iestatījumus"
+    },
+    "autoSave": {
+      "title": "Automātiska saglabāšana:",
+      "explain": "Mainītie kārtulas iestatījumi tiek automātiski saglabāti ar katru izmaiņu"
+    }
+  },
+  "menu": {
+    "main": "Noteikumu pievienošana, dzēšana un grozīšana"
+  }
+}

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Gosodiadau mynediad rheol"
+    "main": "Gosodiadau mynediad rheol",
+    "onlyForCurrentRule": {
+      "title": "Dim ond yn dod i rym ar gyfer y rheol gyfredol:",
+      "explain": "Os caiff ei wirio, dim ond ar gyfer y rheol gyfredol y gellir ei ddefnyddio, fel arall gellir defnyddio'r holl reolau byd-eang."
+    }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "qusba madqah kutbe hadla",
+    "name": {
+      "title": "migaq:",
+      "explain": "kutbeh migaq."
+    },
+    "script": {
+      "title": "ransa:",
+      "explain": "kutbeh addatino."
+    },
+    "delBtn": {
+      "title": "bayis:",
+      "explain": "Awayih kutbe duuga"
+    },
+    "saveBtn": {
+      "title": "wadiyya:",
+      "explain": "Awayih kutbe daanis"
+    }
+  },
+  "menu": {
+    "main": "qusba madqah kutbe hadla"
+  }
+}

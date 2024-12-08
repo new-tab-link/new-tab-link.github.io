@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Gadzira runyoro rutsva rwemutemo",
+    "name": {
+      "title": "zita:",
+      "explain": "Zita rezvinyorwa."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Zvinyorwa zvemukati."
+    },
+    "delBtn": {
+      "title": "delete:",
+      "explain": "Dzima chinyorwa chazvino"
+    },
+    "saveBtn": {
+      "title": "save:",
+      "explain": "Sevha chinyorwa chazvino"
+    }
+  },
+  "menu": {
+    "main": "Gadzira runyoro rutsva rwemutemo"
+  }
+}

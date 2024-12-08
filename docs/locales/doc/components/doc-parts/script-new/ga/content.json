@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Cruthaigh script riail nua",
+    "name": {
+      "title": "ainm:",
+      "explain": "Ainm an script."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Ábhar scripte."
+    },
+    "delBtn": {
+      "title": "scrios:",
+      "explain": "Scrios an script reatha"
+    },
+    "saveBtn": {
+      "title": "shábháil:",
+      "explain": "Sábháil an script reatha"
+    }
+  },
+  "menu": {
+    "main": "Cruthaigh script riail nua"
+  }
+}

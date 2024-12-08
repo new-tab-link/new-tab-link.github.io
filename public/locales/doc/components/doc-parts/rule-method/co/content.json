@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Configurazione di entrata di regula"
+    "main": "Configurazione di entrata di regula",
+    "onlyForCurrentRule": {
+      "title": "Solu effettue per a regula attuale:",
+      "explain": "Se verificatu, pò esse usatu solu per a regula attuale, altrimente tutte e regule globale ponu esse usate."
+    }
   }
 }

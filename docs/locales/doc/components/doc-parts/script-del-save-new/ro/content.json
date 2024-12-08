@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Adăugarea, ștergerea și modificarea regulilor",
+    "newBtn": {
+      "title": "Nou:",
+      "explain": "Creați un nou script pentru regulă"
+    },
+    "saveBtn": {
+      "title": "salva:",
+      "explain": "Salvați setările curente ale regulilor"
+    },
+    "delBtn": {
+      "title": "şterge:",
+      "explain": "Ștergeți setările regulii curente"
+    },
+    "autoSave": {
+      "title": "Salvare automată:",
+      "explain": "Setările regulilor modificate sunt salvate automat cu fiecare modificare"
+    }
+  },
+  "menu": {
+    "main": "Adăugarea, ștergerea și modificarea regulilor"
+  }
+}

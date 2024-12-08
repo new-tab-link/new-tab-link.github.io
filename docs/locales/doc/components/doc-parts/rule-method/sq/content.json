@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Cilësimet e hyrjes së rregullave"
+    "main": "Cilësimet e hyrjes së rregullave",
+    "onlyForCurrentRule": {
+      "title": "Hyn në fuqi vetëm për rregullin aktual:",
+      "explain": "Nëse zgjidhet, mund të përdoret vetëm për rregullin aktual, përndryshe mund të përdoren të gjitha rregullat globale."
+    }
   }
 }

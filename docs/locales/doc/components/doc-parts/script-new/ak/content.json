@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Yɛ mmara script foforo",
+    "name": {
+      "title": "din:",
+      "explain": "Nkyerɛwee no din."
+    },
+    "script": {
+      "title": "krataa:",
+      "explain": "Script mu nsɛm a ɛwɔ mu."
+    },
+    "delBtn": {
+      "title": "pepa:",
+      "explain": "Popa script a ɛwɔ hɔ mprempren no"
+    },
+    "saveBtn": {
+      "title": "kora:",
+      "explain": "Sie mprempren script no"
+    }
+  },
+  "menu": {
+    "main": "Yɛ mmara script foforo"
+  }
+}

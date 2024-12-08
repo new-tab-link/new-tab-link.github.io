@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Seerota dabaluu, haquu fi fooyyessuu",
+    "newBtn": {
+      "title": "Haaraa:",
+      "explain": "Seerichaaf iskiriiptii haaraa uumi"
+    },
+    "saveBtn": {
+      "title": "qusachuu:",
+      "explain": "Sajoo seera ammaa saagi"
+    },
+    "delBtn": {
+      "title": "haquu:",
+      "explain": "Sajoo seera ammaa haqi"
+    },
+    "autoSave": {
+      "title": "Ofiin qusachuu:",
+      "explain": "Sajoo seera jijjiirame tokkoon tokkoon jijjiiramaa wajjin ofumaan ni saagama"
+    }
+  },
+  "menu": {
+    "main": "Seerota dabaluu, haquu fi fooyyessuu"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ustvarite nov skript pravila",
+    "name": {
+      "title": "ime:",
+      "explain": "Ime scenarija."
+    },
+    "script": {
+      "title": "scenarij:",
+      "explain": "Vsebina scenarija."
+    },
+    "delBtn": {
+      "title": "izbriši:",
+      "explain": "Izbriši trenutni skript"
+    },
+    "saveBtn": {
+      "title": "shrani:",
+      "explain": "Shrani trenutni skript"
+    }
+  },
+  "menu": {
+    "main": "Ustvarite nov skript pravila"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Přidávání, mazání a úprava pravidel",
+    "newBtn": {
+      "title": "Nový:",
+      "explain": "Vytvořte nový skript pro pravidlo"
+    },
+    "saveBtn": {
+      "title": "uložit:",
+      "explain": "Uložit aktuální nastavení pravidel"
+    },
+    "delBtn": {
+      "title": "vymazat:",
+      "explain": "Odstraňte nastavení aktuálního pravidla"
+    },
+    "autoSave": {
+      "title": "Automatické ukládání:",
+      "explain": "Změněná nastavení pravidel se automaticky uloží při každé změně"
+    }
+  },
+  "menu": {
+    "main": "Přidávání, mazání a úprava pravidel"
+  }
+}

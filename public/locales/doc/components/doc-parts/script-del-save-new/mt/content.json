@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Żieda, tħassir u modifika tar-regoli",
+    "newBtn": {
+      "title": "Ġdid:",
+      "explain": "Oħloq skript ġdid għar-regola"
+    },
+    "saveBtn": {
+      "title": "ħlief:",
+      "explain": "Issejvja s-settings tar-regoli attwali"
+    },
+    "delBtn": {
+      "title": "ħassar:",
+      "explain": "Ħassar is-settings tar-regola attwali"
+    },
+    "autoSave": {
+      "title": "Iffrankar awtomatiku:",
+      "explain": "Is-settings tar-regoli mibdula jiġu ssejvjati awtomatikament ma' kull bidla"
+    }
+  },
+  "menu": {
+    "main": "Żieda, tħassir u modifika tar-regoli"
+  }
+}

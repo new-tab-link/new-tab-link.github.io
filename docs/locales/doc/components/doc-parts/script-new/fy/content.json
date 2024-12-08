@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Meitsje in nij regelskript",
+    "name": {
+      "title": "namme:",
+      "explain": "De namme fan it skript."
+    },
+    "script": {
+      "title": "skrift:",
+      "explain": "Skript ynhâld."
+    },
+    "delBtn": {
+      "title": "wiskje:",
+      "explain": "Wiskje aktuele skript"
+    },
+    "saveBtn": {
+      "title": "rêde:",
+      "explain": "Bewarje aktuele skript"
+    }
+  },
+  "menu": {
+    "main": "Meitsje in nij regelskript"
+  }
+}

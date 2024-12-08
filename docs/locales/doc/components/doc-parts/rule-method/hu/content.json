@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Szabálybeviteli beállítások"
+    "main": "Szabálybeviteli beállítások",
+    "onlyForCurrentRule": {
+      "title": "Csak a jelenlegi szabályra érvényes:",
+      "explain": "Ha be van jelölve, akkor csak az aktuális szabályhoz használható, ellenkező esetben az összes globális szabály használható."
+    }
   }
 }

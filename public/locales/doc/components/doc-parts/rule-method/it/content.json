@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Impostazioni di immissione delle regole"
+    "main": "Impostazioni di immissione delle regole",
+    "onlyForCurrentRule": {
+      "title": "Ha effetto solo per la regola attuale:",
+      "explain": "Se selezionato, può essere utilizzato solo per la regola corrente, altrimenti possono essere utilizzate tutte le regole globali."
+    }
   }
 }

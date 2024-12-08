@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Regel ynfier ynstellings"
+    "main": "Regel ynfier ynstellings",
+    "onlyForCurrentRule": {
+      "title": "jildt allinich foar de hjoeddeistige regel:",
+      "explain": "As it selektearre is, kin it allinich brûkt wurde foar de aktuele regel, oars kinne alle globale regels brûkt wurde."
+    }
   }
 }

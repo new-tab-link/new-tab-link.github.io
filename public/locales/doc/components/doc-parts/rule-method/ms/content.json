@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Tetapan kemasukan peraturan"
+    "main": "Tetapan kemasukan peraturan",
+    "onlyForCurrentRule": {
+      "title": "Hanya berkuat kuasa untuk peraturan semasa:",
+      "explain": "Jika ditandakan, ia hanya boleh digunakan untuk peraturan semasa, jika tidak semua peraturan global boleh digunakan."
+    }
   }
 }

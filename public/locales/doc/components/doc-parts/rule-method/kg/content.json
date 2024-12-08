@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Parametre ya kukotisa bansiku"
+    "main": "Parametre ya kukotisa bansiku",
+    "onlyForCurrentRule": {
+      "title": "Yo ke yantika kaka sambu na nsiku ya ntangu yai:",
+      "explain": "Kana bo me tula kidimbu, yo lenda salama kaka sambu na nsiku ya ntangu yai, kana ve bansiku yonso ya ntoto ya mvimba lenda salama."
+    }
   }
 }

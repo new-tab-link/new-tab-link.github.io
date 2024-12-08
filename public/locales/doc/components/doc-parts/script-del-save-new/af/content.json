@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Byvoeging, skrap en wysiging van reëls",
+    "newBtn": {
+      "title": "Nuut:",
+      "explain": "Skep 'n nuwe skrif vir die reël"
+    },
+    "saveBtn": {
+      "title": "stoor:",
+      "explain": "Stoor huidige reëlinstellings"
+    },
+    "delBtn": {
+      "title": "verwyder:",
+      "explain": "Vee die instellings van die huidige reël uit"
+    },
+    "autoSave": {
+      "title": "Outo stoor:",
+      "explain": "Veranderde reëlinstellings word outomaties met elke verandering gestoor"
+    }
+  },
+  "menu": {
+    "main": "Byvoeging, skrap en wysiging van reëls"
+  }
+}

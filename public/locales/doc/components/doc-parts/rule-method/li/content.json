@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Regelinvoerinstellinge"
+    "main": "Regelinvoerinstellinge",
+    "onlyForCurrentRule": {
+      "title": "Is allein van krach veur de huidige regel:",
+      "explain": "Es ‘t gecontroleerd is, kin ‘t allein veur de huidige regel were gebruuk, aanders kinne alle globale regels were gebruuk."
+    }
   }
 }

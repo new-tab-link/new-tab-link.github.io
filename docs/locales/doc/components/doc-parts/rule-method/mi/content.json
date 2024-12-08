@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Tautuhinga urunga ture"
+    "main": "Tautuhinga urunga ture",
+    "onlyForCurrentRule": {
+      "title": "Ka whai mana anake mo te ture o naianei:",
+      "explain": "Ki te takina, ka taea anake te whakamahi mo te ture o naianei, ki te kore ka taea te whakamahi i nga ture katoa o te ao."
+    }
   }
 }

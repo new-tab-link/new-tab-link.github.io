@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Skapa ett nytt regelskript",
+    "name": {
+      "title": "namn:",
+      "explain": "Namnet på manuset."
+    },
+    "script": {
+      "title": "manus:",
+      "explain": "Skriptinnehåll."
+    },
+    "delBtn": {
+      "title": "radera:",
+      "explain": "Ta bort aktuellt skript"
+    },
+    "saveBtn": {
+      "title": "spara:",
+      "explain": "Spara aktuellt skript"
+    }
+  },
+  "menu": {
+    "main": "Skapa ett nytt regelskript"
+  }
+}

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Mmara a wɔde hyɛ mu nhyehyɛe"
+    "main": "Mmara a wɔde hyɛ mu nhyehyɛe",
+    "onlyForCurrentRule": {
+      "title": "Ɛyɛ adwuma ma mprempren mmara no nkutoo:",
+      "explain": "Sɛ wɔahyɛ no agyirae a, wobetumi de adi dwuma ama mprempren mmara no nkutoo, anyɛ saa a wobetumi de wiase nyinaa mmara nyinaa adi dwuma."
+    }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Mmara a wɔde ka ho, popa ne nsakrae a wɔyɛ",
+    "newBtn": {
+      "title": "Foforɔ:",
+      "explain": "Yɛ script foforo ma mmara no"
+    },
+    "saveBtn": {
+      "title": "kora:",
+      "explain": "Sie mprempren mmara nhyehyɛe ahorow"
+    },
+    "delBtn": {
+      "title": "pepa:",
+      "explain": "Popa nhyehyɛe a ɛwɔ mmara a ɛwɔ hɔ mprempren no mu"
+    },
+    "autoSave": {
+      "title": "Auto sie: .",
+      "explain": "Mmara nhyehyeɛ a wɔasesa no, wɔkora so ara wɔ nsakraeɛ biara mu"
+    }
+  },
+  "menu": {
+    "main": "Mmara a wɔde ka ho, popa ne nsakrae a wɔyɛ"
+  }
+}

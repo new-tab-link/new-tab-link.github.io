@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Yeni bir kural komut dosyası oluşturun",
+    "name": {
+      "title": "isim:",
+      "explain": "Komut dosyasının adı."
+    },
+    "script": {
+      "title": "senaryo:",
+      "explain": "Komut dosyası içeriği."
+    },
+    "delBtn": {
+      "title": "silmek:",
+      "explain": "Mevcut komut dosyasını sil"
+    },
+    "saveBtn": {
+      "title": "kaydetmek:",
+      "explain": "Mevcut komut dosyasını kaydet"
+    }
+  },
+  "menu": {
+    "main": "Yeni bir kural komut dosyası oluşturun"
+  }
+}

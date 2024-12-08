@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Yokk, efaase ak soppali sàrt yi",
+    "newBtn": {
+      "title": "Bees:",
+      "explain": "Sosal script bu bees ngir sàrt bi"
+    },
+    "saveBtn": {
+      "title": "déñ-kumpa:",
+      "explain": "Sanc jekkal sàrt yi fi nekk"
+    },
+    "delBtn": {
+      "title": "dindi:",
+      "explain": "efaase jekkal sàrt yi fi nekk"
+    },
+    "autoSave": {
+      "title": "Denc otomatik:",
+      "explain": "coppite bu nekk ci jekkal sàrt yi dañuy denc ci saasi"
+    }
+  },
+  "menu": {
+    "main": "Yokk, efaase ak soppali sàrt yi"
+  }
+}

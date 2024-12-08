@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Buat skrip peraturan baharu",
+    "name": {
+      "title": "nama:",
+      "explain": "Nama skrip."
+    },
+    "script": {
+      "title": "skrip:",
+      "explain": "Kandungan skrip."
+    },
+    "delBtn": {
+      "title": "padam:",
+      "explain": "Padamkan skrip semasa"
+    },
+    "saveBtn": {
+      "title": "simpan:",
+      "explain": "Simpan skrip semasa"
+    }
+  },
+  "menu": {
+    "main": "Buat skrip peraturan baharu"
+  }
+}

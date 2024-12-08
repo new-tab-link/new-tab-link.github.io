@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Sos binndol kuule kesol",
+    "name": {
+      "title": "inde:",
+      "explain": "Innde binndol ngol."
+    },
+    "script": {
+      "title": "windol:",
+      "explain": "Loowdi binndol."
+    },
+    "delBtn": {
+      "title": "wilugo:",
+      "explain": "Mumtu binndol jooni ngol"
+    },
+    "saveBtn": {
+      "title": "hisugo:",
+      "explain": "Hisnu binndol jooni ngol"
+    }
+  },
+  "menu": {
+    "main": "Sos binndol kuule kesol"
+  }
+}

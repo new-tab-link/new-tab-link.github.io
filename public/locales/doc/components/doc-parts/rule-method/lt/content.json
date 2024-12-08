@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Taisyklių įvedimo nustatymai"
+    "main": "Taisyklių įvedimo nustatymai",
+    "onlyForCurrentRule": {
+      "title": "Galioja tik dabartinei taisyklei:",
+      "explain": "Jei pažymėta, ji gali būti naudojama tik dabartinei taisyklei, kitu atveju gali būti naudojamos visos pasaulinės taisyklės."
+    }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Viðbót, eyðing og breyting á reglum",
+    "newBtn": {
+      "title": "Nýtt:",
+      "explain": "Búðu til nýtt handrit fyrir regluna"
+    },
+    "saveBtn": {
+      "title": "vista:",
+      "explain": "Vistaðu núverandi reglustillingar"
+    },
+    "delBtn": {
+      "title": "eyða:",
+      "explain": "Eyða stillingum núverandi reglu"
+    },
+    "autoSave": {
+      "title": "Sjálfvirk vistun:",
+      "explain": "Breyttar reglustillingar vistast sjálfkrafa við hverja breytingu"
+    }
+  },
+  "menu": {
+    "main": "Viðbót, eyðing og breyting á reglum"
+  }
+}

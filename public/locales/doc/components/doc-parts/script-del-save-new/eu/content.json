@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Arauak gehitzea, ezabatzea eta aldatzea",
+    "newBtn": {
+      "title": "Berria:",
+      "explain": "Sortu script berri bat araurako"
+    },
+    "saveBtn": {
+      "title": "gorde:",
+      "explain": "Gorde uneko arau-ezarpenak"
+    },
+    "delBtn": {
+      "title": "ezabatu:",
+      "explain": "Ezabatu uneko arauaren ezarpenak"
+    },
+    "autoSave": {
+      "title": "Gorde automatikoa:",
+      "explain": "Aldatutako arauen ezarpenak automatikoki gordetzen dira aldaketa bakoitzean"
+    }
+  },
+  "menu": {
+    "main": "Arauak gehitzea, ezabatzea eta aldatzea"
+  }
+}

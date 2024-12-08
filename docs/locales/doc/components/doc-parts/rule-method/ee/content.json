@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Sewo ŋɔŋlɔ ƒe ɖoɖowo"
+    "main": "Sewo ŋɔŋlɔ ƒe ɖoɖowo",
+    "onlyForCurrentRule": {
+      "title": "Se si li fifia koe wòadze dɔwɔwɔ gɔme:",
+      "explain": "Ne woda asi ɖe edzi la, woate ŋu azãe na se si li fifia ko, ne menye nenema o la, woate ŋu azã xexeame katã ƒe sewo katã."
+    }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Inadision, inadilånto yan inadelanta i lai siha",
+    "newBtn": {
+      "title": "Nuebu:",
+      "explain": "Na'huyong un nuebu na script para i lai"
+    },
+    "saveBtn": {
+      "title": "satba:",
+      "explain": "Na'setbe i lai siha på'go"
+    },
+    "delBtn": {
+      "title": "funas:",
+      "explain": "Na'suha i setbisio siha gi i lai på'go"
+    },
+    "autoSave": {
+      "title": "Auto save:",
+      "explain": "I ma'apåsi na lai siha manma'a'atan gi kada na'lå'la'"
+    }
+  },
+  "menu": {
+    "main": "Inadision, inadilånto yan inadelanta i lai siha"
+  }
+}

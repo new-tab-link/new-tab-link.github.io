@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Oħloq skript tar-regoli ġdid",
+    "name": {
+      "title": "isem:",
+      "explain": "L-isem tal-iskript."
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Kontenut tal-iskript."
+    },
+    "delBtn": {
+      "title": "ħassar:",
+      "explain": "Ħassar l-iskrittura attwali"
+    },
+    "saveBtn": {
+      "title": "ħlief:",
+      "explain": "Issejvja l-iskrittura attwali"
+    }
+  },
+  "menu": {
+    "main": "Oħloq skript tar-regoli ġdid"
+  }
+}

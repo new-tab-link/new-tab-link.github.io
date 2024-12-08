@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kreirajte novu skriptu pravila",
+    "name": {
+      "title": "ime:",
+      "explain": "Ime skripte."
+    },
+    "script": {
+      "title": "skripta:",
+      "explain": "Sadržaj skripte."
+    },
+    "delBtn": {
+      "title": "izbriši:",
+      "explain": "Izbrišite trenutnu skriptu"
+    },
+    "saveBtn": {
+      "title": "sačuvaj:",
+      "explain": "Sačuvaj trenutnu skriptu"
+    }
+  },
+  "menu": {
+    "main": "Kreirajte novu skriptu pravila"
+  }
+}

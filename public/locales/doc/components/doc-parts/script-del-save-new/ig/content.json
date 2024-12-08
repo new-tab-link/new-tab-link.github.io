@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Mgbakwunye, ihichapụ na mgbanwe nke iwu",
+    "newBtn": {
+      "title": "Ọhụrụ:",
+      "explain": "Mepụta edemede ọhụrụ maka iwu"
+    },
+    "saveBtn": {
+      "title": "chekwaa:",
+      "explain": "Chekwa ntọala iwu ugbu a"
+    },
+    "delBtn": {
+      "title": "hichapụ:",
+      "explain": "Hichapụ ntọala nke iwu dị ugbu a"
+    },
+    "autoSave": {
+      "title": "Chekwa na akpaaka:",
+      "explain": "A na-echekwa ntọala iwu gbanwere na-akpaghị aka site na mgbanwe ọ bụla"
+    }
+  },
+  "menu": {
+    "main": "Mgbakwunye, ihichapụ na mgbanwe nke iwu"
+  }
+}

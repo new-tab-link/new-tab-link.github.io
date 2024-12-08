@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Luo uusi sääntöskripti",
+    "name": {
+      "title": "nimi:",
+      "explain": "Käsikirjoituksen nimi."
+    },
+    "script": {
+      "title": "käsikirjoitus:",
+      "explain": "Käsikirjoituksen sisältö."
+    },
+    "delBtn": {
+      "title": "poistaa:",
+      "explain": "Poista nykyinen skripti"
+    },
+    "saveBtn": {
+      "title": "tallentaa:",
+      "explain": "Tallenna nykyinen skripti"
+    }
+  },
+  "menu": {
+    "main": "Luo uusi sääntöskripti"
+  }
+}

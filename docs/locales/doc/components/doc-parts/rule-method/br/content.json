@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Arventennoù mont e-barzh ar reolennoù"
+    "main": "Arventennoù mont e-barzh ar reolennoù",
+    "onlyForCurrentRule": {
+      "title": "Ne dalvez nemet evit ar reolenn bremanel :",
+      "explain": "Mar bez merket ne c'hall bezañ arveret nemet evit ar reolenn bremanel, a-hend-all e c'haller arverañ an holl reolennoù hollek."
+    }
   }
 }

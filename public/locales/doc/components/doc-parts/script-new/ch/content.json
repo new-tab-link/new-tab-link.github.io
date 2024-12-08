@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Na'huyong un nuebu na lai",
+    "name": {
+      "title": "na'an:",
+      "explain": "I na'an i tinige'."
+    },
+    "script": {
+      "title": "skriptu:",
+      "explain": "I tinige' gi i tinige'."
+    },
+    "delBtn": {
+      "title": "funas:",
+      "explain": "Na'suha i script på'go"
+    },
+    "saveBtn": {
+      "title": "satba:",
+      "explain": "Na'setbe i script på'go"
+    }
+  },
+  "menu": {
+    "main": "Na'huyong un nuebu na lai"
+  }
+}

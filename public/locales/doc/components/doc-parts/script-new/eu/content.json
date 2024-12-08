@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Sortu arau-script berri bat",
+    "name": {
+      "title": "izena:",
+      "explain": "Gidoiaren izena."
+    },
+    "script": {
+      "title": "gidoia:",
+      "explain": "Gidoiaren edukia."
+    },
+    "delBtn": {
+      "title": "ezabatu:",
+      "explain": "Ezabatu uneko gidoia"
+    },
+    "saveBtn": {
+      "title": "gorde:",
+      "explain": "Gorde uneko gidoia"
+    }
+  },
+  "menu": {
+    "main": "Sortu arau-script berri bat"
+  }
+}

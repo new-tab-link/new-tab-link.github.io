@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Dodawanie, usuwanie i modyfikacja regulaminu",
+    "newBtn": {
+      "title": "Nowy:",
+      "explain": "Utwórz nowy skrypt dla reguły"
+    },
+    "saveBtn": {
+      "title": "ratować:",
+      "explain": "Zapisz bieżące ustawienia reguły"
+    },
+    "delBtn": {
+      "title": "usuwać:",
+      "explain": "Usuń ustawienia bieżącej reguły"
+    },
+    "autoSave": {
+      "title": "Automatyczne zapisywanie:",
+      "explain": "Zmienione ustawienia reguły są automatycznie zapisywane przy każdej zmianie"
+    }
+  },
+  "menu": {
+    "main": "Dodawanie, usuwanie i modyfikacja regulaminu"
+  }
+}

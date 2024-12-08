@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Nastavení zadávání pravidel"
+    "main": "Nastavení zadávání pravidel",
+    "onlyForCurrentRule": {
+      "title": "Platí pouze pro aktuální pravidlo:",
+      "explain": "Pokud je zaškrtnuto, lze jej použít pouze pro aktuální pravidlo, jinak lze použít všechna globální pravidla."
+    }
   }
 }

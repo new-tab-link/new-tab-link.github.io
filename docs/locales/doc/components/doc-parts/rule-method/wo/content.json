@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "jekkal dugal sàrt"
+    "main": "jekkal dugal sàrt",
+    "onlyForCurrentRule": {
+      "title": "Dafay am solo ci sàrt yi fi nekk:",
+      "explain": "Suñu ko màrkee, mën nañu ko jëfandikoo ci sàrt yi fi nekk kese, luko moy mën nañu jëfandikoo sàrti àdduna yépp."
+    }
   }
 }

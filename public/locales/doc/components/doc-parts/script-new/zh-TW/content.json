@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "新規則腳本",
+    "name": {
+      "title": "名稱：",
+      "explain": "腳本的名稱。"
+    },
+    "script": {
+      "title": "腳本：",
+      "explain": "腳本內容。"
+    },
+    "delBtn": {
+      "title": "刪除：",
+      "explain": "刪除目前腳本"
+    },
+    "saveBtn": {
+      "title": "保存：",
+      "explain": "儲存目前腳本"
+    }
+  },
+  "menu": {
+    "main": "新規則腳本"
+  }
+}

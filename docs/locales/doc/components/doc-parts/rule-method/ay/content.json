@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Kamachi mantañataki wakicht’awinaka"
+    "main": "Kamachi mantañataki wakicht’awinaka",
+    "onlyForCurrentRule": {
+      "title": "Jichha kamachitakikiwa phuqhasi:",
+      "explain": "Uñakipt’atäni ukhaxa, jichha kamachitakikiwa apnaqasispa, jan ukhamäkanixa, taqi uraqpachan kamachinakax apnaqasispawa."
+    }
   }
 }

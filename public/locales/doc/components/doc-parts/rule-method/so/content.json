@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Hababka gelida qaanuunka"
+    "main": "Hababka gelida qaanuunka",
+    "onlyForCurrentRule": {
+      "title": "Kaliya waxa uu dhaqan galayaa xeerka hadda jira:",
+      "explain": "Haddii la hubiyo, waxaa loo isticmaali karaa oo keliya sharciga hadda jira, haddii kale dhammaan xeerarka caalamiga ah waa la isticmaali karaa."
+    }
   }
 }

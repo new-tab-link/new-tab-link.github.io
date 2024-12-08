@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kreu novan regulskripton",
+    "name": {
+      "title": "nomo:",
+      "explain": "La nomo de la skripto."
+    },
+    "script": {
+      "title": "skripto:",
+      "explain": "Skripto enhavo."
+    },
+    "delBtn": {
+      "title": "forigi:",
+      "explain": "Forigu nunan skripton"
+    },
+    "saveBtn": {
+      "title": "konservi:",
+      "explain": "Konservu nunan skripton"
+    }
+  },
+  "menu": {
+    "main": "Kreu novan regulskripton"
+  }
+}

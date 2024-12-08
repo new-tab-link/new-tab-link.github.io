@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Aldono, forigo kaj modifo de reguloj",
+    "newBtn": {
+      "title": "Nova:",
+      "explain": "Kreu novan skripton por la regulo"
+    },
+    "saveBtn": {
+      "title": "konservi:",
+      "explain": "Konservu nunajn regulajn agordojn"
+    },
+    "delBtn": {
+      "title": "forigi:",
+      "explain": "Forigu la agordojn de la nuna regulo"
+    },
+    "autoSave": {
+      "title": "Aŭtomata konservado:",
+      "explain": "Ŝanĝitaj regulaj agordoj aŭtomate konserviĝas kun ĉiu ŝanĝo"
+    }
+  },
+  "menu": {
+    "main": "Aldono, forigo kaj modifo de reguloj"
+  }
+}

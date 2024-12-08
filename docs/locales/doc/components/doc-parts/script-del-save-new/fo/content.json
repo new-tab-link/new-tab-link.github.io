@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tilseting, striking og broyting av reglum",
+    "newBtn": {
+      "title": "Nýgjgur:",
+      "explain": "Stovna eitt nýtt skrift til regluna"
+    },
+    "saveBtn": {
+      "title": "bjarga:",
+      "explain": "Goym núverandi regluinnstillingar"
+    },
+    "delBtn": {
+      "title": "strúka burtur:",
+      "explain": "Strika innstillingarnar í galdandi reglu"
+    },
+    "autoSave": {
+      "title": "Sjálvvirkandi goym:",
+      "explain": "Broyttar regluinnstillingar verða sjálvvirkandi goymdar við hvørjari broyting"
+    }
+  },
+  "menu": {
+    "main": "Tilseting, striking og broyting av reglum"
+  }
+}

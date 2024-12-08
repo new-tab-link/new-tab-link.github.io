@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Toevoeging, verwijdering en wijziging van regels",
+    "newBtn": {
+      "title": "Nieuw:",
+      "explain": "Maak een nieuw script voor de regel"
+    },
+    "saveBtn": {
+      "title": "redden:",
+      "explain": "Bewaar huidige regelinstellingen"
+    },
+    "delBtn": {
+      "title": "verwijderen:",
+      "explain": "Verwijder de instellingen van de huidige regel"
+    },
+    "autoSave": {
+      "title": "Automatisch opslaan:",
+      "explain": "Gewijzigde regelinstellingen worden bij elke wijziging automatisch opgeslagen"
+    }
+  },
+  "menu": {
+    "main": "Toevoeging, verwijdering en wijziging van regels"
+  }
+}

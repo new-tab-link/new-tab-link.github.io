@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Pagdaragdag, pagtanggal at pagbabago ng mga panuntunan",
+    "newBtn": {
+      "title": "Bago:",
+      "explain": "Gumawa ng bagong script para sa panuntunan"
+    },
+    "saveBtn": {
+      "title": "i-save:",
+      "explain": "I-save ang kasalukuyang mga setting ng panuntunan"
+    },
+    "delBtn": {
+      "title": "tanggalin:",
+      "explain": "Tanggalin ang mga setting ng kasalukuyang panuntunan"
+    },
+    "autoSave": {
+      "title": "Auto save:",
+      "explain": "Ang mga binagong setting ng panuntunan ay awtomatikong nase-save sa bawat pagbabago"
+    }
+  },
+  "menu": {
+    "main": "Pagdaragdag, pagtanggal at pagbabago ng mga panuntunan"
+  }
+}

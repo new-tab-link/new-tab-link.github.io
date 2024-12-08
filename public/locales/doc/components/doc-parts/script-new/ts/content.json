@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Endla tsalwa lerintshwa ra milawu",
+    "name": {
+      "title": "vito:",
+      "explain": "Vito ra tsalwa ra xitshuriwa."
+    },
+    "script": {
+      "title": "xitsalwana:",
+      "explain": "Vuxokoxoko bya tsalwa."
+    },
+    "delBtn": {
+      "title": "sula:",
+      "explain": "Susa tsalwa ra sweswi"
+    },
+    "saveBtn": {
+      "title": "hlayisa:",
+      "explain": "Hlayisa tsalwa ra sweswi"
+    }
+  },
+  "menu": {
+    "main": "Endla tsalwa lerintshwa ra milawu"
+  }
+}

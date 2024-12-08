@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Regel Entrée Astellunge"
+    "main": "Regel Entrée Astellunge",
+    "onlyForCurrentRule": {
+      "title": "trëtt nëmme fir déi aktuell Regel a Kraaft:",
+      "explain": "Wann iwwerpréift, kann et nëmme fir déi aktuell Regel benotzt ginn, soss kënnen all global Regelen benotzt ginn."
+    }
   }
 }

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Innstillinger for regeloppføring"
+    "main": "Innstillinger for regeloppføring",
+    "onlyForCurrentRule": {
+      "title": "Trer bare i kraft for gjeldende regel:",
+      "explain": "Hvis det er merket av, kan det bare brukes for gjeldende regel, ellers kan alle globale regler brukes."
+    }
   }
 }

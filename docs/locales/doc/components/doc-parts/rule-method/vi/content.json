@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Cài đặt mục nhập quy tắc"
+    "main": "Cài đặt mục nhập quy tắc",
+    "onlyForCurrentRule": {
+      "title": "Chỉ có hiệu lực đối với quy tắc hiện tại:",
+      "explain": "Nếu được chọn, nó chỉ có thể được sử dụng cho quy tắc hiện tại, nếu không thì tất cả các quy tắc chung đều có thể được sử dụng."
+    }
   }
 }

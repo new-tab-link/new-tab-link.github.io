@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Iskiriiptii seeraa haaraa uumi",
+    "name": {
+      "title": "maqaa:",
+      "explain": "Maqaa iskiriiptii."
+    },
+    "script": {
+      "title": "barreeffama:",
+      "explain": "Qabiyyee iskiriiptii."
+    },
+    "delBtn": {
+      "title": "haquu:",
+      "explain": "Iskiriiptii ammaa haqi"
+    },
+    "saveBtn": {
+      "title": "qusachuu:",
+      "explain": "Iskiriiptii ammaa saagi"
+    }
+  },
+  "menu": {
+    "main": "Iskiriiptii seeraa haaraa uumi"
+  }
+}

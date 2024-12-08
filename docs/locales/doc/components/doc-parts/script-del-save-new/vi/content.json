@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Bổ sung, xóa và sửa đổi các quy tắc",
+    "newBtn": {
+      "title": "Mới:",
+      "explain": "Tạo tập lệnh mới cho quy tắc"
+    },
+    "saveBtn": {
+      "title": "cứu:",
+      "explain": "Lưu cài đặt quy tắc hiện tại"
+    },
+    "delBtn": {
+      "title": "xóa bỏ:",
+      "explain": "Xóa cài đặt của quy tắc hiện tại"
+    },
+    "autoSave": {
+      "title": "Tự động lưu:",
+      "explain": "Cài đặt quy tắc đã thay đổi sẽ được lưu tự động với mỗi thay đổi"
+    }
+  },
+  "menu": {
+    "main": "Bổ sung, xóa và sửa đổi các quy tắc"
+  }
+}

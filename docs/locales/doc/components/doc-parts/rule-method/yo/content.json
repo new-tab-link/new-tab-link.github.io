@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Awọn eto titẹsi ofin"
+    "main": "Awọn eto titẹsi ofin",
+    "onlyForCurrentRule": {
+      "title": "Nikan gba ipa fun ofin lọwọlọwọ:",
+      "explain": "Ti o ba ṣayẹwo, o le ṣee lo nikan fun ofin lọwọlọwọ, bibẹẹkọ gbogbo awọn ofin agbaye le ṣee lo."
+    }
   }
 }

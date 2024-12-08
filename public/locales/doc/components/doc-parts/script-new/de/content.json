@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Erstellen Sie ein neues Regelskript",
+    "name": {
+      "title": "Name:",
+      "explain": "Der Name des Skripts."
+    },
+    "script": {
+      "title": "Skript:",
+      "explain": "Skriptinhalt."
+    },
+    "delBtn": {
+      "title": "löschen:",
+      "explain": "Aktuelles Skript löschen"
+    },
+    "saveBtn": {
+      "title": "speichern:",
+      "explain": "Aktuelles Skript speichern"
+    }
+  },
+  "menu": {
+    "main": "Erstellen Sie ein neues Regelskript"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tlaleletso, phimolo le phetolo ya melawana",
+    "newBtn": {
+      "title": "Ntšha:",
+      "explain": "Tlhama sekeripiti se sešwa sa molawana"
+    },
+    "saveBtn": {
+      "title": "boloka:",
+      "explain": "Boloka diseting tsa molao wa ga jaana"
+    },
+    "delBtn": {
+      "title": "phimola:",
+      "explain": "Phimola dipeakanyo tsa molao wa ga jaana"
+    },
+    "autoSave": {
+      "title": "Boloka ka go itirisa:",
+      "explain": "Diseting tsa molao tse di fetotsweng di bolokwa ka go itirisa ka phetogo nngwe le nngwe"
+    }
+  },
+  "menu": {
+    "main": "Tlaleletso, phimolo le phetolo ya melawana"
+  }
+}

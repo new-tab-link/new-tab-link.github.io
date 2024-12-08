@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Regla jeike ñemboheko"
+    "main": "Regla jeike ñemboheko",
+    "onlyForCurrentRule": {
+      "title": "Oñepyrũ hembiaporã pe regla ko’áĝaguápe g̃uarãnte:",
+      "explain": "Ojehecháramo, ikatu ojepuru pe tembiapoukapy koꞌag̃aguápe g̃uarãnte, ndaupéichairamo ikatu ojepuru opaite tembiapoukapy atyguasu."
+    }
   }
 }

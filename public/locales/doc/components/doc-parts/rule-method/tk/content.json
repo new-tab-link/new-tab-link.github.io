@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Giriş sazlamalary"
+    "main": "Giriş sazlamalary",
+    "onlyForCurrentRule": {
+      "title": "Diňe häzirki düzgün üçin güýje girýär:",
+      "explain": "Barlanylsa, diňe häzirki düzgün üçin ulanylyp bilner, ýogsam ähli global düzgünler ulanylyp bilner."
+    }
   }
 }

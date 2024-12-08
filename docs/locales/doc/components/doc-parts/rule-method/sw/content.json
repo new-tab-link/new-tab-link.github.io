@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Mipangilio ya kuingia kwa kanuni"
+    "main": "Mipangilio ya kuingia kwa kanuni",
+    "onlyForCurrentRule": {
+      "title": "Inatumika tu kwa sheria ya sasa:",
+      "explain": "Ikiwa imeangaliwa, inaweza kutumika tu kwa sheria ya sasa, vinginevyo sheria zote za kimataifa zinaweza kutumika."
+    }
   }
 }

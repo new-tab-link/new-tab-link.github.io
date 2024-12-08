@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Paramètres de saisie des règles"
+    "main": "Paramètres de saisie des règles",
+    "onlyForCurrentRule": {
+      "title": "Ne prend effet que pour la règle actuelle :",
+      "explain": "Si cette case est cochée, elle ne peut être utilisée que pour la règle actuelle, sinon toutes les règles globales peuvent être utilisées."
+    }
   }
 }

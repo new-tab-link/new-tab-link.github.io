@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "새 규칙 스크립트 만들기",
+    "name": {
+      "title": "이름:",
+      "explain": "스크립트의 이름입니다."
+    },
+    "script": {
+      "title": "스크립트:",
+      "explain": "스크립트 내용."
+    },
+    "delBtn": {
+      "title": "삭제:",
+      "explain": "현재 스크립트 삭제"
+    },
+    "saveBtn": {
+      "title": "구하다:",
+      "explain": "현재 스크립트 저장"
+    }
+  },
+  "menu": {
+    "main": "새 규칙 스크립트 만들기"
+  }
+}

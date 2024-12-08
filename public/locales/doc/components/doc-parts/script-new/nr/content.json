@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Yenza umtlolo omutjha womthetho",
+    "name": {
+      "title": "ibizo:",
+      "explain": "Ibizo lomtlolo."
+    },
+    "script": {
+      "title": "isikribhu:",
+      "explain": "Okuqukethwe kweskripthi."
+    },
+    "delBtn": {
+      "title": "sula:",
+      "explain": "Susa iskripthi samanje"
+    },
+    "saveBtn": {
+      "title": "onga:",
+      "explain": "Londoloza iskripthi samanje"
+    }
+  },
+  "menu": {
+    "main": "Yenza umtlolo omutjha womthetho"
+  }
+}

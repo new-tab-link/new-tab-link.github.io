@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Samee qoraal sharci oo cusub",
+    "name": {
+      "title": "magaca:",
+      "explain": "Magaca qoraalka."
+    },
+    "script": {
+      "title": "qoraal:",
+      "explain": "Qoraalka qoraalka"
+    },
+    "delBtn": {
+      "title": "tirtir:",
+      "explain": "Tirtir qoraalka hadda"
+    },
+    "saveBtn": {
+      "title": "badbaadi:",
+      "explain": "Keydi qoraalka hadda"
+    }
+  },
+  "menu": {
+    "main": "Samee qoraal sharci oo cusub"
+  }
+}

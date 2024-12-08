@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Configuració d'entrada de regles"
+    "main": "Configuració d'entrada de regles",
+    "onlyForCurrentRule": {
+      "title": "Només té efecte per a la regla actual:",
+      "explain": "Si està marcat, només es pot utilitzar per a la regla actual, en cas contrari es poden utilitzar totes les regles globals."
+    }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Jieun skrip aturan anyar",
+    "name": {
+      "title": "ngaran:",
+      "explain": "Ngaran naskah."
+    },
+    "script": {
+      "title": "naskah:",
+      "explain": "eusi naskah."
+    },
+    "delBtn": {
+      "title": "ngahapus:",
+      "explain": "Pupus skrip ayeuna"
+    },
+    "saveBtn": {
+      "title": "simpen:",
+      "explain": "Simpen skrip ayeuna"
+    }
+  },
+  "menu": {
+    "main": "Jieun skrip aturan anyar"
+  }
+}

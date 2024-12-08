@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Socruithe iontrála rialacha"
+    "main": "Socruithe iontrála rialacha",
+    "onlyForCurrentRule": {
+      "title": "Ní thagann sé i bhfeidhm ach amháin don riail reatha:",
+      "explain": "Má dhéantar é a sheiceáil, ní féidir é a úsáid ach amháin don riail reatha, nó féadfar na rialacha domhanda go léir a úsáid."
+    }
   }
 }

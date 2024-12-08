@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Fa'u ha tohi tu'utu'uni fo'ou .",
+    "name": {
+      "title": "hingoa:",
+      "explain": "Ko e hingoa ʻo e tohi."
+    },
+    "script": {
+      "title": "tohi hikinima:",
+      "explain": "Ko e kakano ʻo e script."
+    },
+    "delBtn": {
+      "title": "tamate'i:",
+      "explain": "Tamateʻi ʻa e tohi lolotongá"
+    },
+    "saveBtn": {
+      "title": "fakahaofi:",
+      "explain": "Tauhi 'a e tohi lolotonga"
+    }
+  },
+  "menu": {
+    "main": "Fa'u ha tohi tu'utu'uni fo'ou ."
+  }
+}

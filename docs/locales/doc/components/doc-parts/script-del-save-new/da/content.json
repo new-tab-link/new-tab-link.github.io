@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tilføjelse, sletning og ændring af regler",
+    "newBtn": {
+      "title": "Ny:",
+      "explain": "Opret et nyt script til reglen"
+    },
+    "saveBtn": {
+      "title": "spare:",
+      "explain": "Gem aktuelle regelindstillinger"
+    },
+    "delBtn": {
+      "title": "slet:",
+      "explain": "Slet indstillingerne for den aktuelle regel"
+    },
+    "autoSave": {
+      "title": "Gem automatisk:",
+      "explain": "Ændrede regelindstillinger gemmes automatisk ved hver ændring"
+    }
+  },
+  "menu": {
+    "main": "Tilføjelse, sletning og ændring af regler"
+  }
+}

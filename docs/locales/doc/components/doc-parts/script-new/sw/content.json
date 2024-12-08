@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Unda hati mpya ya sheria",
+    "name": {
+      "title": "jina:",
+      "explain": "Jina la hati."
+    },
+    "script": {
+      "title": "hati:",
+      "explain": "Maudhui ya hati."
+    },
+    "delBtn": {
+      "title": "futa:",
+      "explain": "Futa hati ya sasa"
+    },
+    "saveBtn": {
+      "title": "hifadhi:",
+      "explain": "Hifadhi hati ya sasa"
+    }
+  },
+  "menu": {
+    "main": "Unda hati mpya ya sheria"
+  }
+}

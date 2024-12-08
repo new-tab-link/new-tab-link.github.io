@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Regeleintragseinstellungen"
+    "main": "Regeleintragseinstellungen",
+    "onlyForCurrentRule": {
+      "title": "Wirkt nur für die aktuelle Regel:",
+      "explain": "Wenn aktiviert, kann es nur für die aktuelle Regel verwendet werden, andernfalls können alle globalen Regeln verwendet werden."
+    }
   }
 }

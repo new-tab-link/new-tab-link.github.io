@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Adicion, supression e modificacion de règlas",
+    "newBtn": {
+      "title": "Novèl:",
+      "explain": "Crear un escript novèl per la règla"
+    },
+    "saveBtn": {
+      "title": "salvar:",
+      "explain": "Enregistrar los paramètres de règla actuals"
+    },
+    "delBtn": {
+      "title": "escafar:",
+      "explain": "Suprimir los paramètres de la règla actuala"
+    },
+    "autoSave": {
+      "title": "Enregistrament automatic :",
+      "explain": "Los paramètres de règla modificats son automaticament enregistrats amb cada modificacion"
+    }
+  },
+  "menu": {
+    "main": "Adicion, supression e modificacion de règlas"
+  }
+}

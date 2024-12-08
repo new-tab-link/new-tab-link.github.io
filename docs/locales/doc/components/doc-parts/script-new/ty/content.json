@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "A hamani i te hoê papa'iraa ture apî",
+    "name": {
+      "title": "maita'i a'e:",
+      "explain": "Te i'oa o te papa'iraa."
+    },
+    "script": {
+      "title": "tāuru:",
+      "explain": "Te mau mea e papa'ihia ra."
+    },
+    "delBtn": {
+      "title": "fa'a'ore:",
+      "explain": "Tamau i te papa'iraa i teie nei"
+    },
+    "saveBtn": {
+      "title": "fa'aho'o:",
+      "explain": "Haapa'o i te papa'iraa i teie nei"
+    }
+  },
+  "menu": {
+    "main": "A hamani i te hoê papa'iraa ture apî"
+  }
+}

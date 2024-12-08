@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Yeni qayda skripti yaradın",
+    "name": {
+      "title": "ad:",
+      "explain": "Skriptin adı."
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Skript məzmunu."
+    },
+    "delBtn": {
+      "title": "silin:",
+      "explain": "Cari skripti silin"
+    },
+    "saveBtn": {
+      "title": "saxla:",
+      "explain": "Cari skripti yadda saxlayın"
+    }
+  },
+  "menu": {
+    "main": "Yeni qayda skripti yaradın"
+  }
+}

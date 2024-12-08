@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Wɔ se ƒe nuŋɔŋlɔ yeye",
+    "name": {
+      "title": "ŋkɔ:",
+      "explain": "Nuŋɔŋlɔa ƒe ŋkɔ."
+    },
+    "script": {
+      "title": "nuŋlɔɖi:",
+      "explain": "Script me nyawo."
+    },
+    "delBtn": {
+      "title": "ɖe ɖa:",
+      "explain": "Tsɔ ŋɔŋlɔdzesi si li fifia ɖa"
+    },
+    "saveBtn": {
+      "title": "dzrae ɖo:",
+      "explain": "Dzra ŋɔŋlɔdzesi si li fifia ɖo"
+    }
+  },
+  "menu": {
+    "main": "Wɔ se ƒe nuŋɔŋlɔ yeye"
+  }
+}

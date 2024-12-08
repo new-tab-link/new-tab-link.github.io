@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Yangi qoida skriptini yarating",
+    "name": {
+      "title": "ism:",
+      "explain": "Skript nomi."
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Skript tarkibi."
+    },
+    "delBtn": {
+      "title": "o'chirish:",
+      "explain": "Joriy skriptni o'chirish"
+    },
+    "saveBtn": {
+      "title": "saqlash:",
+      "explain": "Joriy skriptni saqlang"
+    }
+  },
+  "menu": {
+    "main": "Yangi qoida skriptini yarating"
+  }
+}

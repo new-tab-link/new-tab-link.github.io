@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Cruthaich sgriobt riaghailt ùr",
+    "name": {
+      "title": "ainm:",
+      "explain": "Ainm an sgriobt."
+    },
+    "script": {
+      "title": "sgriobt:",
+      "explain": "Sgriobt susbaint."
+    },
+    "delBtn": {
+      "title": "sguab às:",
+      "explain": "Sguab às an sgriobt làithreach"
+    },
+    "saveBtn": {
+      "title": "sàbhail:",
+      "explain": "Sàbhail an sgriobt làithreach"
+    }
+  },
+  "menu": {
+    "main": "Cruthaich sgriobt riaghailt ùr"
+  }
+}

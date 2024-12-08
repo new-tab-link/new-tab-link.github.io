@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Optèlle, verwijdere en wijzige vaan regels",
+    "newBtn": {
+      "title": "Nuuj:",
+      "explain": "Maak un nuuj script veur de regel"
+    },
+    "saveBtn": {
+      "title": "opsjloon:",
+      "explain": "Huidige regelinstellinge opsjlaon"
+    },
+    "delBtn": {
+      "title": "verwijdere:",
+      "explain": "Wis de instellinge vaan de huidige regel"
+    },
+    "autoSave": {
+      "title": "Automatisch opsjlaon:",
+      "explain": "Veranderde regelinstellinge weure automatisch opgeslage bij elke verandering"
+    }
+  },
+  "menu": {
+    "main": "Optèlle, verwijdere en wijzige vaan regels"
+  }
+}

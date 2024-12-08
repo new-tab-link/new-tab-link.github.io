@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Reeglite lisamine, kustutamine ja muutmine",
+    "newBtn": {
+      "title": "Uus:",
+      "explain": "Looge reegli jaoks uus skript"
+    },
+    "saveBtn": {
+      "title": "salvesta:",
+      "explain": "Salvestage kehtivad reegli sätted"
+    },
+    "delBtn": {
+      "title": "kustuta:",
+      "explain": "Kustutage praeguse reegli sätted"
+    },
+    "autoSave": {
+      "title": "Automaatne salvestamine:",
+      "explain": "Muudetud reegli sätted salvestatakse automaatselt iga muudatusega"
+    }
+  },
+  "menu": {
+    "main": "Reeglite lisamine, kustutamine ja muutmine"
+  }
+}

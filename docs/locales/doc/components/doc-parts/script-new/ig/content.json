@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Mepụta edemede iwu ọhụrụ",
+    "name": {
+      "title": "aha:",
+      "explain": "Aha nke edemede."
+    },
+    "script": {
+      "title": "edemede:",
+      "explain": "Ọdịnaya script."
+    },
+    "delBtn": {
+      "title": "hichapụ:",
+      "explain": "Hichapụ edemede dị ugbu a"
+    },
+    "saveBtn": {
+      "title": "chekwaa:",
+      "explain": "Chekwaa edemede dị ugbu a"
+    }
+  },
+  "menu": {
+    "main": "Mepụta edemede iwu ọhụrụ"
+  }
+}

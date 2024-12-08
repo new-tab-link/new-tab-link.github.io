@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ṣẹda titun ofin akosile",
+    "name": {
+      "title": "oruko:",
+      "explain": "Orukọ iwe afọwọkọ naa."
+    },
+    "script": {
+      "title": "iwe afọwọkọ:",
+      "explain": "Akoonu akosile."
+    },
+    "delBtn": {
+      "title": "parẹ:",
+      "explain": "Pa iwe afọwọkọ lọwọlọwọ rẹ"
+    },
+    "saveBtn": {
+      "title": "fipamọ:",
+      "explain": "Fi iwe afọwọkọ lọwọlọwọ pamọ"
+    }
+  },
+  "menu": {
+    "main": "Ṣẹda titun ofin akosile"
+  }
+}

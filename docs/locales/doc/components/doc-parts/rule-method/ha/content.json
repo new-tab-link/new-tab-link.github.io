@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Saitunan shigarwa na doka"
+    "main": "Saitunan shigarwa na doka",
+    "onlyForCurrentRule": {
+      "title": "Kawai yana aiki don ƙa'idar yanzu:",
+      "explain": "Idan an bincika, za a iya amfani da shi kawai don tsarin yanzu, in ba haka ba za a iya amfani da duk dokokin duniya."
+    }
   }
 }

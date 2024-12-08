@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Riaghailt roghainnean inntrigidh"
+    "main": "Riaghailt roghainnean inntrigidh",
+    "onlyForCurrentRule": {
+      "title": "Is ann dìreach airson an riaghailt làithreach a thig e gu buil:",
+      "explain": "Ma thèid a sgrùdadh, chan urrainnear a chleachdadh ach airson an riaghailt gnàthach, air neo faodar a h-uile riaghailt cruinne a chleachdadh."
+    }
   }
 }

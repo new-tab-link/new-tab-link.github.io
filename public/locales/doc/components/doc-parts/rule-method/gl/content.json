@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Configuración de entrada de regras"
+    "main": "Configuración de entrada de regras",
+    "onlyForCurrentRule": {
+      "title": "Só ten efecto para a regra actual:",
+      "explain": "Se está marcado, só se pode usar para a regra actual, se non, pódense usar todas as regras globais."
+    }
   }
 }

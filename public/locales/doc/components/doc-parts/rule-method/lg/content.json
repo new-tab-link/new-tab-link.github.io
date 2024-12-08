@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Ensengeka z'okuyingiza amateeka"
+    "main": "Ensengeka z'okuyingiza amateeka",
+    "onlyForCurrentRule": {
+      "title": "Etandika okukola ku tteeka eririwo kati lyokka:",
+      "explain": "Singa ekeberebwa, esobola okukozesebwa ku tteeka eririwo lyokka, bwe kitaba ekyo amateeka gonna ag'ensi yonna gasobola okukozesebwa."
+    }
   }
 }

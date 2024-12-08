@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Szabályok kiegészítése, törlése, módosítása",
+    "newBtn": {
+      "title": "Új:",
+      "explain": "Hozzon létre egy új szkriptet a szabályhoz"
+    },
+    "saveBtn": {
+      "title": "megtakarítás:",
+      "explain": "Mentse el az aktuális szabálybeállításokat"
+    },
+    "delBtn": {
+      "title": "töröl:",
+      "explain": "Törölje az aktuális szabály beállításait"
+    },
+    "autoSave": {
+      "title": "Automatikus mentés:",
+      "explain": "A módosított szabálybeállítások minden módosításkor automatikusan mentésre kerülnek"
+    }
+  },
+  "menu": {
+    "main": "Szabályok kiegészítése, törlése, módosítása"
+  }
+}

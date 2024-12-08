@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ɓeydude, momtude e waylude kuule",
+    "newBtn": {
+      "title": "Keesum:",
+      "explain": "Sos binndol kesol ngam kuulal ngal"
+    },
+    "saveBtn": {
+      "title": "hisugo:",
+      "explain": "Hisnu dottaaɗe kuule jooni ɗee"
+    },
+    "delBtn": {
+      "title": "wilugo:",
+      "explain": "Mumtu dottaaɗe kuulal jooni ngal"
+    },
+    "autoSave": {
+      "title": "Hisnude oto:",
+      "explain": "Cuɓe kuule waylaaɗe ina hisnee otomatik e kala waylo"
+    }
+  },
+  "menu": {
+    "main": "Ɓeydude, momtude e waylude kuule"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Gumawa ng bagong script ng panuntunan",
+    "name": {
+      "title": "pangalan:",
+      "explain": "Ang pangalan ng script."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Nilalaman ng script."
+    },
+    "delBtn": {
+      "title": "tanggalin:",
+      "explain": "Tanggalin ang kasalukuyang script"
+    },
+    "saveBtn": {
+      "title": "i-save:",
+      "explain": "I-save ang kasalukuyang script"
+    }
+  },
+  "menu": {
+    "main": "Gumawa ng bagong script ng panuntunan"
+  }
+}

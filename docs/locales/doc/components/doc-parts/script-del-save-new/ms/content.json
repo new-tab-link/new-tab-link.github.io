@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Penambahan, pemadaman dan pengubahsuaian peraturan",
+    "newBtn": {
+      "title": "baharu:",
+      "explain": "Buat skrip baharu untuk peraturan"
+    },
+    "saveBtn": {
+      "title": "simpan:",
+      "explain": "Simpan tetapan peraturan semasa"
+    },
+    "delBtn": {
+      "title": "padam:",
+      "explain": "Padamkan tetapan peraturan semasa"
+    },
+    "autoSave": {
+      "title": "Simpanan automatik:",
+      "explain": "Tetapan peraturan yang diubah disimpan secara automatik dengan setiap perubahan"
+    }
+  },
+  "menu": {
+    "main": "Penambahan, pemadaman dan pengubahsuaian peraturan"
+  }
+}

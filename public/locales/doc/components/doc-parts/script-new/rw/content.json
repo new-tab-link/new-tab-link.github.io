@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kora inyandiko nshya",
+    "name": {
+      "title": "izina:",
+      "explain": "Izina ry'inyandiko."
+    },
+    "script": {
+      "title": "Inyandiko:",
+      "explain": "Ibiri mu nyandiko."
+    },
+    "delBtn": {
+      "title": "gusiba:",
+      "explain": "Siba inyandiko iriho"
+    },
+    "saveBtn": {
+      "title": "kuzigama:",
+      "explain": "Bika inyandiko iriho"
+    }
+  },
+  "menu": {
+    "main": "Kora inyandiko nshya"
+  }
+}

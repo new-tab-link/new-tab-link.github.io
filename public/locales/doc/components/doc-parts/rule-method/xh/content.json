@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Imimiselo yokungena yomthetho"
+    "main": "Imimiselo yokungena yomthetho",
+    "onlyForCurrentRule": {
+      "title": "Isebenza kuphela kumgaqo wangoku:",
+      "explain": "Ukuba ihlolwe, ingasetyenziselwa kuphela umgaqo wangoku, ngaphandle koko yonke imigaqo yehlabathi ingasetyenziswa."
+    }
   }
 }

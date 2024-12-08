@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Mä machaq kamachi script luraña",
+    "name": {
+      "title": "chacha:",
+      "explain": "Uka qillqatan sutipa."
+    },
+    "script": {
+      "title": "wakichata:",
+      "explain": "Guion ukan qillqatanakapa."
+    },
+    "delBtn": {
+      "title": "phiskhsuña:",
+      "explain": "Jichha qillqatanaka chhaqtayaña"
+    },
+    "saveBtn": {
+      "title": "imaña:",
+      "explain": "Jichha pacha qillqatanaka imaña"
+    }
+  },
+  "menu": {
+    "main": "Mä machaq kamachi script luraña"
+  }
+}

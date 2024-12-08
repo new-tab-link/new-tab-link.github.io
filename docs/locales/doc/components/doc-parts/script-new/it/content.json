@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Crea un nuovo script di regole",
+    "name": {
+      "title": "nome:",
+      "explain": "Il nome della sceneggiatura."
+    },
+    "script": {
+      "title": "sceneggiatura:",
+      "explain": "Contenuto della sceneggiatura."
+    },
+    "delBtn": {
+      "title": "eliminare:",
+      "explain": "Elimina lo script corrente"
+    },
+    "saveBtn": {
+      "title": "salva:",
+      "explain": "Salva lo script corrente"
+    }
+  },
+  "menu": {
+    "main": "Crea un nuovo script di regole"
+  }
+}

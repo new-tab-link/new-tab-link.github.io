@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tafoeging, wiskjen en wiziging fan regels",
+    "newBtn": {
+      "title": "Nij:",
+      "explain": "Meitsje in nij skript foar de regel"
+    },
+    "saveBtn": {
+      "title": "rêde:",
+      "explain": "Bewarje aktuele regelynstellingen"
+    },
+    "delBtn": {
+      "title": "wiskje:",
+      "explain": "Wiskje de ynstellings fan de aktuele regel"
+    },
+    "autoSave": {
+      "title": "Auto bewarje:",
+      "explain": "Feroare regelynstellingen wurde automatysk bewarre by elke wiziging"
+    }
+  },
+  "menu": {
+    "main": "Tafoeging, wiskjen en wiziging fan regels"
+  }
+}

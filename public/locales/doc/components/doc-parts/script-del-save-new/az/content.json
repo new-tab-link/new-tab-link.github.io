@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Qaydaların əlavə edilməsi, silinməsi və dəyişdirilməsi",
+    "newBtn": {
+      "title": "Yeni:",
+      "explain": "Qayda üçün yeni skript yaradın"
+    },
+    "saveBtn": {
+      "title": "saxla:",
+      "explain": "Cari qayda parametrlərini yadda saxlayın"
+    },
+    "delBtn": {
+      "title": "silin:",
+      "explain": "Cari qaydanın parametrlərini silin"
+    },
+    "autoSave": {
+      "title": "Avtomatik saxlama:",
+      "explain": "Dəyişdirilmiş qayda parametrləri hər dəyişikliklə avtomatik olaraq saxlanılır"
+    }
+  },
+  "menu": {
+    "main": "Qaydaların əlavə edilməsi, silinməsi və dəyişdirilməsi"
+  }
+}

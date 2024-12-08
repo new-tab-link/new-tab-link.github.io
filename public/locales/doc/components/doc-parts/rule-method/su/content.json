@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Setélan éntri aturan"
+    "main": "Setélan éntri aturan",
+    "onlyForCurrentRule": {
+      "title": "Ngan berlaku pikeun aturan ayeuna:",
+      "explain": "Lamun dipariksa, éta ngan bisa dipaké pikeun aturan ayeuna, disebutkeun sagala aturan global bisa dipaké."
+    }
   }
 }

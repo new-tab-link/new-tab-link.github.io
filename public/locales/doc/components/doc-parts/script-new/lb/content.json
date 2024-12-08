@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Schafen eng nei Regel Schrëft",
+    "name": {
+      "title": "Numm:",
+      "explain": "Den Numm vum Skript."
+    },
+    "script": {
+      "title": "Skript:",
+      "explain": "Skript Inhalt."
+    },
+    "delBtn": {
+      "title": "läschen:",
+      "explain": "Läschen aktuell Schrëft"
+    },
+    "saveBtn": {
+      "title": "späicheren:",
+      "explain": "Spuert aktuell Skript"
+    }
+  },
+  "menu": {
+    "main": "Schafen eng nei Regel Schrëft"
+  }
+}

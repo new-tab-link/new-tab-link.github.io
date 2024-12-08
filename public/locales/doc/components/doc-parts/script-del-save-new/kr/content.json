@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Nzəra-a, cintə-a kuru dowa faltə-a",
+    "newBtn": {
+      "title": "Bəlin:",
+      "explain": "Kaidadəro ruwo bəlin kunkunnəmin"
+    },
+    "saveBtn": {
+      "title": "gənatə:",
+      "explain": "Kaida kərmabedə gənanəmin"
+    },
+    "delBtn": {
+      "title": "cintə:",
+      "explain": "Settings rule kərmabedə cinne"
+    },
+    "autoSave": {
+      "title": "Kǝlanzǝn gǝnatǝ:",
+      "explain": "Kaida faltənadə kəlanzəlaro gənatin faltə woson"
+    }
+  },
+  "menu": {
+    "main": "Nzəra-a, cintə-a kuru dowa faltə-a"
+  }
+}

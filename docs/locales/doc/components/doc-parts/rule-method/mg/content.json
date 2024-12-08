@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Fikirana fampidirana fitsipika"
+    "main": "Fikirana fampidirana fitsipika",
+    "onlyForCurrentRule": {
+      "title": "Mihatra amin'ny fitsipika ankehitriny ihany:",
+      "explain": "Raha voamarina dia azo ampiasaina amin'ny fitsipika ankehitriny ihany izy io, raha tsy izany dia azo ampiasaina ny fitsipika manerantany rehetra."
+    }
   }
 }

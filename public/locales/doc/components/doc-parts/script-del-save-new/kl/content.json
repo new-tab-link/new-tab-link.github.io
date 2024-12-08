@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Maleruagassat ilanngunneqarnerat, piiarneqarnerat allanngortinneqarnerallu",
+    "newBtn": {
+      "title": "Nutaaq:",
+      "explain": "Maleruagassamut nutaamik script-imik pilersitsineq"
+    },
+    "saveBtn": {
+      "title": "toqqorpaa:",
+      "explain": "Ullumikkut malittarisassat inissititersimasaat annaakkit"
+    },
+    "delBtn": {
+      "title": "nunguterpaa:",
+      "explain": "Ullumikkut malittarisassap inissititerneqarnera piiakkit"
+    },
+    "autoSave": {
+      "title": "Auto-mik annaasaqarneq:",
+      "explain": "Maleruagassat allanngortinneqarsimasut allanngortitsinerni ataasiakkaani nammineerluni toqqarneqartarput"
+    }
+  },
+  "menu": {
+    "main": "Maleruagassat ilanngunneqarnerat, piiarneqarnerat allanngortinneqarnerallu"
+  }
+}

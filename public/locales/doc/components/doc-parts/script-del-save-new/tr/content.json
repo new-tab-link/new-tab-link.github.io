@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kuralların eklenmesi, silinmesi ve değiştirilmesi",
+    "newBtn": {
+      "title": "Yeni:",
+      "explain": "Kural için yeni bir komut dosyası oluşturun"
+    },
+    "saveBtn": {
+      "title": "kaydetmek:",
+      "explain": "Geçerli kural ayarlarını kaydet"
+    },
+    "delBtn": {
+      "title": "silmek:",
+      "explain": "Geçerli kuralın ayarlarını silin"
+    },
+    "autoSave": {
+      "title": "Otomatik kaydetme:",
+      "explain": "Değiştirilen kural ayarları her değişiklikte otomatik olarak kaydedilir"
+    }
+  },
+  "menu": {
+    "main": "Kuralların eklenmesi, silinmesi ve değiştirilmesi"
+  }
+}

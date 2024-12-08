@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kuyika, kufwa mpi kusoba bansiku",
+    "newBtn": {
+      "title": "Ya mpa:",
+      "explain": "Sala script ya mpa sambu na nsiku"
+    },
+    "saveBtn": {
+      "title": "kugulusa:",
+      "explain": "Lunda baparametre ya nsiku ya sesepi"
+    },
+    "delBtn": {
+      "title": "kuvwansa:",
+      "explain": "Katula baparametre ya nsiku ya sesepi"
+    },
+    "autoSave": {
+      "title": "Bumba yo mosi:",
+      "explain": "Baparametre ya bansiku yina bo me soba ke bumbanaka na mbala mosi na konso nsoba"
+    }
+  },
+  "menu": {
+    "main": "Kuyika, kufwa mpi kusoba bansiku"
+  }
+}

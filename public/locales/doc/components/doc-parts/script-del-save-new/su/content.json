@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tambihan, ngahapus sareng modifikasi aturan",
+    "newBtn": {
+      "title": "Anyar:",
+      "explain": "Jieun skrip anyar pikeun aturan"
+    },
+    "saveBtn": {
+      "title": "simpen:",
+      "explain": "Simpen setélan aturan ayeuna"
+    },
+    "delBtn": {
+      "title": "ngahapus:",
+      "explain": "Pupus setélan aturan ayeuna"
+    },
+    "autoSave": {
+      "title": "Simpen otomatis:",
+      "explain": "Setélan aturan anu dirobih otomatis disimpen kalayan unggal parobihan"
+    }
+  },
+  "menu": {
+    "main": "Tambihan, ngahapus sareng modifikasi aturan"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kreye yon nouvo script règ",
+    "name": {
+      "title": "non:",
+      "explain": "Non script la."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Kontni script."
+    },
+    "delBtn": {
+      "title": "efase:",
+      "explain": "Efase script aktyèl la"
+    },
+    "saveBtn": {
+      "title": "sove:",
+      "explain": "Sove script aktyèl la"
+    }
+  },
+  "menu": {
+    "main": "Kreye yon nouvo script règ"
+  }
+}

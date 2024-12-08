@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Setări de introducere a regulilor"
+    "main": "Setări de introducere a regulilor",
+    "onlyForCurrentRule": {
+      "title": "Intră în vigoare doar pentru regula actuală:",
+      "explain": "Dacă este bifată, poate fi folosită numai pentru regula curentă, altfel toate regulile globale pot fi folosite."
+    }
   }
 }

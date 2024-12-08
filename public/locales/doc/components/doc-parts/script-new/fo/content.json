@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Stovna eitt nýtt reglurit",
+    "name": {
+      "title": "navn:",
+      "explain": "Navnið á handritinum."
+    },
+    "script": {
+      "title": "handrit:",
+      "explain": "Handritsinnihald."
+    },
+    "delBtn": {
+      "title": "strúka burtur:",
+      "explain": "Strika núverandi skrift"
+    },
+    "saveBtn": {
+      "title": "bjarga:",
+      "explain": "Goym núverandi skrift"
+    }
+  },
+  "menu": {
+    "main": "Stovna eitt nýtt reglurit"
+  }
+}

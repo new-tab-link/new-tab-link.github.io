@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Créer un nouveau script de règle",
+    "name": {
+      "title": "nom:",
+      "explain": "Le nom du script."
+    },
+    "script": {
+      "title": "scénario:",
+      "explain": "Contenu du script."
+    },
+    "delBtn": {
+      "title": "supprimer:",
+      "explain": "Supprimer le script actuel"
+    },
+    "saveBtn": {
+      "title": "sauvegarder:",
+      "explain": "Enregistrer le script actuel"
+    }
+  },
+  "menu": {
+    "main": "Créer un nouveau script de règle"
+  }
+}

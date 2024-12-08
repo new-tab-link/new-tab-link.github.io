@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Crea un novu script di regula",
+    "name": {
+      "title": "nome:",
+      "explain": "U nome di u script."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "U cuntenutu di u script."
+    },
+    "delBtn": {
+      "title": "sguassà:",
+      "explain": "Sguassà u script attuale"
+    },
+    "saveBtn": {
+      "title": "salvà:",
+      "explain": "Salvà u script attuale"
+    }
+  },
+  "menu": {
+    "main": "Crea un novu script di regula"
+  }
+}

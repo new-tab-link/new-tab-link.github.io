@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Diseting tsa go tsenya molao"
+    "main": "Diseting tsa go tsenya molao",
+    "onlyForCurrentRule": {
+      "title": "E dira fela mo molaong wa ga jaana:",
+      "explain": "Fa e tlhophilwe, e ka dirisiwa fela mo molaong wa ga jaana, go seng jalo melao yotlhe ya lefatshe e ka dirisiwa."
+    }
   }
 }

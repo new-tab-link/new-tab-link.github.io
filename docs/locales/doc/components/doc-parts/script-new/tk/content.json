@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Täze düzgün skriptini dörediň",
+    "name": {
+      "title": "ady:",
+      "explain": "Scriptazuwyň ady."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Scriptazuw mazmuny."
+    },
+    "delBtn": {
+      "title": "öçürmek:",
+      "explain": "Häzirki skripti pozuň"
+    },
+    "saveBtn": {
+      "title": "tygşytlamak:",
+      "explain": "Häzirki skripti ýazdyryň"
+    }
+  },
+  "menu": {
+    "main": "Täze düzgün skriptini dörediň"
+  }
+}

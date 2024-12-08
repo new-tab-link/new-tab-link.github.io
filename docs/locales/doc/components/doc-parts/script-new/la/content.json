@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Novam regulam script",
+    "name": {
+      "title": "nomen;",
+      "explain": "Nomen script."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Script contentus."
+    },
+    "delBtn": {
+      "title": "delere;",
+      "explain": "Delere current scriptor"
+    },
+    "saveBtn": {
+      "title": "salvum facere;",
+      "explain": "Servo current scriptor"
+    }
+  },
+  "menu": {
+    "main": "Novam regulam script"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Waihangatia he tuhinga ture hou",
+    "name": {
+      "title": "ingoa:",
+      "explain": "Te ingoa o te tuhinga."
+    },
+    "script": {
+      "title": "tuhi:",
+      "explain": "Te ihirangi hōtuhi."
+    },
+    "delBtn": {
+      "title": "muku:",
+      "explain": "Mukua te tuhinga o naianei"
+    },
+    "saveBtn": {
+      "title": "tiaki:",
+      "explain": "Tiakina te tuhinga o naianei"
+    }
+  },
+  "menu": {
+    "main": "Waihangatia he tuhinga ture hou"
+  }
+}

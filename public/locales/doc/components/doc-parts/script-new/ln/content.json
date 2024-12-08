@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Bosala script ya mibeko ya sika",
+    "name": {
+      "title": "nkombo:",
+      "explain": "Nkombo ya script."
+    },
+    "script": {
+      "title": "maloba:",
+      "explain": "Makambo oyo ezali na kati ya script."
+    },
+    "delBtn": {
+      "title": "boma:",
+      "explain": "Bolongola script ya lelo"
+    },
+    "saveBtn": {
+      "title": "kobikisa:",
+      "explain": "Bomba script ya lelo"
+    }
+  },
+  "menu": {
+    "main": "Bosala script ya mibeko ya sika"
+  }
+}

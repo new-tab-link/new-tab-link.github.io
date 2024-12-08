@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Crie um novo script de regra",
+    "name": {
+      "title": "nome:",
+      "explain": "O nome do roteiro."
+    },
+    "script": {
+      "title": "roteiro:",
+      "explain": "Conteúdo do roteiro."
+    },
+    "delBtn": {
+      "title": "excluir:",
+      "explain": "Excluir script atual"
+    },
+    "saveBtn": {
+      "title": "salvar:",
+      "explain": "Salvar script atual"
+    }
+  },
+  "menu": {
+    "main": "Crie um novo script de regra"
+  }
+}

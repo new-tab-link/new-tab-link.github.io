@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Addition, deletion and modification of rules",
+    "newBtn": {
+      "title": "New:",
+      "explain": "Create a new script for the rule"
+    },
+    "saveBtn": {
+      "title": "save:",
+      "explain": "Save current rule settings"
+    },
+    "delBtn": {
+      "title": "delete:",
+      "explain": "Delete the settings of the current rule"
+    },
+    "autoSave": {
+      "title": "Auto save:",
+      "explain": "Changed rule settings are automatically saved with each change"
+    }
+  },
+  "menu": {
+    "main": "Addition, deletion and modification of rules"
+  }
+}

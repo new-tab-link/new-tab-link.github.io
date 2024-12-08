@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tlhama sekeripiti se sešwa sa molao",
+    "name": {
+      "title": "leina:",
+      "explain": "Leina la sekwalwa."
+    },
+    "script": {
+      "title": "lokwalo:",
+      "explain": "Diteng tsa sekeripiti."
+    },
+    "delBtn": {
+      "title": "phimola:",
+      "explain": "Phimola sekeripiti sa ga jaana"
+    },
+    "saveBtn": {
+      "title": "boloka:",
+      "explain": "Boloka sekeripiti sa ga jaana"
+    }
+  },
+  "menu": {
+    "main": "Tlhama sekeripiti se sešwa sa molao"
+  }
+}

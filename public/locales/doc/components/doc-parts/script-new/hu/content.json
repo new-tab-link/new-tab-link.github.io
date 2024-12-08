@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Hozzon létre egy új szabályszkriptet",
+    "name": {
+      "title": "név:",
+      "explain": "A forgatókönyv neve."
+    },
+    "script": {
+      "title": "forgatókönyv:",
+      "explain": "Szkript tartalma."
+    },
+    "delBtn": {
+      "title": "töröl:",
+      "explain": "Az aktuális szkript törlése"
+    },
+    "saveBtn": {
+      "title": "megtakarítás:",
+      "explain": "Az aktuális szkript mentése"
+    }
+  },
+  "menu": {
+    "main": "Hozzon létre egy új szabályszkriptet"
+  }
+}

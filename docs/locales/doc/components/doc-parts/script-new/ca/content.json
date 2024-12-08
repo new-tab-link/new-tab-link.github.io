@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Creeu un nou script de regles",
+    "name": {
+      "title": "nom:",
+      "explain": "El nom del guió."
+    },
+    "script": {
+      "title": "guió:",
+      "explain": "Contingut del guió."
+    },
+    "delBtn": {
+      "title": "suprimir:",
+      "explain": "Suprimeix l'script actual"
+    },
+    "saveBtn": {
+      "title": "guardar:",
+      "explain": "Desa l'script actual"
+    }
+  },
+  "menu": {
+    "main": "Creeu un nou script de regles"
+  }
+}

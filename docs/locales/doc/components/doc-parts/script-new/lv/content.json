@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Izveidojiet jaunu noteikumu skriptu",
+    "name": {
+      "title": "nosaukums:",
+      "explain": "Skripta nosaukums."
+    },
+    "script": {
+      "title": "skripts:",
+      "explain": "Skripta saturs."
+    },
+    "delBtn": {
+      "title": "dzēst:",
+      "explain": "Dzēst pašreizējo skriptu"
+    },
+    "saveBtn": {
+      "title": "saglabāt:",
+      "explain": "Saglabājiet pašreizējo skriptu"
+    }
+  },
+  "menu": {
+    "main": "Izveidojiet jaunu noteikumu skriptu"
+  }
+}

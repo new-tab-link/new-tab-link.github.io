@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Reglufrágreiðingar innstillingar"
+    "main": "Reglufrágreiðingar innstillingar",
+    "onlyForCurrentRule": {
+      "title": "Fær bert gildi fyri galdandi reglu:",
+      "explain": "Um merkt verður, kann tað bert brúkast til galdandi reglu, annars kunnu allar globalar reglur brúkast."
+    }
   }
 }

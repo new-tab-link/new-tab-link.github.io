@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Hinzufügen, Löschen und Ändern von Regeln",
+    "newBtn": {
+      "title": "Neu:",
+      "explain": "Erstellen Sie ein neues Skript für die Regel"
+    },
+    "saveBtn": {
+      "title": "speichern:",
+      "explain": "Aktuelle Regeleinstellungen speichern"
+    },
+    "delBtn": {
+      "title": "löschen:",
+      "explain": "Löschen Sie die Einstellungen der aktuellen Regel"
+    },
+    "autoSave": {
+      "title": "Automatisches Speichern:",
+      "explain": "Geänderte Regeleinstellungen werden bei jeder Änderung automatisch gespeichert"
+    }
+  },
+  "menu": {
+    "main": "Hinzufügen, Löschen und Ändern von Regeln"
+  }
+}

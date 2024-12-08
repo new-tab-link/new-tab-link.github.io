@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Ustawienia wprowadzania reguł"
+    "main": "Ustawienia wprowadzania reguł",
+    "onlyForCurrentRule": {
+      "title": "Obowiązuje tylko dla bieżącej reguły:",
+      "explain": "Jeśli jest zaznaczone, można go użyć tylko dla bieżącej reguły, w przeciwnym razie można zastosować wszystkie reguły globalne."
+    }
   }
 }

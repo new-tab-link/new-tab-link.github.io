@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Ba paramètres ya bokoti ya mibeko"
+    "main": "Ba paramètres ya bokoti ya mibeko",
+    "onlyForCurrentRule": {
+      "title": "Ebandi kosala kaka mpo na mobeko oyo ezali kosalema lelo:",
+      "explain": "Soki etiamaki elembo, ekoki kosalelama kaka mpo na mobeko ya lelo, soki te mibeko nyonso ya mokili mobimba ekoki kosalelama."
+    }
   }
 }

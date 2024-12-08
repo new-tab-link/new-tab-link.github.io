@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Mga setting ng pagpasok ng panuntunan"
+    "main": "Mga setting ng pagpasok ng panuntunan",
+    "onlyForCurrentRule": {
+      "title": "Magkakabisa lang para sa kasalukuyang panuntunan:",
+      "explain": "Kung nilagyan ng check, magagamit lang ito para sa kasalukuyang panuntunan, kung hindi, magagamit ang lahat ng pandaigdigang panuntunan."
+    }
   }
 }

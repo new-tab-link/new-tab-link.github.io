@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Crear un script de règla novèl",
+    "name": {
+      "title": "nom:",
+      "explain": "Lo nom de l'escript."
+    },
+    "script": {
+      "title": "scenari:",
+      "explain": "Contengut de l'escript."
+    },
+    "delBtn": {
+      "title": "escafar:",
+      "explain": "Suprimir l'escript actual"
+    },
+    "saveBtn": {
+      "title": "salvar:",
+      "explain": "Enregistrar l'escript actual"
+    }
+  },
+  "menu": {
+    "main": "Crear un script de règla novèl"
+  }
+}

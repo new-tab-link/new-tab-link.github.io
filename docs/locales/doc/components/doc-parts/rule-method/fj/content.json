@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Na ituvatuva ni curu ni lawa"
+    "main": "Na ituvatuva ni curu ni lawa",
+    "onlyForCurrentRule": {
+      "title": "E vakayagataki ga ena lawa ni gauna oqo:",
+      "explain": "Kevaka e vakadeitaki, e rawa ni vakayagataki ga me baleta na lawa ni gauna oqo, ke sega e rawa ni vakayagataki na lawa kece ni vuravura raraba."
+    }
   }
 }

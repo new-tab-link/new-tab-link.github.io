@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Paramètres d'entrada de règla"
+    "main": "Paramètres d'entrada de règla",
+    "onlyForCurrentRule": {
+      "title": "Pren efièch sonque per la règla actuala :",
+      "explain": "Se marcat, pòt pas èsser utilizat que per la règla actuala, autrament totas las règlas globalas pòdon èsser utilizadas."
+    }
   }
 }

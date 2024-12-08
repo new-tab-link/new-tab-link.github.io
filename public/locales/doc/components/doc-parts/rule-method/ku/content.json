@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Mîhengên ketina qaîdeyê"
+    "main": "Mîhengên ketina qaîdeyê",
+    "onlyForCurrentRule": {
+      "title": "Tenê ji bo qaîdeya heyî bandor dike:",
+      "explain": "Ger were kontrol kirin, ew tenê dikare ji bo qaîdeya heyî were bikar anîn, wekî din hemî qaîdeyên gerdûnî dikarin werin bikar anîn."
+    }
   }
 }

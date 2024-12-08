@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Buat skrip aturan baru",
+    "name": {
+      "title": "nama:",
+      "explain": "Nama naskahnya."
+    },
+    "script": {
+      "title": "naskah:",
+      "explain": "Konten skrip."
+    },
+    "delBtn": {
+      "title": "menghapus:",
+      "explain": "Hapus skrip saat ini"
+    },
+    "saveBtn": {
+      "title": "menyimpan:",
+      "explain": "Simpan skrip saat ini"
+    }
+  },
+  "menu": {
+    "main": "Buat skrip aturan baru"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ku engeteriwa, ku susiwa na ku cinciwa ka milawu",
+    "newBtn": {
+      "title": "Xintshwa:",
+      "explain": "Endla tsalwa lerintshwa ra nawu"
+    },
+    "saveBtn": {
+      "title": "hlayisa:",
+      "explain": "Hlayisa swiletelo swa milawu ya sweswi"
+    },
+    "delBtn": {
+      "title": "sula:",
+      "explain": "Susa swiyimiso swa nawu wa sweswi"
+    },
+    "autoSave": {
+      "title": "Auto save:",
+      "explain": "Switirhisiwa swa milawu leswi cinciweke swi hlayisiwa hi ku tisungulela eka ku cinca kun’wana ni kun’wana"
+    }
+  },
+  "menu": {
+    "main": "Ku engeteriwa, ku susiwa na ku cinciwa ka milawu"
+  }
+}

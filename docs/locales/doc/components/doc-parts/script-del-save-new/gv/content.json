@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Cur rish, scughey as aa-chaghlaa recortyssyn",
+    "newBtn": {
+      "title": "Naighteragh:",
+      "explain": "Cree script noa son y reiltys"
+    },
+    "saveBtn": {
+      "title": "er-lhimmey:",
+      "explain": "Save reihyn recortys ry-hoi"
+    },
+    "delBtn": {
+      "title": "dolley magh:",
+      "explain": "Cur stiagh ny soitçhyn jeh'n reill t'ayn nish"
+    },
+    "autoSave": {
+      "title": "Scarrey auto:",
+      "explain": "Ta soilshaghyn reiltys aashagh er nyn goyrt stiagh dy h-automagh lesh gagh aashagh"
+    }
+  },
+  "menu": {
+    "main": "Cur rish, scughey as aa-chaghlaa recortyssyn"
+  }
+}

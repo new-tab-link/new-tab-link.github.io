@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Taisyklių papildymas, ištrynimas ir keitimas",
+    "newBtn": {
+      "title": "Nauja:",
+      "explain": "Sukurkite naują taisyklės scenarijų"
+    },
+    "saveBtn": {
+      "title": "išsaugoti:",
+      "explain": "Išsaugokite esamus taisyklių nustatymus"
+    },
+    "delBtn": {
+      "title": "ištrinti:",
+      "explain": "Ištrinkite dabartinės taisyklės nustatymus"
+    },
+    "autoSave": {
+      "title": "Automatinis išsaugojimas:",
+      "explain": "Pakeisti taisyklės nustatymai automatiškai išsaugomi su kiekvienu pakeitimu"
+    }
+  },
+  "menu": {
+    "main": "Taisyklių papildymas, ištrynimas ir keitimas"
+  }
+}

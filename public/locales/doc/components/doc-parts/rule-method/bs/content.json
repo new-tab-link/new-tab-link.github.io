@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Postavke unosa pravila"
+    "main": "Postavke unosa pravila",
+    "onlyForCurrentRule": {
+      "title": "Stupa na snagu samo za trenutno pravilo:",
+      "explain": "Ako je označeno, može se koristiti samo za trenutno pravilo, inače se mogu koristiti sva globalna pravila."
+    }
   }
 }

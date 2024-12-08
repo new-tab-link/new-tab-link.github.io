@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Looge uus reegli skript",
+    "name": {
+      "title": "nimi:",
+      "explain": "Skripti nimi."
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Skripti sisu."
+    },
+    "delBtn": {
+      "title": "kustuta:",
+      "explain": "Kustuta praegune skript"
+    },
+    "saveBtn": {
+      "title": "salvesta:",
+      "explain": "Salvesta praegune skript"
+    }
+  },
+  "menu": {
+    "main": "Looge uus reegli skript"
+  }
+}

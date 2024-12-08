@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Zêdekirin, jêbirin û guherandina qaîdeyan",
+    "newBtn": {
+      "title": "Nşh:",
+      "explain": "Ji bo qaîdeyê skrîptek nû biafirînin"
+    },
+    "saveBtn": {
+      "title": "rizgarkirin:",
+      "explain": "Mîhengên qaîdeya heyî hilînin"
+    },
+    "delBtn": {
+      "title": "jêbirin:",
+      "explain": "Mîhengên qaîdeya heyî jêbirin"
+    },
+    "autoSave": {
+      "title": "Tomarkirina otomatîk:",
+      "explain": "Mîhengên qaîdeyên guhertî bi her guhertinê bixweber têne tomar kirin"
+    }
+  },
+  "menu": {
+    "main": "Zêdekirin, jêbirin û guherandina qaîdeyan"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Adición, supresión e modificación de normas",
+    "newBtn": {
+      "title": "Novo:",
+      "explain": "Crea un novo script para a regra"
+    },
+    "saveBtn": {
+      "title": "gardar:",
+      "explain": "Garda a configuración actual das regras"
+    },
+    "delBtn": {
+      "title": "eliminar:",
+      "explain": "Elimina a configuración da regra actual"
+    },
+    "autoSave": {
+      "title": "Gardar automaticamente:",
+      "explain": "A configuración das regras modificadas gárdanse automaticamente con cada cambio"
+    }
+  },
+  "menu": {
+    "main": "Adición, supresión e modificación de normas"
+  }
+}

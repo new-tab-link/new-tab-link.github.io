@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Anviwònman antre règ"
+    "main": "Anviwònman antre règ",
+    "onlyForCurrentRule": {
+      "title": "Sèlman an efè pou règ aktyèl la:",
+      "explain": "Si w tcheke, li ka itilize sèlman pou règ aktyèl la, otreman tout règ mondyal yo ka itilize."
+    }
   }
 }

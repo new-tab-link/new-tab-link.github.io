@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Cuɓe naatgol kuule"
+    "main": "Cuɓe naatgol kuule",
+    "onlyForCurrentRule": {
+      "title": "Ina huutoree tan e kuulal jooni ngal:",
+      "explain": "So ƴeewtaama, ina waawi huutoreede tan e kuulal jooni ngal, so wonaa ɗuum kuule aduna ɗee kala ina mbaawi huutoreede."
+    }
   }
 }

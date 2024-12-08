@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Itegeko ry'injira"
+    "main": "Itegeko ry'injira",
+    "onlyForCurrentRule": {
+      "title": "Bitangura gukora gusa ku itegeko ririho ubu:",
+      "explain": "Iyo isuzumwe, ishobora gukoreshwa gusa ku itegeko ririho ubu, ahandi ho amategeko yose y'isi yose arashobora gukoreshwa."
+    }
   }
 }

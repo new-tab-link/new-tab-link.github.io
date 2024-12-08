@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Tillägg, radering och ändring av regler",
+    "newBtn": {
+      "title": "Ny:",
+      "explain": "Skapa ett nytt skript för regeln"
+    },
+    "saveBtn": {
+      "title": "spara:",
+      "explain": "Spara aktuella regelinställningar"
+    },
+    "delBtn": {
+      "title": "radera:",
+      "explain": "Ta bort inställningarna för den aktuella regeln"
+    },
+    "autoSave": {
+      "title": "Autospara:",
+      "explain": "Ändrade regelinställningar sparas automatiskt vid varje ändring"
+    }
+  },
+  "menu": {
+    "main": "Tillägg, radering och ändring av regler"
+  }
+}

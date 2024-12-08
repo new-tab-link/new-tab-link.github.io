@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ajoute, efase ak modifikasyon nan règ yo",
+    "newBtn": {
+      "title": "Nouvo:",
+      "explain": "Kreye yon nouvo script pou règ la"
+    },
+    "saveBtn": {
+      "title": "sove:",
+      "explain": "Sove anviwònman règ aktyèl yo"
+    },
+    "delBtn": {
+      "title": "efase:",
+      "explain": "Efase anviwònman règ aktyèl la"
+    },
+    "autoSave": {
+      "title": "Sove otomatik:",
+      "explain": "Anviwònman règ chanje yo otomatikman sove ak chak chanjman"
+    }
+  },
+  "menu": {
+    "main": "Ajoute, efase ak modifikasyon nan règ yo"
+  }
+}

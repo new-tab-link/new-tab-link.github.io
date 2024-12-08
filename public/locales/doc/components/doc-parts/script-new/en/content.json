@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Create a new rule script",
+    "name": {
+      "title": "name:",
+      "explain": "The name of the script."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Script content."
+    },
+    "delBtn": {
+      "title": "delete:",
+      "explain": "Delete current script"
+    },
+    "saveBtn": {
+      "title": "save:",
+      "explain": "Save current script"
+    }
+  },
+  "menu": {
+    "main": "Create a new rule script"
+  }
+}

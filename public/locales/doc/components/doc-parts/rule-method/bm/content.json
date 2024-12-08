@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Sariya doncogo sigicogo"
+    "main": "Sariya doncogo sigicogo",
+    "onlyForCurrentRule": {
+      "title": "A bɛ daminɛ sariya min bɛ sen na sisan dɔrɔn de kama:",
+      "explain": "Ni a sɛgɛsɛgɛra, a bɛ se ka kɛ sisan sariya dɔrɔn de kama, n’o tɛ diɲɛ sariyaw bɛɛ bɛ se ka baara kɛ ni a ye."
+    }
   }
 }

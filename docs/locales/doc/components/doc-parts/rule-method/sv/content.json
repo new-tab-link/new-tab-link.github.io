@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Inställningar för regelinmatning"
+    "main": "Inställningar för regelinmatning",
+    "onlyForCurrentRule": {
+      "title": "Gäller endast för den nuvarande regeln:",
+      "explain": "Om markerad kan den endast användas för den aktuella regeln, annars kan alla globala regler användas."
+    }
   }
 }

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Amasethingi wokufaka umthetho"
+    "main": "Amasethingi wokufaka umthetho",
+    "onlyForCurrentRule": {
+      "title": "Kusebenza kwaphela emthethweni wamanje:",
+      "explain": "Nayihloliweko, ingasetjenziselwa umthetho wamanje kwaphela, ngaphandle kwalokho yoke imithetho yephasi loke ingasetjenziselwa."
+    }
   }
 }

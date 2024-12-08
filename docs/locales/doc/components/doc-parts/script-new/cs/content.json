@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Vytvořte nový skript pravidla",
+    "name": {
+      "title": "jméno:",
+      "explain": "Název skriptu."
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Obsah skriptu."
+    },
+    "delBtn": {
+      "title": "vymazat:",
+      "explain": "Smazat aktuální skript"
+    },
+    "saveBtn": {
+      "title": "uložit:",
+      "explain": "Uložit aktuální skript"
+    }
+  },
+  "menu": {
+    "main": "Vytvořte nový skript pravidla"
+  }
+}

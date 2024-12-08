@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Okwongera, okusazaamu n’okukyusa amateeka",
+    "newBtn": {
+      "title": "Pya:",
+      "explain": "Tonda script empya ey'etteeka"
+    },
+    "saveBtn": {
+      "title": "okununula:",
+      "explain": "Teeka ensengeka z'amateeka eziriwo kati"
+    },
+    "delBtn": {
+      "title": "okusiimuula:",
+      "explain": "Ssaako ensengeka z'etteeka eririwo kati"
+    },
+    "autoSave": {
+      "title": "Auto save:",
+      "explain": "Ensengeka z'amateeka ezikyusiddwa ziterekebwa mu ngeri ey'otoma buli lwe kikyusiddwa"
+    }
+  },
+  "menu": {
+    "main": "Okwongera, okusazaamu n’okukyusa amateeka"
+  }
+}

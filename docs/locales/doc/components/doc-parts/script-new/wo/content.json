@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Sosal script sàrt bu bees",
+    "name": {
+      "title": "tur:",
+      "explain": "Turu mbind mi."
+    },
+    "script": {
+      "title": "mbind:",
+      "explain": "Ëmbiitu skript."
+    },
+    "delBtn": {
+      "title": "dindi:",
+      "explain": "efaase skript bi fi nekk"
+    },
+    "saveBtn": {
+      "title": "déñ-kumpa:",
+      "explain": "Sanc skript bi fi nekk"
+    }
+  },
+  "menu": {
+    "main": "Sosal script sàrt bu bees"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Musuq kamachiy qillqata paqarichiy",
+    "name": {
+      "title": "suti:",
+      "explain": "Qillqasqapa sutin."
+    },
+    "script": {
+      "title": "qillqa:",
+      "explain": "Guionpa contenido nisqa."
+    },
+    "delBtn": {
+      "title": "chinkachiy:",
+      "explain": "Kunan qillqa maytuta qulluy"
+    },
+    "saveBtn": {
+      "title": "waqaychay:",
+      "explain": "Kunan qillqasqata waqaychay"
+    }
+  },
+  "menu": {
+    "main": "Musuq kamachiy qillqata paqarichiy"
+  }
+}

@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Kaida gaworam"
+    "main": "Kaida gaworam",
+    "onlyForCurrentRule": {
+      "title": "Kaida kərmabedə bas faidajin:",
+      "explain": "Kulashi tədiya, shilan faidatin doka kərmabe basro, adə gənyima doka dunyabe samma faidatin."
+    }
   }
 }

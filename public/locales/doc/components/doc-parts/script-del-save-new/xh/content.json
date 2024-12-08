@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Ukongezwa, ukucinywa kunye nokuguqulwa kwemithetho",
+    "newBtn": {
+      "title": "Entsha:",
+      "explain": "Yenza iskripthi esitsha somgaqo"
+    },
+    "saveBtn": {
+      "title": "gcina:",
+      "explain": "Gcina imimiselo yomgaqo wangoku"
+    },
+    "delBtn": {
+      "title": "cima:",
+      "explain": "Cima useto lomgaqo wangoku"
+    },
+    "autoSave": {
+      "title": "Gcina ngokuzenzekela:",
+      "explain": "Imimiselo yomgaqo etshintshiweyo igcinwa ngokuzenzekelayo ngotshintsho ngalunye"
+    }
+  },
+  "menu": {
+    "main": "Ukongezwa, ukucinywa kunye nokuguqulwa kwemithetho"
+  }
+}

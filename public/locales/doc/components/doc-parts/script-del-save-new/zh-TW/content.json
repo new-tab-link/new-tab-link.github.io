@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "規則的增刪改",
+    "newBtn": {
+      "title": "新建：",
+      "explain": "為規則新建一個腳本"
+    },
+    "saveBtn": {
+      "title": "保存：",
+      "explain": "儲存目前規則的設定"
+    },
+    "delBtn": {
+      "title": "刪除：",
+      "explain": "刪除目前規則的設定"
+    },
+    "autoSave": {
+      "title": "自動儲存：",
+      "explain": "每次更改都自動儲存更改後的規則設置"
+    }
+  },
+  "menu": {
+    "main": "規則的增刪改"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Rema inyandiko nshasha y'itegeko",
+    "name": {
+      "title": "izina:",
+      "explain": "Izina ry’inyandiko."
+    },
+    "script": {
+      "title": "inyandiko:",
+      "explain": "Ibirimwo mu nyandiko."
+    },
+    "delBtn": {
+      "title": "gusiba:",
+      "explain": "Gukuraho inyandiko iriho"
+    },
+    "saveBtn": {
+      "title": "gukiza:",
+      "explain": "Bika ubu inyandiko"
+    }
+  },
+  "menu": {
+    "main": "Rema inyandiko nshasha y'itegeko"
+  }
+}

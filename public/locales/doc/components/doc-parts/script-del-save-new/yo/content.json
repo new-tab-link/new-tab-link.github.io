@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Afikun, piparẹ ati iyipada ti awọn ofin",
+    "newBtn": {
+      "title": "Tuntun:",
+      "explain": "Ṣẹda iwe afọwọkọ tuntun fun ofin naa"
+    },
+    "saveBtn": {
+      "title": "fipamọ:",
+      "explain": "Fipamọ awọn eto ofin lọwọlọwọ"
+    },
+    "delBtn": {
+      "title": "parẹ:",
+      "explain": "Pa awọn eto ti ofin lọwọlọwọ rẹ"
+    },
+    "autoSave": {
+      "title": "Fipamọ laifọwọyi:",
+      "explain": "Awọn eto ofin ti o yipada ti wa ni ipamọ laifọwọyi pẹlu iyipada kọọkan"
+    }
+  },
+  "menu": {
+    "main": "Afikun, piparẹ ati iyipada ti awọn ofin"
+  }
+}

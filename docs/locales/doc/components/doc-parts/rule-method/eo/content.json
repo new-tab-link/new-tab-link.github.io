@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Reguleniraj agordoj"
+    "main": "Reguleniraj agordoj",
+    "onlyForCurrentRule": {
+      "title": "Nur efektiviĝas por la nuna regulo:",
+      "explain": "Se markite, ĝi povas esti uzata nur por la nuna regulo, alie ĉiuj tutmondaj reguloj povas esti uzataj."
+    }
   }
 }

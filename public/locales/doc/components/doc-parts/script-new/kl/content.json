@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Maleruagassaq nutaaq script-imik pilersitsineq",
+    "name": {
+      "title": "ateq:",
+      "explain": "Allaaserisap aqqa."
+    },
+    "script": {
+      "title": "manuskripti:",
+      "explain": "Skriptip imarisaa."
+    },
+    "delBtn": {
+      "title": "nunguterpaa:",
+      "explain": "Script maannakkut atuuttoq piiaruk"
+    },
+    "saveBtn": {
+      "title": "toqqorpaa:",
+      "explain": "Script maannamut atuuttoq allattorlugu"
+    }
+  },
+  "menu": {
+    "main": "Maleruagassaq nutaaq script-imik pilersitsineq"
+  }
+}

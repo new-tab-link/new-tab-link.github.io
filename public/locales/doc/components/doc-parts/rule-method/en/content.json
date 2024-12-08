@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Rule entry settings"
+    "main": "Rule entry settings",
+    "onlyForCurrentRule": {
+      "title": "Only takes effect for the current rule:",
+      "explain": "If checked, it can only be used for the current rule, otherwise all global rules can be used."
+    }
   }
 }

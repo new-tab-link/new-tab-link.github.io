@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Fanampiana, famafana ary fanovana fitsipika",
+    "newBtn": {
+      "title": "Vaovao:",
+      "explain": "Mamorona script vaovao ho an'ny fitsipika"
+    },
+    "saveBtn": {
+      "title": "vonjeo:",
+      "explain": "Tehirizo ny firafitry ny fitsipika ankehitriny"
+    },
+    "delBtn": {
+      "title": "mamafa:",
+      "explain": "Fafao ny firafitry ny fitsipika ankehitriny"
+    },
+    "autoSave": {
+      "title": "Tehirizo ho azy:",
+      "explain": "Ny firafitry ny fitsipika voaova dia voatahiry ho azy isaky ny fiovana"
+    }
+  },
+  "menu": {
+    "main": "Fanampiana, famafana ary fanovana fitsipika"
+  }
+}

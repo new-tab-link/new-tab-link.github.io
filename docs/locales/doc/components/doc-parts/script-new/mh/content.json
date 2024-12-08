@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kōmmane juon script in kien ekãl",
+    "name": {
+      "title": "etan:",
+      "explain": "Etan jeje eo."
+    },
+    "script": {
+      "title": "jeje ko ñan kenono:",
+      "explain": "Script content."
+    },
+    "delBtn": {
+      "title": "jeere:",
+      "explain": "Jolok script eo kiõ"
+    },
+    "saveBtn": {
+      "title": "kakwōne:",
+      "explain": "Kōjparok script eo kiiō"
+    }
+  },
+  "menu": {
+    "main": "Kōmmane juon script in kien ekãl"
+  }
+}

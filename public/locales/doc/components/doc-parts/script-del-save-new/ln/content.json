@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Bobakisi, bolongoli mpe mbongwana ya mibeko",
+    "newBtn": {
+      "title": "Ya sika:",
+      "explain": "Salá script ya sika mpo na mobeko"
+    },
+    "saveBtn": {
+      "title": "kobikisa:",
+      "explain": "Bomba ba paramètres ya mibeko ya lelo"
+    },
+    "delBtn": {
+      "title": "boma:",
+      "explain": "Bolongola ba paramètres ya mobeko ya lelo"
+    },
+    "autoSave": {
+      "title": "Auto save:",
+      "explain": "Ba paramètres ya mibeko oyo ebongwani ebombamaka automatiquement na mbongwana moko na moko"
+    }
+  },
+  "menu": {
+    "main": "Bobakisi, bolongoli mpe mbongwana ya mibeko"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kamachiykunata yapay, chinkachiy hinaspa tikray",
+    "newBtn": {
+      "title": "Musuq:",
+      "explain": "Kamachiypaq musuq qillqa mayt'uta ruway"
+    },
+    "saveBtn": {
+      "title": "waqaychay:",
+      "explain": "Kunan kamachiy churanakunata waqaychay"
+    },
+    "delBtn": {
+      "title": "chinkachiy:",
+      "explain": "Kunan kamachiypa churanakunata qulluy"
+    },
+    "autoSave": {
+      "title": "Auto waqaychay:",
+      "explain": "Kamachiy tikray tikrasqakuna sapa tikraywan kikinmanta waqaychasqa kanku"
+    }
+  },
+  "menu": {
+    "main": "Kamachiykunata yapay, chinkachiy hinaspa tikray"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Sariyasɛbɛn kura dɔ dabɔ",
+    "name": {
+      "title": "tɔ̀gɔ:",
+      "explain": "Sɛbɛnni tɔgɔ."
+    },
+    "script": {
+      "title": "sɛbɛnni:",
+      "explain": "Script kɔnɔkow."
+    },
+    "delBtn": {
+      "title": "ka jɔsi:",
+      "explain": "Script min bɛ yen sisan, o bɔ yen"
+    },
+    "saveBtn": {
+      "title": "ka mara:",
+      "explain": "Sɛbɛnni min bɛ sen na sisan, o mara"
+    }
+  },
+  "menu": {
+    "main": "Sariyasɛbɛn kura dɔ dabɔ"
+  }
+}

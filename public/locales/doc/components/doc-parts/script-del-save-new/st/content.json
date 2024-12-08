@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Keketso, ho hlakolwa le ho fetolwa ha melao",
+    "newBtn": {
+      "title": "E ncha:",
+      "explain": "Etsa mongolo o mocha oa molao"
+    },
+    "saveBtn": {
+      "title": "boloka:",
+      "explain": "Boloka litlhophiso tsa melao ea hajoale"
+    },
+    "delBtn": {
+      "title": "hlakola:",
+      "explain": "Hlakola litlhophiso tsa molao oa hajoale"
+    },
+    "autoSave": {
+      "title": "Boloka ka bohona:",
+      "explain": "Litlhophiso tsa melao e fetotsoeng li bolokoa ka mokhoa o ikhethileng ka phetoho e ngoe le e ngoe"
+    }
+  },
+  "menu": {
+    "main": "Keketso, ho hlakolwa le ho fetolwa ha melao"
+  }
+}

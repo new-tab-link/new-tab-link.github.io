@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Cakava e dua na volavola vou ni lawa",
+    "name": {
+      "title": "yaca:",
+      "explain": "Na yaca ni volavola."
+    },
+    "script": {
+      "title": "ivolanikalou:",
+      "explain": "Na itukutuku ni volavola."
+    },
+    "delBtn": {
+      "title": "bokoca:",
+      "explain": "Bokoca na volavola ni gauna oqo"
+    },
+    "saveBtn": {
+      "title": "maroroi:",
+      "explain": "Maroroya na volavola ni gauna oqo"
+    }
+  },
+  "menu": {
+    "main": "Cakava e dua na volavola vou ni lawa"
+  }
+}

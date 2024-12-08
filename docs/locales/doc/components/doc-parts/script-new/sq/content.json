@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Krijo një skript të ri rregullash",
+    "name": {
+      "title": "emri:",
+      "explain": "Emri i skenarit."
+    },
+    "script": {
+      "title": "skenar:",
+      "explain": "Përmbajtja e skriptit."
+    },
+    "delBtn": {
+      "title": "fshij:",
+      "explain": "Fshi skriptin aktual"
+    },
+    "saveBtn": {
+      "title": "ruaj:",
+      "explain": "Ruani skriptin aktual"
+    }
+  },
+  "menu": {
+    "main": "Krijo një skript të ri rregullash"
+  }
+}

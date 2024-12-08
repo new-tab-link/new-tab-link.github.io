@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kuongeza, kufuta na kurekebisha sheria",
+    "newBtn": {
+      "title": "Mpya:",
+      "explain": "Unda hati mpya ya sheria"
+    },
+    "saveBtn": {
+      "title": "hifadhi:",
+      "explain": "Hifadhi mipangilio ya sheria ya sasa"
+    },
+    "delBtn": {
+      "title": "futa:",
+      "explain": "Futa mipangilio ya sheria ya sasa"
+    },
+    "autoSave": {
+      "title": "Hifadhi kiotomatiki:",
+      "explain": "Mipangilio ya sheria iliyobadilishwa huhifadhiwa kiotomatiki kwa kila mabadiliko"
+    }
+  },
+  "menu": {
+    "main": "Kuongeza, kufuta na kurekebisha sheria"
+  }
+}

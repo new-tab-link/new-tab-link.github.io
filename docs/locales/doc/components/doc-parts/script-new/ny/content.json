@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Pangani lamulo latsopano",
+    "name": {
+      "title": "dzina:",
+      "explain": "Dzina la script."
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Zolemba pamawu."
+    },
+    "delBtn": {
+      "title": "kufufuta:",
+      "explain": "Chotsani zolemba zomwe zilipo"
+    },
+    "saveBtn": {
+      "title": "sungani:",
+      "explain": "Sungani zolemba zamakono"
+    }
+  },
+  "menu": {
+    "main": "Pangani lamulo latsopano"
+  }
+}

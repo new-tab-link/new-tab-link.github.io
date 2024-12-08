@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Litlhophiso tsa ho kena molaong"
+    "main": "Litlhophiso tsa ho kena molaong",
+    "onlyForCurrentRule": {
+      "title": "E sebetsa feela bakeng sa molao oa hajoale:",
+      "explain": "Haeba e hlahlojoa, e ka sebelisoa feela bakeng sa molao oa hona joale, ho seng joalo melao eohle ea lefats'e e ka sebelisoa."
+    }
   }
 }

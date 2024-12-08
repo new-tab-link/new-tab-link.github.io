@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Yenza iskripthi somthetho omtsha",
+    "name": {
+      "title": "igama:",
+      "explain": "Igama lombhalo."
+    },
+    "script": {
+      "title": "umbhalo:",
+      "explain": "Umxholo weSikripthi."
+    },
+    "delBtn": {
+      "title": "cima:",
+      "explain": "Cima umbhalo wangoku"
+    },
+    "saveBtn": {
+      "title": "gcina:",
+      "explain": "Gcina umbhalo wangoku"
+    }
+  },
+  "menu": {
+    "main": "Yenza iskripthi somthetho omtsha"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Utwórz nowy skrypt reguły",
+    "name": {
+      "title": "nazwa:",
+      "explain": "Nazwa skryptu."
+    },
+    "script": {
+      "title": "scenariusz:",
+      "explain": "Treść skryptu."
+    },
+    "delBtn": {
+      "title": "usuwać:",
+      "explain": "Usuń bieżący skrypt"
+    },
+    "saveBtn": {
+      "title": "ratować:",
+      "explain": "Zapisz bieżący skrypt"
+    }
+  },
+  "menu": {
+    "main": "Utwórz nowy skrypt reguły"
+  }
+}

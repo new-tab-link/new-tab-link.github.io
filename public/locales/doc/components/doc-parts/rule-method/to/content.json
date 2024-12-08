@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Ngaahi fokotu'utu'u 'o e hū 'o e tu'utu'uni"
+    "main": "Ngaahi fokotu'utu'u 'o e hū 'o e tu'utu'uni",
+    "onlyForCurrentRule": {
+      "title": "'Oku kamata pe ia ki he tu'utu'uni lolotonga:",
+      "explain": "Kapau 'e sivi'i, 'e lava pe ke faka'aonga'i ia ki he tu'utu'uni lolotonga, ka 'ikai 'e lava ke faka'aonga'i 'a e ngaahi tu'utu'uni fakamamani lahi kotoa pe."
+    }
   }
 }

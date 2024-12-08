@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Shtimi, fshirja dhe modifikimi i rregullave",
+    "newBtn": {
+      "title": "E re:",
+      "explain": "Krijo një skenar të ri për rregullin"
+    },
+    "saveBtn": {
+      "title": "ruaj:",
+      "explain": "Ruani cilësimet aktuale të rregullave"
+    },
+    "delBtn": {
+      "title": "fshij:",
+      "explain": "Fshini cilësimet e rregullit aktual"
+    },
+    "autoSave": {
+      "title": "Ruajtja automatike:",
+      "explain": "Cilësimet e ndryshuara të rregullave ruhen automatikisht me çdo ndryshim"
+    }
+  },
+  "menu": {
+    "main": "Shtimi, fshirja dhe modifikimi i rregullave"
+  }
+}

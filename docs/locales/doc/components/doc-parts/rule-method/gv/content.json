@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Soilshaghyn stiagh reill"
+    "main": "Soilshaghyn stiagh reill",
+    "onlyForCurrentRule": {
+      "title": "T'eh goll er ymmyd son y reiltys t'ayn nish:",
+      "explain": "Mannagh vel eh scanshoil, cha nel eh ry-chlashtyn agh son y reiltys t'ayn nish, er-nonney cha nel ooilley ny recortyssyn global ry-chlashtyn."
+    }
   }
 }

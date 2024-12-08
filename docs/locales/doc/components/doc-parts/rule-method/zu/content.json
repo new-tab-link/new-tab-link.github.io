@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Izilungiselelo zokufaka umthetho"
+    "main": "Izilungiselelo zokufaka umthetho",
+    "onlyForCurrentRule": {
+      "title": "Kusebenza kuphela umthetho wamanje:",
+      "explain": "Uma ihloliwe, ingasetshenziswa kuphela kumthetho wamanje, ngaphandle kwalokho yonke imithetho yomhlaba ingasetshenziswa."
+    }
   }
 }

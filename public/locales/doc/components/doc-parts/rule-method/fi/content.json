@@ -27,6 +27,10 @@
     }
   },
   "menu": {
-    "main": "Säännön syöttöasetukset"
+    "main": "Säännön syöttöasetukset",
+    "onlyForCurrentRule": {
+      "title": "Voimassa vain nykyiselle säännölle:",
+      "explain": "Jos tämä on valittuna, sitä voidaan käyttää vain nykyiselle säännölle, muuten kaikkia yleisiä sääntöjä voidaan käyttää."
+    }
   }
 }

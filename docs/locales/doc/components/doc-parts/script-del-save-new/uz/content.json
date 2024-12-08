@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Qoidalarni qo'shish, o'chirish va o'zgartirish",
+    "newBtn": {
+      "title": "Yangi:",
+      "explain": "Qoida uchun yangi skript yarating"
+    },
+    "saveBtn": {
+      "title": "saqlash:",
+      "explain": "Joriy qoida sozlamalarini saqlang"
+    },
+    "delBtn": {
+      "title": "o'chirish:",
+      "explain": "Joriy qoida sozlamalarini o'chiring"
+    },
+    "autoSave": {
+      "title": "Avtomatik saqlash:",
+      "explain": "O'zgartirilgan qoida sozlamalari har bir o'zgarish bilan avtomatik ravishda saqlanadi"
+    }
+  },
+  "menu": {
+    "main": "Qoidalarni qo'shish, o'chirish va o'zgartirish"
+  }
+}

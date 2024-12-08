@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Kuwonjezera, kuchotsa ndi kusintha malamulo",
+    "newBtn": {
+      "title": "Chatsopano:",
+      "explain": "Pangani script yatsopano ya lamuloli"
+    },
+    "saveBtn": {
+      "title": "sungani:",
+      "explain": "Sungani zokonda za malamulo apano"
+    },
+    "delBtn": {
+      "title": "kufufuta:",
+      "explain": "Chotsani zoikamo za lamulo lapano"
+    },
+    "autoSave": {
+      "title": "Sungani zokha:",
+      "explain": "Zokonda zosinthidwa zimasungidwa zokha ndikusintha kulikonse"
+    }
+  },
+  "menu": {
+    "main": "Kuwonjezera, kuchotsa ndi kusintha malamulo"
+  }
+}

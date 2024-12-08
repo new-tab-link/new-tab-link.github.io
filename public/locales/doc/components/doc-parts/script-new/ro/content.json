@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Creați un nou script de regulă",
+    "name": {
+      "title": "nume:",
+      "explain": "Numele scenariului."
+    },
+    "script": {
+      "title": "scenariu:",
+      "explain": "Conținutul scriptului."
+    },
+    "delBtn": {
+      "title": "şterge:",
+      "explain": "Ștergeți scriptul curent"
+    },
+    "saveBtn": {
+      "title": "salva:",
+      "explain": "Salvați scriptul curent"
+    }
+  },
+  "menu": {
+    "main": "Creați un nou script de regulă"
+  }
+}

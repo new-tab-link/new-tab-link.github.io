@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "Etsa script e ncha ea molao",
+    "name": {
+      "title": "lebitso:",
+      "explain": "Lebitso la mongolo."
+    },
+    "script": {
+      "title": "mongolo:",
+      "explain": "Litaba tsa script."
+    },
+    "delBtn": {
+      "title": "hlakola:",
+      "explain": "Hlakola mongolo oa hajoale"
+    },
+    "saveBtn": {
+      "title": "boloka:",
+      "explain": "Boloka mongolo oa hajoale"
+    }
+  },
+  "menu": {
+    "main": "Etsa script e ncha ea molao"
+  }
+}
