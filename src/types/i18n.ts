@@ -12,6 +12,7 @@ import type doc__components__language___selector from '../../i18n-raw/origin/com
 import type doc__components__theme___model from '../../i18n-raw/origin/components/theme-model/content.json'
 import type doc__pages__about from '../../i18n-raw/origin/pages/about/content.json'
 import type doc__components__doc___parts__script___del___save___new from '../../i18n-raw/origin/components/doc-parts/script-del-save-new/content.json'
+import type doc__components__doc___parts__script___new from '../../i18n-raw/origin/components/doc-parts/script-new/content.json'
 
 declare module 'i18next' {
   interface CustomTypeOptions {
@@ -27,7 +28,8 @@ declare module 'i18next' {
       ["doc/components/language-selector/content"]: typeof doc__components__language___selector,
       ["doc/components/theme-model/content"]: typeof doc__components__theme___model,
       ["doc/pages/about/content"]: typeof doc__pages__about,
-      ["doc/components/doc-parts/script-del-save-new/content"]: typeof doc__components__doc___parts__script___del___save___new
+      ["doc/components/doc-parts/script-del-save-new/content"]: typeof doc__components__doc___parts__script___del___save___new,
+      ["doc/components/doc-parts/script-new/content"]: typeof doc__components__doc___parts__script___new
     }
   }
 }

@@ -12,6 +12,7 @@ import { DocGlobalScript } from "../doc-parts/global-script/DocGlobalScript";
 import { DocVariables } from "../doc-parts/doc-variables/DocVariables";
 import { DocRuleMethod } from "../doc-parts/rule-method/RuleMethod";
 import { DocScriptDelSaveNew } from "../doc-parts/script-del-save-new/ScriptDelSaveNew";
+import { DocScriptNew } from "../doc-parts/script-new/script-new";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -72,6 +73,7 @@ function LeftMenu() {
         <DocVariables.Menu />
         <DocRuleMethod.Menu/>
         <DocScriptDelSaveNew.Menu/>
+        <DocScriptNew.Menu/>
     </MenuContainer>
 }
 
@@ -116,6 +118,7 @@ export function IndexContent() {
                         <DocGlobalScript.Doc />
                         <DocRuleMethod.Doc />
                         <DocScriptDelSaveNew.Doc />
+                        <DocScriptNew.Doc />
                         <MediaQuery />
                     </div>
                 </Stack>
