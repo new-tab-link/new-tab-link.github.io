@@ -129,37 +129,4 @@ export function IndexContent() {
         </Box>
     )
 }
-export function IndexContent2() {
-    return (
-        <Box sx={{ width: "100%", height: "100%" }}>
-            <Box>
-                <CssBaseline />
-                <Appbar />
-                <Stack direction={"row"} sx={{ position: "relative" }}>
-                    <Box>
-                        <Box sx={{ position: "fixed" }}>
-                            <LeftMenu />
-                        </Box>
-                        <Box sx={{ visibility: "hidden" }}>
-                            <LeftMenu />
-                        </Box>
-                    </Box>
-                    <Divider orientation="vertical" variant="middle" flexItem />
-                    <Box sx={{ m: "0.5rem", p: "0.5rem" }}>
-                        <DocOverview.Doc />
-                        <DocGlobal.Doc />
-                        <DocVariables.Doc />
-                        {/* <MediaQuery /> */}
-                    </Box>
-                </Stack>
-            </Box>
-        </Box>
-    )
-}
-
-// const theme = createTheme({ cssVariables: { cssVarPrefix: 'any' } });
-// console.log('theme', theme)
-
-// generated stylesheet:
-// --any-palette-primary-main: ...;
 

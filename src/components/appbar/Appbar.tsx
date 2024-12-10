@@ -77,8 +77,8 @@ export function Appbar() {
                 
                 <Grid2  sx={{ alignItems: "center", display: "flex", alignSelf: "center" }}>
                     <LanguageSelect />
-                    <Box sx={{ ml: "1rem" }}></Box>
-                    <ThemeModelSetter />
+                    {/* <Box sx={{ ml: "1rem" }}></Box>
+                    <ThemeModelSetter /> */}
                 </Grid2>
             </Toolbar>
         </AppBar>
