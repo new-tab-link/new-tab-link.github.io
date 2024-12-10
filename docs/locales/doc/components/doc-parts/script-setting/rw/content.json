@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Igenamiterere ry'inyandiko",
+    "enabled": {
+      "title": "hindura:",
+      "explain": "Gushoboza / guhagarika iyi nyandiko"
+    },
+    "script": {
+      "title": "Inyandiko:",
+      "explain": "Reba ibiri mu nyandiko."
+    },
+    "tab": {
+      "title": "Urupapuro rw'urupapuro:",
+      "explain": "Hitamo uburyo tabs igomba gufungurwa mugihe iyi nyandiko ihuye.",
+      "more": "<0> Ibisobanuro byamahitamo </0>"
+    }
+  },
+  "menu": {
+    "main": "Igenamiterere ry'inyandiko"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Izilungiselelo zeskripthi",
+    "enabled": {
+      "title": "shintsha:",
+      "explain": "Nika amandla/khubaza lesi script"
+    },
+    "script": {
+      "title": "umbhalo:",
+      "explain": "Buka okuqukethwe kombhalo."
+    },
+    "tab": {
+      "title": "Ikhasi lomaka:",
+      "explain": "Khetha ukuthi amathebhu kufanele avulwe kanjani uma lesi sikripthi sifana.",
+      "more": "<0>Incazelo Yenketho</0>"
+    }
+  },
+  "menu": {
+    "main": "Izilungiselelo zeskripthi"
+  }
+}

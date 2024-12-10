@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Ruwo ruwotəye",
+    "enabled": {
+      "title": "wastə:",
+      "explain": "Ruwo adəga yitagattəgə/yitəgə"
+    },
+    "script": {
+      "title": "kakkadə:",
+      "explain": "Awo ruwotənadə wune."
+    },
+    "tab": {
+      "title": "Warak alamabe:",
+      "explain": "Futu tabs katəye karne loktu script adə kalkaljiya.",
+      "more": "<0>Bayan karnobe</0>"
+    }
+  },
+  "menu": {
+    "main": "Ruwo ruwotəye"
+  }
+}

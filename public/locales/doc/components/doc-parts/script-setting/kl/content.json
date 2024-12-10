@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skriptip inissititerneqarnera",
+    "enabled": {
+      "title": "paarlaassineq:",
+      "explain": "Script una atulersiguk/atortiguk"
+    },
+    "script": {
+      "title": "manuskripti:",
+      "explain": "Scriptip imarisaa takuuk."
+    },
+    "tab": {
+      "title": "Tag qupperneq:",
+      "explain": "Skript una naleqqussagaanni fliker qanoq ammarneqarnissaat toqqaruk.",
+      "more": "<0>Toqqagassaq Nassuiaat</0>"
+    }
+  },
+  "menu": {
+    "main": "Skriptip inissititerneqarnera"
+  }
+}

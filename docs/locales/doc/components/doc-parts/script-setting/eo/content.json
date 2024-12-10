@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skripto-agordoj",
+    "enabled": {
+      "title": "ŝaltilo:",
+      "explain": "Ebligu/malŝalti ĉi tiun skripton"
+    },
+    "script": {
+      "title": "skripto:",
+      "explain": "Rigardu skriptoenhavon."
+    },
+    "tab": {
+      "title": "Etikedpaĝo:",
+      "explain": "Elektu kiel langetoj estu malfermitaj kiam ĉi tiu skripto kongruas.",
+      "more": "<0>Opcia Priskribo</0>"
+    }
+  },
+  "menu": {
+    "main": "Skripto-agordoj"
+  }
+}

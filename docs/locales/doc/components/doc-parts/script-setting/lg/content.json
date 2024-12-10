@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Ensengeka z’ebiwandiiko",
+    "enabled": {
+      "title": "okukyuusa:",
+      "explain": "Ssobozesa/lemesa script eno"
+    },
+    "script": {
+      "title": "ekiwandiiko:",
+      "explain": "Laba ebirimu mu script."
+    },
+    "tab": {
+      "title": "Omuko gwa Tag:",
+      "explain": "Londa engeri tabu gye zirina okuggulwamu nga script eno ekwatagana.",
+      "more": "<0>Ennyonnyola y'Eky'okulonda</0>"
+    }
+  },
+  "menu": {
+    "main": "Ensengeka z’ebiwandiiko"
+  }
+}

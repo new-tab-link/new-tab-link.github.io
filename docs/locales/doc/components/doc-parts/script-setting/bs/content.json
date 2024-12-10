@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Postavke skripte",
+    "enabled": {
+      "title": "prekidač:",
+      "explain": "Omogućite/onemogućite ovu skriptu"
+    },
+    "script": {
+      "title": "skripta:",
+      "explain": "Pogledajte sadržaj skripte."
+    },
+    "tab": {
+      "title": "Tag page:",
+      "explain": "Odaberite kako se kartice trebaju otvarati kada se ova skripta podudara.",
+      "more": "<0>Opis opcije</0>"
+    }
+  },
+  "menu": {
+    "main": "Postavke skripte"
+  }
+}

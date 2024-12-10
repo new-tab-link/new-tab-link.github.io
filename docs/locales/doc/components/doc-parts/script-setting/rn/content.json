@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Amagenamiterere y'inyandiko",
+    "enabled": {
+      "title": "guhindukiza:",
+      "explain": "Gushoboza/guhagarika iyi nyandiko"
+    },
+    "script": {
+      "title": "inyandiko:",
+      "explain": "Raba ibirimwo mu nyandiko."
+    },
+    "tab": {
+      "title": "Urupapuro rw'ikimenyetso:",
+      "explain": "Hitamwo ingene ama tabs akwiye gufungurwa iyo iyi nyandiko ihuye.",
+      "more": "<0>Ibisobanuro vy'amahitamwo</0>"
+    }
+  },
+  "menu": {
+    "main": "Amagenamiterere y'inyandiko"
+  }
+}

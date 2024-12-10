@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Jekkal skript",
+    "enabled": {
+      "title": "taalukaay taal:",
+      "explain": "Aktiveel/deaktiwise skript bii"
+    },
+    "script": {
+      "title": "mbind:",
+      "explain": "Xool ëmbiitu skript bi."
+    },
+    "tab": {
+      "title": "Xëtu tag:",
+      "explain": "Tannal ni onglet yi wara ubbeeku sudee script bi méngoo.",
+      "more": "<0>Tegtal tànneef</0>"
+    }
+  },
+  "menu": {
+    "main": "Jekkal skript"
+  }
+}

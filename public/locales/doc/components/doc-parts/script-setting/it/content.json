@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Impostazioni dello script",
+    "enabled": {
+      "title": "interruttore:",
+      "explain": "Abilita/disabilita questo script"
+    },
+    "script": {
+      "title": "sceneggiatura:",
+      "explain": "Visualizza il contenuto dello script."
+    },
+    "tab": {
+      "title": "Pagina dei tag:",
+      "explain": "Scegli come devono essere aperte le schede quando questo script corrisponde.",
+      "more": "<0>Descrizione opzione</0>"
+    }
+  },
+  "menu": {
+    "main": "Impostazioni dello script"
+  }
+}

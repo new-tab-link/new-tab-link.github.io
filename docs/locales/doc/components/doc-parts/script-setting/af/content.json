@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skrip instellings",
+    "enabled": {
+      "title": "skakelaar:",
+      "explain": "Aktiveer/deaktiveer hierdie skrip"
+    },
+    "script": {
+      "title": "skrif:",
+      "explain": "Bekyk skrifinhoud."
+    },
+    "tab": {
+      "title": "Merk bladsy:",
+      "explain": "Kies hoe oortjies oopgemaak moet word wanneer hierdie skrif ooreenstem.",
+      "more": "<0>Opsiebeskrywing</0>"
+    }
+  },
+  "menu": {
+    "main": "Skrip instellings"
+  }
+}

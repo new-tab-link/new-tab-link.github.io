@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skripta iestatījumi",
+    "enabled": {
+      "title": "slēdzis:",
+      "explain": "Iespējot/atspējot šo skriptu"
+    },
+    "script": {
+      "title": "skripts:",
+      "explain": "Skatiet skripta saturu."
+    },
+    "tab": {
+      "title": "Atzīmju lapa:",
+      "explain": "Izvēlieties, kā jāatver cilnes, kad šis skripts atbilst.",
+      "more": "<0>Opcijas apraksts</0>"
+    }
+  },
+  "menu": {
+    "main": "Skripta iestatījumi"
+  }
+}

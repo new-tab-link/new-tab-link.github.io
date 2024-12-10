@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Socruithe scripte",
+    "enabled": {
+      "title": "lasc:",
+      "explain": "Cumasaigh/díchumasaigh an script seo"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Féach ar ábhar scripte."
+    },
+    "tab": {
+      "title": "leathanach clibe:",
+      "explain": "Roghnaigh conas is ceart cluaisíní a oscailt nuair a mheaitseálann an script seo.",
+      "more": "<0>Cur síos ar an Rogha</0>"
+    }
+  },
+  "menu": {
+    "main": "Socruithe scripte"
+  }
+}

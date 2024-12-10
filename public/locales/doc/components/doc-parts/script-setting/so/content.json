@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Dejinta qoraalka",
+    "enabled": {
+      "title": "beddel:",
+      "explain": "Daar/dami qoraalkan"
+    },
+    "script": {
+      "title": "qoraal:",
+      "explain": "Fiiri qoraalka qoraalka"
+    },
+    "tab": {
+      "title": "Tag bogga:",
+      "explain": "Dooro sida tabs loo furo marka qoraalkani iswaafajiyo.",
+      "more": "<0>Sharaxaada doorashada</0>"
+    }
+  },
+  "menu": {
+    "main": "Dejinta qoraalka"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Nastavení skriptu",
+    "enabled": {
+      "title": "přepínač:",
+      "explain": "Povolit/zakázat tento skript"
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Zobrazit obsah skriptu."
+    },
+    "tab": {
+      "title": "Stránka značky:",
+      "explain": "Vyberte, jak se mají karty otevírat, když se tento skript shoduje.",
+      "more": "<0>Popis možnosti</0>"
+    }
+  },
+  "menu": {
+    "main": "Nastavení skriptu"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Ba paramètres ya script",
+    "enabled": {
+      "title": "interrupteur:",
+      "explain": "Activer/désactiver script oyo"
+    },
+    "script": {
+      "title": "maloba:",
+      "explain": "Tala makambo oyo ezali na script."
+    },
+    "tab": {
+      "title": "Lokasa ya bilembo:",
+      "explain": "Pona ndenge nini esengeli kofungola ba onglets tango script oyo ekokani.",
+      "more": "<0>Bolimbisi ya nzela</0>"
+    }
+  },
+  "menu": {
+    "main": "Ba paramètres ya script"
+  }
+}

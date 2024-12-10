@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Mga setting ng script",
+    "enabled": {
+      "title": "lumipat:",
+      "explain": "Paganahin/huwag paganahin ang script na ito"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Tingnan ang nilalaman ng script."
+    },
+    "tab": {
+      "title": "pahina ng tag:",
+      "explain": "Piliin kung paano dapat buksan ang mga tab kapag tumugma ang script na ito.",
+      "more": "<0>Paglalarawan ng Opsyon</0>"
+    }
+  },
+  "menu": {
+    "main": "Mga setting ng script"
+  }
+}

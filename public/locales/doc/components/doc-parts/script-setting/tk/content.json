@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Scriptazgy sazlamalary",
+    "enabled": {
+      "title": "wyklýuçatel:",
+      "explain": "Bu ýazgyny işletmek / öçürmek"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Scriptazuw mazmunyny görüň."
+    },
+    "tab": {
+      "title": "Bellik sahypasy:",
+      "explain": "Bu skript gabat gelende tablisalaryň nähili açylmalydygyny saýlaň.",
+      "more": "<0> Opsiýanyň beýany </0>"
+    }
+  },
+  "menu": {
+    "main": "Scriptazgy sazlamalary"
+  }
+}

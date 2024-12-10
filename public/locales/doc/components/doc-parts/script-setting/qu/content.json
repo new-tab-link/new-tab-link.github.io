@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Guionpa churanakuna",
+    "enabled": {
+      "title": "tikray:",
+      "explain": "Kay qillqa mayt'uta atichiy/mana atichiy"
+    },
+    "script": {
+      "title": "qillqa:",
+      "explain": "Guionpa kaqninkunata qhaway."
+    },
+    "tab": {
+      "title": "Etiqueta p'anqa:",
+      "explain": "Akllay imaynatam tablakuna kichasqa kananta kay qillqa mayt'u tupaptin.",
+      "more": "<0>Akllanamanta Willakuy</0>"
+    }
+  },
+  "menu": {
+    "main": "Guionpa churanakuna"
+  }
+}

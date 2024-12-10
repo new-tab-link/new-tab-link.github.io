@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Script ñemboheko",
+    "enabled": {
+      "title": "myandyha:",
+      "explain": "Emboguata/embogue ko script"
+    },
+    "script": {
+      "title": "apopyrã:",
+      "explain": "Ehecha script contenido."
+    },
+    "tab": {
+      "title": "Etiqueta página:",
+      "explain": "Eiporavo mba’éichapa ojeipe’ava’erã umi ficha ko script ojoajúramo.",
+      "more": "<0>Jeporavorã Ñemombe’u</0>"
+    }
+  },
+  "menu": {
+    "main": "Script ñemboheko"
+  }
+}

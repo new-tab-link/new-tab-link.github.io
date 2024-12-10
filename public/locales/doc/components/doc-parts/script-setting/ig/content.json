@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Ntọala ederede",
+    "enabled": {
+      "title": "ịgbanwee:",
+      "explain": "Kwado/gbanyụọ edemede a"
+    },
+    "script": {
+      "title": "edemede:",
+      "explain": "Lelee ọdịnaya ederede."
+    },
+    "tab": {
+      "title": "ibe mkpado:",
+      "explain": "Họrọ ka esi emepe taabụ mgbe edemede a dakọtara.",
+      "more": "<0>Nkọwa nhọrọ</0>"
+    }
+  },
+  "menu": {
+    "main": "Ntọala ederede"
+  }
+}

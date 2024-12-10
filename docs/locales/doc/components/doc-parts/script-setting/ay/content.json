@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Script ukan utt’ayatanakapa",
+    "enabled": {
+      "title": "mayjt'ayaña:",
+      "explain": "Aka qillqat ch’amanchaña/jan ch’amanchaña"
+    },
+    "script": {
+      "title": "wakichata:",
+      "explain": "Uñakipt’añatakix script ukax utjiwa."
+    },
+    "tab": {
+      "title": "Etiqueta ukax akhamawa:",
+      "explain": "Kunjams tablas ukanakax jist’aratäñapa uk ajlliñamawa kunawsatix aka script ukax uñtaski ukhaxa.",
+      "more": "<0>Ajlliwi Qhanancht’awi</0>"
+    }
+  },
+  "menu": {
+    "main": "Script ukan utt’ayatanakapa"
+  }
+}

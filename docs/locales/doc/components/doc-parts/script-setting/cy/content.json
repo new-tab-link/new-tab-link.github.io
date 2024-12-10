@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Gosodiadau sgript",
+    "enabled": {
+      "title": "switsh:",
+      "explain": "Galluogi/analluogi'r sgript hon"
+    },
+    "script": {
+      "title": "sgript:",
+      "explain": "Gweld cynnwys y sgript."
+    },
+    "tab": {
+      "title": "Tudalen tag:",
+      "explain": "Dewiswch sut y dylid agor tabiau pan fydd y sgript hon yn cyfateb.",
+      "more": "<0>Disgrifiad Opsiwn</0>"
+    }
+  },
+  "menu": {
+    "main": "Gosodiadau sgript"
+  }
+}

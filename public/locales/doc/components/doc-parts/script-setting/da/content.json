@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Scriptindstillinger",
+    "enabled": {
+      "title": "skifte:",
+      "explain": "Aktiver/deaktiver dette script"
+    },
+    "script": {
+      "title": "manuskript:",
+      "explain": "Se scriptindhold."
+    },
+    "tab": {
+      "title": "Tag side:",
+      "explain": "Vælg, hvordan faner skal åbnes, når dette script matcher.",
+      "more": "<0>Indstillingsbeskrivelse</0>"
+    }
+  },
+  "menu": {
+    "main": "Scriptindstillinger"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Anviwònman script",
+    "enabled": {
+      "title": "switch:",
+      "explain": "Aktive/enfim script sa a"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Gade kontni script."
+    },
+    "tab": {
+      "title": "Tag paj:",
+      "explain": "Chwazi ki jan onglè yo ta dwe louvri lè script sa a matche.",
+      "more": "<0>Opsyon Deskripsyon</0>"
+    }
+  },
+  "menu": {
+    "main": "Anviwònman script"
+  }
+}

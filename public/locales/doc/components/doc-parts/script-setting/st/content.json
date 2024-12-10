@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Litlhophiso tsa script",
+    "enabled": {
+      "title": "switjha:",
+      "explain": "Lumella/thibela mongolo ona"
+    },
+    "script": {
+      "title": "mongolo:",
+      "explain": "Sheba litaba tsa mongolo."
+    },
+    "tab": {
+      "title": "Leqephe la theke:",
+      "explain": "Khetha hore na li-tabo li lokela ho buloa joang ha mongolo ona o bapa.",
+      "more": "<0>Tlhaloso ea Khetho</0>"
+    }
+  },
+  "menu": {
+    "main": "Litlhophiso tsa script"
+  }
+}

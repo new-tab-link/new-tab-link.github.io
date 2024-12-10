@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Emasethingi eskripthi",
+    "enabled": {
+      "title": "gucula:",
+      "explain": "Nika emandla/cisha le-script"
+    },
+    "script": {
+      "title": "simo sokuloba:",
+      "explain": "Buka lokucuketfwe kweskripthi."
+    },
+    "tab": {
+      "title": "Likhasi lethegi:",
+      "explain": "Khetsa kutsi emathebhu kufanele avulwe njani nangabe le-script ihambisana.",
+      "more": "<0>Incazelo yetintfo letikhetsiwe</0>"
+    }
+  },
+  "menu": {
+    "main": "Emasethingi eskripthi"
+  }
+}

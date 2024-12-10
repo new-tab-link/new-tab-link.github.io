@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Tuvatuva ni volavola",
+    "enabled": {
+      "title": "veisau:",
+      "explain": "Vakatara/vakacacana na volavola oqo"
+    },
+    "script": {
+      "title": "ivolanikalou:",
+      "explain": "Raica na itukutuku ni volavola."
+    },
+    "tab": {
+      "title": "Tagi ni draunipepa:",
+      "explain": "Digitaka na sala me dolava kina na tabana ni sa veiganiti na volavola oqo.",
+      "more": "<0>iVakamacala ni Digidigi</0>"
+    }
+  },
+  "menu": {
+    "main": "Tuvatuva ni volavola"
+  }
+}

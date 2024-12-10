@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Cài đặt tập lệnh",
+    "enabled": {
+      "title": "công tắc:",
+      "explain": "Bật/tắt tập lệnh này"
+    },
+    "script": {
+      "title": "kịch bản:",
+      "explain": "Xem nội dung kịch bản."
+    },
+    "tab": {
+      "title": "Trang thẻ:",
+      "explain": "Chọn cách mở các tab khi tập lệnh này phù hợp.",
+      "more": "<0>Mô tả tùy chọn</0>"
+    }
+  },
+  "menu": {
+    "main": "Cài đặt tập lệnh"
+  }
+}

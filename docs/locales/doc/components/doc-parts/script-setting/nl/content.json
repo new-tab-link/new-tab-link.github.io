@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Scriptinstellingen",
+    "enabled": {
+      "title": "schakelaar:",
+      "explain": "Schakel dit script in/uit"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Bekijk scriptinhoud."
+    },
+    "tab": {
+      "title": "Tagpagina:",
+      "explain": "Kies hoe tabbladen moeten worden geopend als dit script overeenkomt.",
+      "more": "<0>Optiebeschrijving</0>"
+    }
+  },
+  "menu": {
+    "main": "Scriptinstellingen"
+  }
+}

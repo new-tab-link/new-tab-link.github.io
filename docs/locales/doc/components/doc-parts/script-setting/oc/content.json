@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Paramètres d'escript",
+    "enabled": {
+      "title": "cambiar:",
+      "explain": "Activar/desactivar aqueste escript"
+    },
+    "script": {
+      "title": "scenari:",
+      "explain": "Veire lo contengut de l'escript."
+    },
+    "tab": {
+      "title": "Pagina d'etiqueta:",
+      "explain": "Causissètz cossí los onglets devon èsser dobèrts quand aqueste escript correspond.",
+      "more": "<0>Descripcion de l'opcion</0>"
+    }
+  },
+  "menu": {
+    "main": "Paramètres d'escript"
+  }
+}

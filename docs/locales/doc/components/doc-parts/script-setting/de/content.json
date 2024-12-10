@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skripteinstellungen",
+    "enabled": {
+      "title": "schalten:",
+      "explain": "Aktivieren/deaktivieren Sie dieses Skript"
+    },
+    "script": {
+      "title": "Skript:",
+      "explain": "Skriptinhalt anzeigen."
+    },
+    "tab": {
+      "title": "Tag-Seite:",
+      "explain": "Wählen Sie aus, wie Tabs geöffnet werden sollen, wenn dieses Skript übereinstimmt.",
+      "more": "<0>Optionsbeschreibung</0>"
+    }
+  },
+  "menu": {
+    "main": "Skripteinstellungen"
+  }
+}

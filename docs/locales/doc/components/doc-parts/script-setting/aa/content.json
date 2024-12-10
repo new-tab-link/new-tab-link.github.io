@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "kutbeh guddaaqa",
+    "enabled": {
+      "title": "milaagiyya:",
+      "explain": "Ta kutbe ugsa/alif"
+    },
+    "script": {
+      "title": "ransa:",
+      "explain": "kutbeh addatino wagita."
+    },
+    "tab": {
+      "title": "Baxsi Gali:",
+      "explain": "Ta feerayso ramaddah tan uddur abalso mannal fakkimtam faxxintam doorita.",
+      "more": "<0>Dooritih Baxxaqsa</0>"
+    }
+  },
+  "menu": {
+    "main": "kutbeh guddaaqa"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skriptiasetukset",
+    "enabled": {
+      "title": "kytkin:",
+      "explain": "Ota tämä komentosarja käyttöön/poista käytöstä"
+    },
+    "script": {
+      "title": "käsikirjoitus:",
+      "explain": "Näytä käsikirjoituksen sisältö."
+    },
+    "tab": {
+      "title": "Tag-sivu:",
+      "explain": "Valitse, kuinka välilehdet avataan, kun tämä komentosarja täsmää.",
+      "more": "<0>Vaihtoehto Kuvaus</0>"
+    }
+  },
+  "menu": {
+    "main": "Skriptiasetukset"
+  }
+}

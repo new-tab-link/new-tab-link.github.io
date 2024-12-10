@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Gidoien ezarpenak",
+    "enabled": {
+      "title": "etengailua:",
+      "explain": "Gaitu/desgaitu script hau"
+    },
+    "script": {
+      "title": "gidoia:",
+      "explain": "Ikusi gidoiaren edukia."
+    },
+    "tab": {
+      "title": "Etiketa orria:",
+      "explain": "Aukeratu fitxak nola ireki behar diren script hau bat datorrenean.",
+      "more": "<0>Aukeren deskribapena</0>"
+    }
+  },
+  "menu": {
+    "main": "Gidoien ezarpenak"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Cuɓe binndol",
+    "enabled": {
+      "title": "nyifinugo:",
+      "explain": "Softin/softin ndee winndannde"
+    },
+    "script": {
+      "title": "windol:",
+      "explain": "Yiylo loowdi binndol ngol."
+    },
+    "tab": {
+      "title": "Tag hello:",
+      "explain": "Suɓo no taƴe ɗee poti udditireede so ndee winndannde hawrii.",
+      "more": "<0>Sifaa cuɓal</0>"
+    }
+  },
+  "menu": {
+    "main": "Cuɓe binndol"
+  }
+}

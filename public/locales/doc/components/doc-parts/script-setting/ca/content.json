@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Configuració del guió",
+    "enabled": {
+      "title": "interruptor:",
+      "explain": "Activa/desactiva aquest script"
+    },
+    "script": {
+      "title": "guió:",
+      "explain": "Visualitza el contingut de l'script."
+    },
+    "tab": {
+      "title": "Pàgina d'etiquetes:",
+      "explain": "Trieu com s'han d'obrir les pestanyes quan aquest script coincideixi.",
+      "more": "<0>Descripció de l'opció</0>"
+    }
+  },
+  "menu": {
+    "main": "Configuració del guió"
+  }
+}

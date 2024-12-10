@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Script (sɛbɛnni) sigicogo",
+    "enabled": {
+      "title": "ka mɛnɛ:",
+      "explain": "Nin sɛbɛnni in daminɛ/dabila"
+    },
+    "script": {
+      "title": "sɛbɛnni:",
+      "explain": "Script kɔnɔkow lajɛ."
+    },
+    "tab": {
+      "title": "Tag ɲɛ:",
+      "explain": "Tabw ka kan ka dabɔ cogo min na ni nin sɛbɛnni in bɛ bɛn, o sugandi.",
+      "more": "<0>Sugandili ɲɛfɔli</0>"
+    }
+  },
+  "menu": {
+    "main": "Script (sɛbɛnni) sigicogo"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Configuración de secuencia de comandos",
+    "enabled": {
+      "title": "cambiar:",
+      "explain": "Activar/desactivar este script"
+    },
+    "script": {
+      "title": "guion:",
+      "explain": "Ver el contenido del guión."
+    },
+    "tab": {
+      "title": "Página de etiqueta:",
+      "explain": "Elija cómo se deben abrir las pestañas cuando este script coincida.",
+      "more": "<0>Descripción de la opción</0>"
+    }
+  },
+  "menu": {
+    "main": "Configuración de secuencia de comandos"
+  }
+}

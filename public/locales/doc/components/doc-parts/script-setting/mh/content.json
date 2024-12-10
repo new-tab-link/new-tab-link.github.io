@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Script settings",
+    "enabled": {
+      "title": "kein jerbal in kune ak kajo:",
+      "explain": "Kōtlok/kōtlok script in"
+    },
+    "script": {
+      "title": "jeje ko ñan kenono:",
+      "explain": "Lale men ko ilo script eo."
+    },
+    "tab": {
+      "title": "Tag page:",
+      "explain": "Kālet ewi wawein an tab ko aikuj in bellok ñe script in ej ekkar.",
+      "more": "<0>Kōmeļeļe in kālet eo</0>"
+    }
+  },
+  "menu": {
+    "main": "Script settings"
+  }
+}

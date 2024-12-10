@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skript parametrləri",
+    "enabled": {
+      "title": "keçid:",
+      "explain": "Bu skripti aktivləşdirin/deaktiv edin"
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Skript məzmununa baxın."
+    },
+    "tab": {
+      "title": "Etiket səhifəsi:",
+      "explain": "Bu skript uyğun gələndə tabların necə açılacağını seçin.",
+      "more": "<0>Seçim Təsviri</0>"
+    }
+  },
+  "menu": {
+    "main": "Skript parametrləri"
+  }
+}

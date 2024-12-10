@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Amasethingi weskripthi",
+    "enabled": {
+      "title": "ukukhanyisa:",
+      "explain": "Vumela/ukhubaze iskripthi lesi"
+    },
+    "script": {
+      "title": "isikribhu:",
+      "explain": "Qala okumumethwe mtlolo."
+    },
+    "tab": {
+      "title": "Ithegi ikhasi:",
+      "explain": "Khetha bona amathebhu kufanele avulwe njani lokha iskripthi nasifanako.",
+      "more": "<0>Ihlathululo yokukhetha</0>"
+    }
+  },
+  "menu": {
+    "main": "Amasethingi weskripthi"
+  }
+}

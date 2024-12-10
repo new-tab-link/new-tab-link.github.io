@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Configurações de script",
+    "enabled": {
+      "title": "trocar:",
+      "explain": "Ativar/desativar este script"
+    },
+    "script": {
+      "title": "guião:",
+      "explain": "Visualize o conteúdo do guião."
+    },
+    "tab": {
+      "title": "Página de etiquetas:",
+      "explain": "Escolha como as abas devem ser abertas quando este script corresponde.",
+      "more": "<0>Descrição da opção</0>"
+    }
+  },
+  "menu": {
+    "main": "Configurações de script"
+  }
+}

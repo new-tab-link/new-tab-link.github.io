@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Paràmetri di script",
+    "enabled": {
+      "title": "cambià:",
+      "explain": "Attivà / disattivà stu script"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Vede u cuntenutu di u script."
+    },
+    "tab": {
+      "title": "Pagina di tag:",
+      "explain": "Sceglite cumu si deve esse aperte e tabulazioni quandu stu script currisponde.",
+      "more": "<0>Descrizzione di l'opzione</0>"
+    }
+  },
+  "menu": {
+    "main": "Paràmetri di script"
+  }
+}

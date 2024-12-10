@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Configuración do script",
+    "enabled": {
+      "title": "interruptor:",
+      "explain": "Activa/desactiva este script"
+    },
+    "script": {
+      "title": "guión:",
+      "explain": "Ver contido do guión."
+    },
+    "tab": {
+      "title": "Páxina de etiquetas:",
+      "explain": "Escolla como se deben abrir as pestanas cando coincida este script.",
+      "more": "<0>Descrición da opción</0>"
+    }
+  },
+  "menu": {
+    "main": "Configuración do script"
+  }
+}

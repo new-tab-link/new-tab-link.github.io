@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Script ƒe ɖoɖowo",
+    "enabled": {
+      "title": "si:",
+      "explain": "Na ŋɔŋlɔdzesi sia nawɔ dɔ/wɔe dɔ"
+    },
+    "script": {
+      "title": "nuŋlɔɖi:",
+      "explain": "Kpɔ nuŋɔŋlɔa me nyawo ɖa."
+    },
+    "tab": {
+      "title": "Tag ƒe axa:",
+      "explain": "Tia alesi wòle be woaʋu tabwo ne ŋɔŋlɔdzesi sia sɔ.",
+      "more": "<0>Tiatia ƒe Numeɖeɖe</0>"
+    }
+  },
+  "menu": {
+    "main": "Script ƒe ɖoɖowo"
+  }
+}

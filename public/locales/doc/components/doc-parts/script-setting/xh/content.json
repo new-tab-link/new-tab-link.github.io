@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Iisetingi zescript",
+    "enabled": {
+      "title": "tshintsha:",
+      "explain": "Yenza/khubaza esi script"
+    },
+    "script": {
+      "title": "umbhalo:",
+      "explain": "Jonga umxholo wescript."
+    },
+    "tab": {
+      "title": "Iphepha lethegi:",
+      "explain": "Khetha indlela iithebhu emazivulwe ngayo xa esi script sidibana.",
+      "more": "<0>Inkcazelo yoKhetho</0>"
+    }
+  },
+  "menu": {
+    "main": "Iisetingi zescript"
+  }
+}

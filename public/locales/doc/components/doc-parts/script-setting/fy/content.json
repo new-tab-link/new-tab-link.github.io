@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skript ynstellings",
+    "enabled": {
+      "title": "omskeakelje:",
+      "explain": "Dit skript yn-/útskeakelje"
+    },
+    "script": {
+      "title": "skrift:",
+      "explain": "Besjoch skriptynhâld."
+    },
+    "tab": {
+      "title": "Tag side:",
+      "explain": "Kies hoe't ljeppers iepene wurde moatte as dit skript oerienkomt.",
+      "more": "<0>Opsjebeskriuwing</0>"
+    }
+  },
+  "menu": {
+    "main": "Skript ynstellings"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skripti seaded",
+    "enabled": {
+      "title": "lüliti:",
+      "explain": "Selle skripti lubamine/keelamine"
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Vaadake skripti sisu."
+    },
+    "tab": {
+      "title": "Sildi leht:",
+      "explain": "Valige, kuidas vahelehed avatakse, kui see skript sobib.",
+      "more": "<0>Valiku kirjeldus</0>"
+    }
+  },
+  "menu": {
+    "main": "Skripti seaded"
+  }
+}

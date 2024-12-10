@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skriptinställningar",
+    "enabled": {
+      "title": "växla:",
+      "explain": "Aktivera/inaktivera detta skript"
+    },
+    "script": {
+      "title": "manus:",
+      "explain": "Visa skriptinnehåll."
+    },
+    "tab": {
+      "title": "Taggsida:",
+      "explain": "Välj hur flikar ska öppnas när detta skript matchar.",
+      "more": "<0>Beskrivning av alternativ</0>"
+    }
+  },
+  "menu": {
+    "main": "Skriptinställningar"
+  }
+}

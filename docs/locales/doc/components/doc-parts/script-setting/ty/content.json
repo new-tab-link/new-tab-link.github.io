@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Ngā tautu'a papa'i",
+    "enabled": {
+      "title": "tā'ora'a:",
+      "explain": "A faati'a/aita i teie papa'iraa"
+    },
+    "script": {
+      "title": "tāuru:",
+      "explain": "Hi'o i te mau mea e papa'ihia ra."
+    },
+    "tab": {
+      "title": "Api Tag:",
+      "explain": "Ia au ana'e teie papa'iraa, a maiti e nahea ia iriti i te mau api.",
+      "more": "<0>Faataaraa maitiraa</0>"
+    }
+  },
+  "menu": {
+    "main": "Ngā tautu'a papa'i"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Settings tal-iskript",
+    "enabled": {
+      "title": "swiċċ:",
+      "explain": "Ippermetti/itwaqqaf dan l-iskript"
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Ara l-kontenut tal-iskrittura."
+    },
+    "tab": {
+      "title": "Paġna tat-tikketta:",
+      "explain": "Agħżel kif it-tabs għandhom jinfetħu meta din l-iskrittura taqbel.",
+      "more": "<0>Deskrizzjoni tal-Għażla</0>"
+    }
+  },
+  "menu": {
+    "main": "Settings tal-iskript"
+  }
+}

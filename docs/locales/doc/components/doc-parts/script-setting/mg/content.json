@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Fanovana script",
+    "enabled": {
+      "title": "switch:",
+      "explain": "Alefaso/ esory ity script ity"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Jereo ny votoatin'ny script."
+    },
+    "tab": {
+      "title": "Pejy tag:",
+      "explain": "Fidio ny fomba hanokafana tabilao rehefa mifanandrify ity script ity.",
+      "more": "<0>Famaritana safidy</0>"
+    }
+  },
+  "menu": {
+    "main": "Fanovana script"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Zokonda pa script",
+    "enabled": {
+      "title": "kusintha:",
+      "explain": "Yambitsani / zimitsani izi"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Onani zolemba."
+    },
+    "tab": {
+      "title": "Tsamba la tag:",
+      "explain": "Sankhani momwe ma tabo atsegulire pomwe script iyi ikufanana.",
+      "more": "<0>Mafotokozedwe Amakonda</0>"
+    }
+  },
+  "menu": {
+    "main": "Zokonda pa script"
+  }
+}

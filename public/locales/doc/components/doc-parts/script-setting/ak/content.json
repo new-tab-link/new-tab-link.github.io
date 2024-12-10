@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Script nhyehyɛe ahorow",
+    "enabled": {
+      "title": "sɔ:",
+      "explain": "Ma script yi nyɛ adwuma/yɛ adwuma"
+    },
+    "script": {
+      "title": "krataa:",
+      "explain": "Hwɛ script no mu nsɛm."
+    },
+    "tab": {
+      "title": "Tag krataafa:",
+      "explain": "Paw sɛnea ɛsɛ sɛ wobue tabs bere a saa script yi hyia no.",
+      "more": "<0>Option Nkyerɛkyerɛmu</0>"
+    }
+  },
+  "menu": {
+    "main": "Script nhyehyɛe ahorow"
+  }
+}

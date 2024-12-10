@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Setbisio siha gi i script",
+    "enabled": {
+      "title": "tulaika:",
+      "explain": "Na'siña/na'suha este na script"
+    },
+    "script": {
+      "title": "skriptu:",
+      "explain": "Atan i tinige' gi i script."
+    },
+    "tab": {
+      "title": "Tag page:",
+      "explain": "Pulan taimanu para u mababa i tab siha yanggen parehu este na script.",
+      "more": "<0>Deskripsion put i Option</0>"
+    }
+  },
+  "menu": {
+    "main": "Setbisio siha gi i script"
+  }
+}

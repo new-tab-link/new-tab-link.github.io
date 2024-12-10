@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Script settings",
+    "enabled": {
+      "title": "chinja:",
+      "explain": "Gonesa/dzima chinyorwa ichi"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Ona zvinyorwa zvemukati."
+    },
+    "tab": {
+      "title": "Tag peji:",
+      "explain": "Sarudza kuti matabo anofanira kuvhurwa sei kana script ichienderana.",
+      "more": "<0>Sarudzo Yesarudzo</0>"
+    }
+  },
+  "menu": {
+    "main": "Script settings"
+  }
+}

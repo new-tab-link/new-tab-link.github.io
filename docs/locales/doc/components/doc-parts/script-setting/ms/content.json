@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Tetapan skrip",
+    "enabled": {
+      "title": "suis:",
+      "explain": "Dayakan/lumpuhkan skrip ini"
+    },
+    "script": {
+      "title": "skrip:",
+      "explain": "Lihat kandungan skrip."
+    },
+    "tab": {
+      "title": "Halaman teg:",
+      "explain": "Pilih cara tab harus dibuka apabila skrip ini sepadan.",
+      "more": "<0>Perihalan Pilihan</0>"
+    }
+  },
+  "menu": {
+    "main": "Tetapan skrip"
+  }
+}

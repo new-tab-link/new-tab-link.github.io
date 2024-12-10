@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Ustawienia skryptu",
+    "enabled": {
+      "title": "przełącznik:",
+      "explain": "Włącz/wyłącz ten skrypt"
+    },
+    "script": {
+      "title": "scenariusz:",
+      "explain": "Wyświetl treść skryptu."
+    },
+    "tab": {
+      "title": "Strona tagu:",
+      "explain": "Wybierz sposób otwierania kart, gdy pasuje ten skrypt.",
+      "more": "<0>Opis opcji</0>"
+    }
+  },
+  "menu": {
+    "main": "Ustawienia skryptu"
+  }
+}

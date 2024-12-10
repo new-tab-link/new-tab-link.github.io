@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Roishtyn script",
+    "enabled": {
+      "title": "corrag:",
+      "explain": "Cur stiagh/cummey yn script shoh"
+    },
+    "script": {
+      "title": "Skriu:",
+      "explain": "Cur-my-ner yn script."
+    },
+    "tab": {
+      "title": "Tag y duillag:",
+      "explain": "Taght myr dy beagh tabbyn foshlit tra ta'n script shoh co-chosney.",
+      "more": "<0>Tushtal Roghnagh</0>"
+    }
+  },
+  "menu": {
+    "main": "Roishtyn script"
+  }
+}

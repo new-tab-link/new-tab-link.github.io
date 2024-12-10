@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Baparametre ya script",
+    "enabled": {
+      "title": "kusoba:",
+      "explain": "Kangula/kanga script yai"
+    },
+    "script": {
+      "title": "bangogo:",
+      "explain": "Tala mambu ya kele na kati ya script."
+    },
+    "tab": {
+      "title": "Mukanda ya bidimbu:",
+      "explain": "Pona mutindu ba tab fwete kanguka kana script yai ke wakana.",
+      "more": "<0>Ntendula ya nsola</0>"
+    }
+  },
+  "menu": {
+    "main": "Baparametre ya script"
+  }
+}

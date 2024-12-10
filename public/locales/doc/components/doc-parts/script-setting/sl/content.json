@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Nastavitve skripta",
+    "enabled": {
+      "title": "stikalo:",
+      "explain": "Omogoči/onemogoči ta skript"
+    },
+    "script": {
+      "title": "scenarij:",
+      "explain": "Oglejte si vsebino skripta."
+    },
+    "tab": {
+      "title": "Stran z oznako:",
+      "explain": "Izberite, kako naj se zavihki odprejo, ko se ta skript ujema.",
+      "more": "<0>Opis možnosti</0>"
+    }
+  },
+  "menu": {
+    "main": "Nastavitve skripta"
+  }
+}

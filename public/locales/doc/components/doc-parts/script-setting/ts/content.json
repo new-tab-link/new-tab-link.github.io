@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Switirhisiwa swa script",
+    "enabled": {
+      "title": "tima:",
+      "explain": "Endla leswaku tsalwa leri ri tirha/tshika"
+    },
+    "script": {
+      "title": "xitsalwana:",
+      "explain": "Languta leswi nga endzeni ka tsalwa."
+    },
+    "tab": {
+      "title": "Tluka ra tag:",
+      "explain": "Hlawula ndlela leyi tithebhu ti faneleke ku pfuriwa ha yona loko tsalwa leri ri fambelana.",
+      "more": "<0>Nhlamuselo ya Nhlawulo</0>"
+    }
+  },
+  "menu": {
+    "main": "Switirhisiwa swa script"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Ngaahi fokotuʻutuʻu ʻo e tohi",
+    "enabled": {
+      "title": "poini fakamo'ui 'uhila:",
+      "explain": "Faka'ata/faka'ata 'a e script ko 'eni"
+    },
+    "script": {
+      "title": "tohi hikinima:",
+      "explain": "Vakai ki he kakano ʻo e script."
+    },
+    "tab": {
+      "title": "Peesi faka'ilonga:",
+      "explain": "Fili 'a e founga 'oku totonu ke fakaava ai 'a e ngaahi tabs 'i he taimi 'oku fe'unga ai 'a e script ko 'eni.",
+      "more": "<0>Fakamatala ki he Fili</0>"
+    }
+  },
+  "menu": {
+    "main": "Ngaahi fokotuʻutuʻu ʻo e tohi"
+  }
+}

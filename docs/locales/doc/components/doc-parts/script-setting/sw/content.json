@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Mipangilio ya hati",
+    "enabled": {
+      "title": "kubadili:",
+      "explain": "Washa/zima hati hii"
+    },
+    "script": {
+      "title": "hati:",
+      "explain": "Tazama yaliyomo kwenye hati."
+    },
+    "tab": {
+      "title": "Ukurasa wa lebo:",
+      "explain": "Chagua jinsi vichupo vinapaswa kufunguliwa wakati hati hii inalingana.",
+      "more": "<0>Ufafanuzi wa Chaguo</0>"
+    }
+  },
+  "menu": {
+    "main": "Mipangilio ya hati"
+  }
+}

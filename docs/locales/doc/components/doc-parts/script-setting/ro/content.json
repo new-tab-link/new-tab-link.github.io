@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Setări de script",
+    "enabled": {
+      "title": "comutator:",
+      "explain": "Activați/dezactivați acest script"
+    },
+    "script": {
+      "title": "scenariu:",
+      "explain": "Vizualizați conținutul scriptului."
+    },
+    "tab": {
+      "title": "Pagina de etichetă:",
+      "explain": "Alegeți cum trebuie deschise filele atunci când acest script se potrivește.",
+      "more": "<0>Descrierea opțiunii</0>"
+    }
+  },
+  "menu": {
+    "main": "Setări de script"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Awọn eto iwe afọwọkọ",
+    "enabled": {
+      "title": "yipada:",
+      "explain": "Jeki/mu afọwọkọ yii ṣiṣẹ"
+    },
+    "script": {
+      "title": "iwe afọwọkọ:",
+      "explain": "Wo akoonu iwe afọwọkọ."
+    },
+    "tab": {
+      "title": "Oju-iwe afi:",
+      "explain": "Yan bi o ṣe yẹ ki awọn taabu ṣii nigbati iwe afọwọkọ yii baamu.",
+      "more": "<0>Apejuwe aṣayan</0>"
+    }
+  },
+  "menu": {
+    "main": "Awọn eto iwe afọwọkọ"
+  }
+}

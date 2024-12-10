@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Scriptor occasus",
+    "enabled": {
+      "title": "transibit:",
+      "explain": "Admitte / disable hoc scriptum"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "Visum script content."
+    },
+    "tab": {
+      "title": "Tag pagina:",
+      "explain": "Elige quomodo tabs aperiendae sunt cum hoc scriptum par.",
+      "more": "<0>Optionis Descriptio</0>"
+    }
+  },
+  "menu": {
+    "main": "Scriptor occasus"
+  }
+}

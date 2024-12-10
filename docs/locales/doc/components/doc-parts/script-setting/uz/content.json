@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skript sozlamalari",
+    "enabled": {
+      "title": "almashtirish:",
+      "explain": "Ushbu skriptni yoqish/o'chirish"
+    },
+    "script": {
+      "title": "skript:",
+      "explain": "Skript tarkibini ko'rish."
+    },
+    "tab": {
+      "title": "Teg sahifasi:",
+      "explain": "Ushbu skript mos kelganda yorliqlar qanday ochilishini tanlang.",
+      "more": "<0>Variant tavsifi</0>"
+    }
+  },
+  "menu": {
+    "main": "Skript sozlamalari"
+  }
+}

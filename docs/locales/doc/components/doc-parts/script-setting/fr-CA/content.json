@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Paramètres des scripts",
+    "enabled": {
+      "title": "changer :",
+      "explain": "Activer/désactiver ce script"
+    },
+    "script": {
+      "title": "scénario :",
+      "explain": "Afficher le contenu du script."
+    },
+    "tab": {
+      "title": "Page des balises :",
+      "explain": "Choisissez comment les onglets doivent être ouverts lorsque ce script correspond.",
+      "more": "<0>Description des options</0>"
+    }
+  },
+  "menu": {
+    "main": "Paramètres des scripts"
+  }
+}

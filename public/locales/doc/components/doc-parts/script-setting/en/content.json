@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Script settings",
+    "enabled": {
+      "title": "switch:",
+      "explain": "Enable/disable this script"
+    },
+    "script": {
+      "title": "script:",
+      "explain": "View script content."
+    },
+    "tab": {
+      "title": "Tag page:",
+      "explain": "Choose how tabs should be opened when this script matches.",
+      "more": "<0>Option Description</0>"
+    }
+  },
+  "menu": {
+    "main": "Script settings"
+  }
+}

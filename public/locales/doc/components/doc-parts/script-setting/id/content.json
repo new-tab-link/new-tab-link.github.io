@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Pengaturan skrip",
+    "enabled": {
+      "title": "mengalihkan:",
+      "explain": "Aktifkan/nonaktifkan skrip ini"
+    },
+    "script": {
+      "title": "naskah:",
+      "explain": "Lihat konten skrip."
+    },
+    "tab": {
+      "title": "Halaman tag:",
+      "explain": "Pilih bagaimana tab harus dibuka ketika skrip ini cocok.",
+      "more": "<0>Deskripsi Opsi</0>"
+    }
+  },
+  "menu": {
+    "main": "Pengaturan skrip"
+  }
+}

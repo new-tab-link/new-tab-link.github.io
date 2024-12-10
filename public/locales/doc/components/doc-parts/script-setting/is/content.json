@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Forskriftarstillingar",
+    "enabled": {
+      "title": "skipta:",
+      "explain": "Virkja/slökkva á þessari skriftu"
+    },
+    "script": {
+      "title": "handrit:",
+      "explain": "Skoða innihald handrits."
+    },
+    "tab": {
+      "title": "Merkja síða:",
+      "explain": "Veldu hvernig flipa á að opna þegar þetta skriftu samsvarar.",
+      "more": "<0>Lýsing valkosta</0>"
+    }
+  },
+  "menu": {
+    "main": "Forskriftarstillingar"
+  }
+}

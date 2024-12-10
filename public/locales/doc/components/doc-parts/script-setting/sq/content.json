@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Cilësimet e skriptit",
+    "enabled": {
+      "title": "kaloni:",
+      "explain": "Aktivizo/çaktivizo këtë skript"
+    },
+    "script": {
+      "title": "skenar:",
+      "explain": "Shikoni përmbajtjen e skriptit."
+    },
+    "tab": {
+      "title": "Faqja e etiketimit:",
+      "explain": "Zgjidh se si duhet të hapen skedat kur përputhet ky skenar.",
+      "more": "<0>Përshkrimi i opsionit</0>"
+    }
+  },
+  "menu": {
+    "main": "Cilësimet e skriptit"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Diseting tsa sekeripiti",
+    "enabled": {
+      "title": "fetola:",
+      "explain": "Kgontsha/thibela sekeripiti seno"
+    },
+    "script": {
+      "title": "lokwalo:",
+      "explain": "Leba diteng tsa sekeripiti."
+    },
+    "tab": {
+      "title": "Tsebe ya theke:",
+      "explain": "Tlhopha kafa dithebo di tshwanetseng go bulwa ka gone fa sekeripiti seno se tshwana.",
+      "more": "<0>Tlhaloso ya Tlhopho</0>"
+    }
+  },
+  "menu": {
+    "main": "Diseting tsa sekeripiti"
+  }
+}

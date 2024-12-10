@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skript Astellunge",
+    "enabled": {
+      "title": "schalt:",
+      "explain": "Aktivéiert / deaktivéiert dëst Skript"
+    },
+    "script": {
+      "title": "Skript:",
+      "explain": "View Skript Inhalt."
+    },
+    "tab": {
+      "title": "Tag Säit:",
+      "explain": "Wielt wéi Tabs sollen opgemaach ginn wann dëst Skript entsprécht.",
+      "more": "<0>Optiounsbeschreiwung</0>"
+    }
+  },
+  "menu": {
+    "main": "Skript Astellunge"
+  }
+}

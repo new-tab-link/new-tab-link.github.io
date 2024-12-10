@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Suidheachaidhean sgriobt",
+    "enabled": {
+      "title": "tionndadh:",
+      "explain": "Dèan comas / cuir à comas an sgriobt seo"
+    },
+    "script": {
+      "title": "sgriobt:",
+      "explain": "Seall susbaint an sgriobt."
+    },
+    "tab": {
+      "title": "Duilleag tag:",
+      "explain": "Tagh mar a bu chòir tabaichean fhosgladh nuair a tha an sgriobt seo co-ionnan.",
+      "more": "<0>Tuairisgeul Roghainn</0>"
+    }
+  },
+  "menu": {
+    "main": "Suidheachaidhean sgriobt"
+  }
+}

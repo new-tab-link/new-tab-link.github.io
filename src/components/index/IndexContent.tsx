@@ -13,6 +13,7 @@ import { DocVariables } from "../doc-parts/doc-variables/DocVariables";
 import { DocRuleMethod } from "../doc-parts/rule-method/RuleMethod";
 import { DocScriptDelSaveNew } from "../doc-parts/script-del-save-new/ScriptDelSaveNew";
 import { DocScriptNew } from "../doc-parts/script-new/script-new";
+import { DocScriptSetting } from "../doc-parts/script-setting/script-setting";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -74,6 +75,7 @@ function LeftMenu() {
         <DocRuleMethod.Menu/>
         <DocScriptDelSaveNew.Menu/>
         <DocScriptNew.Menu/>
+        <DocScriptSetting.Menu/>
     </MenuContainer>
 }
 
@@ -110,8 +112,8 @@ export function IndexContent() {
                         margin: "0.5rem", padding: "0.5rem",
                         width: "100%"
                     }}>
-                        <JotaiAnchor />
-                        <Counter />
+                        {/* <JotaiAnchor />
+                        <Counter /> */}
                         <DocOverview.Doc />
                         <DocAllLinks.Doc />
                         <DocDiffDomainLink.Doc />
@@ -119,7 +121,8 @@ export function IndexContent() {
                         <DocRuleMethod.Doc />
                         <DocScriptDelSaveNew.Doc />
                         <DocScriptNew.Doc />
-                        <MediaQuery />
+                        <DocScriptSetting.Doc />
+                        {/* <MediaQuery /> */}
                     </div>
                 </Stack>
             </Box>
@@ -146,7 +149,7 @@ export function IndexContent2() {
                         <DocOverview.Doc />
                         <DocGlobal.Doc />
                         <DocVariables.Doc />
-                        <MediaQuery />
+                        {/* <MediaQuery /> */}
                     </Box>
                 </Stack>
             </Box>

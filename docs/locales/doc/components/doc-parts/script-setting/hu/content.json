@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Szkriptbeállítások",
+    "enabled": {
+      "title": "kapcsoló:",
+      "explain": "Engedélyezze/letiltja ezt a szkriptet"
+    },
+    "script": {
+      "title": "forgatókönyv:",
+      "explain": "A szkript tartalmának megtekintése."
+    },
+    "tab": {
+      "title": "Címke oldal:",
+      "explain": "Válassza ki, hogyan kell megnyitni a lapokat, ha ez a szkript egyezik.",
+      "more": "<0>Lehetőség leírása</0>"
+    }
+  },
+  "menu": {
+    "main": "Szkriptbeállítások"
+  }
+}

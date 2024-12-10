@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Script-instellinge",
+    "enabled": {
+      "title": "verangere:",
+      "explain": "Sjakel dit script in/oet"
+    },
+    "script": {
+      "title": "gesjreve stuk:",
+      "explain": "Script-inhoud bekieke."
+    },
+    "tab": {
+      "title": "Tagpagina:",
+      "explain": "Kies wie tabs motte weure geopend es dit script euvereinkump.",
+      "more": "<0>Optiebesjrieving</0>"
+    }
+  },
+  "menu": {
+    "main": "Script-instellinge"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Handritsstillingar",
+    "enabled": {
+      "title": "kontakt:",
+      "explain": "Virkja/sløkk hetta skriftina"
+    },
+    "script": {
+      "title": "handrit:",
+      "explain": "Vís innihald í handritinum."
+    },
+    "tab": {
+      "title": "Merki síða:",
+      "explain": "Vel hvussu flipar skulu latast upp, tá hetta skriftin passar.",
+      "more": "<0>Lýsing av valmøguleikum</0>"
+    }
+  },
+  "menu": {
+    "main": "Handritsstillingar"
+  }
+}

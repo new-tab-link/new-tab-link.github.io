@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Skriptinnstillinger",
+    "enabled": {
+      "title": "bryter:",
+      "explain": "Aktiver/deaktiver dette skriptet"
+    },
+    "script": {
+      "title": "manus:",
+      "explain": "Se skriptinnhold."
+    },
+    "tab": {
+      "title": "Tag side:",
+      "explain": "Velg hvordan faner skal åpnes når dette skriptet samsvarer.",
+      "more": "<0>Alternativbeskrivelse</0>"
+    }
+  },
+  "menu": {
+    "main": "Skriptinnstillinger"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Scenarijaus nustatymai",
+    "enabled": {
+      "title": "jungiklis:",
+      "explain": "Įjungti / išjungti šį scenarijų"
+    },
+    "script": {
+      "title": "scenarijus:",
+      "explain": "Peržiūrėkite scenarijaus turinį."
+    },
+    "tab": {
+      "title": "Žymės puslapis:",
+      "explain": "Pasirinkite, kaip turėtų būti atidaromi skirtukai, kai šis scenarijus sutampa.",
+      "more": "<0>Parinkties aprašymas</0>"
+    }
+  },
+  "menu": {
+    "main": "Scenarijaus nustatymai"
+  }
+}

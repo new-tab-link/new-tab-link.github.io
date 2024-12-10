@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Saitunan rubutun",
+    "enabled": {
+      "title": "canza:",
+      "explain": "Kunna/ kashe wannan rubutun"
+    },
+    "script": {
+      "title": "rubutun:",
+      "explain": "Duba abun cikin rubutun."
+    },
+    "tab": {
+      "title": "Tag shafi:",
+      "explain": "Zaɓi yadda yakamata a buɗe shafuka idan wannan rubutun ya dace.",
+      "more": "<0>Siffar Zabin</0>"
+    }
+  },
+  "menu": {
+    "main": "Saitunan rubutun"
+  }
+}

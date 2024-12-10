@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Arventennoù ar skript",
+    "enabled": {
+      "title": "eilpennañ:",
+      "explain": "Gweredekaat/diweredekaat ar skript-mañ"
+    },
+    "script": {
+      "title": "testenn:",
+      "explain": "Gwelet endalc'had ar skript."
+    },
+    "tab": {
+      "title": "Pajenn tikedennoù :",
+      "explain": "Dibabit penaos e vo digoret an ivinelloù pa glot ar skript-mañ.",
+      "more": "<0>Deskrivadur an dibab</0>"
+    }
+  },
+  "menu": {
+    "main": "Arventennoù ar skript"
+  }
+}

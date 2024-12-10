@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Sajoo iskiriiptii",
+    "enabled": {
+      "title": "jijjiiruu:",
+      "explain": "Iskiriiptii kana dandeessisi/dhorsi"
+    },
+    "script": {
+      "title": "barreeffama:",
+      "explain": "Qabiyyee iskiriiptii ilaali."
+    },
+    "tab": {
+      "title": "Fuula mallattoo:",
+      "explain": "Yeroo iskiriiptiin kun walsimsiisu akkamitti caancaalonni banamuu akka qaban filadhu.",
+      "more": "<0>Ibsa Filannoo</0>"
+    }
+  },
+  "menu": {
+    "main": "Sajoo iskiriiptii"
+  }
+}

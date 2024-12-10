@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Komut dosyası ayarları",
+    "enabled": {
+      "title": "anahtar:",
+      "explain": "Bu betiği etkinleştirin/devre dışı bırakın"
+    },
+    "script": {
+      "title": "senaryo:",
+      "explain": "Komut dosyası içeriğini görüntüleyin."
+    },
+    "tab": {
+      "title": "Etiket sayfası:",
+      "explain": "Bu komut dosyası eşleştiğinde sekmelerin nasıl açılması gerektiğini seçin.",
+      "more": "<0>Seçenek Açıklaması</0>"
+    }
+  },
+  "menu": {
+    "main": "Komut dosyası ayarları"
+  }
+}

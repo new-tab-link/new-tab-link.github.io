@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Tautuhinga hōtuhi",
+    "enabled": {
+      "title": "whakawhiti:",
+      "explain": "Whakahohe/monohia tenei tuhinga"
+    },
+    "script": {
+      "title": "tuhi:",
+      "explain": "Tirohia te ihirangi tuhinga."
+    },
+    "tab": {
+      "title": "Whārangi tohu:",
+      "explain": "Whiriwhiria me pehea te whakatuwhera i nga ripa ina rite ana tenei tuhinga.",
+      "more": "<0>Whakaahuatanga Kōwhiringa</0>"
+    }
+  },
+  "menu": {
+    "main": "Tautuhinga hōtuhi"
+  }
+}

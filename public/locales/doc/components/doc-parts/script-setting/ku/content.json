@@ -1,0 +1,21 @@
+{
+  "doc": {
+    "title": "Mîhengên Skrîptê",
+    "enabled": {
+      "title": "gûherr:",
+      "explain": "Vê skrîptê çalak/neçalak bike"
+    },
+    "script": {
+      "title": "nivîs:",
+      "explain": "Naveroka skrîptê bibînin."
+    },
+    "tab": {
+      "title": "Rûpelê nîşankirî:",
+      "explain": "Hilbijêre ka divê tabloyên çawa werin vekirin dema ku ev skrîpt li hev tê.",
+      "more": "<0>Vebijêrk Danasîna</0>"
+    }
+  },
+  "menu": {
+    "main": "Mîhengên Skrîptê"
+  }
+}
