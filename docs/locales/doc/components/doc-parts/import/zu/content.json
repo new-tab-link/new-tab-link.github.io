@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Imithetho yokungenisa",
+    "fromHistory": "Ngenisa kusuka emlandweni",
+    "pasteFromClipboard": "Namathisela ebhodini lokunamathisela",
+    "loadExamples": "Ilayisha izibonelo",
+    "unselectAll": "Khansela imithetho ekhethiwe",
+    "selectAll": "Khetha yonke imithetho",
+    "use": "Imithetho yokungenisa",
+    "selectedRule": "Chofoza ukuze ukhethe/ungakhethi"
+  },
+  "menu": {
+    "main": "Imithetho yokungenisa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Reguły importu",
+    "fromHistory": "Importuj z historii",
+    "pasteFromClipboard": "Wklej ze schowka",
+    "loadExamples": "Ładowanie przykładów",
+    "unselectAll": "Anuluj wybrane reguły",
+    "selectAll": "Wybierz wszystkie reguły",
+    "use": "Reguły importu",
+    "selectedRule": "Kliknij, aby zaznaczyć/odznaczyć"
+  },
+  "menu": {
+    "main": "Reguły importu"
+  }
+}

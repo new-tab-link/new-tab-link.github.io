@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Exportación kamachina wakicht’aña",
+    "explain": "Aka pankaxa taqi kunatixa utjki uka kamachinaka uñacht’ayañapawa.",
+    "unselectAll": "Ajllit kamachinaka chhaqtayaña",
+    "selectAll": "Taqi kamachinaka ajlliñani",
+    "exportFile": "Ajllit kamachinaka mä archivo ukar apsuña",
+    "copyDataToClipboard": "Ajllit kamachinakaxa portapapeles ukar qillqt’añawa",
+    "selectedRule": "Ukaxa ajlliñawa/janiwa ajlliñatakiwa",
+    "selectedCode": "Ajllit kamachinak uñt’ayaña"
+  },
+  "menu": {
+    "main": "Exportación uka kamachinaka"
+  }
+}

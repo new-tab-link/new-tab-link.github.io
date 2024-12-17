@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kural yapılandırmasını dışa aktar",
+    "explain": "Bu sayfada mevcut kurallarınızın tümü görüntülenecektir. Kuralları yerel bir dosyaya veya panoya aktarabilirsiniz.",
+    "unselectAll": "Seçilen kuralları iptal et",
+    "selectAll": "Tüm kuralları seç",
+    "exportFile": "Seçilen kuralları bir dosyaya aktar",
+    "copyDataToClipboard": "Seçilen kuralları panoya yaz",
+    "selectedRule": "Seçmek/seçimi kaldırmak için tıklayın",
+    "selectedCode": "Seçilen kural kodu"
+  },
+  "menu": {
+    "main": "Kuralları dışa aktar"
+  }
+}

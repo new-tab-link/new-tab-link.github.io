@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Eksportu regulkonfiguracion",
+    "explain": "Ĉi tiu paĝo montros ĉiujn viajn ekzistantajn regulojn. Vi povas eksporti la regulojn al loka dosiero aŭ al la tondujo.",
+    "unselectAll": "Nuligi elektitajn regulojn",
+    "selectAll": "Elektu ĉiujn regulojn",
+    "exportFile": "Eksportu elektitajn regulojn al dosiero",
+    "copyDataToClipboard": "Skribu la elektitajn regulojn al la tondujo",
+    "selectedRule": "Klaku por elekti/malelekti",
+    "selectedCode": "Elektita regulkodo"
+  },
+  "menu": {
+    "main": "Reguloj pri eksporto"
+  }
+}

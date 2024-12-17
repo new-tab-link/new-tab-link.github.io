@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "ሕግታት ኣእትዎ።",
+    "fromHistory": "ካብ ታሪኽ ኣእትው",
+    "pasteFromClipboard": "ካብ ቅንጥብጣብ ሰሌዳ ምልጣፍ",
+    "loadExamples": "ኣብነታት ምጽዓን።",
+    "unselectAll": "ዝተመርጹ ሕግታት ምስራዝ",
+    "selectAll": "ኩሎም ሕግታት ምረጽ",
+    "use": "ሕግታት ኣእትዎ።",
+    "selectedRule": "ንምምራጽ/ምምራጽ ንምእላይ ጠውቕ"
+  },
+  "menu": {
+    "main": "ሕግታት ኣእትዎ።"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Szabálykonfiguráció exportálása",
+    "explain": "Ez az oldal megjeleníti az összes meglévő szabályt. A szabályokat exportálhatja egy helyi fájlba vagy a vágólapra.",
+    "unselectAll": "Törölje a kiválasztott szabályokat",
+    "selectAll": "Válassza ki az összes szabályt",
+    "exportFile": "A kiválasztott szabályok fájlba exportálása",
+    "copyDataToClipboard": "Írja a kiválasztott szabályokat a vágólapra",
+    "selectedRule": "Kattintson a kijelöléshez/kijelölés törléséhez",
+    "selectedCode": "Kiválasztott szabálykód"
+  },
+  "menu": {
+    "main": "Exportszabályok"
+  }
+}

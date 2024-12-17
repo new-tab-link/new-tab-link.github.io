@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ngaahi tu'utu'uni hū mai",
+    "fromHistory": "Hū mai mei he hisitōliá .",
+    "pasteFromClipboard": "Fakapipiki mei he palakipoé",
+    "loadExamples": "Ko hono uta 'o e ngaahi fakatata",
+    "unselectAll": "Kaniseli 'a e ngaahi tu'utu'uni kuo fili",
+    "selectAll": "Fili 'a e ngaahi tu'utu'uni kotoa pe .",
+    "use": "Ngaahi tu'utu'uni hū mai",
+    "selectedRule": "Lomi'i ke fili/ta'ofi 'a e fili"
+  },
+  "menu": {
+    "main": "Ngaahi tu'utu'uni hū mai"
+  }
+}

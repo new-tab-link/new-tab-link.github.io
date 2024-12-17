@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Malamulo ochokera kunja",
+    "fromHistory": "Tengani kuchokera ku mbiri",
+    "pasteFromClipboard": "Matani pa clipboard",
+    "loadExamples": "Kutsegula zitsanzo",
+    "unselectAll": "Letsani malamulo osankhidwa",
+    "selectAll": "Sankhani malamulo onse",
+    "use": "Malamulo ochokera kunja",
+    "selectedRule": "Dinani kuti musankhe/musasankhe"
+  },
+  "menu": {
+    "main": "Malamulo ochokera kunja"
+  }
+}

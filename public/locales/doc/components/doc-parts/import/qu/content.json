@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Hawamanta apamuy kamachiykuna",
+    "fromHistory": "Historiamanta apamuy",
+    "pasteFromClipboard": "Portapapeles nisqamanta k’askachiy",
+    "loadExamples": "Ejemplokunata cargaspa",
+    "unselectAll": "Akllasqa kamachiykunata chinkachiy",
+    "selectAll": "Llapan kamachiykunata akllay",
+    "use": "Hawamanta apamuy kamachiykuna",
+    "selectedRule": "Akllanaykipaq/mana akllanaykipaq ñitiy"
+  },
+  "menu": {
+    "main": "Hawamanta apamuy kamachiykuna"
+  }
+}

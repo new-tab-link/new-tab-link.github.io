@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Regels importeren",
+    "fromHistory": "Importeren uit de geschiedenis",
+    "pasteFromClipboard": "Plakken vanaf klembord",
+    "loadExamples": "Voorbeelden laden",
+    "unselectAll": "Annuleer geselecteerde regels",
+    "selectAll": "Selecteer alle regels",
+    "use": "Regels importeren",
+    "selectedRule": "Klik om te selecteren/deselecteren"
+  },
+  "menu": {
+    "main": "Regels importeren"
+  }
+}

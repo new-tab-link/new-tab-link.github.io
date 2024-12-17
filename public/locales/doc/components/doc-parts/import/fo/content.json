@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Innflutningsreglur",
+    "fromHistory": "Innflutningur úr søguni",
+    "pasteFromClipboard": "Líma frá klippiborði",
+    "loadExamples": "Heinta dømi",
+    "unselectAll": "Avlýs valdar reglur",
+    "selectAll": "Vel allar reglur",
+    "use": "Innflutningsreglur",
+    "selectedRule": "Trýst fyri at velja/frávelja"
+  },
+  "menu": {
+    "main": "Innflutningsreglur"
+  }
+}

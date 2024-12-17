@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Melawana ya thomeloteng",
+    "fromHistory": "Thomeloteng go tswa mo hisitoring",
+    "pasteFromClipboard": "Kgomaretsa go tswa mo lebokosong la peeletso",
+    "loadExamples": "Go laisa dikao",
+    "unselectAll": "Khansela melao e e tlhophilweng",
+    "selectAll": "Tlhopha melao yotlhe",
+    "use": "Melawana ya thomeloteng",
+    "selectedRule": "Tobetsa go tlhopha/phimola tlhopho"
+  },
+  "menu": {
+    "main": "Melawana ya thomeloteng"
+  }
+}

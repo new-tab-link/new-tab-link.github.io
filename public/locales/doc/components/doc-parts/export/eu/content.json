@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Esportatu arauen konfigurazioa",
+    "explain": "Orrialde honek lehendik dituzun arau guztiak erakutsiko ditu Arauak fitxategi lokal batera edo arbelera esportatu ditzakezu.",
+    "unselectAll": "Hautatutako arauak bertan behera utzi",
+    "selectAll": "Hautatu arau guztiak",
+    "exportFile": "Esportatu hautatutako arauak fitxategi batera",
+    "copyDataToClipboard": "Idatzi hautatutako arauak arbelean",
+    "selectedRule": "Egin klik hautatzeko/deshautatzeko",
+    "selectedCode": "Hautatutako arau-kodea"
+  },
+  "menu": {
+    "main": "Esportazio-arauak"
+  }
+}

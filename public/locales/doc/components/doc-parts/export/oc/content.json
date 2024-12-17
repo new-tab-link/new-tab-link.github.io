@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Configuracion de la règla d'exportacion",
+    "explain": "Aquesta pagina aficharà totas vòstras règlas existentas Podètz exportar las règlas dins un fichièr local o dins lo quichapapièrs.",
+    "unselectAll": "Anullar las règlas seleccionadas",
+    "selectAll": "Seleccionatz totas las règlas",
+    "exportFile": "Exportar las règlas seleccionadas dins un fichièr",
+    "copyDataToClipboard": "Escrivètz las règlas seleccionadas dins lo quichapapièrs",
+    "selectedRule": "Clicatz per seleccionar/desseleccionar",
+    "selectedCode": "Còde de règla seleccionat"
+  },
+  "menu": {
+    "main": "Règlas d'exportacion"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Cấu hình quy tắc xuất",
+    "explain": "Trang này sẽ hiển thị tất cả các quy tắc hiện có của bạn. Bạn có thể xuất các quy tắc sang tệp cục bộ hoặc vào bảng tạm.",
+    "unselectAll": "Hủy quy tắc đã chọn",
+    "selectAll": "Chọn tất cả các quy tắc",
+    "exportFile": "Xuất các quy tắc đã chọn sang một tệp",
+    "copyDataToClipboard": "Viết các quy tắc đã chọn vào bảng nhớ tạm",
+    "selectedRule": "Bấm để chọn/bỏ chọn",
+    "selectedCode": "Mã quy tắc đã chọn"
+  },
+  "menu": {
+    "main": "Quy tắc xuất khẩu"
+  }
+}

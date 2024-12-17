@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kefluniadur ar reolenn ezporzhiañ",
+    "explain": "Diskouezet e vo gant ar bajenn-mañ an holl reolennoù a zo anezho dija.",
+    "unselectAll": "Nullañ ar reolennoù dibabet",
+    "selectAll": "Dibabit an holl reolennoù",
+    "exportFile": "Ezporzhiañ ar reolennoù diuzet en ur restr",
+    "copyDataToClipboard": "Skrivit ar reolennoù dibabet er c'hlipbord",
+    "selectedRule": "Klikañ evit diuzañ/diziuzañ",
+    "selectedCode": "Kod ar reolenn dibabet"
+  },
+  "menu": {
+    "main": "Reolennoù ezporzhiañ"
+  }
+}

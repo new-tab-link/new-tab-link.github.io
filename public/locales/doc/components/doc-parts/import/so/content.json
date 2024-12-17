@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Xeerarka soo dejinta",
+    "fromHistory": "Ka soo daji taariikhda",
+    "pasteFromClipboard": "Ku dhaji sabuuraddii",
+    "loadExamples": "Tusaalooyinka soo dejinta",
+    "unselectAll": "Jooji xeerarka la doortay",
+    "selectAll": "Dooro dhammaan sharciyada",
+    "use": "Xeerarka soo dejinta",
+    "selectedRule": "Guji si aad u doorato/doorato"
+  },
+  "menu": {
+    "main": "Xeerarka soo dejinta"
+  }
+}

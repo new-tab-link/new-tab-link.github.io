@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Eksportuj konfigurację reguły",
+    "explain": "Na tej stronie zostaną wyświetlone wszystkie istniejące reguły. Możesz wyeksportować reguły do ​​pliku lokalnego lub do schowka.",
+    "unselectAll": "Anuluj wybrane reguły",
+    "selectAll": "Wybierz wszystkie reguły",
+    "exportFile": "Eksportuj wybrane reguły do ​​pliku",
+    "copyDataToClipboard": "Zapisz wybrane reguły do ​​schowka",
+    "selectedRule": "Kliknij, aby zaznaczyć/odznaczyć",
+    "selectedCode": "Wybrany kod reguły"
+  },
+  "menu": {
+    "main": "Zasady eksportu"
+  }
+}

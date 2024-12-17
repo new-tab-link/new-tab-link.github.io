@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Fakahokohoko 'o e tu'utu'uni 'o e 'ave ki tu'apule'anga",
+    "explain": "'E fakahaa'i 'e he peesi ko 'eni ho'o ngaahi tu'utu'uni kotoa pe 'oku 'i ai 'E lava ke ke 'ave 'a e ngaahi tu'utu'uni ki ha faile fakalotofonua pe ki he palakipoe.",
+    "unselectAll": "Kaniseli 'a e ngaahi tu'utu'uni kuo fili",
+    "selectAll": "Fili 'a e ngaahi tu'utu'uni kotoa pe .",
+    "exportFile": "Fakahū atu ʻa e ngaahi tuʻutuʻuni kuo filí ki ha faile .",
+    "copyDataToClipboard": "Tohiʻi ʻa e ngaahi tuʻutuʻuni kuo filí ki he palakipoé .",
+    "selectedRule": "Lomi'i ke fili/ta'ofi 'a e fili",
+    "selectedCode": "Kouti tu'utu'uni kuo fili"
+  },
+  "menu": {
+    "main": "Ngaahi tu'utu'uni ki he 'ave ki tu'apule'anga"
+  }
+}

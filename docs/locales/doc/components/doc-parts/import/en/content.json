@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Import rules",
+    "fromHistory": "Import from history",
+    "pasteFromClipboard": "Paste from clipboard",
+    "loadExamples": "Loading examples",
+    "unselectAll": "Cancel selected rules",
+    "selectAll": "Select all rules",
+    "use": "Import rules",
+    "selectedRule": "Click to select/deselect"
+  },
+  "menu": {
+    "main": "Import rules"
+  }
+}

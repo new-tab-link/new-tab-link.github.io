@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Mibeko ya kokɔtisa biloko na mboka mopaya",
+    "fromHistory": "Importer na histoire",
+    "pasteFromClipboard": "Kola uta na tableau de bord",
+    "loadExamples": "Kokɔtisa bandakisa",
+    "unselectAll": "Annuler mibeko oyo oponi",
+    "selectAll": "Pona mibeko nyonso",
+    "use": "Mibeko ya kokɔtisa biloko na mboka mopaya",
+    "selectedRule": "Finá mpo na kopona/kolongola kopona"
+  },
+  "menu": {
+    "main": "Mibeko ya kokɔtisa biloko na mboka mopaya"
+  }
+}

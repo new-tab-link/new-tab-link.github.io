@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Regelkonfiguration exportieren",
+    "explain": "Auf dieser Seite werden alle Ihre vorhandenen Regeln angezeigt. Sie können die Regeln in eine lokale Datei oder in die Zwischenablage exportieren.",
+    "unselectAll": "Ausgewählte Regeln aufheben",
+    "selectAll": "Wählen Sie alle Regeln aus",
+    "exportFile": "Ausgewählte Regeln in eine Datei exportieren",
+    "copyDataToClipboard": "Schreiben Sie die ausgewählten Regeln in die Zwischenablage",
+    "selectedRule": "Klicken Sie zum Auswählen/Abwählen",
+    "selectedCode": "Ausgewählter Regelcode"
+  },
+  "menu": {
+    "main": "Exportregeln"
+  }
+}

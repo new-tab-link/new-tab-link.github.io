@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Habaynta xeerka dhoofinta",
+    "explain": "Boggani wuxuu soo bandhigi doonaa dhammaan sharciyadaada jira Waxaad u dhoofin kartaa xeerarka faylka maxaliga ah ama sabuuradda.",
+    "unselectAll": "Jooji xeerarka la doortay",
+    "selectAll": "Dooro dhammaan sharciyada",
+    "exportFile": "U dhoofi xeerar la doortay faylka",
+    "copyDataToClipboard": "Ku qor xeerarka la doortay sabuuradda",
+    "selectedRule": "Guji si aad u doorato/doorato",
+    "selectedCode": "Koodhka xeerka la doortay"
+  },
+  "menu": {
+    "main": "Xeerarka dhoofinta"
+  }
+}

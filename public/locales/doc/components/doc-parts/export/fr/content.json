@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Configuration des règles d'exportation",
+    "explain": "Cette page affichera toutes vos règles existantes. Vous pouvez exporter les règles vers un fichier local ou vers le presse-papiers.",
+    "unselectAll": "Annuler les règles sélectionnées",
+    "selectAll": "Sélectionnez toutes les règles",
+    "exportFile": "Exporter les règles sélectionnées vers un fichier",
+    "copyDataToClipboard": "Écrivez les règles sélectionnées dans le presse-papiers",
+    "selectedRule": "Cliquez pour sélectionner/désélectionner",
+    "selectedCode": "Code de règle sélectionné"
+  },
+  "menu": {
+    "main": "Règles d'exportation"
+  }
+}

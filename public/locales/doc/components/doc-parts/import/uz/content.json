@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Import qoidalari",
+    "fromHistory": "Tarixdan import qilish",
+    "pasteFromClipboard": "Buferdan joylashtirish",
+    "loadExamples": "Misollar yuklanmoqda",
+    "unselectAll": "Tanlangan qoidalarni bekor qilish",
+    "selectAll": "Barcha qoidalarni tanlang",
+    "use": "Import qoidalari",
+    "selectedRule": "Tanlash/bekor qilish uchun bosing"
+  },
+  "menu": {
+    "main": "Import qoidalari"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Útflutningsreglu uppseting",
+    "explain": "Henda síðan vísir allar tínar verandi reglur Tú kanst eksportera reglurnar til eina lokala fílu ella til útklippiborðið.",
+    "unselectAll": "Avlýs valdar reglur",
+    "selectAll": "Vel allar reglur",
+    "exportFile": "Útflyt valdar reglur til eina fílu",
+    "copyDataToClipboard": "Skriva valdu reglurnar á klippiborðið .",
+    "selectedRule": "Trýst fyri at velja/frávelja",
+    "selectedCode": "Vald reglukoda"
+  },
+  "menu": {
+    "main": "Útflutningsreglur"
+  }
+}

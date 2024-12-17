@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Usanidi wa sheria ya kuuza nje",
+    "explain": "Ukurasa huu utaonyesha sheria zako zote zilizopo Unaweza kuhamisha sheria kwenye faili ya ndani au kwenye ubao wa kunakili.",
+    "unselectAll": "Ghairi sheria zilizochaguliwa",
+    "selectAll": "Chagua sheria zote",
+    "exportFile": "Hamisha sheria zilizochaguliwa kwa faili",
+    "copyDataToClipboard": "Andika sheria zilizochaguliwa kwenye ubao wa kunakili",
+    "selectedRule": "Bofya ili kuchagua/kuondoa",
+    "selectedCode": "Kanuni ya kanuni iliyochaguliwa"
+  },
+  "menu": {
+    "main": "Sheria za kuuza nje"
+  }
+}

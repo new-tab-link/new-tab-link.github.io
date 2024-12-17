@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kupinza mitemo",
+    "fromHistory": "Pinza kubva munhoroondo",
+    "pasteFromClipboard": "Nama kubva pa clipboard",
+    "loadExamples": "Kurodha mienzaniso",
+    "unselectAll": "Kanzura mitemo yakasarudzwa",
+    "selectAll": "Sarudza mitemo yose",
+    "use": "Kupinza mitemo",
+    "selectedRule": "Dzvanya kuti usarudze/kusasarudza"
+  },
+  "menu": {
+    "main": "Kupinza mitemo"
+  }
+}

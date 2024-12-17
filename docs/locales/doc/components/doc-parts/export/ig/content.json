@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Nhazi iwu mbupụ",
+    "explain": "Ibe a ga-egosipụta iwu gị niile dị Ị nwere ike mbupụ iwu na faịlụ mpaghara ma ọ bụ na klipbọọdụ.",
+    "unselectAll": "Kagbuo iwu ahọpụtara",
+    "selectAll": "Họrọ iwu niile",
+    "exportFile": "Bupụ iwu ahọpụtara na faịlụ",
+    "copyDataToClipboard": "Dee iwu ahọpụtara na klipbọọdụ",
+    "selectedRule": "Pịa ka ịhọrọ/ewepụ",
+    "selectedCode": "Koodu iwu ahọpụtara"
+  },
+  "menu": {
+    "main": "Iwu mbupụ"
+  }
+}

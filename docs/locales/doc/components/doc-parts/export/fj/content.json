@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Veivakarautaki ni lawa ni vakau",
+    "explain": "Na draunipepa oqo ena vakaraitaka na nomu lawa kece sa tu rawa E rawa ni o vakauta na lawa ki na dua na faile ni vanua se ki na papa ni volavola.",
+    "unselectAll": "Bokoca na lawa digitaki",
+    "selectAll": "Digitaka na lawa kece .",
+    "exportFile": "Vakauta na lawa digitaki ki na dua na faile",
+    "copyDataToClipboard": "Vola na lawa digitaki ki na papa ni volavola .",
+    "selectedRule": "Kiliki mo digitaka/vakasuka",
+    "selectedCode": "Kode ni lawa digitaki"
+  },
+  "menu": {
+    "main": "Lawa ni vakau"
+  }
+}

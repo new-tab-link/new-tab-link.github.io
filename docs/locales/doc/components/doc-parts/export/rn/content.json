@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Itegeko ryo gusohora hanze",
+    "explain": "Iyi paji izokwerekana amategeko yawe yose ariho Ushobora kwohereza amategeko muri dosiye yo mu karere canke mu gicapo.",
+    "unselectAll": "Gukuraho amategeko yatowe",
+    "selectAll": "Hitamwo amategeko yose",
+    "exportFile": "Gusohora amategeko yatowe muri dosiye",
+    "copyDataToClipboard": "Wandike amategeko yatowe ku kibaho",
+    "selectedRule": "Fyonda kugira uhitemwo/ugukuraho",
+    "selectedCode": "Kode y'itegeko yatowe"
+  },
+  "menu": {
+    "main": "Amategeko yo gushora hanze"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kuzana amategeko",
+    "fromHistory": "Kuzana mu mateka",
+    "pasteFromClipboard": "Shyira mububiko",
+    "loadExamples": "Gutanga ingero",
+    "unselectAll": "Kuraho amategeko yatoranijwe",
+    "selectAll": "Hitamo amategeko yose",
+    "use": "Kuzana amategeko",
+    "selectedRule": "Kanda kugirango uhitemo / guhitamo"
+  },
+  "menu": {
+    "main": "Kuzana amategeko"
+  }
+}

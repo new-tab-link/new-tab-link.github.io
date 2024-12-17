@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Tsarin ƙa'idar fitarwa",
+    "explain": "Wannan shafin zai nuna duk dokokin da kake da su Za ka iya fitar da dokokin zuwa fayil na gida ko zuwa allon allo.",
+    "unselectAll": "Soke zaɓaɓɓun dokoki",
+    "selectAll": "Zaɓi duk dokoki",
+    "exportFile": "Fitar da zaɓaɓɓun dokoki zuwa fayil",
+    "copyDataToClipboard": "Rubuta dokokin da aka zaɓa zuwa allon allo",
+    "selectedRule": "Danna don zaɓar/cire",
+    "selectedCode": "Lambar ƙa'ida da aka zaɓa"
+  },
+  "menu": {
+    "main": "Dokokin fitarwa"
+  }
+}

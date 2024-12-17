@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ekspordi reegli konfiguratsioon",
+    "explain": "Sellel lehel kuvatakse kõik teie olemasolevad reeglid. Reeglid saate eksportida kohalikku faili või lõikelauale.",
+    "unselectAll": "Tühista valitud reeglid",
+    "selectAll": "Valige kõik reeglid",
+    "exportFile": "Ekspordi valitud reeglid faili",
+    "copyDataToClipboard": "Kirjutage valitud reeglid lõikepuhvrisse",
+    "selectedRule": "Klõpsake valimiseks/valimise tühistamiseks",
+    "selectedCode": "Valitud reegli kood"
+  },
+  "menu": {
+    "main": "Ekspordireeglid"
+  }
+}

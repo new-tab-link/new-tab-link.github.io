@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kuralları içe aktar",
+    "fromHistory": "Geçmişten içe aktar",
+    "pasteFromClipboard": "Panodan yapıştır",
+    "loadExamples": "Örnekler yükleniyor",
+    "unselectAll": "Seçilen kuralları iptal et",
+    "selectAll": "Tüm kuralları seç",
+    "use": "Kuralları içe aktar",
+    "selectedRule": "Seçmek/seçimi kaldırmak için tıklayın"
+  },
+  "menu": {
+    "main": "Kuralları içe aktar"
+  }
+}

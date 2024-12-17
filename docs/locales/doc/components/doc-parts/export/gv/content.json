@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Reihys reill y chur magh",
+    "explain": "Ta'n duillag shoh soilshaghey ooilley ny recortyssyn t'ayd ry-hoi.",
+    "unselectAll": "Cur stiagh recortyssyn taghyrtagh",
+    "selectAll": "Taght ooilley ny recortyssyn",
+    "exportFile": "Reiltyssyn taghyrtagh y chur magh gys coadan",
+    "copyDataToClipboard": "Screeu ny recortyssyn taghyrtagh er y clipboard",
+    "selectedRule": "Click dy reih/dy reih",
+    "selectedCode": "Cood recortys reiht"
+  },
+  "menu": {
+    "main": "Reiltyssyn y chur magh"
+  }
+}

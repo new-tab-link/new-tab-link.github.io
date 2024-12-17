@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ekspòtasyon règ konfigirasyon",
+    "explain": "Paj sa a pral montre tout règ ki egziste deja ou yo. Ou ka ekspòte règ yo nan yon dosye lokal oswa nan clipboard la.",
+    "unselectAll": "Anile règ yo chwazi yo",
+    "selectAll": "Chwazi tout règ yo",
+    "exportFile": "Ekspòte règ yo chwazi nan yon dosye",
+    "copyDataToClipboard": "Ekri règ yo chwazi nan clipboard la",
+    "selectedRule": "Klike pou chwazi/deselection",
+    "selectedCode": "Kòd règ chwazi"
+  },
+  "menu": {
+    "main": "Règ ekspòtasyon"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Importación kamachinaka",
+    "fromHistory": "Sarnaqäwit apst’ata",
+    "pasteFromClipboard": "Ukaxa mä portapapeles ukankiwa",
+    "loadExamples": "Uñacht’äwinak apkatañataki",
+    "unselectAll": "Ajllit kamachinaka chhaqtayaña",
+    "selectAll": "Taqi kamachinaka ajlliñani",
+    "use": "Importación kamachinaka",
+    "selectedRule": "Ukaxa ajlliñawa/janiwa ajlliñatakiwa"
+  },
+  "menu": {
+    "main": "Importación kamachinaka"
+  }
+}

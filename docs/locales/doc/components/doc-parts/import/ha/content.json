@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Dokokin shigo da kaya",
+    "fromHistory": "Shigo daga tarihi",
+    "pasteFromClipboard": "Manna daga allo",
+    "loadExamples": "Ana loda misalai",
+    "unselectAll": "Soke zaɓaɓɓun dokoki",
+    "selectAll": "Zaɓi duk dokoki",
+    "use": "Dokokin shigo da kaya",
+    "selectedRule": "Danna don zaɓar/cire"
+  },
+  "menu": {
+    "main": "Dokokin shigo da kaya"
+  }
+}

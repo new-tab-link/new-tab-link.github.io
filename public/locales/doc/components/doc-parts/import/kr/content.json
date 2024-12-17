@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kaida'a awo ikkobe",
+    "fromHistory": "Gargamlan ikko",
+    "pasteFromClipboard": "Suro clipboardben tǝkkǝ",
+    "loadExamples": "Misallo tǝkǝ",
+    "unselectAll": "Kaida kartǝna dǝga dabne",
+    "selectAll": "Kaida samma karne",
+    "use": "Kaida'a awo ikkobe",
+    "selectedRule": "Kartǝ/kartǝ baro ratne"
+  },
+  "menu": {
+    "main": "Kaida'a awo ikkobe"
+  }
+}

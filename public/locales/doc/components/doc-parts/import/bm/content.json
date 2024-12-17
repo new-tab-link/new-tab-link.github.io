@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Import sariyaw",
+    "fromHistory": "Import ka bɔ tariku la",
+    "pasteFromClipboard": "Aw bɛ a nɔrɔ ka bɔ clipboard la",
+    "loadExamples": "Misaliw doni",
+    "unselectAll": "Sariya sugandilenw tiɲɛ",
+    "selectAll": "Sariyaw bɛɛ sugandi",
+    "use": "Import sariyaw",
+    "selectedRule": "A digi walasa ka sugandili/ɲɛnabɔli bɔ"
+  },
+  "menu": {
+    "main": "Import sariyaw"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Export sariya labɛnni",
+    "explain": "Nin ɲɛ in bɛna i ka sariyaw bɛɛ jira minnu bɛ yen I bɛ se ka sariyaw bila sigida dosiye dɔ kɔnɔ walima ka taa a bila clipboard kɔnɔ.",
+    "unselectAll": "Sariya sugandilenw tiɲɛ",
+    "selectAll": "Sariyaw bɛɛ sugandi",
+    "exportFile": "Sariya sugandilenw bila ka taa dosiye dɔ kɔnɔ",
+    "copyDataToClipboard": "Sariya sugandilenw sɛbɛn ka don sɛbɛnfura kɔnɔ",
+    "selectedRule": "A digi walasa ka sugandili/ɲɛnabɔli bɔ",
+    "selectedCode": "Sariya kode sugandilen"
+  },
+  "menu": {
+    "main": "Jagokɛlaw ka sariyaw"
+  }
+}

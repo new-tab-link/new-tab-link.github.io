@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ukuhlelwa komthetho wokuthumela ngaphandle",
+    "explain": "Ikhasi leli lizakutjengisa yoke imithetho yakho ekhona Ungathumela imithetho efayeleni lendawo nofana ebhodini lokunamathisela.",
+    "unselectAll": "Khansela imithetho ekhethiweko",
+    "selectAll": "Khetha yoke imithetho",
+    "exportFile": "Thumela imithetho ekhethiweko efayeleni",
+    "copyDataToClipboard": "Tlola imithetho oyikhethileko ebhodini lokunamathisela",
+    "selectedRule": "Tlika ukukhetha/ususa ukukhetha",
+    "selectedCode": "Ikhodi yomthetho okhethiweko"
+  },
+  "menu": {
+    "main": "Imithetho yokuthumela ngaphandle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Regles d'importació",
+    "fromHistory": "Importació de la història",
+    "pasteFromClipboard": "Enganxa des del porta-retalls",
+    "loadExamples": "Càrrega d'exemples",
+    "unselectAll": "Cancel·la les regles seleccionades",
+    "selectAll": "Seleccioneu totes les regles",
+    "use": "Regles d'importació",
+    "selectedRule": "Feu clic per seleccionar/desseleccionar"
+  },
+  "menu": {
+    "main": "Regles d'importació"
+  }
+}

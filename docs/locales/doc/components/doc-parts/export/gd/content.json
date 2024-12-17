@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Às-mhalairt riaghailt rèiteachadh",
+    "explain": "Bidh an duilleag seo a’ sealltainn na riaghailtean a th’ agad mu thràth.",
+    "unselectAll": "Sguir dheth na riaghailtean taghte",
+    "selectAll": "Tagh a h-uile riaghailt",
+    "exportFile": "Às-mhalairt riaghailtean taghte gu faidhle",
+    "copyDataToClipboard": "Sgrìobh na riaghailtean taghte chun a’ bhòrd bhidio",
+    "selectedRule": "Cliog gus a thaghadh / a dhì-thaghadh",
+    "selectedCode": "Còd riaghailt taghte"
+  },
+  "menu": {
+    "main": "Riaghailtean às-mhalairt"
+  }
+}

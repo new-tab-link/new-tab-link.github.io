@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "የማስመጣት ደንቦች",
+    "fromHistory": "ከታሪክ አስመጣ",
+    "pasteFromClipboard": "ከቅንጥብ ሰሌዳ ለጥፍ",
+    "loadExamples": "ምሳሌዎችን በመጫን ላይ",
+    "unselectAll": "የተመረጡ ደንቦችን ሰርዝ",
+    "selectAll": "ሁሉንም ደንቦች ይምረጡ",
+    "use": "የማስመጣት ደንቦች",
+    "selectedRule": "ለመምረጥ/ለመምረጥ ጠቅ ያድርጉ"
+  },
+  "menu": {
+    "main": "የማስመጣት ደንቦች"
+  }
+}

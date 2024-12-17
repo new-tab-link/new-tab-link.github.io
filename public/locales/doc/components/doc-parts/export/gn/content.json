@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Exportación regla ñembohekorã",
+    "explain": "Ko páhina ohechaukáta opaite ne rembiapoukapy oĩmava Ikatu reguerahauka umi tembiapoukapy peteĩ vore tetãmegua térã portapapeles-pe.",
+    "unselectAll": "Ombogue umi tembiapoukapy ojeporavóva",
+    "selectAll": "Eiporavo opaite tembiapoukapy",
+    "exportFile": "Eguerahauka umi tembiapoukapy ojeporavóva peteĩ vore’ípe",
+    "copyDataToClipboard": "Ehai umi tembiapoukapy ojeporavóva portapapeles-pe",
+    "selectedRule": "Emboguejy eiporavo/embogue hag̃ua",
+    "selectedCode": "Código regla ojeporavóva"
+  },
+  "menu": {
+    "main": "Umi regla exportación rehegua"
+  }
+}

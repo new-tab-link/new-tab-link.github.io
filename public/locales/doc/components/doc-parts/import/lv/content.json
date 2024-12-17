@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Importa noteikumi",
+    "fromHistory": "Importēt no vēstures",
+    "pasteFromClipboard": "Ielīmēt no starpliktuves",
+    "loadExamples": "Notiek piemēru ielāde",
+    "unselectAll": "Atcelt atlasītās kārtulas",
+    "selectAll": "Atlasiet visus noteikumus",
+    "use": "Importa noteikumi",
+    "selectedRule": "Noklikšķiniet, lai atlasītu/atceltu atlasi"
+  },
+  "menu": {
+    "main": "Importa noteikumi"
+  }
+}

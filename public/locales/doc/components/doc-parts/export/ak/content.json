@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Export mmara nhyehyɛe",
+    "explain": "Saa krataafa yi bɛkyerɛ wo mmara a ɛwɔ hɔ dedaw no nyinaa Wubetumi de mmara no akɔ fael a ɛwɔ wo mpɔtam hɔ anaasɛ akɔ clipboard no so.",
+    "unselectAll": "Twa mmara a woapaw no mu",
+    "selectAll": "Paw mmara nyinaa",
+    "exportFile": "Fa mmara a woapaw no kɔ fael bi mu",
+    "copyDataToClipboard": "Kyerɛw mmara a woapaw no kɔ clipboard no so",
+    "selectedRule": "Klik na paw/yi paw",
+    "selectedCode": "Mmara koodu a wɔapaw"
+  },
+  "menu": {
+    "main": "Mmara a ɛfa nneɛma a wɔde kɔ amannɔne ho"
+  }
+}

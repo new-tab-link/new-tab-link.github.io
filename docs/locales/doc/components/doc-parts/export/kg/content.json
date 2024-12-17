@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kuyidika nsiku ya kubasisa",
+    "explain": "Mukanda yayi ta monisa bansiku na nge yonso ya kele dezia Nge lenda tinda bansiku na kisika mosi to na kisika ya bo ke sonikaka mambu.",
+    "unselectAll": "Katula bansiku ya nge me pona",
+    "selectAll": "Pona bansiku yonso",
+    "exportFile": "Basisa bansiku ya nge me pona na kisika mosi",
+    "copyDataToClipboard": "Sonika bansiku ya nge me pona na tablo",
+    "selectedRule": "Fina sambu na kupona/kukatula",
+    "selectedCode": "Kode ya nsiku ya bo me pona"
+  },
+  "menu": {
+    "main": "Bansiku ya kubasisa"
+  }
+}

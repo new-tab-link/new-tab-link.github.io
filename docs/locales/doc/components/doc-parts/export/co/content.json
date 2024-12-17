@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Esporta a cunfigurazione di regula",
+    "explain": "Questa pagina mostrarà tutte e vostre regule esistenti Pudete esportà e regule in un schedariu locale o in u clipboard.",
+    "unselectAll": "Annulà e regule scelte",
+    "selectAll": "Selezziunà tutte e regule",
+    "exportFile": "Esporta e regule scelte in un schedariu",
+    "copyDataToClipboard": "Scrivite e regule scelte in u clipboard",
+    "selectedRule": "Cliccate per selezziunà / deselezzione",
+    "selectedCode": "U codice di regula sceltu"
+  },
+  "menu": {
+    "main": "Reguli d'esportazione"
+  }
+}

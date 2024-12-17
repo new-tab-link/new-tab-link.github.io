@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Exportregelconfiguratie",
+    "explain": "Deze pagina zal alle bestaonde regels weergeve. Geer kin de regels exportere nao un lokaal bestand of nao de klembord.",
+    "unselectAll": "Geselecteerde regels annulere",
+    "selectAll": "Selecteer alle regels",
+    "exportFile": "Exporteer geselecteerde regels nao un bestand",
+    "copyDataToClipboard": "Sjrijf de geselecteerde regels in de klembord",
+    "selectedRule": "Klik um te selectere/ontselectere",
+    "selectedCode": "Gekoze regelcode"
+  },
+  "menu": {
+    "main": "Exportregels"
+  }
+}

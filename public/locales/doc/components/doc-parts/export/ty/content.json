@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Tahoêraa ture no te faaru'e",
+    "explain": "E faaite teie api i ta outou mau ture atoa e vai ra E nehenehe ta outou e hapono i te mau ture i roto i te hoê kōnae o te fenua iho aore ra i ni'a i te tapura ereere.",
+    "unselectAll": "A faaore i te mau ture i ma'itihia",
+    "selectAll": "Ma'iti i te mau ture atoa",
+    "exportFile": "A tono i te mau ture i ma'itihia i roto i te hoê kōnae",
+    "copyDataToClipboard": "A papa'i i te mau ture i ma'itihia i ni'a i te tapura ereere",
+    "selectedRule": "Hi'opo'a no te ma'iti/faaru'e",
+    "selectedCode": "Te code ture i ma'itihia"
+  },
+  "menu": {
+    "main": "Te mau ture no te haponoraa"
+  }
+}

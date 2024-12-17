@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Export Regel Configuratioun",
+    "explain": "Dës Säit weist all Är existent Regelen Dir kënnt d'Regelen op eng lokal Datei oder op de Clipboard exportéieren.",
+    "unselectAll": "Ausgewielt Regelen annuléieren",
+    "selectAll": "Wielt all Regelen",
+    "exportFile": "Export ausgewielt Regelen zu engem Fichier",
+    "copyDataToClipboard": "Schreift déi gewielte Regelen op de Clipboard",
+    "selectedRule": "Klickt fir ze wielen/deselektioun",
+    "selectedCode": "Ausgewielt Regel Code"
+  },
+  "menu": {
+    "main": "Export Regelen"
+  }
+}

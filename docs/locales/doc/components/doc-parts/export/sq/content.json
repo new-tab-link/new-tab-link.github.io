@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Konfigurimi i rregullave të eksportit",
+    "explain": "Kjo faqe do të shfaqë të gjitha rregullat tuaja ekzistuese. Ju mund t'i eksportoni rregullat në një skedar lokal ose në clipboard.",
+    "unselectAll": "Anulo rregullat e zgjedhura",
+    "selectAll": "Zgjidhni të gjitha rregullat",
+    "exportFile": "Eksporto rregullat e zgjedhura në një skedar",
+    "copyDataToClipboard": "Shkruani rregullat e zgjedhura në kujtesën e fragmenteve",
+    "selectedRule": "Klikoni për të zgjedhur/zgjedhur",
+    "selectedCode": "Kodi i zgjedhur i rregullit"
+  },
+  "menu": {
+    "main": "Rregullat e eksportit"
+  }
+}

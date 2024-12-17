@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Importregler",
+    "fromHistory": "Importer fra historie",
+    "pasteFromClipboard": "Indsæt fra udklipsholder",
+    "loadExamples": "Indlæser eksempler",
+    "unselectAll": "Annuller valgte regler",
+    "selectAll": "Vælg alle regler",
+    "use": "Importregler",
+    "selectedRule": "Klik for at vælge/fravælge"
+  },
+  "menu": {
+    "main": "Importregler"
+  }
+}

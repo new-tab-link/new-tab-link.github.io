@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "qaîdeyên Import",
+    "fromHistory": "Import ji dîrokê",
+    "pasteFromClipboard": "Ji clipboardê bixin",
+    "loadExamples": "Mînakên barkirinê",
+    "unselectAll": "Qaîdeyên hilbijartî betal bikin",
+    "selectAll": "Hemî qaîdeyan hilbijêrin",
+    "use": "qaîdeyên Import",
+    "selectedRule": "Bikirtînin ku hilbijêrin/hilbijêrin"
+  },
+  "menu": {
+    "main": "qaîdeyên Import"
+  }
+}

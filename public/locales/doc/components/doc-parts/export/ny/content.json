@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kukonzekera kwa malamulo a kunja",
+    "explain": "Tsambali liwonetsa malamulo anu onse omwe alipo Mungathe kutumiza malamulowo ku fayilo yapafupi kapena pa bolodi.",
+    "unselectAll": "Letsani malamulo osankhidwa",
+    "selectAll": "Sankhani malamulo onse",
+    "exportFile": "Tumizani malamulo osankhidwa ku fayilo",
+    "copyDataToClipboard": "Lembani malamulo osankhidwa pa bolodi",
+    "selectedRule": "Dinani kuti musankhe/musasankhe",
+    "selectedCode": "Malamulo osankhidwa"
+  },
+  "menu": {
+    "main": "Malamulo otumiza kunja"
+  }
+}

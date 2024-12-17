@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Uvozna pravila",
+    "fromHistory": "Uvoz iz zgodovine",
+    "pasteFromClipboard": "Prilepi iz odložišča",
+    "loadExamples": "Nalaganje primerov",
+    "unselectAll": "Prekliči izbrana pravila",
+    "selectAll": "Izberite vsa pravila",
+    "use": "Uvozna pravila",
+    "selectedRule": "Kliknite za izbiro/preklic izbire"
+  },
+  "menu": {
+    "main": "Uvozna pravila"
+  }
+}

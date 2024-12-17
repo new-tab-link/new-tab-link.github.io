@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Importo taisyklės",
+    "fromHistory": "Importas iš istorijos",
+    "pasteFromClipboard": "Įklijuoti iš mainų srities",
+    "loadExamples": "Įkeliami pavyzdžiai",
+    "unselectAll": "Atšaukti pasirinktas taisykles",
+    "selectAll": "Pasirinkite visas taisykles",
+    "use": "Importo taisyklės",
+    "selectedRule": "Spustelėkite norėdami pasirinkti / panaikinti pasirinkimą"
+  },
+  "menu": {
+    "main": "Importo taisyklės"
+  }
+}

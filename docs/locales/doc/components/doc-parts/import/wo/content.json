@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Regle yu indi",
+    "fromHistory": "Yobbu ci jaar-jaar",
+    "pasteFromClipboard": "Teg ko ci clipboard bi",
+    "loadExamples": "Yobbu misaal",
+    "unselectAll": "Fomm sàrt yiñ tànn",
+    "selectAll": "Tannal sàrt yépp",
+    "use": "Regle yu indi",
+    "selectedRule": "Bësal ngir tànn/defar"
+  },
+  "menu": {
+    "main": "Regle yu indi"
+  }
+}

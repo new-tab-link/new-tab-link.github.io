@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Règlas d'importacion",
+    "fromHistory": "Importacion de l'istoric",
+    "pasteFromClipboard": "Pegar dempuèi lo quichapapièrs",
+    "loadExamples": "En cargament d'exemples",
+    "unselectAll": "Anullar las règlas seleccionadas",
+    "selectAll": "Seleccionatz totas las règlas",
+    "use": "Règlas d'importacion",
+    "selectedRule": "Clicatz per seleccionar/desseleccionar"
+  },
+  "menu": {
+    "main": "Règlas d'importacion"
+  }
+}

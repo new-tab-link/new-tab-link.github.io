@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Tabbu sàrtu génne",
+    "explain": "Xët wii dafay wane sàrt yi fi nekk yépp Mën nga yóbbu sàrt yi ci benn fichier wala ci clipboard bi.",
+    "unselectAll": "Fomm sàrt yiñ tànn",
+    "selectAll": "Tannal sàrt yépp",
+    "exportFile": "Exporter sàrt yiñ tànn ci benn fichier",
+    "copyDataToClipboard": "Bindal sàrt yi nga tànn ci clipboard bi",
+    "selectedRule": "Bësal ngir tànn/defar",
+    "selectedCode": "Kodu sàrt biñ tànn"
+  },
+  "menu": {
+    "main": "Ay sàrti génne"
+  }
+}

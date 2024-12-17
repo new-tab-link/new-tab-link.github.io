@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Rheolau mewnforio",
+    "fromHistory": "Mewnforio o hanes",
+    "pasteFromClipboard": "Gludo o'r clipfwrdd",
+    "loadExamples": "Wrthi'n llwytho enghreifftiau",
+    "unselectAll": "Canslo rheolau dethol",
+    "selectAll": "Dewiswch yr holl reolau",
+    "use": "Rheolau mewnforio",
+    "selectedRule": "Cliciwch i ddewis/dad-ddewis"
+  },
+  "menu": {
+    "main": "Rheolau mewnforio"
+  }
+}

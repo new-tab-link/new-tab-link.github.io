@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Rialacha allmhairithe",
+    "fromHistory": "Iompórtáil ón stair",
+    "pasteFromClipboard": "Greamaigh ón ngearrthaisce",
+    "loadExamples": "samplaí á lódáil",
+    "unselectAll": "Cealaigh na rialacha roghnaithe",
+    "selectAll": "Roghnaigh na rialacha go léir",
+    "use": "Rialacha allmhairithe",
+    "selectedRule": "Cliceáil chun a roghnú / a dhíroghnú"
+  },
+  "menu": {
+    "main": "Rialacha allmhairithe"
+  }
+}

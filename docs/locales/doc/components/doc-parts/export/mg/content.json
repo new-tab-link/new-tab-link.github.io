@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Fanondranana fitsipika fanondranana",
+    "explain": "Ity pejy ity dia hampiseho ny fitsipika misy anao Azonao atao ny manondrana ny fitsipika amin'ny rakitra eo an-toerana na amin'ny takelaka.",
+    "unselectAll": "Foana ny fitsipika voafantina",
+    "selectAll": "Safidio ny fitsipika rehetra",
+    "exportFile": "Manondrana fitsipika voafantina amina rakitra",
+    "copyDataToClipboard": "Soraty amin'ny solaitrabe ireo fitsipika voafantina",
+    "selectedRule": "Kitiho raha hisafidy/ tsy hisafidy",
+    "selectedCode": "Kaody fitsipika voafantina"
+  },
+  "menu": {
+    "main": "Fitsipika fanondranana"
+  }
+}

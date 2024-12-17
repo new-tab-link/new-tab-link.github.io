@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Tuontisäännöt",
+    "fromHistory": "Tuonti historiasta",
+    "pasteFromClipboard": "Liitä leikepöydältä",
+    "loadExamples": "Ladataan esimerkkejä",
+    "unselectAll": "Peruuta valitut säännöt",
+    "selectAll": "Valitse kaikki säännöt",
+    "use": "Tuontisäännöt",
+    "selectedRule": "Valitse / poista valinta napsauttamalla"
+  },
+  "menu": {
+    "main": "Tuontisäännöt"
+  }
+}

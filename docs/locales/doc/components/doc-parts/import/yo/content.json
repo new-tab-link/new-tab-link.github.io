@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Awọn ofin agbewọle",
+    "fromHistory": "Gbe wọle lati itan",
+    "pasteFromClipboard": "Lẹẹmọ lati agekuru agekuru",
+    "loadExamples": "Awọn apẹẹrẹ ikojọpọ",
+    "unselectAll": "Fagilee awọn ofin ti o yan",
+    "selectAll": "Yan gbogbo awọn ofin",
+    "use": "Awọn ofin agbewọle",
+    "selectedRule": "Tẹ lati yan/fi yan"
+  },
+  "menu": {
+    "main": "Awọn ofin agbewọle"
+  }
+}

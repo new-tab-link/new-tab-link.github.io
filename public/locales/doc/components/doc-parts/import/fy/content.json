@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ymportearje regels",
+    "fromHistory": "Ymportearje út skiednis",
+    "pasteFromClipboard": "Plak fan klamboerd",
+    "loadExamples": "Foarbylden laden",
+    "unselectAll": "Ofbrekke selektearre regels",
+    "selectAll": "Selektearje alle regels",
+    "use": "Ymportearje regels",
+    "selectedRule": "Klikje om te selektearjen/deselektearje"
+  },
+  "menu": {
+    "main": "Ymportearje regels"
+  }
+}

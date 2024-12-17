@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Règ enpòte",
+    "fromHistory": "Enpòte soti nan listwa",
+    "pasteFromClipboard": "Kole soti nan clipboard",
+    "loadExamples": "Chaje egzanp",
+    "unselectAll": "Anile règ yo chwazi yo",
+    "selectAll": "Chwazi tout règ yo",
+    "use": "Règ enpòte",
+    "selectedRule": "Klike pou chwazi/deselection"
+  },
+  "menu": {
+    "main": "Règ enpòte"
+  }
+}

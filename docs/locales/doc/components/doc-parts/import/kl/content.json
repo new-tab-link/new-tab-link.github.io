@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Tunisassiornermut malittarisassat",
+    "fromHistory": "Oqaluttuarisaanermiit tunisassiorneq",
+    "pasteFromClipboard": "Klipbordimiit ikkukkit",
+    "loadExamples": "Assersuutit ilanngullugit",
+    "unselectAll": "Maleruagassat toqqarneqarsimasut unitsiguk",
+    "selectAll": "Maleruagassat tamarmik toqqarlugit",
+    "use": "Tunisassiornermut malittarisassat",
+    "selectedRule": "Toqqarniarlugu/toqqartinniarlugu tooruk"
+  },
+  "menu": {
+    "main": "Tunisassiornermut malittarisassat"
+  }
+}

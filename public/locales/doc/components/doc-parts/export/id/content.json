@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Konfigurasi aturan ekspor",
+    "explain": "Halaman ini akan menampilkan semua aturan yang ada. Anda dapat mengekspor aturan ke file lokal atau ke clipboard.",
+    "unselectAll": "Batalkan aturan yang dipilih",
+    "selectAll": "Pilih semua aturan",
+    "exportFile": "Ekspor aturan yang dipilih ke file",
+    "copyDataToClipboard": "Tulis aturan yang dipilih ke clipboard",
+    "selectedRule": "Klik untuk memilih/membatalkan pilihan",
+    "selectedCode": "Kode aturan yang dipilih"
+  },
+  "menu": {
+    "main": "Aturan ekspor"
+  }
+}

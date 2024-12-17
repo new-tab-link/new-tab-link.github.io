@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Thumela ubumbeko lomgaqo",
+    "explain": "Eli phepha liza kubonisa yonke imithetho yakho ekhoyo Uyakwazi ukurhweba ngaphandle imithetho kwifayile yendawo okanye kwibhodi eqhotyoshwayo.",
+    "unselectAll": "Rhoxisa imithetho ekhethiweyo",
+    "selectAll": "Khetha yonke imigaqo",
+    "exportFile": "Thumela ngaphandle imithetho ekhethiweyo kwifayile",
+    "copyDataToClipboard": "Bhala imithetho ekhethiweyo kwibhodi eqhotyoshwayo",
+    "selectedRule": "Cofa ukukhetha/ukungakhethi",
+    "selectedCode": "Ikhowudi yomthetho ekhethiweyo"
+  },
+  "menu": {
+    "main": "Imithetho yokuthumela ngaphandle"
+  }
+}

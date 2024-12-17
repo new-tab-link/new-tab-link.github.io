@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Import düzgünleri",
+    "fromHistory": "Taryhdan import",
+    "pasteFromClipboard": "Buferden goýuň",
+    "loadExamples": "Mysallary ýüklemek",
+    "unselectAll": "Saýlanan düzgünleri ýatyryň",
+    "selectAll": "Ruleshli düzgünleri saýlaň",
+    "use": "Import düzgünleri",
+    "selectedRule": "Saýlamak / aýyrmak üçin basyň"
+  },
+  "menu": {
+    "main": "Import düzgünleri"
+  }
+}

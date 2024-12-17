@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Eksport düzgüniniň konfigurasiýasy",
+    "explain": "Bu sahypa bar bolan düzgünleriňizi görkezer. Düzgünleri ýerli faýla ýa-da bufer tagtasyna eksport edip bilersiňiz.",
+    "unselectAll": "Saýlanan düzgünleri ýatyryň",
+    "selectAll": "Ruleshli düzgünleri saýlaň",
+    "exportFile": "Saýlanan düzgünleri bir faýla eksport ediň",
+    "copyDataToClipboard": "Saýlanan düzgünleri gysgaça ýazyň",
+    "selectedRule": "Saýlamak / aýyrmak üçin basyň",
+    "selectedCode": "Saýlanan düzgün kody"
+  },
+  "menu": {
+    "main": "Eksport düzgünleri"
+  }
+}

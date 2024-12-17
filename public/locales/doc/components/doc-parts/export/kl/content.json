@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Export-regel-ip aaqqissuunneqarnera",
+    "explain": "Qupperneq una malittarisassat pioreersut tamarmik takutinneqassapput Maleruagassat najukkami filimut imaluunniit clipboardimut exportersinnaavatit.",
+    "unselectAll": "Maleruagassat toqqarneqarsimasut unitsiguk",
+    "selectAll": "Maleruagassat tamarmik toqqarlugit",
+    "exportFile": "Maleruagassat toqqarneqarsimasut filimut export-erlugit",
+    "copyDataToClipboard": "Maleruagassat toqqarneqarsimasut clipboardimut allattukkit",
+    "selectedRule": "Toqqarniarlugu/toqqartinniarlugu tooruk",
+    "selectedCode": "Regelkode toqqarneqarsimasoq"
+  },
+  "menu": {
+    "main": "Avammut tuniniaanermut malittarisassat"
+  }
+}

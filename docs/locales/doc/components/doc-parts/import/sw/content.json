@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Sheria za kuagiza",
+    "fromHistory": "Ingiza kutoka kwa historia",
+    "pasteFromClipboard": "Bandika kutoka kwenye ubao wa kunakili",
+    "loadExamples": "Inapakia mifano",
+    "unselectAll": "Ghairi sheria zilizochaguliwa",
+    "selectAll": "Chagua sheria zote",
+    "use": "Sheria za kuagiza",
+    "selectedRule": "Bofya ili kuchagua/kuondoa"
+  },
+  "menu": {
+    "main": "Sheria za kuagiza"
+  }
+}

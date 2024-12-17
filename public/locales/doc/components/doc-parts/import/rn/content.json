@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Amategeko yo kwinjiza hanze",
+    "fromHistory": "Gukuramwo ibintu bivuye muri kahise",
+    "pasteFromClipboard": "Gushiramwo uhereye ku kibaho",
+    "loadExamples": "Gushiramwo ingero",
+    "unselectAll": "Gukuraho amategeko yatowe",
+    "selectAll": "Hitamwo amategeko yose",
+    "use": "Amategeko yo kwinjiza hanze",
+    "selectedRule": "Fyonda kugira uhitemwo/ugukuraho"
+  },
+  "menu": {
+    "main": "Amategeko yo kwinjiza hanze"
+  }
+}

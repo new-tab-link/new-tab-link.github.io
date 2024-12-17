@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "インポートルール",
+    "fromHistory": "履歴からインポート",
+    "pasteFromClipboard": "クリップボードから貼り付け",
+    "loadExamples": "ロード例",
+    "unselectAll": "選択したルールをキャンセルします",
+    "selectAll": "すべてのルールを選択します",
+    "use": "インポートルール",
+    "selectedRule": "クリックして選択/選択解除"
+  },
+  "menu": {
+    "main": "インポートルール"
+  }
+}

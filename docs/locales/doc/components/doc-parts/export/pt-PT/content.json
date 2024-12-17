@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Exportar configuração de regras",
+    "explain": "Esta página irá apresentar todas as suas regras existentes.",
+    "unselectAll": "Cancelar regras selecionadas",
+    "selectAll": "Selecione todas as regras",
+    "exportFile": "Exportar regras selecionadas para um ficheiro",
+    "copyDataToClipboard": "Grave as regras selecionadas na área de transferência",
+    "selectedRule": "Clique para selecionar/desmarcar",
+    "selectedCode": "Código de regra selecionado"
+  },
+  "menu": {
+    "main": "Regras de exportação"
+  }
+}

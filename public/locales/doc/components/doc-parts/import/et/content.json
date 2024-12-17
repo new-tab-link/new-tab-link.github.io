@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Impordireeglid",
+    "fromHistory": "Import ajaloost",
+    "pasteFromClipboard": "Kleebi lõikelaualt",
+    "loadExamples": "Näidete laadimine",
+    "unselectAll": "Tühista valitud reeglid",
+    "selectAll": "Valige kõik reeglid",
+    "use": "Impordireeglid",
+    "selectedRule": "Klõpsake valimiseks/valimise tühistamiseks"
+  },
+  "menu": {
+    "main": "Impordireeglid"
+  }
+}

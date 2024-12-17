@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "I-export ang configuration ng panuntunan",
+    "explain": "Ipapakita ng page na ito ang lahat ng iyong umiiral na panuntunan Maaari mong i-export ang mga panuntunan sa isang lokal na file o sa clipboard.",
+    "unselectAll": "Kanselahin ang mga napiling panuntunan",
+    "selectAll": "Piliin ang lahat ng panuntunan",
+    "exportFile": "I-export ang mga napiling panuntunan sa isang file",
+    "copyDataToClipboard": "Isulat ang mga napiling panuntunan sa clipboard",
+    "selectedRule": "I-click upang piliin/alisin sa pagkakapili",
+    "selectedCode": "Napiling code ng panuntunan"
+  },
+  "menu": {
+    "main": "Mga panuntunan sa pag-export"
+  }
+}

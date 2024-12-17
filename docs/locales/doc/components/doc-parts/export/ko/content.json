@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "규칙 구성 내보내기",
+    "explain": "이 페이지에는 기존 규칙이 모두 표시됩니다. 규칙을 로컬 파일이나 클립보드로 내보낼 수 있습니다.",
+    "unselectAll": "선택한 규칙 취소",
+    "selectAll": "모든 규칙 선택",
+    "exportFile": "선택한 규칙을 파일로 내보내기",
+    "copyDataToClipboard": "선택한 규칙을 클립보드에 씁니다.",
+    "selectedRule": "선택/선택 취소하려면 클릭하세요.",
+    "selectedCode": "선택된 규칙 코드"
+  },
+  "menu": {
+    "main": "내보내기 규칙"
+  }
+}

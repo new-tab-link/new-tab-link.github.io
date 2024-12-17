@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Vie sääntömääritykset",
+    "explain": "Tämä sivu näyttää kaikki olemassa olevat säännöt. Voit viedä säännöt paikalliseen tiedostoon tai leikepöydälle.",
+    "unselectAll": "Peruuta valitut säännöt",
+    "selectAll": "Valitse kaikki säännöt",
+    "exportFile": "Vie valitut säännöt tiedostoon",
+    "copyDataToClipboard": "Kirjoita valitut säännöt leikepöydälle",
+    "selectedRule": "Valitse / poista valinta napsauttamalla",
+    "selectedCode": "Valittu sääntökoodi"
+  },
+  "menu": {
+    "main": "Vientisäännöt"
+  }
+}

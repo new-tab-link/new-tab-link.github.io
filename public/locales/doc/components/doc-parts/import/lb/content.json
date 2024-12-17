@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Import Regelen",
+    "fromHistory": "Import vun der Geschicht",
+    "pasteFromClipboard": "Paste vum Clipboard",
+    "loadExamples": "Lued Beispiller",
+    "unselectAll": "Ausgewielt Regelen annuléieren",
+    "selectAll": "Wielt all Regelen",
+    "use": "Import Regelen",
+    "selectedRule": "Klickt fir ze wielen/deselektioun"
+  },
+  "menu": {
+    "main": "Import Regelen"
+  }
+}

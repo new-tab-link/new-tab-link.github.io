@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Thulaganyo ya molao wa thomelontle",
+    "explain": "Tsebe e e tla bontsha melao yotlhe ya gago e e leng teng O ka romela melao kwa ntle kwa faeleng ya selegae kgotsa kwa lebokosong la peeletso.",
+    "unselectAll": "Khansela melao e e tlhophilweng",
+    "selectAll": "Tlhopha melao yotlhe",
+    "exportFile": "Romela ntle melao e e tlhophilweng mo faeleng",
+    "copyDataToClipboard": "Kwala melao e e tlhophilweng mo pepelotsong",
+    "selectedRule": "Tobetsa go tlhopha/phimola tlhopho",
+    "selectedCode": "Khoutu ya molao e e tlhophilweng"
+  },
+  "menu": {
+    "main": "Melao ya thomelontle"
+  }
+}

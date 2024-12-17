@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Qindaa'ina seera al-ergii",
+    "explain": "Fuulli kun seerota kee jiran hunda ni agarsiisa Seerota gara faayilii naannootti ykn gara gabatee mukaatti erguu dandeessa.",
+    "unselectAll": "Seerota filataman haqi",
+    "selectAll": "Seerota hunda filadhu",
+    "exportFile": "Seerota filataman gara faayilii ergi",
+    "copyDataToClipboard": "Seerota filataman gara gabatee mukaatti barreessi",
+    "selectedRule": "Filachuu/filachuu dhiisuuf cuqaasi",
+    "selectedCode": "Koodii seeraa filatame"
+  },
+  "menu": {
+    "main": "Seera al-ergii"
+  }
+}

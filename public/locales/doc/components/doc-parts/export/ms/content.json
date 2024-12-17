@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Konfigurasi peraturan eksport",
+    "explain": "Halaman ini akan memaparkan semua peraturan sedia ada anda. Anda boleh mengeksport peraturan ke fail setempat atau ke papan keratan.",
+    "unselectAll": "Batalkan peraturan yang dipilih",
+    "selectAll": "Pilih semua peraturan",
+    "exportFile": "Eksport peraturan yang dipilih ke fail",
+    "copyDataToClipboard": "Tulis peraturan yang dipilih pada papan keratan",
+    "selectedRule": "Klik untuk memilih/nyahpilih",
+    "selectedCode": "Kod peraturan yang dipilih"
+  },
+  "menu": {
+    "main": "Peraturan eksport"
+  }
+}

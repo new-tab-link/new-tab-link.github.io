@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Reiltyssyn import",
+    "fromHistory": "Import veih tashtey",
+    "pasteFromClipboard": "Past veih board-clip",
+    "loadExamples": "Loading eishtaghyn",
+    "unselectAll": "Cur stiagh recortyssyn taghyrtagh",
+    "selectAll": "Taght ooilley ny recortyssyn",
+    "use": "Reiltyssyn import",
+    "selectedRule": "Click dy reih/dy reih"
+  },
+  "menu": {
+    "main": "Reiltyssyn import"
+  }
+}

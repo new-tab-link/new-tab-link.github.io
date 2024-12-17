@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Iroh yawqih madqah rikkisso",
+    "explain": "Ta gali kok tanih tan madqooqi inkih aybulleele atu madqooqi baaxoh addah faayil akkek kilipborxi fan rubtam duddah.",
+    "unselectAll": "Doorimte madqooqi duuga",
+    "selectAll": "Inkih tan madqooqi meexa",
+    "exportFile": "doorimte madqooqi siba fan eyyeq",
+    "copyDataToClipboard": "doorimte madqooqi garuq luucih fiirisa",
+    "selectedRule": "dooroonuh/dooro baysoonuh xukkuta",
+    "selectedCode": "Doorimte madqah bedu"
+  },
+  "menu": {
+    "main": "Iroh yawqih madqooqi"
+  }
+}

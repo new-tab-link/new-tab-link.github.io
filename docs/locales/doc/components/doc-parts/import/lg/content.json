@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Amateeka agafuga okuyingiza ebintu mu ggwanga",
+    "fromHistory": "Okuyingiza okuva mu byafaayo",
+    "pasteFromClipboard": "Teeka okuva ku clipboard",
+    "loadExamples": "Okutikka ebyokulabirako",
+    "unselectAll": "Sazaamu amateeka agalondeddwa",
+    "selectAll": "Londa amateeka gonna",
+    "use": "Amateeka agafuga okuyingiza ebintu mu ggwanga",
+    "selectedRule": "Nywa okulonda/okuggyawo okulonda"
+  },
+  "menu": {
+    "main": "Amateeka agafuga okuyingiza ebintu mu ggwanga"
+  }
+}

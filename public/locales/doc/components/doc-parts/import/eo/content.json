@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Reguloj de importo",
+    "fromHistory": "Importi el historio",
+    "pasteFromClipboard": "Algluu el tondujo",
+    "loadExamples": "Ŝargado de ekzemploj",
+    "unselectAll": "Nuligi elektitajn regulojn",
+    "selectAll": "Elektu ĉiujn regulojn",
+    "use": "Reguloj de importo",
+    "selectedRule": "Klaku por elekti/malelekti"
+  },
+  "menu": {
+    "main": "Reguloj de importo"
+  }
+}

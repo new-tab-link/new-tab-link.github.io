@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Eksport qoidasi konfiguratsiyasi",
+    "explain": "Bu sahifada barcha mavjud qoidalar ko'rsatiladi. Siz qoidalarni mahalliy faylga yoki vaqtinchalik xotiraga eksport qilishingiz mumkin.",
+    "unselectAll": "Tanlangan qoidalarni bekor qilish",
+    "selectAll": "Barcha qoidalarni tanlang",
+    "exportFile": "Tanlangan qoidalarni faylga eksport qiling",
+    "copyDataToClipboard": "Tanlangan qoidalarni vaqtinchalik xotiraga yozing",
+    "selectedRule": "Tanlash/bekor qilish uchun bosing",
+    "selectedCode": "Tanlangan qoida kodi"
+  },
+  "menu": {
+    "main": "Eksport qoidalari"
+  }
+}

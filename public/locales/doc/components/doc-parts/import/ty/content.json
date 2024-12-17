@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Te mau ture",
+    "fromHistory": "Te mau mea faufaa mai roto mai i te aamu",
+    "pasteFromClipboard": "Haapipi'i i ni'a i te tapura ereere",
+    "loadExamples": "Te mau hi'oraa",
+    "unselectAll": "A faaore i te mau ture i ma'itihia",
+    "selectAll": "Ma'iti i te mau ture atoa",
+    "use": "Te mau ture",
+    "selectedRule": "Hi'opo'a no te ma'iti/faaru'e"
+  },
+  "menu": {
+    "main": "Te mau ture"
+  }
+}

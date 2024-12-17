@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ensengeka y'etteeka ly'okufulumya ebweru",
+    "explain": "Omuko guno gujja kulaga amateeka go gonna agaliwo Osobola okufulumya amateeka mu fayiro ya wano oba ku clipboard.",
+    "unselectAll": "Sazaamu amateeka agalondeddwa",
+    "selectAll": "Londa amateeka gonna",
+    "exportFile": "Fulumya amateeka agalondeddwa mu fayiro",
+    "copyDataToClipboard": "Wandiika amateeka agalondeddwa ku clipboard",
+    "selectedRule": "Nywa okulonda/okuggyawo okulonda",
+    "selectedCode": "Koodi y'amateeka erongooseddwa"
+  },
+  "menu": {
+    "main": "Amateeka agafuga okutunda ebweru w’eggwanga"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ffurfweddiad rheol allforio",
+    "explain": "Bydd y dudalen hon yn dangos eich holl reolau presennol. Gallwch allforio'r rheolau i ffeil leol neu i'r clipfwrdd.",
+    "unselectAll": "Canslo rheolau dethol",
+    "selectAll": "Dewiswch yr holl reolau",
+    "exportFile": "Allforio rheolau dethol i ffeil",
+    "copyDataToClipboard": "Ysgrifennwch y rheolau a ddewiswyd i'r clipfwrdd",
+    "selectedRule": "Cliciwch i ddewis/dad-ddewis",
+    "selectedCode": "Cod rheol a ddewiswyd"
+  },
+  "menu": {
+    "main": "Rheolau allforio"
+  }
+}

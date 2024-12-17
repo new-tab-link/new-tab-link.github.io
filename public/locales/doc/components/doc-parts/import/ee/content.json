@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Se siwo ku ɖe nusiwo wotsɔ tso duta vɛ ŋu",
+    "fromHistory": "Nusiwo wotsɔ tso ŋutinya me vɛ",
+    "pasteFromClipboard": "Kpee tso clipboard dzi",
+    "loadExamples": "Kpɔɖeŋuwo tsɔtsɔ de eme",
+    "unselectAll": "Te fli ɖe se siwo nètia me",
+    "selectAll": "Tia seawo katã",
+    "use": "Se siwo ku ɖe nusiwo wotsɔ tso duta vɛ ŋu",
+    "selectedRule": "Zi edzi be nàtia/ɖee ɖa"
+  },
+  "menu": {
+    "main": "Se siwo ku ɖe nusiwo wotsɔ tso duta vɛ ŋu"
+  }
+}

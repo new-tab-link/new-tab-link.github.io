@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Imithetho yokungenisa elizweni",
+    "fromHistory": "Ngenisa kwimbali",
+    "pasteFromClipboard": "Ncamathelisa kwibhodi eqhotyoshwayo",
+    "loadExamples": "Ilayisha imizekelo",
+    "unselectAll": "Rhoxisa imithetho ekhethiweyo",
+    "selectAll": "Khetha yonke imigaqo",
+    "use": "Imithetho yokungenisa elizweni",
+    "selectedRule": "Cofa ukukhetha/ukungakhethi"
+  },
+  "menu": {
+    "main": "Imithetho yokungenisa elizweni"
+  }
+}

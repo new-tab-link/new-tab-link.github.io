@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Melao ea kantle ho naha",
+    "fromHistory": "Kenya ho tsoa nalaneng",
+    "pasteFromClipboard": "Beha ho clipboard",
+    "loadExamples": "E kenya mehlala",
+    "unselectAll": "Hlakola melao e khethiloeng",
+    "selectAll": "Khetha melao eohle",
+    "use": "Melao ea kantle ho naha",
+    "selectedRule": "Tobetsa ho khetha/ho tlosa khetho"
+  },
+  "menu": {
+    "main": "Melao ea kantle ho naha"
+  }
+}

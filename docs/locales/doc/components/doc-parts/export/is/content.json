@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Útflutningsreglustillingar",
+    "explain": "Þessi síða mun sýna allar núverandi reglur þínar. Þú getur flutt reglurnar út í staðbundna skrá eða á klemmuspjaldið.",
+    "unselectAll": "Hætta við valdar reglur",
+    "selectAll": "Veldu allar reglur",
+    "exportFile": "Flytja út valdar reglur í skrá",
+    "copyDataToClipboard": "Skrifaðu valdar reglur á klemmuspjaldið",
+    "selectedRule": "Smelltu til að velja/afvelja",
+    "selectedCode": "Valinn reglukóði"
+  },
+  "menu": {
+    "main": "Útflutningsreglur"
+  }
+}

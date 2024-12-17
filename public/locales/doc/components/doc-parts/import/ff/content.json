@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kuule naatgol",
+    "fromHistory": "Naatde e daartol",
+    "pasteFromClipboard": "Paste gila e alluwal",
+    "loadExamples": "Yeruuji loowdi",
+    "unselectAll": "Woppu kuule cuɓaaɗe",
+    "selectAll": "Suɓo kuule ɗee kala",
+    "use": "Kuule naatgol",
+    "selectedRule": "Ɓoɗɗu ngam suɓaade/suɓaade"
+  },
+  "menu": {
+    "main": "Kuule naatgol"
+  }
+}

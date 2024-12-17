@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Configuration ya mibeko ya exportation",
+    "explain": "Lokasa oyo ekolakisa mibeko na yo nyonso oyo ezali Okoki kobimisa mibeko na fisyé ya esika to na tableau de bord.",
+    "unselectAll": "Annuler mibeko oyo oponi",
+    "selectAll": "Pona mibeko nyonso",
+    "exportFile": "Exporter mibeko oyo oponi na fichier",
+    "copyDataToClipboard": "Koma mibeko oyo oponi na tableau de bord",
+    "selectedRule": "Finá mpo na kopona/kolongola kopona",
+    "selectedCode": "Code ya mibeko oyo eponami"
+  },
+  "menu": {
+    "main": "Mibeko ya bobimisi biloko na mboka mopaya"
+  }
+}

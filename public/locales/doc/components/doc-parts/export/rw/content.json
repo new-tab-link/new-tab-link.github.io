@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ibicuruzwa byohereza hanze",
+    "explain": "Uru rupapuro ruzerekana amategeko yawe yose asanzwe Urashobora kohereza amategeko muri dosiye yaho cyangwa kuri clip clip.",
+    "unselectAll": "Kuraho amategeko yatoranijwe",
+    "selectAll": "Hitamo amategeko yose",
+    "exportFile": "Kohereza amategeko yatoranijwe muri dosiye",
+    "copyDataToClipboard": "Andika amategeko yatoranijwe kuri clip clip",
+    "selectedRule": "Kanda kugirango uhitemo / guhitamo",
+    "selectedCode": "Kode y'amategeko yatoranijwe"
+  },
+  "menu": {
+    "main": "Amategeko yohereza hanze"
+  }
+}

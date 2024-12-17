@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Eksportuoti taisyklės konfigūraciją",
+    "explain": "Šiame puslapyje bus rodomos visos esamos taisyklės. Taisykles galite eksportuoti į vietinį failą arba į mainų sritį.",
+    "unselectAll": "Atšaukti pasirinktas taisykles",
+    "selectAll": "Pasirinkite visas taisykles",
+    "exportFile": "Eksportuokite pasirinktas taisykles į failą",
+    "copyDataToClipboard": "Įrašykite pasirinktas taisykles į mainų sritį",
+    "selectedRule": "Spustelėkite norėdami pasirinkti / panaikinti pasirinkimą",
+    "selectedCode": "Pasirinktas taisyklės kodas"
+  },
+  "menu": {
+    "main": "Eksporto taisyklės"
+  }
+}

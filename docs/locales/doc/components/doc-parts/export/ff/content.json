@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Konfiguraasiyoŋ kuule yaltinnde",
+    "explain": "Oo hello hollirta ko kuule maa goodɗe ɗee kala Aɗa waawi yaltinde kuule ɗee e fiilde nokkuure walla e alluwal jokkorgal.",
+    "unselectAll": "Woppu kuule cuɓaaɗe",
+    "selectAll": "Suɓo kuule ɗee kala",
+    "exportFile": "Yeeytu kuule cuɓaaɗe e nder fiilde",
+    "copyDataToClipboard": "Winndu kuule cuɓaaɗe ɗee e lowre ndee",
+    "selectedRule": "Ɓoɗɗu ngam suɓaade/suɓaade",
+    "selectedCode": "Kod kuule cuɓaaɗe"
+  },
+  "menu": {
+    "main": "Kuule yaltinnde"
+  }
+}

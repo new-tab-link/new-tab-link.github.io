@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Export rule configuration",
+    "explain": "Peij in enaj kwalok aolep kakien ko am. Kwomaroñ export kakien ko ñan juon file ak ñan clipboard eo.",
+    "unselectAll": "Kanne kakien ko kar kãlete",
+    "selectAll": "Kālet aolep kakien ko",
+    "exportFile": "Kōtlok kakien ko kar kãlete ñan juon file",
+    "copyDataToClipboard": "Je kakien ko kar kãlete ñan clipboard eo",
+    "selectedRule": "Klik ñan kãlet/jab kãlet",
+    "selectedCode": "Kien eo kar kãlete"
+  },
+  "menu": {
+    "main": "Kien ko ñan wiakake"
+  }
+}

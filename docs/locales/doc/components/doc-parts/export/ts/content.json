@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ku lulamisiwa ka nawu wa ku rhumela ehandle",
+    "explain": "Tluka leri ri ta kombisa milawu ya wena hinkwayo leyi nga kona U nga rhumela milawu eka fayili ya laha kaya kumbe eka clipboard.",
+    "unselectAll": "Khansela milawu leyi hlawuriweke",
+    "selectAll": "Hlawula milawu hinkwayo",
+    "exportFile": "Rhumela milawu leyi hlawuriweke eka fayili",
+    "copyDataToClipboard": "Tsala milawu leyi hlawuriweke eka clipboard",
+    "selectedRule": "Click ku hlawula/deselect",
+    "selectedCode": "Khodi ya nawu leyi hlawuriweke"
+  },
+  "menu": {
+    "main": "Milawu ya ku rhumela ematikweni mambe"
+  }
+}

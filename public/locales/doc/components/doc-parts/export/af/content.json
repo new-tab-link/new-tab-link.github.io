@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Voer reëlkonfigurasie uit",
+    "explain": "Hierdie bladsy sal al jou bestaande reëls vertoon. Jy kan die reëls na 'n plaaslike lêer of na die knipbord uitvoer.",
+    "unselectAll": "Kanselleer geselekteerde reëls",
+    "selectAll": "Kies alle reëls",
+    "exportFile": "Voer geselekteerde reëls uit na 'n lêer",
+    "copyDataToClipboard": "Skryf die geselekteerde reëls na die knipbord",
+    "selectedRule": "Klik om te kies/ontkies",
+    "selectedCode": "Geselekteerde reëlkode"
+  },
+  "menu": {
+    "main": "Uitvoerreëls"
+  }
+}

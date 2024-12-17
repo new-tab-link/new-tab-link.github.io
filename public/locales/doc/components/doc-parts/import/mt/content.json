@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Regoli ta' importazzjoni",
+    "fromHistory": "Importazzjoni mill-istorja",
+    "pasteFromClipboard": "Pejst mill-clipboard",
+    "loadExamples": "Tagħbija ta' eżempji",
+    "unselectAll": "Ikkanċella r-regoli magħżula",
+    "selectAll": "Agħżel ir-regoli kollha",
+    "use": "Regoli ta' importazzjoni",
+    "selectedRule": "Ikklikkja biex tagħżel/tneħħi l-għażla"
+  },
+  "menu": {
+    "main": "Regoli ta' importazzjoni"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Reolennoù enporzhiañ",
+    "fromHistory": "Enporzhiañ diwar an istor",
+    "pasteFromClipboard": "Pegañ diwar ar c'hlipbord",
+    "loadExamples": "O kargañ skouerioù",
+    "unselectAll": "Nullañ ar reolennoù dibabet",
+    "selectAll": "Dibabit an holl reolennoù",
+    "use": "Reolennoù enporzhiañ",
+    "selectedRule": "Klikañ evit diuzañ/diziuzañ"
+  },
+  "menu": {
+    "main": "Reolennoù enporzhiañ"
+  }
+}

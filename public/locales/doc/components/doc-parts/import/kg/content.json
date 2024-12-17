@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Bansiku ya kukotisa",
+    "fromHistory": "Kukotisa na disolo ya luzingu",
+    "pasteFromClipboard": "Kanga katuka na clipboard",
+    "loadExamples": "Kutula bambandu",
+    "unselectAll": "Katula bansiku ya nge me pona",
+    "selectAll": "Pona bansiku yonso",
+    "use": "Bansiku ya kukotisa",
+    "selectedRule": "Fina sambu na kupona/kukatula"
+  },
+  "menu": {
+    "main": "Bansiku ya kukotisa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "whirihoranga ture kaweake",
+    "explain": "Ma tenei wharangi e whakaatu nga ture katoa ka taea e koe te kaweake i nga ture ki te konae rohe, ki te papatopenga ranei.",
+    "unselectAll": "Whakakorehia nga ture kua tohua",
+    "selectAll": "Tīpakohia ngā ture katoa",
+    "exportFile": "Kaweake i nga ture kua tohua ki tetahi konae",
+    "copyDataToClipboard": "Tuhia nga ture kua tohua ki te papatopenga",
+    "selectedRule": "Pāwhiri ki te tīpako/whakakore",
+    "selectedCode": "Waehere ture kua tohua"
+  },
+  "menu": {
+    "main": "Ture kaweake"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Konfiguracija pravila izvoza",
+    "explain": "Ova će stranica prikazati sva vaša postojeća pravila. Pravila možete izvesti u lokalnu datoteku ili međuspremnik.",
+    "unselectAll": "Otkaži odabrana pravila",
+    "selectAll": "Odaberite sva pravila",
+    "exportFile": "Izvoz odabranih pravila u datoteku",
+    "copyDataToClipboard": "Zapišite odabrana pravila u međuspremnik",
+    "selectedRule": "Pritisnite za odabir/poništavanje odabira",
+    "selectedCode": "Odabrani kod pravila"
+  },
+  "menu": {
+    "main": "Pravila izvoza"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Cumraíocht riail easpórtála",
+    "explain": "Taispeánfaidh an leathanach seo na rialacha atá agat cheana féin. Is féidir leat na rialacha a onnmhairiú go comhad áitiúil nó chuig an ngearrthaisce.",
+    "unselectAll": "Cealaigh na rialacha roghnaithe",
+    "selectAll": "Roghnaigh na rialacha go léir",
+    "exportFile": "Easpórtáil na rialacha roghnaithe go comhad",
+    "copyDataToClipboard": "Scríobh na rialacha roghnaithe chuig an ngearrthaisce",
+    "selectedRule": "Cliceáil chun a roghnú / a dhíroghnú",
+    "selectedCode": "Cód riail roghnaithe"
+  },
+  "menu": {
+    "main": "Rialacha onnmhairithe"
+  }
+}

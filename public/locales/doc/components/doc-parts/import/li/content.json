@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Importregels",
+    "fromHistory": "Importeer oet de gesjiedenis",
+    "pasteFromClipboard": "Plak vaan klembord",
+    "loadExamples": "Veurbeelde lade",
+    "unselectAll": "Geselecteerde regels annulere",
+    "selectAll": "Selecteer alle regels",
+    "use": "Importregels",
+    "selectedRule": "Klik um te selectere/ontselectere"
+  },
+  "menu": {
+    "main": "Importregels"
+  }
+}

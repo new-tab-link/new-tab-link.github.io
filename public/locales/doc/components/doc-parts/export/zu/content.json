@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Thumela ukulungiselelwa komthetho",
+    "explain": "Leli khasi lizobonisa yonke imithetho yakho ekhona. Ungakwazi ukuthekelisa imithetho kufayela lendawo noma ebhodini lokunamathisela.",
+    "unselectAll": "Khansela imithetho ekhethiwe",
+    "selectAll": "Khetha yonke imithetho",
+    "exportFile": "Khipha imithetho ekhethiwe kufayela",
+    "copyDataToClipboard": "Bhala imithetho ekhethiwe ebhodini lokunamathisela",
+    "selectedRule": "Chofoza ukuze ukhethe/ungakhethi",
+    "selectedCode": "Ikhodi yomthetho ekhethiwe"
+  },
+  "menu": {
+    "main": "Imithetho yokuthekelisa"
+  }
+}

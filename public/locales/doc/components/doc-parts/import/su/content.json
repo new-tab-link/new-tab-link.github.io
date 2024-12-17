@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Aturan impor",
+    "fromHistory": "Impor tina sajarah",
+    "pasteFromClipboard": "Témpél tina clipboard",
+    "loadExamples": "Ngamuat conto",
+    "unselectAll": "Ngabolaykeun aturan dipilih",
+    "selectAll": "Pilih sadaya aturan",
+    "use": "Aturan impor",
+    "selectedRule": "Klik pikeun milih / ngabatalkeun milih"
+  },
+  "menu": {
+    "main": "Aturan impor"
+  }
+}

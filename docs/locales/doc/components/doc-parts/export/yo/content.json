@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Okeere ofin iṣeto ni",
+    "explain": "Oju-iwe yii yoo ṣe afihan gbogbo awọn ofin ti o wa tẹlẹ O le okeere awọn ofin si faili agbegbe tabi si agekuru.",
+    "unselectAll": "Fagilee awọn ofin ti o yan",
+    "selectAll": "Yan gbogbo awọn ofin",
+    "exportFile": "Ṣe okeere awọn ofin ti o yan si faili kan",
+    "copyDataToClipboard": "Kọ awọn ofin ti o yan si agekuru",
+    "selectedRule": "Tẹ lati yan/fi yan",
+    "selectedCode": "Ti yan koodu ofin"
+  },
+  "menu": {
+    "main": "okeere ofin"
+  }
+}

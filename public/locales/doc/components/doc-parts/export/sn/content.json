@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Export mutemo configuration",
+    "explain": "Iri peji richaratidza yako yese mitemo iripo.",
+    "unselectAll": "Kanzura mitemo yakasarudzwa",
+    "selectAll": "Sarudza mitemo yose",
+    "exportFile": "Tumira kunze mitemo yakasarudzwa kune faira",
+    "copyDataToClipboard": "Nyora mitemo yakasarudzwa kune clipboard",
+    "selectedRule": "Dzvanya kuti usarudze/kusasarudza",
+    "selectedCode": "Yakasarudzwa mutemo kodhi"
+  },
+  "menu": {
+    "main": "Export mitemo"
+  }
+}

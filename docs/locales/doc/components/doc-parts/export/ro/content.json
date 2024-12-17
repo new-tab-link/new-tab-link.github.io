@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Exportați configurația regulilor",
+    "explain": "Această pagină va afișa toate regulile existente. Puteți exporta regulile într-un fișier local sau în clipboard.",
+    "unselectAll": "Anulați regulile selectate",
+    "selectAll": "Selectați toate regulile",
+    "exportFile": "Exportați regulile selectate într-un fișier",
+    "copyDataToClipboard": "Scrieți regulile selectate în clipboard",
+    "selectedRule": "Faceți clic pentru a selecta/deselecta",
+    "selectedCode": "Codul de regulă selectat"
+  },
+  "menu": {
+    "main": "Reguli de export"
+  }
+}

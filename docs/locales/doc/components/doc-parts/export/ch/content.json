@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Konfigurasion i lai put i ma'ekspåkta",
+    "explain": "Este na pahina para u fanue' todu i lai siha ni' esta gaige. Siña un na'huyong i lai siha para un file lokkue' pat para i clipboard.",
+    "unselectAll": "Kansela i ma selekta na lai siha",
+    "selectAll": "Na'i todu i lai siha",
+    "exportFile": "Na'huyong i ma selekta na lai siha para un file",
+    "copyDataToClipboard": "tuge' i ma selekta na lai siha gi i clipboard",
+    "selectedRule": "Påcha' para un selekta/na'suha",
+    "selectedCode": "I ma'ayek na lai"
+  },
+  "menu": {
+    "main": "I lai siha put i ma'ekspåtta"
+  }
+}

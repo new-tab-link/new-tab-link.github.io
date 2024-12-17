@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kaida lardə diyabero sutuluwuna",
+    "explain": "Warak adəye kaidawa mbeji sammaso fəlejin Raktə kaidawadəga fail fatobero au clipboardro sutuluyin.",
+    "unselectAll": "Kaida kartǝna dǝga dabne",
+    "selectAll": "Kaida samma karne",
+    "exportFile": "Kaida kartənadə failro sutuluwu",
+    "copyDataToClipboard": "Kaida kartənadə ruwotə clipboardro",
+    "selectedRule": "Kartǝ/kartǝ baro ratne",
+    "selectedCode": "Lamba doka kartǝna"
+  },
+  "menu": {
+    "main": "Kaida'a lardə diyayero sutuluwuna"
+  }
+}

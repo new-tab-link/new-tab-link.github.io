@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Veavakirina qaîdeya Export",
+    "explain": "Ev rûpel dê hemî qaîdeyên weya heyî nîşan bide.",
+    "unselectAll": "Qaîdeyên hilbijartî betal bikin",
+    "selectAll": "Hemî qaîdeyan hilbijêrin",
+    "exportFile": "Rêgezên hilbijartî li pelek derxînin",
+    "copyDataToClipboard": "Rêgezên hilbijartî li ser clipboardê binivîsin",
+    "selectedRule": "Bikirtînin ku hilbijêrin/hilbijêrin",
+    "selectedCode": "Koda qaîdeya hilbijartî"
+  },
+  "menu": {
+    "main": "qaîdeyên Export"
+  }
+}

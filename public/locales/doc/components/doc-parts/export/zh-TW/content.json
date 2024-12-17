@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "匯出規則配置",
+    "explain": "該頁面會把您現有的規則都展現出來，您可以把規則匯出為本地文件，或匯出到剪切板。",
+    "unselectAll": "取消已選取的規則",
+    "selectAll": "選擇全部規則",
+    "exportFile": "把已選的規則匯出為文件",
+    "copyDataToClipboard": "把已選的規則寫入剪切板",
+    "selectedRule": "點選選擇/取消選擇",
+    "selectedCode": "已選擇的規則代碼"
+  },
+  "menu": {
+    "main": "導出規則"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Lawa ni vakacuru ilavo",
+    "fromHistory": "Kauta mai na itukutuku makawa",
+    "pasteFromClipboard": "Vakabira mai na papa ni volavola",
+    "loadExamples": "Na ivakaraitaki ni vakavodoki",
+    "unselectAll": "Bokoca na lawa digitaki",
+    "selectAll": "Digitaka na lawa kece .",
+    "use": "Lawa ni vakacuru ilavo",
+    "selectedRule": "Kiliki mo digitaka/vakasuka"
+  },
+  "menu": {
+    "main": "Lawa ni vakacuru ilavo"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Exportar a configuración da regra",
+    "explain": "Esta páxina mostrará todas as regras existentes. Podes exportar as regras a un ficheiro local ou ao portapapeis.",
+    "unselectAll": "Cancelar as regras seleccionadas",
+    "selectAll": "Seleccione todas as regras",
+    "exportFile": "Exportar as regras seleccionadas a un ficheiro",
+    "copyDataToClipboard": "Escribe as regras seleccionadas no portapapeis",
+    "selectedRule": "Fai clic para seleccionar/deseleccionar",
+    "selectedCode": "Código de regra seleccionado"
+  },
+  "menu": {
+    "main": "Regras de exportación"
+  }
+}

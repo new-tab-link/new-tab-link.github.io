@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Configuración de reglas de exportación",
+    "explain": "Esta página mostrará todas sus reglas existentes. Puede exportar las reglas a un archivo local o al portapapeles.",
+    "unselectAll": "Cancelar reglas seleccionadas",
+    "selectAll": "Seleccionar todas las reglas",
+    "exportFile": "Exportar reglas seleccionadas a un archivo",
+    "copyDataToClipboard": "Escribe las reglas seleccionadas en el portapapeles.",
+    "selectedRule": "Haga clic para seleccionar/deseleccionar",
+    "selectedCode": "Código de regla seleccionado"
+  },
+  "menu": {
+    "main": "Reglas de exportación"
+  }
+}

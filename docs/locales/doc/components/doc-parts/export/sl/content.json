@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Konfiguracija izvoznega pravila",
+    "explain": "Na tej strani bodo prikazana vsa vaša obstoječa pravila. Pravila lahko izvozite v lokalno datoteko ali v odložišče.",
+    "unselectAll": "Prekliči izbrana pravila",
+    "selectAll": "Izberite vsa pravila",
+    "exportFile": "Izvozi izbrana pravila v datoteko",
+    "copyDataToClipboard": "Zapišite izbrana pravila v odložišče",
+    "selectedRule": "Kliknite za izbiro/preklic izbire",
+    "selectedCode": "Izbrana koda pravila"
+  },
+  "menu": {
+    "main": "Izvozna pravila"
+  }
+}

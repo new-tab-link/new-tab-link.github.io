@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Importregler",
+    "fromHistory": "Importera från historiken",
+    "pasteFromClipboard": "Klistra in från urklipp",
+    "loadExamples": "Laddar exempel",
+    "unselectAll": "Avbryt valda regler",
+    "selectAll": "Välj alla regler",
+    "use": "Importregler",
+    "selectedRule": "Klicka för att välja/avmarkera"
+  },
+  "menu": {
+    "main": "Importregler"
+  }
+}

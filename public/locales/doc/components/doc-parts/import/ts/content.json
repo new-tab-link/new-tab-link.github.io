@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Milawu ya ku nghenisa etikweni",
+    "fromHistory": "Ku nghenisa ku suka eka matimu",
+    "pasteFromClipboard": "Namarheta ku suka eka clipboard",
+    "loadExamples": "Ku layicha swikombiso",
+    "unselectAll": "Khansela milawu leyi hlawuriweke",
+    "selectAll": "Hlawula milawu hinkwayo",
+    "use": "Milawu ya ku nghenisa etikweni",
+    "selectedRule": "Click ku hlawula/deselect"
+  },
+  "menu": {
+    "main": "Milawu ya ku nghenisa etikweni"
+  }
+}

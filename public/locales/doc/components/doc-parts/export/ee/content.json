@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Export se ƒe ɖoɖowɔwɔ",
+    "explain": "Axa sia aɖe wò se siwo katã li fifia afia Àte ŋu aɖo seawo ɖe teƒea ƒe faɛl alo ɖe clipboard la me.",
+    "unselectAll": "Te fli ɖe se siwo nètia me",
+    "selectAll": "Tia seawo katã",
+    "exportFile": "Ðe se siwo nètia la ɖe faɛl aɖe me",
+    "copyDataToClipboard": "Ŋlɔ se siwo nètia la ɖe clipboard la dzi",
+    "selectedRule": "Zi edzi be nàtia/ɖee ɖa",
+    "selectedCode": "Se ƒe kɔpi si wotia"
+  },
+  "menu": {
+    "main": "Se siwo ku ɖe nusiwo woatsɔ ayi duta ŋu"
+  }
+}

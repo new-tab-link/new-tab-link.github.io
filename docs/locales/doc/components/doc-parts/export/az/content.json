@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "İxrac qaydası konfiqurasiyası",
+    "explain": "Bu səhifə bütün mövcud qaydaları göstərəcək. Siz qaydaları yerli fayla və ya buferə ixrac edə bilərsiniz.",
+    "unselectAll": "Seçilmiş qaydaları ləğv edin",
+    "selectAll": "Bütün qaydaları seçin",
+    "exportFile": "Seçilmiş qaydaları fayla ixrac edin",
+    "copyDataToClipboard": "Seçilmiş qaydaları panoya yazın",
+    "selectedRule": "Seçmək/seçimi ləğv etmək üçün klikləyin",
+    "selectedCode": "Seçilmiş qayda kodu"
+  },
+  "menu": {
+    "main": "İxrac qaydaları"
+  }
+}

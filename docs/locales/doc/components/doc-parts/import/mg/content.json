@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Fitsipika fanafarana",
+    "fromHistory": "Manafatra avy amin'ny tantara",
+    "pasteFromClipboard": "Apetaho eo amin'ny solaitrabe",
+    "loadExamples": "Loading ohatra",
+    "unselectAll": "Foana ny fitsipika voafantina",
+    "selectAll": "Safidio ny fitsipika rehetra",
+    "use": "Fitsipika fanafarana",
+    "selectedRule": "Kitiho raha hisafidy/ tsy hisafidy"
+  },
+  "menu": {
+    "main": "Fitsipika fanafarana"
+  }
+}

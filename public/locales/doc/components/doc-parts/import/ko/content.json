@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "가져오기 규칙",
+    "fromHistory": "기록에서 가져오기",
+    "pasteFromClipboard": "클립보드에서 붙여넣기",
+    "loadExamples": "예제 로드 중",
+    "unselectAll": "선택한 규칙 취소",
+    "selectAll": "모든 규칙 선택",
+    "use": "가져오기 규칙",
+    "selectedRule": "선택/선택 취소하려면 클릭하세요."
+  },
+  "menu": {
+    "main": "가져오기 규칙"
+  }
+}

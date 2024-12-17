@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Eksporter regelkonfiguration",
+    "explain": "Denne side viser alle dine eksisterende regler. Du kan eksportere reglerne til en lokal fil eller til udklipsholderen.",
+    "unselectAll": "Annuller valgte regler",
+    "selectAll": "Vælg alle regler",
+    "exportFile": "Eksporter valgte regler til en fil",
+    "copyDataToClipboard": "Skriv de valgte regler til udklipsholderen",
+    "selectedRule": "Klik for at vælge/fravælge",
+    "selectedCode": "Valgt regelkode"
+  },
+  "menu": {
+    "main": "Eksportregler"
+  }
+}

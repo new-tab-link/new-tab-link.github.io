@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Peraturan import",
+    "fromHistory": "Import daripada sejarah",
+    "pasteFromClipboard": "Tampal dari papan keratan",
+    "loadExamples": "Memuatkan contoh",
+    "unselectAll": "Batalkan peraturan yang dipilih",
+    "selectAll": "Pilih semua peraturan",
+    "use": "Peraturan import",
+    "selectedRule": "Klik untuk memilih/nyahpilih"
+  },
+  "menu": {
+    "main": "Peraturan import"
+  }
+}

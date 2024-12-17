@@ -1,0 +1,10 @@
+{
+    "title":"导出规则配置",
+    "explain":"该页面会把您已有的规则都展现出来，您可以把规则导出为本地文件，或导出到剪切板。",
+    "unselectAll":"取消已选择的规则",
+    "selectAll":"选择全部规则",
+    "exportFile":"把已选的规则导出为文件",
+    "copyDataToClipboard":"把已选的规则写入剪切板",
+    "selectedRule":"单击选择/取消选择",
+    "selectedCode":"已选择的规则代码"
+}

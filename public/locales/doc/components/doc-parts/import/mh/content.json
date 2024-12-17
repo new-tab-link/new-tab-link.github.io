@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kien ko ñan bōktok",
+    "fromHistory": "Bōktok jen bwebwenato",
+    "pasteFromClipboard": "Paste jen clipboard",
+    "loadExamples": "Waanjoñak ko",
+    "unselectAll": "Kanne kakien ko kar kãlete",
+    "selectAll": "Kālet aolep kakien ko",
+    "use": "Kien ko ñan bōktok",
+    "selectedRule": "Klik ñan kãlet/jab kãlet"
+  },
+  "menu": {
+    "main": "Kien ko ñan bōktok"
+  }
+}

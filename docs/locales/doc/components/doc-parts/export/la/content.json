@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Configurationis regulae exportare",
+    "explain": "Haec pagina omnia praecepta tua exsistentia ostendet. Potes regulas ad lima localis vel ad clipboard exportare.",
+    "unselectAll": "Cancel lectus praecepta",
+    "selectAll": "Lego omnia praecepta",
+    "exportFile": "Electus regulas ad lima exportare",
+    "copyDataToClipboard": "Scribere lectus praecepta ad clipboard",
+    "selectedRule": "Click eligere / deselect",
+    "selectedCode": "Regula codice electus"
+  },
+  "menu": {
+    "main": "Regulas exportare"
+  }
+}

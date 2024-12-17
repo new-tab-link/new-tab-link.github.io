@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Rregullat e importit",
+    "fromHistory": "Importi nga historia",
+    "pasteFromClipboard": "Ngjit nga clipboard",
+    "loadExamples": "Duke ngarkuar shembuj",
+    "unselectAll": "Anulo rregullat e zgjedhura",
+    "selectAll": "Zgjidhni të gjitha rregullat",
+    "use": "Rregullat e importit",
+    "selectedRule": "Klikoni për të zgjedhur/zgjedhur"
+  },
+  "menu": {
+    "main": "Rregullat e importit"
+  }
+}

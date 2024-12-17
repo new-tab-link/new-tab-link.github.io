@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Quy tắc nhập khẩu",
+    "fromHistory": "Nhập từ lịch sử",
+    "pasteFromClipboard": "Dán từ clipboard",
+    "loadExamples": "Đang tải ví dụ",
+    "unselectAll": "Hủy quy tắc đã chọn",
+    "selectAll": "Chọn tất cả các quy tắc",
+    "use": "Quy tắc nhập khẩu",
+    "selectedRule": "Bấm để chọn/bỏ chọn"
+  },
+  "menu": {
+    "main": "Quy tắc nhập khẩu"
+  }
+}

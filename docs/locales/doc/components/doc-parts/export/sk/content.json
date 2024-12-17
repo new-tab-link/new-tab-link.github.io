@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Exportovať konfiguráciu pravidla",
+    "explain": "Táto stránka zobrazí všetky vaše existujúce pravidlá. Pravidlá môžete exportovať do lokálneho súboru alebo do schránky.",
+    "unselectAll": "Zrušiť vybrané pravidlá",
+    "selectAll": "Vyberte všetky pravidlá",
+    "exportFile": "Exportujte vybrané pravidlá do súboru",
+    "copyDataToClipboard": "Zapíšte vybrané pravidlá do schránky",
+    "selectedRule": "Kliknutím vyberte/zrušte výber",
+    "selectedCode": "Vybraný kód pravidla"
+  },
+  "menu": {
+    "main": "Pravidlá exportu"
+  }
+}

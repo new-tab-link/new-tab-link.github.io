@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Kuhleleka kwemtsetfo wekutfumela ngaphandle",
+    "explain": "Lelikhasi litawukhombisa yonkhe imitsetfo yakho lekhona Ungatfumela imitsetfo kufayela lendzawo noma ebhodini lekunamatsisela.",
+    "unselectAll": "Khansela imitsetfo lekhetsiwe",
+    "selectAll": "Khetsa yonkhe imitsetfo",
+    "exportFile": "Tfumela imitsetfo lekhetsiwe kufayela",
+    "copyDataToClipboard": "Bhala imitsetfo lekhetsiwe ebhodini lekunamatsisela .",
+    "selectedRule": "Chafata kute ukhetse/ususe kukhetsa",
+    "selectedCode": "Ikhodi yemtsetfo lekhetsiwe"
+  },
+  "menu": {
+    "main": "Imitsetfo yekutfumela ngaphandle"
+  }
+}

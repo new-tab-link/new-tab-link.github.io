@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Imithetho yokungenisa",
+    "fromHistory": "Ukungenisa okuvela emlandwini",
+    "pasteFromClipboard": "Namathisela ukusuka ebhodini lokunamathisela",
+    "loadExamples": "Ukulayisha iimbonelo",
+    "unselectAll": "Khansela imithetho ekhethiweko",
+    "selectAll": "Khetha yoke imithetho",
+    "use": "Imithetho yokungenisa",
+    "selectedRule": "Tlika ukukhetha/ususa ukukhetha"
+  },
+  "menu": {
+    "main": "Imithetho yokungenisa"
+  }
+}

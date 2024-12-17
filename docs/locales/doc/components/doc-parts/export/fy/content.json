@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Eksportearje regel konfiguraasje",
+    "explain": "Dizze side sil al jo besteande regels sjen litte Jo kinne de regels eksportearje nei in lokaal bestân of nei it klamboerd.",
+    "unselectAll": "Ofbrekke selektearre regels",
+    "selectAll": "Selektearje alle regels",
+    "exportFile": "Eksportearje selektearre regels nei in triem",
+    "copyDataToClipboard": "Skriuw de selektearre regels op it klamboerd",
+    "selectedRule": "Klikje om te selektearjen/deselektearje",
+    "selectedCode": "Selektearre regel koade"
+  },
+  "menu": {
+    "main": "Eksportearje regels"
+  }
+}

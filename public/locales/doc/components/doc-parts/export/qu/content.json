@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Hawaman apachiy kamachiy wakichiy",
+    "explain": "Kay p'anqaqa llapa kamachiyniykikunata rikuchinqa Kamachiykunata huk llaqta willañiqiman icha k'itipi kaqman hawaman apachiyta atinki.",
+    "unselectAll": "Akllasqa kamachiykunata chinkachiy",
+    "selectAll": "Llapan kamachiykunata akllay",
+    "exportFile": "Akllasqa kamachiykunata huk willañiqiman hawaman apachiy",
+    "copyDataToClipboard": "Akllasqa kamachiykunata qillqana mayt’uman qillqay",
+    "selectedRule": "Akllanaykipaq/mana akllanaykipaq ñitiy",
+    "selectedCode": "Akllasqa kamachiy qillqa"
+  },
+  "menu": {
+    "main": "Hawa llaqtakunaman apachiy kamachiykuna"
+  }
+}

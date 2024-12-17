@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Seera galtee",
+    "fromHistory": "Seenaa irraa galchi",
+    "pasteFromClipboard": "Kiliippii irraa maxxansi",
+    "loadExamples": "Fakkeenyota fe'aa jira",
+    "unselectAll": "Seerota filataman haqi",
+    "selectAll": "Seerota hunda filadhu",
+    "use": "Seera galtee",
+    "selectedRule": "Filachuu/filachuu dhiisuuf cuqaasi"
+  },
+  "menu": {
+    "main": "Seera galtee"
+  }
+}

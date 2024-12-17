@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Importálási szabályok",
+    "fromHistory": "Import a történelemből",
+    "pasteFromClipboard": "Beillesztés a vágólapról",
+    "loadExamples": "Példák betöltése",
+    "unselectAll": "Törölje a kiválasztott szabályokat",
+    "selectAll": "Válassza ki az összes szabályt",
+    "use": "Importálási szabályok",
+    "selectedRule": "Kattintson a kijelöléshez/kijelölés törléséhez"
+  },
+  "menu": {
+    "main": "Importálási szabályok"
+  }
+}

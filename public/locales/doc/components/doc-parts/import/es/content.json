@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Reglas de importación",
+    "fromHistory": "Importar desde la historia",
+    "pasteFromClipboard": "Pegar desde el portapapeles",
+    "loadExamples": "Cargando ejemplos",
+    "unselectAll": "Cancelar reglas seleccionadas",
+    "selectAll": "Seleccionar todas las reglas",
+    "use": "Reglas de importación",
+    "selectedRule": "Haga clic para seleccionar/deseleccionar"
+  },
+  "menu": {
+    "main": "Reglas de importación"
+  }
+}

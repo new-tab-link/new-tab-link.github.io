@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Exporta la configuració de la regla",
+    "explain": "Aquesta pàgina mostrarà totes les regles existents. Podeu exportar les regles a un fitxer local o al porta-retalls.",
+    "unselectAll": "Cancel·la les regles seleccionades",
+    "selectAll": "Seleccioneu totes les regles",
+    "exportFile": "Exporta les regles seleccionades a un fitxer",
+    "copyDataToClipboard": "Escriu les regles seleccionades al porta-retalls",
+    "selectedRule": "Feu clic per seleccionar/desseleccionar",
+    "selectedCode": "Codi de regla seleccionat"
+  },
+  "menu": {
+    "main": "Normes d'exportació"
+  }
+}

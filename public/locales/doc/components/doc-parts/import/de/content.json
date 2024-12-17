@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Regeln importieren",
+    "fromHistory": "Aus der Historie importieren",
+    "pasteFromClipboard": "Aus der Zwischenablage einfügen",
+    "loadExamples": "Beispiele werden geladen",
+    "unselectAll": "Ausgewählte Regeln aufheben",
+    "selectAll": "Wählen Sie alle Regeln aus",
+    "use": "Regeln importieren",
+    "selectedRule": "Klicken Sie zum Auswählen/Abwählen"
+  },
+  "menu": {
+    "main": "Regeln importieren"
+  }
+}

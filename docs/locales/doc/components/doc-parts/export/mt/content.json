@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Konfigurazzjoni tar-regola tal-esportazzjoni",
+    "explain": "Din il-paġna se turi r-regoli eżistenti kollha tiegħek. Tista' tesporta r-regoli f'fajl lokali jew fil-clipboard.",
+    "unselectAll": "Ikkanċella r-regoli magħżula",
+    "selectAll": "Agħżel ir-regoli kollha",
+    "exportFile": "Esportazzjoni tar-regoli magħżula għal fajl",
+    "copyDataToClipboard": "Ikteb ir-regoli magħżula fil-clipboard",
+    "selectedRule": "Ikklikkja biex tagħżel/tneħħi l-għażla",
+    "selectedCode": "Kodiċi tar-regola magħżula"
+  },
+  "menu": {
+    "main": "Regoli ta' esportazzjoni"
+  }
+}

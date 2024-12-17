@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Tlhophiso ea melao ea kantle ho naha",
+    "explain": "Leqephe lena le tla bonts'a melao eohle ea hau e teng O ka romella melao ho faele ea lehae kapa ho clipboard.",
+    "unselectAll": "Hlakola melao e khethiloeng",
+    "selectAll": "Khetha melao eohle",
+    "exportFile": "Romella melao e khethiloeng faeleng",
+    "copyDataToClipboard": "Ngola melao e khethiloeng ho clipboard",
+    "selectedRule": "Tobetsa ho khetha/ho tlosa khetho",
+    "selectedCode": "Khoutu ea molao e khethiloeng"
+  },
+  "menu": {
+    "main": "Melao ea kantle ho naha"
+  }
+}

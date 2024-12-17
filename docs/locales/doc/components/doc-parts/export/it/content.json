@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Esporta la configurazione delle regole",
+    "explain": "Questa pagina mostrerà tutte le regole esistenti. Puoi esportare le regole in un file locale o negli appunti.",
+    "unselectAll": "Annulla le regole selezionate",
+    "selectAll": "Seleziona tutte le regole",
+    "exportFile": "Esporta le regole selezionate in un file",
+    "copyDataToClipboard": "Scrive le regole selezionate negli appunti",
+    "selectedRule": "Fare clic per selezionare/deselezionare",
+    "selectedCode": "Codice regola selezionato"
+  },
+  "menu": {
+    "main": "Regole di esportazione"
+  }
+}

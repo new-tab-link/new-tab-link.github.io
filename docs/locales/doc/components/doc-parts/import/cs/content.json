@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Pravidla importu",
+    "fromHistory": "Import z historie",
+    "pasteFromClipboard": "Vložit ze schránky",
+    "loadExamples": "Načítání příkladů",
+    "unselectAll": "Zrušit vybraná pravidla",
+    "selectAll": "Vyberte všechna pravidla",
+    "use": "Pravidla importu",
+    "selectedRule": "Klepnutím vyberte/zrušte výběr"
+  },
+  "menu": {
+    "main": "Pravidla importu"
+  }
+}

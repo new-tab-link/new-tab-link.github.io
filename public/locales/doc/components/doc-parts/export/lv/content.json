@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Eksportēt kārtulas konfigurāciju",
+    "explain": "Šajā lapā tiks parādītas visas esošās kārtulas. Varat eksportēt kārtulas lokālā failā vai starpliktuvē.",
+    "unselectAll": "Atcelt atlasītās kārtulas",
+    "selectAll": "Atlasiet visus noteikumus",
+    "exportFile": "Eksportējiet atlasītās kārtulas failā",
+    "copyDataToClipboard": "Ierakstiet atlasītos noteikumus starpliktuvē",
+    "selectedRule": "Noklikšķiniet, lai atlasītu/atceltu atlasi",
+    "selectedCode": "Atlasītais kārtulas kods"
+  },
+  "menu": {
+    "main": "Eksporta noteikumi"
+  }
+}

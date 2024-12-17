@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Mga panuntunan sa pag-import",
+    "fromHistory": "Mag-import mula sa kasaysayan",
+    "pasteFromClipboard": "I-paste mula sa clipboard",
+    "loadExamples": "Naglo-load ng mga halimbawa",
+    "unselectAll": "Kanselahin ang mga napiling panuntunan",
+    "selectAll": "Piliin ang lahat ng panuntunan",
+    "use": "Mga panuntunan sa pag-import",
+    "selectedRule": "I-click upang piliin/alisin sa pagkakapili"
+  },
+  "menu": {
+    "main": "Mga panuntunan sa pag-import"
+  }
+}

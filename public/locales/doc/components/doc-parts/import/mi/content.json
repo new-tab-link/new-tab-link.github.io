@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Ture kawemai",
+    "fromHistory": "Kawemai mai i te hitori",
+    "pasteFromClipboard": "Whakapiri mai i te papatopenga",
+    "loadExamples": "Uta tauira",
+    "unselectAll": "Whakakorehia nga ture kua tohua",
+    "selectAll": "Tīpakohia ngā ture katoa",
+    "use": "Ture kawemai",
+    "selectedRule": "Pāwhiri ki te tīpako/whakakore"
+  },
+  "menu": {
+    "main": "Ture kawemai"
+  }
+}

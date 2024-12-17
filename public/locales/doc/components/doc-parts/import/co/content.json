@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Reguli di impurtazione",
+    "fromHistory": "Import da a storia",
+    "pasteFromClipboard": "Incolla da u clipboard",
+    "loadExamples": "Esempi di carica",
+    "unselectAll": "Annulà e regule scelte",
+    "selectAll": "Selezziunà tutte e regule",
+    "use": "Reguli di impurtazione",
+    "selectedRule": "Cliccate per selezziunà / deselezzione"
+  },
+  "menu": {
+    "main": "Reguli di impurtazione"
+  }
+}

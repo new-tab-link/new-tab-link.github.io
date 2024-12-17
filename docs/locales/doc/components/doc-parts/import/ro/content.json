@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Reguli de import",
+    "fromHistory": "Import din istorie",
+    "pasteFromClipboard": "Lipiți din clipboard",
+    "loadExamples": "Se încarcă exemple",
+    "unselectAll": "Anulați regulile selectate",
+    "selectAll": "Selectați toate regulile",
+    "use": "Reguli de import",
+    "selectedRule": "Faceți clic pentru a selecta/deselecta"
+  },
+  "menu": {
+    "main": "Reguli de import"
+  }
+}

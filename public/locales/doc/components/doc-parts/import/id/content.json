@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Aturan impor",
+    "fromHistory": "Impor dari sejarah",
+    "pasteFromClipboard": "Tempel dari papan klip",
+    "loadExamples": "Memuat contoh",
+    "unselectAll": "Batalkan aturan yang dipilih",
+    "selectAll": "Pilih semua aturan",
+    "use": "Aturan impor",
+    "selectedRule": "Klik untuk memilih/membatalkan pilihan"
+  },
+  "menu": {
+    "main": "Aturan impor"
+  }
+}

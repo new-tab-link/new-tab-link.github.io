@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Praecepta Import",
+    "fromHistory": "Importare ex historia",
+    "pasteFromClipboard": "Crustulum ex clipboard",
+    "loadExamples": "Loading exempla",
+    "unselectAll": "Cancel lectus praecepta",
+    "selectAll": "Lego omnia praecepta",
+    "use": "Praecepta Import",
+    "selectedRule": "Click eligere / deselect"
+  },
+  "menu": {
+    "main": "Praecepta Import"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Invoerreëls",
+    "fromHistory": "Voer in uit geskiedenis",
+    "pasteFromClipboard": "Plak vanaf knipbord",
+    "loadExamples": "Laai voorbeelde",
+    "unselectAll": "Kanselleer geselekteerde reëls",
+    "selectAll": "Kies alle reëls",
+    "use": "Invoerreëls",
+    "selectedRule": "Klik om te kies/ontkies"
+  },
+  "menu": {
+    "main": "Invoerreëls"
+  }
+}

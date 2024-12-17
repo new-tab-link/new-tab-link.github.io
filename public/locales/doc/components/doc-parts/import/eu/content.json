@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Inportazio-arauak",
+    "fromHistory": "Inportatu historiatik",
+    "pasteFromClipboard": "Itsatsi arbeletik",
+    "loadExamples": "Adibideak kargatzen",
+    "unselectAll": "Hautatutako arauak bertan behera utzi",
+    "selectAll": "Hautatu arau guztiak",
+    "use": "Inportazio-arauak",
+    "selectedRule": "Egin klik hautatzeko/deshautatzeko"
+  },
+  "menu": {
+    "main": "Inportazio-arauak"
+  }
+}

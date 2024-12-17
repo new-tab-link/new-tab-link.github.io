@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Imitsetfo yekungenisa",
+    "fromHistory": "Ngenisa kusuka emlandvweni",
+    "pasteFromClipboard": "Namatsisela kusuka ebhodini lekunamatsisela",
+    "loadExamples": "Kulayisha tibonelo",
+    "unselectAll": "Khansela imitsetfo lekhetsiwe",
+    "selectAll": "Khetsa yonkhe imitsetfo",
+    "use": "Imitsetfo yekungenisa",
+    "selectedRule": "Chafata kute ukhetse/ususe kukhetsa"
+  },
+  "menu": {
+    "main": "Imitsetfo yekungenisa"
+  }
+}

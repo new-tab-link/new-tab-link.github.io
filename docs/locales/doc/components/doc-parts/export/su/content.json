@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Konfigurasi aturan ékspor",
+    "explain": "Halaman ieu bakal ningalikeun sadaya aturan anjeun anu aya. Anjeun tiasa ngékspor aturan ka file lokal atanapi ka clipboard.",
+    "unselectAll": "Ngabolaykeun aturan dipilih",
+    "selectAll": "Pilih sadaya aturan",
+    "exportFile": "Ékspor aturan anu dipilih ka file",
+    "copyDataToClipboard": "Tulis aturan anu dipilih kana clipboard",
+    "selectedRule": "Klik pikeun milih / ngabatalkeun milih",
+    "selectedCode": "Kode aturan dipilih"
+  },
+  "menu": {
+    "main": "Aturan ékspor"
+  }
+}

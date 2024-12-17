@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Riaghailtean in-mhalairt",
+    "fromHistory": "In-mhalairt bho eachdraidh",
+    "pasteFromClipboard": "Paste bho clipboard",
+    "loadExamples": "A luchdadh a-nuas eisimpleirean",
+    "unselectAll": "Sguir dheth na riaghailtean taghte",
+    "selectAll": "Tagh a h-uile riaghailt",
+    "use": "Riaghailtean in-mhalairt",
+    "selectedRule": "Cliog gus a thaghadh / a dhì-thaghadh"
+  },
+  "menu": {
+    "main": "Riaghailtean in-mhalairt"
+  }
+}

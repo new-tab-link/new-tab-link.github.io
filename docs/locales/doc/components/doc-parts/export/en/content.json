@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Export rule configuration",
+    "explain": "This page will display all your existing rules. You can export the rules to a local file or to the clipboard.",
+    "unselectAll": "Cancel selected rules",
+    "selectAll": "Select all rules",
+    "exportFile": "Export selected rules to a file",
+    "copyDataToClipboard": "Write the selected rules to the clipboard",
+    "selectedRule": "Click to select/deselect",
+    "selectedCode": "Selected rule code"
+  },
+  "menu": {
+    "main": "Export rules"
+  }
+}

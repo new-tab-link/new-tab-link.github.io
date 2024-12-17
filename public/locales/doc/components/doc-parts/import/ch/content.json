@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "I lai siha put i inafekta",
+    "fromHistory": "Impot ginen i estoria",
+    "pasteFromClipboard": "Pega ginen i clipboard",
+    "loadExamples": "Manma'a'agang i ehemplo siha",
+    "unselectAll": "Kansela i ma selekta na lai siha",
+    "selectAll": "Na'i todu i lai siha",
+    "use": "I lai siha put i inafekta",
+    "selectedRule": "Påcha' para un selekta/na'suha"
+  },
+  "menu": {
+    "main": "I lai siha put i inafekta"
+  }
+}

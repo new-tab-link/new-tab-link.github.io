@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "Pravila uvoza",
+    "fromHistory": "Uvoz iz povijesti",
+    "pasteFromClipboard": "Zalijepi iz međuspremnika",
+    "loadExamples": "Učitavanje primjera",
+    "unselectAll": "Otkaži odabrana pravila",
+    "selectAll": "Odaberite sva pravila",
+    "use": "Pravila uvoza",
+    "selectedRule": "Pritisnite za odabir/poništavanje odabira"
+  },
+  "menu": {
+    "main": "Pravila uvoza"
+  }
+}

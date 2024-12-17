@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "導入規則",
+    "fromHistory": "從歷史記錄匯入",
+    "pasteFromClipboard": "從剪貼",
+    "loadExamples": "載入範例",
+    "unselectAll": "取消已選取的規則",
+    "selectAll": "選擇全部規則",
+    "use": "導入規則",
+    "selectedRule": "點選選擇/取消選擇"
+  },
+  "menu": {
+    "main": "導入規則"
+  }
+}

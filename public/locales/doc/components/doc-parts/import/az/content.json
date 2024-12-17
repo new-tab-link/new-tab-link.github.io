@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "İdxal qaydaları",
+    "fromHistory": "Tarixdən idxal",
+    "pasteFromClipboard": "Buferdən yapışdırın",
+    "loadExamples": "Nümunələr yüklənir",
+    "unselectAll": "Seçilmiş qaydaları ləğv edin",
+    "selectAll": "Bütün qaydaları seçin",
+    "use": "İdxal qaydaları",
+    "selectedRule": "Seçmək/seçimi ləğv etmək üçün klikləyin"
+  },
+  "menu": {
+    "main": "İdxal qaydaları"
+  }
+}
