@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Qoida ustuvorligini belgilang",
+    "drag": "Saralash uchun sudrab olib tashlang, yuqoridagi ustuvorliklardan foydalaning."
+  },
+  "menu": {
+    "main": "Qoidalarning ustunligi"
+  }
+}

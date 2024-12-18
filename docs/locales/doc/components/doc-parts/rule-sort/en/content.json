@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Set rule priority",
+    "drag": "Drag and drop to sort, use the priority matching above."
+  },
+  "menu": {
+    "main": "Rule precedence"
+  }
+}

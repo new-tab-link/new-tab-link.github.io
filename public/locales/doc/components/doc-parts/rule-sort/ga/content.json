@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Socraigh tosaíocht riail",
+    "drag": "Tarraing agus scaoil le sórtáil, bain úsáid as an meaitseáil tosaíochta thuas."
+  },
+  "menu": {
+    "main": "Riail tosaíocht"
+  }
+}

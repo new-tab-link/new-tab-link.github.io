@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Setați prioritatea regulii",
+    "drag": "Trageți și plasați pentru a sorta, utilizați potrivirea priorității de mai sus."
+  },
+  "menu": {
+    "main": "Precedenta regulii"
+  }
+}

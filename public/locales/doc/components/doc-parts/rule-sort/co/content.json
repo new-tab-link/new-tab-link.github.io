@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Stabbilisce a priorità di regula",
+    "drag": "Drag and drop to sort, use the priority matching above."
+  },
+  "menu": {
+    "main": "Precedimentu di regula"
+  }
+}

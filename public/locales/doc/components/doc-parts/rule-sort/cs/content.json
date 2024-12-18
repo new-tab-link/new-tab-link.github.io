@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Nastavte prioritu pravidla",
+    "drag": "Chcete-li třídit přetažením, použijte výše uvedenou prioritu."
+  },
+  "menu": {
+    "main": "Přednost pravidla"
+  }
+}

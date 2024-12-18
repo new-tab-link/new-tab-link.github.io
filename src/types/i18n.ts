@@ -9,6 +9,7 @@ import type doc__components__doc___parts__global___script from '../../i18n-raw/o
 import type doc__components__doc___parts__import from '../../i18n-raw/origin/components/doc-parts/import/content.json'
 import type doc__components__doc___parts__overview from '../../i18n-raw/origin/components/doc-parts/overview/content.json'
 import type doc__components__doc___parts__rule___method from '../../i18n-raw/origin/components/doc-parts/rule-method/content.json'
+import type doc__components__doc___parts__rule___sort from '../../i18n-raw/origin/components/doc-parts/rule-sort/content.json'
 import type doc__components__doc___parts__script___del___save___new from '../../i18n-raw/origin/components/doc-parts/script-del-save-new/content.json'
 import type doc__components__doc___parts__script___new from '../../i18n-raw/origin/components/doc-parts/script-new/content.json'
 import type doc__components__doc___parts__script___setting from '../../i18n-raw/origin/components/doc-parts/script-setting/content.json'
@@ -29,6 +30,7 @@ declare module 'i18next' {
       ["doc/components/doc-parts/import/content"]: typeof doc__components__doc___parts__import,
       ["doc/components/doc-parts/overview/content"]: typeof doc__components__doc___parts__overview,
       ["doc/components/doc-parts/rule-method/content"]: typeof doc__components__doc___parts__rule___method,
+      ["doc/components/doc-parts/rule-sort/content"]: typeof doc__components__doc___parts__rule___sort,
       ["doc/components/doc-parts/script-del-save-new/content"]: typeof doc__components__doc___parts__script___del___save___new,
       ["doc/components/doc-parts/script-new/content"]: typeof doc__components__doc___parts__script___new,
       ["doc/components/doc-parts/script-setting/content"]: typeof doc__components__doc___parts__script___setting,

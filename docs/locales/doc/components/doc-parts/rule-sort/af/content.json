@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Stel reëlprioriteit",
+    "drag": "Sleep en los om te sorteer, gebruik die prioriteitspassing hierbo."
+  },
+  "menu": {
+    "main": "Reël voorrang"
+  }
+}

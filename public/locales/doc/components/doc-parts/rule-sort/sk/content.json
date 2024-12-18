@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Nastavte prioritu pravidla",
+    "drag": "Presunutím myšou zoraďte, použite priraďovanie priority vyššie."
+  },
+  "menu": {
+    "main": "Prednosť pravidiel"
+  }
+}

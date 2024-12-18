@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Cakto përparësinë e rregullave",
+    "drag": "Zvarrit dhe lësho për ta renditur, përdor përputhjen e përparësisë më lart."
+  },
+  "menu": {
+    "main": "Përparësia e rregullit"
+  }
+}

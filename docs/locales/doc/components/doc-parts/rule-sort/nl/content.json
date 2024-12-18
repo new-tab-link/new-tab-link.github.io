@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Regelprioriteit instellen",
+    "drag": "Slepen en neerzetten om te sorteren, gebruik de prioriteitsmatching hierboven."
+  },
+  "menu": {
+    "main": "Voorrang van regels"
+  }
+}

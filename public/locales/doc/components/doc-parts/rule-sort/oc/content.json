@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Definir la prioritat de la règla",
+    "drag": "Arrossegatz e daissatz tombar per triar, utilizatz la correspondéncia de prioritats çai-sus."
+  },
+  "menu": {
+    "main": "Precedéncia de règla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Stilltu regluforgang",
+    "drag": "Dragðu og slepptu til að flokka, notaðu forgangssamsvörunina hér að ofan."
+  },
+  "menu": {
+    "main": "Regla forgang"
+  }
+}

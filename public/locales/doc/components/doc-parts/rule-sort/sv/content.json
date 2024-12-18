@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ställ in regelprioritet",
+    "drag": "Dra och släpp för att sortera, använd prioritetsmatchningen ovan."
+  },
+  "menu": {
+    "main": "Regel företräde"
+  }
+}

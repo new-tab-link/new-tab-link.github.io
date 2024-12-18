@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Nustatykite taisyklės prioritetą",
+    "drag": "Norėdami rūšiuoti, vilkite ir numeskite, naudokite pirmiau nurodytą prioritetų atitiktį."
+  },
+  "menu": {
+    "main": "Taisyklės pirmenybė"
+  }
+}

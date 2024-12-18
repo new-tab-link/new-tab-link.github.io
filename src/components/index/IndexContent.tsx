@@ -16,6 +16,7 @@ import { DocScriptNew } from "../doc-parts/script-new/script-new";
 import { DocScriptSetting } from "../doc-parts/script-setting/script-setting";
 import { DocExport } from "../doc-parts/export/DocExport";
 import { DocImport } from "../doc-parts/import/DocImport";
+import { DocRuleSort } from "../doc-parts/rule-sort/RuleSort";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -80,6 +81,7 @@ function LeftMenu() {
         <DocScriptSetting.Menu/>
         <DocExport.Menu/>
         <DocImport.Menu />
+        <DocRuleSort.Menu />
     </MenuContainer>
 }
 
@@ -128,6 +130,7 @@ export function IndexContent() {
                         <DocScriptSetting.Doc />
                         <DocExport.Doc />
                         <DocImport.Doc />
+                        <DocRuleSort.Doc />
                         {/* <MediaQuery /> */}
                     </div>
                 </Stack>

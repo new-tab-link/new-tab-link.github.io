@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Definir prioridade de regra",
+    "drag": "Arraste e largue para classificar, utilize a correspondência de prioridade acima."
+  },
+  "menu": {
+    "main": "Precedência de regra"
+  }
+}

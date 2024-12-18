@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Stel regelprioriteit yn",
+    "drag": "Sleep en drop om te sortearjen, brûk de boppesteande oerienkommende prioriteit."
+  },
+  "menu": {
+    "main": "Regel foarrang"
+  }
+}

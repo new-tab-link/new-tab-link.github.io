@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Stel de prioriteit vaan de regel in",
+    "drag": "Sleep en drop um te sortere, gebruuk de prioriteit euvereinsjtömming heibove."
+  },
+  "menu": {
+    "main": "Regel veurrang"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Estableix la prioritat de la regla",
+    "drag": "Arrossegueu i deixeu anar per ordenar, utilitzeu la concordança de prioritat anterior."
+  },
+  "menu": {
+    "main": "Precedència de la regla"
+  }
+}

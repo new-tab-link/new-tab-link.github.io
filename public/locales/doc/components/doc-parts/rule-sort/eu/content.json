@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ezarri arauen lehentasuna",
+    "drag": "Arrastatu eta jaregin ordenatzeko, erabili goiko lehentasunezko bat etortzea."
+  },
+  "menu": {
+    "main": "Arauen lehentasuna"
+  }
+}

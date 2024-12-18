@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Đặt mức độ ưu tiên của quy tắc",
+    "drag": "Kéo và thả để sắp xếp, sử dụng kết hợp ưu tiên ở trên."
+  },
+  "menu": {
+    "main": "Ưu tiên quy tắc"
+  }
+}

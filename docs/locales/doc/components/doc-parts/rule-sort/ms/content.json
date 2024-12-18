@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Tetapkan keutamaan peraturan",
+    "drag": "Seret dan lepas untuk mengisih, gunakan padanan keutamaan di atas."
+  },
+  "menu": {
+    "main": "Keutamaan peraturan"
+  }
+}

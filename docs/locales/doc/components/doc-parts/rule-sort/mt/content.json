@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Issettja l-prijorità tar-regola",
+    "drag": "Iddreggja u qiegħed biex issolvi, uża t-tqabbil ta' prijorità hawn fuq."
+  },
+  "menu": {
+    "main": "Preċedenza tar-regola"
+  }
+}

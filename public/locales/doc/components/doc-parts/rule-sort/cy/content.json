@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Gosod blaenoriaeth rheol",
+    "drag": "Llusgwch a gollwng i ddidoli, defnyddiwch y paru blaenoriaeth uchod."
+  },
+  "menu": {
+    "main": "Rheol flaenoriaeth"
+  }
+}

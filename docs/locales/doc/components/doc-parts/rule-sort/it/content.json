@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Imposta la priorità della regola",
+    "drag": "Trascina e rilascia per ordinare, utilizza la corrispondenza di priorità sopra."
+  },
+  "menu": {
+    "main": "Precedenza delle regole"
+  }
+}

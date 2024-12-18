@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Set reglu prioritet",
+    "drag": "Drag og slepp fyri at sortera, brúka prioritetssamsvar omanfyri."
+  },
+  "menu": {
+    "main": "Reglu forrætningur"
+  }
+}

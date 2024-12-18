@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Définir la priorité des règles",
+    "drag": "Glissez-déposez pour trier, utilisez la correspondance de priorité ci-dessus."
+  },
+  "menu": {
+    "main": "Priorité des règles"
+  }
+}

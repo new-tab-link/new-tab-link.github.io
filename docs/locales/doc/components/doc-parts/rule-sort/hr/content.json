@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Postavite prioritet pravila",
+    "drag": "Povucite i ispustite za sortiranje, upotrijebite gore navedeno podudaranje prioriteta."
+  },
+  "menu": {
+    "main": "Prednost pravila"
+  }
+}

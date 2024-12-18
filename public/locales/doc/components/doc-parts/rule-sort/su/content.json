@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Atur prioritas aturan",
+    "drag": "Séred tur teundeun pikeun nyortir, make prioritas cocog di luhur."
+  },
+  "menu": {
+    "main": "Aturan diutamakeun"
+  }
+}

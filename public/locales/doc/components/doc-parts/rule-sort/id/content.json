@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Tetapkan prioritas aturan",
+    "drag": "Seret dan lepas untuk mengurutkan, gunakan pencocokan prioritas di atas."
+  },
+  "menu": {
+    "main": "Prioritas aturan"
+  }
+}

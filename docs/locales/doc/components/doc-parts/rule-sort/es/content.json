@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Establecer prioridad de regla",
+    "drag": "Arrastre y suelte para ordenar, use la coincidencia de prioridad anterior."
+  },
+  "menu": {
+    "main": "Prioridad de reglas"
+  }
+}

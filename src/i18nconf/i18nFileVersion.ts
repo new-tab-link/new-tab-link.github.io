@@ -1,3 +1,3 @@
 
-    export const i18nFileVersion = "1734407173130"
+    export const i18nFileVersion = "1734494159770"
     

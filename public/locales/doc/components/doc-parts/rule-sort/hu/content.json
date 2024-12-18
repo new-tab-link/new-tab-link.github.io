@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Állítsa be a szabály prioritását",
+    "drag": "Húzással rendezheti, használja a fenti prioritásegyeztetést."
+  },
+  "menu": {
+    "main": "Szabály elsőbbsége"
+  }
+}

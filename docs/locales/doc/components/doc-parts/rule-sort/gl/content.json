@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Establece a prioridade da regra",
+    "drag": "Arrastra e solta para ordenar, utiliza a coincidencia de prioridades anterior."
+  },
+  "menu": {
+    "main": "Prelación da regra"
+  }
+}

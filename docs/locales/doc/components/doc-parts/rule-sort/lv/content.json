@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Iestatiet kārtulas prioritāti",
+    "drag": "Velciet un nometiet, lai kārtotu, izmantojiet iepriekš norādīto prioritāšu saskaņošanu."
+  },
+  "menu": {
+    "main": "Noteikumu prioritāte"
+  }
+}

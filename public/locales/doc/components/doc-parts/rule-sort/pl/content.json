@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Ustaw priorytet reguły",
+    "drag": "Przeciągnij i upuść, aby posortować, użyj powyższego dopasowywania priorytetów."
+  },
+  "menu": {
+    "main": "Pierwszeństwo reguły"
+  }
+}

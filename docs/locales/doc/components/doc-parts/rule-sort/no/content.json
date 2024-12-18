@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Angi regelprioritet",
+    "drag": "Dra og slipp for å sortere, bruk prioritetssamsvaret ovenfor."
+  },
+  "menu": {
+    "main": "Regel forrang"
+  }
+}

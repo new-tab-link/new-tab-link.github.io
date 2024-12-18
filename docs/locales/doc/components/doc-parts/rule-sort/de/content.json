@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Regelpriorität festlegen",
+    "drag": "Zum Sortieren per Drag-and-Drop verwenden. Verwenden Sie die obige Prioritätszuordnung."
+  },
+  "menu": {
+    "main": "Vorrang der Regel"
+  }
+}

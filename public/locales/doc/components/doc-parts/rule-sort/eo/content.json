@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Agordu regulprioritato",
+    "drag": "Trenu kaj faligi por ordigi, uzu la prioritatan kongruon supre."
+  },
+  "menu": {
+    "main": "Regulo prioritato"
+  }
+}

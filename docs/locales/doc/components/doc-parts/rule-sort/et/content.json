@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Määrake reegli prioriteet",
+    "drag": "Lohistage sortimiseks, kasutage ülaltoodud prioriteedi sobitamist."
+  },
+  "menu": {
+    "main": "Reegli ülimuslikkus"
+  }
+}

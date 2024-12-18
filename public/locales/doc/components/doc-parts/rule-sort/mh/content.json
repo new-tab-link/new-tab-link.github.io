@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Kōmman bwe kien eo en aorōk",
+    "drag": "Drag im jolok ñan kōllaajrake, kōjerbal priority matching eo ilōñ."
+  },
+  "menu": {
+    "main": "Rule precedence"
+  }
+}

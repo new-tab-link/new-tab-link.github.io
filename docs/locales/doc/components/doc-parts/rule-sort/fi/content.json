@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Aseta säännön prioriteetti",
+    "drag": "Lajittele vetämällä ja pudottamalla. Käytä yllä olevaa prioriteettihakua."
+  },
+  "menu": {
+    "main": "Säännön ensisijaisuus"
+  }
+}

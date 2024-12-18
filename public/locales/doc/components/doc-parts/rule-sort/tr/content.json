@@ -1,0 +1,9 @@
+{
+  "doc": {
+    "title": "Kural önceliğini ayarla",
+    "drag": "Sıralamak için sürükleyip bırakın, yukarıdaki öncelik eşleştirmesini kullanın."
+  },
+  "menu": {
+    "main": "Kural önceliği"
+  }
+}
