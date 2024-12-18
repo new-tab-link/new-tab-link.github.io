@@ -79,9 +79,9 @@ function LeftMenu() {
         <DocScriptDelSaveNew.Menu/>
         <DocScriptNew.Menu/>
         <DocScriptSetting.Menu/>
+        <DocRuleSort.Menu />
         <DocExport.Menu/>
         <DocImport.Menu />
-        <DocRuleSort.Menu />
     </MenuContainer>
 }
 
@@ -128,9 +128,9 @@ export function IndexContent() {
                         <DocScriptDelSaveNew.Doc />
                         <DocScriptNew.Doc />
                         <DocScriptSetting.Doc />
+                        <DocRuleSort.Doc />
                         <DocExport.Doc />
                         <DocImport.Doc />
-                        <DocRuleSort.Doc />
                         {/* <MediaQuery /> */}
                     </div>
                 </Stack>
