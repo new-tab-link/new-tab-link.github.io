@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "extern Servicer",
+    "description": "Wann Dir op e Link klickt, kënnt Dir den externen Service matdeelen datt e Link geklickt gouf. Dir kënnt dës Funktioun benotzen wann Dir de Browser muss änneren.",
+    "service": {
+      "title": "Dir braucht en externen Service fir dës Funktioun ëmzesetzen, mir bidden eng Beta Versioun vum Service",
+      "linkName": "Download Link",
+      "linkExplain": "Dir kënnt déi entspriechend Applikatioun eroflueden no dem Betribssystem deen Dir benotzt. Et ass net bestätegt datt et normalerweis ënner all Systemer lafen kann. Wann Dir Problemer stéisst, wann Dir d'Programméierungssprooch {{0}} versteet, kënnt Dir de Quellcode eroflueden an et selwer kompiléieren.",
+      "sourceLink": "Quellcode download"
+    },
+    "sendParams": {
+      "title": "Wann de Match geklickt gëtt, gëtt en Objet extern mat {{0}} geschéckt, mat de folgenden Attributer:",
+      "page": "D'Adress vun der aktueller Säit",
+      "link": "Klickt Link Adress"
+    }
+  },
+  "menu": {
+    "main": "extern Servicer"
+  }
+}

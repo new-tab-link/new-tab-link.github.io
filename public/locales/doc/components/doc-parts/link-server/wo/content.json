@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "sarwis yi ci biti",
+    "description": "Soo bësee ci benn lëkkalekaay, mën nga yëgal serwiisu biti ni dañu bës ci lëkkalekaay bi Mën nga jëfandikoo fonction bii soo bëggee soppi nawigatër bi nga bëgga nawigueer.",
+    "service": {
+      "title": "Danga soxla ab serwiis bu bawoo ci biti ngir mëna def liggéey bii, danu lay jox benn xeetu serwiis bu beta",
+      "linkName": "Lien ngir yebbi",
+      "linkExplain": "Mën nga yebbi aplikaasioŋ bi méngoo ak sistem bi ngay jëfandikoo. Firndewul ne mën na dox bu baax ci sistem yépp Soo daje ak ay jafe-jafe, sudee mën nga dégg làkku prograam bi {{0}}, man nga yebbi kodu cosaan bi te defar ko yaw ci sa bopp.",
+      "sourceLink": "Yebbi kodu cosaan"
+    },
+    "sendParams": {
+      "title": "Soo bësee ci méngoo, dina ñu yónnee ab mbir ci biti jëfandikoo {{0}}, mu am màndarga yii:",
+      "page": "Adres xët wi fi nekk",
+      "link": "Adres lëkkalekaay biñ bës"
+    }
+  },
+  "menu": {
+    "main": "sarwis yi ci biti"
+  }
+}

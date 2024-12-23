@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "misala ya libanda",
+    "description": "Ntango ozali kofina lien moko, okoki koyebisa service ya libanda ete lien moko ekangami Okoki kosalela fonction oyo soki osengeli kobongola navigateur mpo na kotala.",
+    "service": {
+      "title": "Oza na besoin ya service ya libanda pona ko mettre en œuvre fonction oyo, to pesaka version beta ya service",
+      "linkName": "Lien ya téléchargement",
+      "linkExplain": "Okoki ko télécharger application correspondante selon système d’exploitation oyo ozali kosalela. Endimisami te ete ekoki kotambola na ndenge ya malamu na nse ya ba systèmes nionso Soki okutani na mikakatano, soki okoki kososola monoko ya programmation {{0}}, okoki kozwa code source mpe kosangisa yango yo moko.",
+      "sourceLink": "Téléchargement ya code source"
+    },
+    "sendParams": {
+      "title": "Ntango bokokani ekangami, eloko ekotindama libanda na kosalelaka {{0}}, oyo ezali na bizaleli oyo elandi:",
+      "page": "Adrɛsi ya lokasa oyo ezali lelo",
+      "link": "Adrɛsi ya lien oyo obɛti"
+    }
+  },
+  "menu": {
+    "main": "misala ya libanda"
+  }
+}

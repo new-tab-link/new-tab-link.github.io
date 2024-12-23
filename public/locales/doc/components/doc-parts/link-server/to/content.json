@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ngaahi sevesi mei tu'a",
+    "description": "'I he taimi 'oku ke lomi'i ai ha fehokotaki'anga, 'e lava ke ke fakatokanga'i 'a e sevesi 'i tu'a kuo lomi'i ha fehokotaki'anga 'E lava ke ke faka'aonga'i 'a e ngaue ko 'eni kapau 'oku ke fie ma'u ke liliu 'a e browser ke browse.",
+    "service": {
+      "title": "'Oku ke fie ma'u ha sevesi 'i tu'a ke fakahoko 'a e ngaue ko 'eni, 'Oku mau 'oatu ha beta version 'o e sevesi .",
+      "linkName": "Fehokotaki'anga download",
+      "linkExplain": "Te ke lava ʻo download ʻa e polokalama feʻunga ʻo fakatatau ki he sisitemi ngāue ʻokú ke fakaʻaongaʻí. 'Oku 'ikai ke fakapapau'i 'e lava ke lele angamaheni 'i he malumalu 'o e ngaahi sisitemi kotoa pe Kapau te ke fetaulaki mo ha ngaahi palopalema, kapau 'e lava ke mahino kiate koe 'a e lea fakapolokalama {{0}}, 'e lava ke ke download 'a e source code pea ke fakatahataha'i ia 'e koe.",
+      "sourceLink": "Download 'a e ma'u'anga fakamatala"
+    },
+    "sendParams": {
+      "title": "'I he taimi 'oku lomi'i ai 'a e fakafehoanaki, 'e 'ave ha me'a ki tu'a 'o faka'aonga'i 'a e {{0}}, 'oku 'i ai 'a e ngaahi 'ulungaanga ko 'eni:",
+      "page": "Ko e tu'asila 'o e peesi lolotonga .",
+      "link": "Tu'asila fehokotaki'anga kuo lomi'i"
+    }
+  },
+  "menu": {
+    "main": "ngaahi sevesi mei tu'a"
+  }
+}

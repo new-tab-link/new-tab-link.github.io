@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ntchito zakunja",
+    "description": "Mukadina ulalo, mutha kudziwitsa ulalo wakunja kuti ulalo wadina Mutha kugwiritsa ntchito ntchitoyi ngati mukufuna kusintha msakatuli kuti musakatule.",
+    "service": {
+      "title": "Mukufunikira ntchito zakunja kuti mugwiritse ntchito ntchitoyi, tikukupatsani mtundu wa beta wamtunduwu",
+      "linkName": "Tsitsani ulalo",
+      "linkExplain": "Mutha kutsitsa pulogalamu yofananira malinga ndi pulogalamu yomwe mukugwiritsa ntchito. Sizinatsimikizidwe kuti imatha kugwira ntchito bwino pamakina onse ngati mukukumana ndi zovuta, ngati mutha kumvetsetsa chilankhulo cha {{0}}, mutha kutsitsa khodi ndikulemba nokha.",
+      "sourceLink": "Kutsitsa kodi"
+    },
+    "sendParams": {
+      "title": "Mukadina kufananitsa, chinthu chidzatumizidwa kunja pogwiritsa ntchito {{0}}, chomwe chili ndi izi:",
+      "page": "Adilesi ya tsamba lapano",
+      "link": "Dinani ulalo adilesi"
+    }
+  },
+  "menu": {
+    "main": "ntchito zakunja"
+  }
+}

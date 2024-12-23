@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "veiqaravi e tautuba",
+    "description": "Ni o kiliki ena dua na isema, e rawa ni o vakaraitaka na veiqaravi e taudaku ni sa kilikitaki e dua na isema E rawa ni o vakayagataka na cakacaka oqo kevaka o gadreva mo veisautaka na barausa mo raica.",
+    "service": {
+      "title": "O gadreva e dua na veiqaravi e taudaku me vakayacori kina na cakacaka oqo, keitou vakarautaka e dua na beta ni veiqaravi .",
+      "linkName": "Lima ni lavetaki",
+      "linkExplain": "E rawa ni o lavetaka na kerekere veiganiti me vaka na ivakarau ni cakacaka o vakayagataka tiko. E sega ni vakadeitaki ni rawa ni cici vakavinaka ena ruku ni veisisivi kecega Kevaka o sotava na leqa, kevaka o rawa ni kila na vosa ni parokaramu ni {{0}}, e rawa ni o lavetaka na ivurevure ni kode ka vakasoqona vakataki iko.",
+      "sourceLink": "Lavetaka na kode ni ivurevure"
+    },
+    "sendParams": {
+      "title": "Ni sa kilikitaki na veiganiti, ena vakau e dua na ka ki tautuba ena kena vakayagataki na {{0}}, ka tiko kina na itovo oqo:",
+      "page": "Na itikotiko ni draunipepa ni gauna oqo .",
+      "link": "Kiliki na itikotiko ni isema"
+    }
+  },
+  "menu": {
+    "main": "veiqaravi e tautuba"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "gwasanaethau allanol",
+    "description": "Pan fyddwch yn clicio ar ddolen, gallwch roi gwybod i'r gwasanaeth allanol bod dolen wedi'i chlicio Gallwch ddefnyddio'r swyddogaeth hon os oes angen i chi newid y porwr i bori.",
+    "service": {
+      "title": "Mae angen gwasanaeth allanol arnoch i weithredu'r swyddogaeth hon, rydym yn darparu fersiwn beta o'r gwasanaeth",
+      "linkName": "Dolen llwytho i lawr",
+      "linkExplain": "Gallwch chi lawrlwytho'r cymhwysiad cyfatebol yn ôl y system weithredu rydych chi'n ei defnyddio. Nid yw'n cael ei gadarnhau y gall redeg fel arfer o dan bob system Os byddwch yn dod ar draws problemau, os gallwch ddeall yr iaith raglennu {{0}}, gallwch lawrlwytho'r cod ffynhonnell a'i lunio eich hun.",
+      "sourceLink": "Lawrlwytho cod ffynhonnell"
+    },
+    "sendParams": {
+      "title": "Pan fydd paru yn cael ei glicio, bydd gwrthrych yn cael ei anfon yn allanol gan ddefnyddio {{0}}, sy'n cynnwys y priodoleddau canlynol:",
+      "page": "Cyfeiriad y dudalen gyfredol",
+      "link": "Cyfeiriad cyswllt wedi'i glicio"
+    }
+  },
+  "menu": {
+    "main": "gwasanaethau allanol"
+  }
+}

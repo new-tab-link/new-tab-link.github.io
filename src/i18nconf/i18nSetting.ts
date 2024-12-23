@@ -11,9 +11,11 @@ import Backend, { HttpBackendOptions } from "i18next-http-backend";
 import i18next from "i18next";
 import { Log } from "@src/libs/fanfanlo";
 import getConfig from "next/config";
+import { googleGeminiIntersectionLocale } from "@0xff336699/js-i18n-lngs";
 // type II18n = typeof i18nResource;
 // type II18n = typeof {};
 
+console.log('LanguageDetectorLanguageDetector', LanguageDetector)
 const isProduction = process.env.NODE_ENV === "production";
 const isBrowser = () => typeof window !== "undefined";
 const fileDateVersion = getConfig().publicRuntimeConfig?.version
@@ -104,6 +106,7 @@ i18n
     detection: {
       caches: ["localStorage"],
     },
+    supportedLngs:Object.keys(googleGeminiIntersectionLocale)
   });
 
 i18n.on("missingKey", function (lngs, namespace, key, res) {

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "panlabas na serbisyo",
+    "description": "Kapag nag-click ka sa isang link, maaari mong ipaalam sa panlabas na serbisyo na ang isang link ay na-click. Maaari mong gamitin ang function na ito kung kailangan mong baguhin ang browser upang mag-browse.",
+    "service": {
+      "title": "Kailangan mo ng panlabas na serbisyo para ipatupad ang function na ito, nagbibigay kami ng beta na bersyon ng serbisyo",
+      "linkName": "I-download ang link",
+      "linkExplain": "Maaari mong i-download ang kaukulang application ayon sa operating system na iyong ginagamit. Hindi nakumpirma na maaari itong tumakbo nang normal sa ilalim ng lahat ng mga system Kung makakatagpo ka ng mga problema, kung naiintindihan mo ang {{0}} programming language, maaari mong i-download ang source code at i-compile ito mismo.",
+      "sourceLink": "Pag-download ng source code"
+    },
+    "sendParams": {
+      "title": "Kapag na-click ang pagtutugma, ang isang bagay ay ipapadala sa labas gamit ang {{0}}, na naglalaman ng mga sumusunod na katangian:",
+      "page": "Ang address ng kasalukuyang pahina",
+      "link": "Na-click ang link na address"
+    }
+  },
+  "menu": {
+    "main": "panlabas na serbisyo"
+  }
+}

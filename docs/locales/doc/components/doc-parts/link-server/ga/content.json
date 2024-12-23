@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "seirbhísí seachtracha",
+    "description": "Nuair a chliceálann tú ar nasc, is féidir leat an tseirbhís sheachtrach a chur ar an eolas go bhfuil cliceáil ar nasc Is féidir leat an fheidhm seo a úsáid más gá duit an brabhsálaí a athrú chun brabhsáil.",
+    "service": {
+      "title": "Teastaíonn seirbhís sheachtrach uait chun an fheidhm seo a chur i bhfeidhm, soláthraímid leagan béite den tseirbhís",
+      "linkName": "Nasc íoslódáil",
+      "linkExplain": "Is féidir leat an feidhmchlár comhfhreagrach a íoslódáil de réir an chórais oibriúcháin atá in úsáid agat. Ní dheimhnítear gur féidir é a rith de ghnáth faoi gach córas Má bhíonn fadhbanna agat, más féidir leat an teanga ríomhchlárúcháin {{0}} a thuiscint, is féidir leat an cód foinse a íoslódáil agus é a thiomsú tú féin.",
+      "sourceLink": "Íoslódáil an cód foinse"
+    },
+    "sendParams": {
+      "title": "Nuair a chliceáiltear ar mheaitseáil, seolfar réad go seachtrach ag úsáid {{0}}, ina mbeidh na tréithe seo a leanas:",
+      "page": "Seoladh an leathanaigh reatha",
+      "link": "Seoladh naisc chliceáil"
+    }
+  },
+  "menu": {
+    "main": "seirbhísí seachtracha"
+  }
+}

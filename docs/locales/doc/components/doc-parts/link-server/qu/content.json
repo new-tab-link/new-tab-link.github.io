@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "hawamanta serviciokuna",
+    "description": "Huk t'inki ñit'ispa, hawa yanapakuyman willayta atikunki huk t'inki ñit'isqa kasqanmanta Kay ruwayta llamk'achiy atikunki sichus maskaq maskanapaq tikrayta munanki.",
+    "service": {
+      "title": "Kay ruwayta ruwanaykipaq huk hawa yanapakuyta necesitanki, huk beta laya yanapakuymanta quyku",
+      "linkName": "T'inki uraykachiy",
+      "linkExplain": "Chay tupaq ruwanata uraykachiyta atikunki llamkana sistema llamk'achisqaykimanhina. Mana takyasqachu llapa llamkanakuna urapi normalta puriyta atisqanmanta Sichus sasachakuykunawan tupanki, sichus {{0}} programacion simita hamut'ayta atikunki, pukyuta uraykachiyta atikunki chaymanta qam kikiyki huñuyta atikunki.",
+      "sourceLink": "Pukyu codigo uraykachiy"
+    },
+    "sendParams": {
+      "title": "Tupanachiy ñit'isqa kaptin, huk imayay hawaman kachasqa kanqa {{0}} llamk'achispa, kay layakunayuq:",
+      "page": "Kunan p'anqap direccionnin",
+      "link": "T'inkipa direccionnin ñit'isqa"
+    }
+  },
+  "menu": {
+    "main": "hawamanta serviciokuna"
+  }
+}

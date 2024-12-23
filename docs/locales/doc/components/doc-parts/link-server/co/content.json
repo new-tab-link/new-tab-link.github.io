@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "servizii esterni",
+    "description": "Quandu clicate un ligame, pudete avvisà u serviziu esternu chì un ligame hè stata clicatu.",
+    "service": {
+      "title": "Avete bisognu di un serviziu esternu per implementà sta funzione, furnimu una versione beta di u serviziu",
+      "linkName": "Scarica ligame",
+      "linkExplain": "Pudete scaricà l'applicazione currispundenti secondu u sistema upirativu chì vo aduprate. Ùn hè micca cunfirmatu chì pò esse ghjusta in modu nurmale in tutti i sistemi Se scontri prublemi, se pudete capisce a lingua di prugrammazione {{0}}, pudete scaricà u codice fonte è cumpilà.",
+      "sourceLink": "Scaricate u codice fonte"
+    },
+    "sendParams": {
+      "title": "Quandu u currispundenza hè clicatu, un ughjettu serà mandatu esternamente utilizendu {{0}}, chì cuntene i seguenti attributi:",
+      "page": "L'indirizzu di a pagina attuale",
+      "link": "Cliccate l'indirizzu di u ligame"
+    }
+  },
+  "menu": {
+    "main": "servizii esterni"
+  }
+}

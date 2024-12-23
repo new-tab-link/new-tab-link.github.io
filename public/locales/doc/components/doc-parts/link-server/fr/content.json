@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "prestations externes",
+    "description": "Lorsque vous cliquez sur un lien, vous pouvez informer le service externe qu'un lien a été cliqué. Vous pouvez utiliser cette fonction si vous devez changer de navigateur pour naviguer.",
+    "service": {
+      "title": "Vous avez besoin d'un service externe pour implémenter cette fonction, nous fournissons une version bêta du service",
+      "linkName": "Lien de téléchargement",
+      "linkExplain": "Vous pouvez télécharger l'application correspondante en fonction du système d'exploitation que vous utilisez. Il n'est pas confirmé qu'il puisse fonctionner normalement sous tous les systèmes. Si vous rencontrez des problèmes, si vous comprenez le langage de programmation {{0}}, vous pouvez télécharger le code source et le compiler vous-même.",
+      "sourceLink": "Téléchargement du code source"
+    },
+    "sendParams": {
+      "title": "Lorsque vous cliquez sur la correspondance, un objet sera envoyé en externe à l'aide de {{0}}, contenant les attributs suivants :",
+      "page": "L'adresse de la page actuelle",
+      "link": "Adresse du lien cliqué"
+    }
+  },
+  "menu": {
+    "main": "prestations externes"
+  }
+}

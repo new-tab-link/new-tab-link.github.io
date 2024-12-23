@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "dış hizmetler",
+    "description": "Bir bağlantıya tıkladığınızda, harici hizmete bir bağlantının tıklandığını bildirebilirsiniz. Göz atmak için tarayıcıyı değiştirmeniz gerekiyorsa bu işlevi kullanabilirsiniz.",
+    "service": {
+      "title": "Bu işlevi uygulamak için harici bir hizmete ihtiyacınız var; hizmetin beta sürümünü sağlıyoruz",
+      "linkName": "İndirme bağlantısı",
+      "linkExplain": "Kullandığınız işletim sistemine göre ilgili uygulamayı indirebilirsiniz. Tüm sistemlerde normal şekilde çalışabileceği doğrulanmamıştır. Sorunla karşılaşırsanız, {{0}} programlama dilini anlayabiliyorsanız kaynak kodunu indirip kendiniz derleyebilirsiniz.",
+      "sourceLink": "Kaynak kodu indirme"
+    },
+    "sendParams": {
+      "title": "Eşleştirme tıklandığında, aşağıdaki nitelikleri içeren, {{0}} kullanılarak harici olarak bir nesne gönderilecektir:",
+      "page": "Mevcut sayfanın adresi",
+      "link": "Tıklanan bağlantı adresi"
+    }
+  },
+  "menu": {
+    "main": "dış hizmetler"
+  }
+}

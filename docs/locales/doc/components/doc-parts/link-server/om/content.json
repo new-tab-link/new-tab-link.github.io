@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "tajaajila alaa",
+    "description": "Yeroo hidhaa cuqaastu, hidhiin tokko akka cuqaafame tajaajila alaa beeksisuu dandeessa Yoo daawwatuuf biraawzari jijjiiruu barbaadde faankishinii kana fayyadamuu dandeessa.",
+    "service": {
+      "title": "Faankishinii kana hojiirra oolchuuf tajaajila alaa si barbaachisa, tajaajilicha beta version ni kennina",
+      "linkName": "Download link",
+      "linkExplain": "Akkaataa sirna hojii fayyadamaa jirtanitti application walgitu buufachuu dandeessu. Sirnoota hunda jalatti akka idileetti hojjechuu akka danda'u hin mirkanoofne Yoo rakkoon si mudate, yoo afaan sagantaa {{0}} hubachuu dandeesse, koodii madda buufachuu fi ofuma keetii qindeessuu dandeessa.",
+      "sourceLink": "Madda koodii buufachuu"
+    },
+    "sendParams": {
+      "title": "Yeroo walsimsiisni cuqaamu, wanti tokko {{0}} fayyadamuun alaa ergama, amaloota armaan gadii of keessaa qaba:",
+      "page": "Teessoo fuula ammaa",
+      "link": "Teessoo hidhaa cuqaafame"
+    }
+  },
+  "menu": {
+    "main": "tajaajila alaa"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "setbisio siha gi sanhiyong",
+    "description": "Yanggen un ågang un link, siña un na'tungo' i eksternu na setbisio na ma klika un link Siña un usa este na fungsion yanggen malago' hao na un na'lå'la' i browser para un li'e'.",
+    "service": {
+      "title": "nisisåriu un setbisio gi sanhiyong para un cho'gue este na cho'cho', in na'i hao un beta na båndan setbisio",
+      "linkName": "Link para un na'halom",
+      "linkExplain": "Siña un na'halom i aplikasion ni' gaige gi i sisteman operasion ni' un usa. Ti ma konfitma na siña ha cho'gue i che'cho'-ña gi todu i sistema siha. Yanggen guaha prublema-mu, yanggen siña un komprende i {{0}} na lengguåhen prugråma, siña un na'halom i source code ya un kompila hao mismo.",
+      "sourceLink": "Na'hålom i kodun-ñiha"
+    },
+    "sendParams": {
+      "title": "Yanggen ma'ayek i matching, un kosa para u ma'entrega gi sanhiyong ni' u'usa {{0}}, ni' guaha este na attibut siha:",
+      "page": "I adres i pahina på'go",
+      "link": "I direksion i link ni' ma'a'atan"
+    }
+  },
+  "menu": {
+    "main": "setbisio siha gi sanhiyong"
+  }
+}

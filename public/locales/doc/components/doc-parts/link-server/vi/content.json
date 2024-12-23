@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "dịch vụ bên ngoài",
+    "description": "Khi bạn nhấp vào một liên kết, bạn có thể thông báo cho dịch vụ bên ngoài rằng một liên kết đã được nhấp vào. Bạn có thể sử dụng chức năng này nếu cần thay đổi trình duyệt để duyệt.",
+    "service": {
+      "title": "Bạn cần một dịch vụ bên ngoài để triển khai chức năng này, chúng tôi cung cấp phiên bản beta của dịch vụ",
+      "linkName": "Liên kết tải xuống",
+      "linkExplain": "Bạn có thể tải xuống ứng dụng tương ứng tùy theo hệ điều hành bạn đang sử dụng. Chưa xác nhận rằng nó có thể chạy bình thường trong tất cả các hệ thống. Nếu gặp sự cố, nếu bạn có thể hiểu được ngôn ngữ lập trình {{0}}, bạn có thể tải xuống mã nguồn và tự biên dịch nó.",
+      "sourceLink": "Tải xuống mã nguồn"
+    },
+    "sendParams": {
+      "title": "Khi khớp được nhấp vào, một đối tượng sẽ được gửi ra bên ngoài bằng cách sử dụng {{0}}, chứa các thuộc tính sau:",
+      "page": "Địa chỉ của trang hiện tại",
+      "link": "Địa chỉ liên kết được nhấp vào"
+    }
+  },
+  "menu": {
+    "main": "dịch vụ bên ngoài"
+  }
+}

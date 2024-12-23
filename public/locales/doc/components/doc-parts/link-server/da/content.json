@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "eksterne tjenester",
+    "description": "Når du klikker på et link, kan du meddele den eksterne tjeneste, at der er blevet klikket på et link. Du kan bruge denne funktion, hvis du skal ændre browseren for at browse.",
+    "service": {
+      "title": "Du skal bruge en ekstern tjeneste for at implementere denne funktion, vi leverer en betaversion af tjenesten",
+      "linkName": "Download link",
+      "linkExplain": "Du kan downloade den tilsvarende applikation i henhold til det operativsystem, du bruger. Det er ikke bekræftet, at det kan køre normalt under alle systemer. Hvis du støder på problemer, kan du, hvis du forstår programmeringssproget {{0}}, downloade kildekoden og kompilere den selv.",
+      "sourceLink": "Kildekode download"
+    },
+    "sendParams": {
+      "title": "Når der klikkes på matchning, sendes et objekt eksternt ved hjælp af {{0}}, der indeholder følgende attributter:",
+      "page": "Adressen på den aktuelle side",
+      "link": "Klik på linkadresse"
+    }
+  },
+  "menu": {
+    "main": "eksterne tjenester"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "kɛnɛma baarakɛlaw",
+    "description": "Ni i ye jɛgɛnsira dɔ digi, i bɛ se ka kɛnɛma baarakɛyɔrɔ ladɔnniya ko jɛgɛnsira dɔ digilen don I bɛ se ka baara kɛ ni o baarakɛcogo ye n’i mago bɛ ka navigatɔrɔn Changer walasa ka navigatɔrɔn.",
+    "service": {
+      "title": "I mago bɛ kɛnɛma baarakɛyɔrɔ la walasa ka nin baara in waleya, an bɛ baarakɛminɛn in beta version di",
+      "linkName": "Télécharger lien",
+      "linkExplain": "I bɛ se ka porogaramu min bɛ bɛn o ma, o telesarse ka kɛɲɛ ni i bɛ baara kɛ ni baarakɛminɛn min ye. A ma dafa ko a bɛ se ka baara kɛ cogo bɛnnen na sistɛmu bɛɛ kɔnɔ Ni i ye gɛlɛyaw sɔrɔ, n’i bɛ se ka {{0}} porogaramukan faamuya, i bɛ se ka source code telesarse k’a lajɛ i yɛrɛ ye.",
+      "sourceLink": "Source code telesarse"
+    },
+    "sendParams": {
+      "title": "Ni bɛnkan digilen don, fɛn dɔ bɛna ci kɛnɛma ni {{0}} ye, nin fɛn ninnu bɛ min kɔnɔ:",
+      "page": "Ɲɛ min bɛ sen na sisan, o ladɛrɛsi",
+      "link": "Ladɛrɛsi ladɛrɛsi min bɛ digi"
+    }
+  },
+  "menu": {
+    "main": "kɛnɛma baarakɛlaw"
+  }
+}

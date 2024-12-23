@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "externe Dienstleistungen",
+    "description": "Wenn Sie auf einen Link klicken, können Sie den externen Dienst darüber informieren, dass auf einen Link geklickt wurde. Sie können diese Funktion verwenden, wenn Sie den Browser zum Durchsuchen ändern müssen.",
+    "service": {
+      "title": "Um diese Funktion zu implementieren, benötigen Sie einen externen Dienst. Wir stellen eine Beta-Version des Dienstes zur Verfügung",
+      "linkName": "Download-Link",
+      "linkExplain": "Sie können die entsprechende Anwendung entsprechend dem von Ihnen verwendeten Betriebssystem herunterladen. Es ist nicht bestätigt, dass es unter allen Systemen normal ausgeführt werden kann. Wenn Sie auf Probleme stoßen und die Programmiersprache {{0}} verstehen, können Sie den Quellcode herunterladen und selbst kompilieren.",
+      "sourceLink": "Quellcode herunterladen"
+    },
+    "sendParams": {
+      "title": "Wenn auf den Abgleich geklickt wird, wird ein Objekt mit {{0}} nach außen gesendet, das die folgenden Attribute enthält:",
+      "page": "Die Adresse der aktuellen Seite",
+      "link": "Angeklickte Linkadresse"
+    }
+  },
+  "menu": {
+    "main": "externe Dienstleistungen"
+  }
+}

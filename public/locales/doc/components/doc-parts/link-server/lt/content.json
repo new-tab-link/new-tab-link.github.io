@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "išorės paslaugas",
+    "description": "Kai paspausite nuorodą, galite pranešti išorinei tarnybai, kad nuoroda buvo paspausta. Šią funkciją galite naudoti, jei norite pakeisti naršyklę.",
+    "service": {
+      "title": "Šiai funkcijai įgyvendinti reikalinga išorinė paslauga, teikiame paslaugos beta versiją",
+      "linkName": "Atsisiuntimo nuoroda",
+      "linkExplain": "Galite atsisiųsti atitinkamą programą pagal naudojamą operacinę sistemą. Nepatvirtinta, kad jis gali normaliai veikti visose sistemose. Jei kyla problemų ir suprantate {{0}} programavimo kalbą, galite atsisiųsti šaltinio kodą ir jį sukompiliuoti.",
+      "sourceLink": "Pradinio kodo atsisiuntimas"
+    },
+    "sendParams": {
+      "title": "Spustelėjus atitiktį, objektas bus išsiųstas iš išorės naudojant {{0}}, turintį šiuos atributus:",
+      "page": "Dabartinio puslapio adresas",
+      "link": "Paspaustas nuorodos adresas"
+    }
+  },
+  "menu": {
+    "main": "išorės paslaugas"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "servijoù diavaez |",
+    "description": "Pa glikit war ul liamm e c'hallit kemenn d'ar servij diavaez ez eus bet kliket war ul liamm Gallout a rit implijout an arc'hwel-mañ ma rankit cheñch ar merdeer evit merdeiñ.",
+    "service": {
+      "title": "Ezhomm hoc'h eus eus ur servij diavaez evit lakaat an arc'hwel-mañ da dalvezout, kinnig a reomp ur stumm beta eus ar servij",
+      "linkName": "Liamm pellgargañ",
+      "linkExplain": "Gallout a rit pellgargañ an arload a glot hervez ar reizhiad korvoiñ a implijit. N'eo ket kadarnaet e c'hall mont en-dro en un doare reizh dindan an holl reizhiadoù Ma vez kudennoù ganeoc'h, ma c'hallit kompren ar yezh programmiñ {{0}} e c'hallit pellgargañ ar c'hod tarzh ha kempenn anezhañ hoc'h-unan.",
+      "sourceLink": "Pellgargañ ar c'hod orin"
+    },
+    "sendParams": {
+      "title": "Pa vo kliket war ar c'heñveriañ e vo kaset un ergorenn diavaez en ur implijout {{0}}, ennañ an elfennoù da-heul :",
+      "page": "Chomlec'h ar bajenn bremanel",
+      "link": "Chomlec'h al liamm kliket"
+    }
+  },
+  "menu": {
+    "main": "servijoù diavaez |"
+  }
+}

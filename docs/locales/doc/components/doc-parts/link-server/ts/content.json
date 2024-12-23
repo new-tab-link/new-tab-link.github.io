@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "vukorhokeri bya le handle",
+    "description": "Loko u tsindziyela xihlanganisi, u nga tivisa vukorhokeri bya le handle leswaku xihlanganisi xi tsindziyerile U nga tirhisa ntirho lowu loko u lava ku cinca browser leswaku u ta pfula.",
+    "service": {
+      "title": "U lava vukorhokeri bya le handle ku tirhisa ntirho lowu, hi nyika vuhundzuluxeri bya beta bya vukorhokeri",
+      "linkName": "Xihlanganisi xa download",
+      "linkExplain": "U nga kopa xitirhisiwa lexi fambisanaka na xona hi ku ya hi fambiselo ro tirha leri u ri tirhisaka. A swi tiyisisiwanga leswaku yi nga tirha hi ntolovelo ehansi ka tisisiteme hinkwato Loko u hlangana na swiphiqo, loko u kota ku twisisa ririmi ra minongonoko ra {{0}}, u nga kopa khodi ya xihlovo ivi u yi hlengeleta hi wexe.",
+      "sourceLink": "Ku dawuniloda ka khodi ya xihlovo"
+    },
+    "sendParams": {
+      "title": "Loko ku fambelanisiwa ku tsindziyela, nchumu wu ta rhumeriwa ehandle hi ku tirhisa {{0}}, lowu nga na swihlawulekisi leswi landzelaka:",
+      "page": "Adirese ya tluka ra sweswi",
+      "link": "Ku tsindziyela adirese ya link"
+    }
+  },
+  "menu": {
+    "main": "vukorhokeri bya le handle"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "eksterne usluge",
+    "description": "Kada kliknete na vezu, možete obavijestiti vanjsku uslugu da je veza kliknuta. Ovu funkciju možete koristiti ako trebate promijeniti pretraživač za pretraživanje.",
+    "service": {
+      "title": "Potrebna vam je eksterna usluga za implementaciju ove funkcije, mi pružamo beta verziju usluge",
+      "linkName": "Link za preuzimanje",
+      "linkExplain": "Odgovarajuću aplikaciju možete preuzeti prema operativnom sistemu koji koristite. Nije potvrđeno da može normalno raditi na svim sistemima. Ako naiđete na probleme, ako možete razumjeti programski jezik {{0}}, možete preuzeti izvorni kod i sami ga kompajlirati.",
+      "sourceLink": "Preuzimanje izvornog koda"
+    },
+    "sendParams": {
+      "title": "Kada se klikne na podudaranje, objekt će biti poslan eksterno koristeći {{0}}, koji sadrži sljedeće atribute:",
+      "page": "Adresa trenutne stranice",
+      "link": "Kliknuta adresa veze"
+    }
+  },
+  "menu": {
+    "main": "eksterne usluge"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "externe diensten",
+    "description": "Wanneer u op een link klikt, kunt u de externe dienst laten weten dat er op een link is geklikt. U kunt deze functie gebruiken als u de browser moet wijzigen om te bladeren.",
+    "service": {
+      "title": "Om deze functie te implementeren heeft u een externe dienst nodig, wij bieden een bètaversie van de dienst aan",
+      "linkName": "Downloadlink",
+      "linkExplain": "Afhankelijk van het besturingssysteem dat u gebruikt, kunt u de bijbehorende applicatie downloaden. Het is niet bevestigd dat het onder alle systemen normaal kan werken. Als u problemen ondervindt en u de programmeertaal {{0}} begrijpt, kunt u de broncode downloaden en deze zelf compileren.",
+      "sourceLink": "Broncode downloaden"
+    },
+    "sendParams": {
+      "title": "Wanneer op matchen wordt geklikt, wordt een object extern verzonden met behulp van {{0}}, met de volgende kenmerken:",
+      "page": "Het adres van de huidige pagina",
+      "link": "Linkadres geklikt"
+    }
+  },
+  "menu": {
+    "main": "externe diensten"
+  }
+}

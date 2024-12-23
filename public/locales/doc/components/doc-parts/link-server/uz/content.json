@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "tashqi xizmatlar",
+    "description": "Havolani bosganingizda, havola bosilganligi haqida tashqi xizmatga xabar berishingiz mumkin, agar siz ko'rib chiqish uchun brauzerni o'zgartirishingiz kerak bo'lsa, ushbu funksiyadan foydalanishingiz mumkin.",
+    "service": {
+      "title": "Ushbu funktsiyani amalga oshirish uchun sizga tashqi xizmat kerak, biz xizmatning beta versiyasini taqdim etamiz",
+      "linkName": "Yuklab olish havolasi",
+      "linkExplain": "Siz foydalanayotgan operatsion tizimingizga mos dasturni yuklab olishingiz mumkin. Uning barcha tizimlarda normal ishlashi tasdiqlanmagan. Agar sizda muammoga duch kelsangiz, agar siz {{0}} dasturlash tilini tushunsangiz, manba kodini yuklab olishingiz va uni o'zingiz kompilyatsiya qilishingiz mumkin.",
+      "sourceLink": "Yuklab olish manba kodi"
+    },
+    "sendParams": {
+      "title": "Moslik tugmasi bosilganda, quyidagi atributlarni oʻz ichiga olgan obʼyekt {{0}} yordamida tashqariga yuboriladi:",
+      "page": "Joriy sahifaning manzili",
+      "link": "Bosilgan havola manzili"
+    }
+  },
+  "menu": {
+    "main": "tashqi xizmatlar"
+  }
+}

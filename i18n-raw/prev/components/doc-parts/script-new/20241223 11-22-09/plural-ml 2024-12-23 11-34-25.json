@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "新建规则脚本",
+    "name": {
+      "title": "名称：",
+      "explain": "脚本的名称。"
+    },
+    "script": {
+      "title": "脚本：",
+      "explain": "脚本内容。"
+    },
+    "delBtn": {
+      "title": "删除：",
+      "explain": "删除当前脚本"
+    },
+    "saveBtn": {
+      "title": "保存：",
+      "explain": "保存当前脚本"
+    }
+  },
+  "menu": {
+    "main": "新建规则脚本"
+  }
+}

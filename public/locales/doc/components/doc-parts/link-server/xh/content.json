@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "iinkonzo zangaphandle",
+    "description": "Xa ucofa ikhonkco, unokwazisa inkonzo yangaphandle ukuba ikhonkco licofa.",
+    "service": {
+      "title": "Udinga inkonzo yangaphandle ukuphumeza lo msebenzi, sinikezela ngoguqulelo lwe-beta yenkonzo",
+      "linkName": "Khuphela ikhonkco",
+      "linkExplain": "Unokukhuphela isicelo esihambelanayo ngokwenkqubo yokusebenza oyisebenzisayo. Akuqinisekwanga ukuba inokuqhuba ngesiqhelo phantsi kwazo zonke iinkqubo ukuba ufumana iingxaki, ukuba uyakwazi ukuqonda i {{0}} ulwimi lwenkqubo, ungakhuphela ikhowudi yemvelaphi kwaye uyiqulunqe ngokwakho.",
+      "sourceLink": "Ukhuphelo lwekhowudi yemvelaphi"
+    },
+    "sendParams": {
+      "title": "Xa uthelekiso lucofa, into iza kuthunyelwa ngaphandle kusetyenziswa {{0}}, iqulathe ezi mpawu zilandelayo:",
+      "page": "Idilesi yephepha langoku",
+      "link": "Idilesi yekhonkco ecofayo"
+    }
+  },
+  "menu": {
+    "main": "iinkonzo zangaphandle"
+  }
+}

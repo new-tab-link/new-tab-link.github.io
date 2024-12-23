@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "perkhidmatan luar",
+    "description": "Apabila anda mengklik pautan, anda boleh memberitahu perkhidmatan luaran bahawa pautan telah diklik Anda boleh menggunakan fungsi ini jika anda perlu menukar pelayar untuk menyemak imbas.",
+    "service": {
+      "title": "Anda memerlukan perkhidmatan luaran untuk melaksanakan fungsi ini, kami menyediakan perkhidmatan versi beta",
+      "linkName": "pautan muat turun",
+      "linkExplain": "Anda boleh memuat turun aplikasi yang sepadan mengikut sistem pengendalian yang anda gunakan. Ia tidak disahkan bahawa ia boleh berjalan seperti biasa di bawah semua sistem Jika anda menghadapi masalah, jika anda boleh memahami {{0}} bahasa pengaturcaraan, anda boleh memuat turun kod sumber dan menyusunnya sendiri.",
+      "sourceLink": "Muat turun kod sumber"
+    },
+    "sendParams": {
+      "title": "Apabila padanan diklik, objek akan dihantar secara luaran menggunakan {{0}}, yang mengandungi atribut berikut:",
+      "page": "Alamat halaman semasa",
+      "link": "Alamat pautan yang diklik"
+    }
+  },
+  "menu": {
+    "main": "perkhidmatan luar"
+  }
+}

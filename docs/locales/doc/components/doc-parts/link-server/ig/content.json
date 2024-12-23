@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ọrụ mpụga",
+    "description": "Mgbe ị pịrị njikọ, ị nwere ike ịgwa ndị ọrụ mpụga na a pịala njikọ Ị nwere ike iji ọrụ a ma ọ bụrụ na ịchọrọ ịgbanwe ihe nchọgharị ahụ iji chọgharịa.",
+    "service": {
+      "title": "Ị chọrọ ọrụ mpụga iji mejuputa ọrụ a, anyị na-enye ụdị ọrụ beta",
+      "linkName": "Budata njikọ",
+      "linkExplain": "Ị nwere ike ibudata ngwa kwekọrọ dịka sistemụ arụmọrụ ị na-eji. Ekwenyeghị na ọ nwere ike na-agba ọsọ n'okpuru sistemụ niile Ọ bụrụ na ị ga-enwe nsogbu, ọ bụrụ na ị nwere ike ịghọta asụsụ mmemme {{0}}, ị nwere ike budata koodu mmalite wee chịkọta ya n'onwe gị.",
+      "sourceLink": "Nbudata koodu isi mmalite"
+    },
+    "sendParams": {
+      "title": "Mgbe a pịrị dakọtara, a ga-eziga ihe na mpụga site na iji {{0}}, nwere njirimara ndị a:",
+      "page": "Adreesị nke ibe dị ugbu a",
+      "link": "Pịa adreesị njikọ"
+    }
+  },
+  "menu": {
+    "main": "ọrụ mpụga"
+  }
+}

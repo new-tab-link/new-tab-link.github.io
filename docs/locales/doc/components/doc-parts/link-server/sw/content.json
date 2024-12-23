@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "huduma za nje",
+    "description": "Unapobofya kiungo, unaweza kuarifu huduma ya nje kwamba kiungo kimebofya Unaweza kutumia kipengele hiki ikiwa unahitaji kubadilisha kivinjari ili kuvinjari.",
+    "service": {
+      "title": "Unahitaji huduma ya nje ili kutekeleza utendakazi huu, tunatoa toleo la beta la huduma",
+      "linkName": "Pakua kiungo",
+      "linkExplain": "Unaweza kupakua programu inayolingana kulingana na mfumo wa uendeshaji unaotumia. Haijathibitishwa kuwa inaweza kufanya kazi kwa kawaida chini ya mifumo yote Ukikumbana na matatizo, ikiwa unaweza kuelewa {{0}} lugha ya programu, unaweza kupakua msimbo wa chanzo na uukusanye mwenyewe.",
+      "sourceLink": "Upakuaji wa msimbo wa chanzo"
+    },
+    "sendParams": {
+      "title": "Ulinganishaji unapobofya, kitu kitatumwa nje kwa kutumia {{0}}, kilicho na sifa zifuatazo:",
+      "page": "Anwani ya ukurasa wa sasa",
+      "link": "Umebofya anwani ya kiungo"
+    }
+  },
+  "menu": {
+    "main": "huduma za nje"
+  }
+}

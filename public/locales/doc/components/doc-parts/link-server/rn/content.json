@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Ibikorwa vyo hanze",
+    "description": "Iyo ukanda kuri link, urashobora kumenyesha servisi yo hanze ko link yakanzwe Ushobora gukoresha iyo nzira nimba ukeneye guhindura umucukumbuzi kugira ngo ukoreshe.",
+    "service": {
+      "title": "Ukeneye serivisi yo hanze kugira ngo ushire mu ngiro iyi nzira, turatanga verisiyo ya beta ya serivisi",
+      "linkName": "Ihuza ryo gukuraho",
+      "linkExplain": "Ushobora gukuraho porogarama ihuye n’ivyo ukoresha bivanye n’ingene ukoresha. Ntivyemejwe ko ishobora gukora neza munsi ya sisitemu zose Niwahura n'ingorane, niwaba ushobora gutahura ururimi rwa porogarama {{0}}, ushobora gukuraho kode y'inkomoko maze ukayikoranya wewe nyene.",
+      "sourceLink": "Kode y'inkomoko yo gukuraho"
+    },
+    "sendParams": {
+      "title": "Iyo guhuza bikanda, ikintu kizorungikwa hanze hakoreshejwe {{0}}, kirimwo ibi bikurikira:",
+      "page": "Aderesi ya paji iriho ubu",
+      "link": "Aderesi y'ihuza yafyonda"
+    }
+  },
+  "menu": {
+    "main": "Ibikorwa vyo hanze"
+  }
+}

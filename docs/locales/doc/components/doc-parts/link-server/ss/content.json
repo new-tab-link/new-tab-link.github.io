@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "tinsita tangephandle",
+    "description": "Nawuchafata sixhumanisi, ungatjela insizakalo yangaphandle kutsi kuchafatwe sixhumanisi Ungasebentisa lomsebenti nangabe udzinga kushintja siphequluli kute uphenye.",
+    "service": {
+      "title": "Udzinga insizakalo yangaphandle kute uphumelelise lomsebenti, siniketa luhlobo lwe-beta lwesevisi",
+      "linkName": "Sixhumanisi sekulandza",
+      "linkExplain": "Ungalanda luhlelo loluhambisanako ngekuya kweluhlelo lwekusebenta lolusebentisako. Akukacinisekiswa kutsi ingasebenta ngendlela lejwayelekile ngaphansi kwato tonkhe tinhlelo, uma ungakhona kuvisisa lulwimi lwekuhlela lwe {{0}}, ungayilandza ikhodi yemtfombo bese uyayihlanganisa wena.",
+      "sourceLink": "Layisha ikhodi yemtfombo"
+    },
+    "sendParams": {
+      "title": "Uma kufanisa kuchafatwa, intfo itawutfunyelwa ngaphandle kusetjentiswa {{0}}, lecuketse letimphawu letilandzelako:",
+      "page": "Likheli lelikhasi lelikhona nyalo",
+      "link": "Likheli lesixhumanisi lelichafatiwe"
+    }
+  },
+  "menu": {
+    "main": "tinsita tangephandle"
+  }
+}

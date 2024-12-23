@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "servizzi esterni",
+    "description": "Meta tikklikkja link, tista' tavża lis-servizz estern li tkun ikklikkjat link Tista' tuża din il-funzjoni jekk ikollok bżonn tibdel il-browser biex tibbrawżja.",
+    "service": {
+      "title": "Għandek bżonn servizz estern biex timplimenta din il-funzjoni, aħna nipprovdu verżjoni beta tas-servizz",
+      "linkName": "Niżżel il-link",
+      "linkExplain": "Tista' tniżżel l-applikazzjoni korrispondenti skont is-sistema operattiva li qed tuża. Mhux ikkonfermat li jista' jaħdem b'mod normali taħt is-sistemi kollha. Jekk tiltaqa' ma' problemi, jekk tista' tifhem il-lingwa ta' programmar {{0}}, tista' tniżżel il-kodiċi tas-sors u tikkumpilah int.",
+      "sourceLink": "Niżżel il-kodiċi tas-sors"
+    },
+    "sendParams": {
+      "title": "Meta tikklikkja t-tqabbil, oġġett jintbagħat esternament bl-użu ta' {{0}}, li jkun fih l-attributi li ġejjin:",
+      "page": "L-indirizz tal-paġna kurrenti",
+      "link": "L-indirizz tal-link għafast"
+    }
+  },
+  "menu": {
+    "main": "servizzi esterni"
+  }
+}

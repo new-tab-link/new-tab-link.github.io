@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "xarici xidmətlər",
+    "description": "Linkə kliklədiyiniz zaman, siz xarici xidmətə keçidin kliklədiyini bildirə bilərsiniz, əgər gözdən keçirmək üçün brauzeri dəyişmək lazımdırsa, bu funksiyadan istifadə edə bilərsiniz.",
+    "service": {
+      "title": "Bu funksiyanı həyata keçirmək üçün sizə xarici xidmət lazımdır, biz xidmətin beta versiyasını təqdim edirik",
+      "linkName": "Yükləmə linki",
+      "linkExplain": "İstifadə etdiyiniz əməliyyat sisteminə uyğun olaraq müvafiq proqramı yükləyə bilərsiniz. Onun bütün sistemlərdə normal işləyə biləcəyi təsdiqlənmir. Əgər problemlərlə üzləşsəniz, {{0}} proqramlaşdırma dilini başa düşə bilirsinizsə, mənbə kodunu yükləyə və özünüz tərtib edə bilərsiniz.",
+      "sourceLink": "Mənbə kodunu yükləmək"
+    },
+    "sendParams": {
+      "title": "Uyğunlaşma kliklədikdə, aşağıdakı atributları ehtiva edən obyekt {{0}} istifadə edərək xaricə göndəriləcək:",
+      "page": "Cari səhifənin ünvanı",
+      "link": "Kliklənmiş link ünvanı"
+    }
+  },
+  "menu": {
+    "main": "xarici xidmətlər"
+  }
+}

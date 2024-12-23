@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ratonga o waho",
+    "description": "Ka paato koe i tetahi hono, ka taea e koe te whakamohio atu ki te ratonga o waho kua pawhiria tetahi hono Ka taea e koe te whakamahi i tenei mahi mena ka hiahia koe ki te huri i te tirotiro tirotiro.",
+    "service": {
+      "title": "Kei te hiahia koe ki tetahi ratonga o waho hei whakatinana i tenei mahi, ka whakaratohia e matou he putanga beta o te ratonga",
+      "linkName": "Hononga tikiake",
+      "linkExplain": "Ka taea e koe te tango i te tono e rite ana ki te punaha whakahaere e whakamahia ana e koe. Karekau i te whakapumau ka taea te whakahaere i raro i nga punaha katoa Mena ka raru koe, mena ka mohio koe ki te {{0}} reo papatono, ka taea e koe te tango i te waehere puna me te whakahiato.",
+      "sourceLink": "Tikiake waehere puna"
+    },
+    "sendParams": {
+      "title": "Ina pawhiria te orite, ka tukuna he ahanoa ki waho ma te whakamahi i te {{0}}, kei roto nga huanga e whai ake nei:",
+      "page": "Ko te wahitau o te wharangi o naianei",
+      "link": "Wāhitau hono hono"
+    }
+  },
+  "menu": {
+    "main": "ratonga o waho"
+  }
+}

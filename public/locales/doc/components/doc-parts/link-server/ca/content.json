@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "serveis externs",
+    "description": "Quan feu clic a un enllaç, podeu notificar al servei extern que s'ha fet clic en un enllaç. Podeu utilitzar aquesta funció si necessiteu canviar el navegador per navegar.",
+    "service": {
+      "title": "Necessites un servei extern per implementar aquesta funció, oferim una versió beta del servei",
+      "linkName": "Enllaç de descàrrega",
+      "linkExplain": "Podeu descarregar l'aplicació corresponent segons el sistema operatiu que utilitzeu. No s'ha confirmat que pugui funcionar amb tots els sistemes. Si trobeu problemes, si podeu entendre el llenguatge de programació {{0}}, podeu descarregar el codi font i compilar-lo vosaltres mateixos.",
+      "sourceLink": "Descàrrega del codi font"
+    },
+    "sendParams": {
+      "title": "Quan es fa clic a la concordança, s'enviarà un objecte externament mitjançant {{0}}, que conté els atributs següents:",
+      "page": "L'adreça de la pàgina actual",
+      "link": "S'ha fet clic a l'adreça de l'enllaç"
+    }
+  },
+  "menu": {
+    "main": "serveis externs"
+  }
+}

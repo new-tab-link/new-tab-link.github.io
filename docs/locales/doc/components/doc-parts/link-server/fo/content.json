@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "uttanhýsis tænastur",
+    "description": "Tá tú trýstir á eina leinkju, kanst tú boða uttanhýsis tænastuni frá, at ein leinkja er trýst á Tú kanst brúka hesa funku, um tú skalt broyta kagarin til at kaga.",
+    "service": {
+      "title": "Tú hevur brúk fyri einari tænastu uttanífrá fyri at seta hesa funku í verk, vit veita eina beta útgávu av tænastuni",
+      "linkName": "Heinta leinkja",
+      "linkExplain": "Tú kanst taka samsvarandi forritið niður eftir stýrisskipanini, tú brúkar. Tað er ikki staðfest, at tað kann koyra vanliga undir øllum skipanum Um tú møtir trupulleikum, um tú dugir at skilja forritanarmálið {{0}}, kanst tú heinta keldukotuna og kompilera hana sjálv/ur.",
+      "sourceLink": "Heinta keldukotu"
+    },
+    "sendParams": {
+      "title": "Tá ið trýst verður á samsvar, verður ein lutur sendur uttanífrá við at brúka {{0}}, sum inniheldur fylgjandi eginleikar:",
+      "page": "Adressan á verandi síðu",
+      "link": "Klikkað leinkja adressa"
+    }
+  },
+  "menu": {
+    "main": "uttanhýsis tænastur"
+  }
+}

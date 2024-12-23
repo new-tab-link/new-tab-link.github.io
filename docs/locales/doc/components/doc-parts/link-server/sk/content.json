@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "externé služby",
+    "description": "Keď kliknete na odkaz, môžete upozorniť externú službu, že sa kliklo na odkaz. Túto funkciu môžete použiť, ak potrebujete zmeniť prehliadač na prehliadanie.",
+    "service": {
+      "title": "Na implementáciu tejto funkcie potrebujete externú službu, poskytujeme beta verziu služby",
+      "linkName": "Odkaz na stiahnutie",
+      "linkExplain": "Môžete si stiahnuť príslušnú aplikáciu podľa operačného systému, ktorý používate. Nie je potvrdené, že môže fungovať normálne vo všetkých systémoch. Ak narazíte na problémy a rozumiete programovaciemu jazyku {{0}}, môžete si stiahnuť zdrojový kód a skompilovať ho sami.",
+      "sourceLink": "Stiahnutie zdrojového kódu"
+    },
+    "sendParams": {
+      "title": "Po kliknutí na zhodu sa objekt odošle externe pomocou {{0}}, ktorý obsahuje nasledujúce atribúty:",
+      "page": "Adresa aktuálnej stránky",
+      "link": "Adresa kliknutého odkazu"
+    }
+  },
+  "menu": {
+    "main": "externé služby"
+  }
+}

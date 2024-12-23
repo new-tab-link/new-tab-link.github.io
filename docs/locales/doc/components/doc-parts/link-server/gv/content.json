@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Shirveishyn magh;",
+    "description": "Nush t'ou cliaghtey rish y 'link', t'ou uss goaill fys da'n seirveish sheshoil dy vel 'link' er ny 'cliaghtey' Faggys da'n 'function' shoh 'sy 'browser' 'sy 'browser'.",
+    "service": {
+      "title": "Ta feme ayd er seirveish sheshoil dy chur yn obbyr shoh er-baghtal, ta shin cur version beta jeh'n seirveish",
+      "linkName": "Ceaghlagh",
+      "linkExplain": "Ta'n application corresponding ry-gheddyn cordail rish y system obbree t'ou uss ry-gheddyn. Cha nel eh er ny hickyraghey dy nod eh roie dy cadjin fo ooilley ny coryssyn Myr ta doilleeidyn ry-gheddyn, my nod oo tushtey y ghoaill jeh'n çhengey programmey {{0}}, foddee oo y coad bun y lhoobey as cur stiagh eh oo hene.",
+      "sourceLink": "Lurgaghey code fondagh"
+    },
+    "sendParams": {
+      "title": "Tra t'ou cliaghtey er co-chosney, bee obbyr er ny choyrt magh liorish {{0}}, lesh ny t'ayn:",
+      "page": "Yn seihll jeh'n duillag t'ayn nish",
+      "link": "Seoysey ceaghley cliaghtey"
+    }
+  },
+  "menu": {
+    "main": "Shirveishyn magh;"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "serviços externos",
+    "description": "Ao clicar em um link, você pode notificar o serviço externo de que um link foi clicado. Você pode usar esta função se precisar alterar o navegador para navegar.",
+    "service": {
+      "title": "Você precisa de um serviço externo para implementar esta função, oferecemos uma versão beta do serviço",
+      "linkName": "Baixar link",
+      "linkExplain": "Você pode baixar o aplicativo correspondente de acordo com o sistema operacional que está usando. Não está confirmado que ele possa ser executado normalmente em todos os sistemas. Se você encontrar problemas, se você entender a linguagem de programação {{0}}, poderá baixar o código-fonte e compilá-lo você mesmo.",
+      "sourceLink": "Baixar código-fonte"
+    },
+    "sendParams": {
+      "title": "Ao clicar na correspondência, um objeto será enviado externamente usando {{0}}, contendo os seguintes atributos:",
+      "page": "O endereço da página atual",
+      "link": "Endereço do link clicado"
+    }
+  },
+  "menu": {
+    "main": "serviços externos"
+  }
+}

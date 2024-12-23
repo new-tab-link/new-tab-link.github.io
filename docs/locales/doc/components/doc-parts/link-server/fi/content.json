@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ulkoiset palvelut",
+    "description": "Kun napsautat linkkiä, voit ilmoittaa ulkoiselle palvelulle, että linkkiä on napsautettu. Voit käyttää tätä toimintoa, jos sinun on vaihdettava selainta.",
+    "service": {
+      "title": "Tarvitset ulkoisen palvelun toteuttaaksesi tämän toiminnon, tarjoamme palvelusta beta-version",
+      "linkName": "Lataa linkki",
+      "linkExplain": "Voit ladata vastaavan sovelluksen käyttämäsi käyttöjärjestelmän mukaan. Ei ole vahvistettu, että se voi toimia normaalisti kaikissa järjestelmissä. Jos kohtaat ongelmia, voit ladata lähdekoodin ja kääntää sen itse.",
+      "sourceLink": "Lähdekoodin lataus"
+    },
+    "sendParams": {
+      "title": "Kun täsmäämistä napsautetaan, objekti lähetetään ulkoisesti käyttämällä {{0}}, joka sisältää seuraavat attribuutit:",
+      "page": "Nykyisen sivun osoite",
+      "link": "Klikatun linkin osoite"
+    }
+  },
+  "menu": {
+    "main": "ulkoiset palvelut"
+  }
+}

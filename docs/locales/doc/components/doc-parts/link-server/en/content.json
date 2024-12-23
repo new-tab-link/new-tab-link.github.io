@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "external services",
+    "description": "When you click a link, you can notify the external service that a link has been clicked. You can use this function if you need to change the browser to browse.",
+    "service": {
+      "title": "You need an external service to implement this function, we provide a beta version of the service",
+      "linkName": "Download link",
+      "linkExplain": "You can download the corresponding application according to the operating system you are using. It is not confirmed that it can run normally under all systems. If you encounter problems, if you can understand the {{0}} programming language, you can download the source code and compile it yourself.",
+      "sourceLink": "Source code download"
+    },
+    "sendParams": {
+      "title": "When matching is clicked, an object will be sent externally using {{0}}, containing the following attributes:",
+      "page": "The address of the current page",
+      "link": "Clicked link address"
+    }
+  },
+  "menu": {
+    "main": "external services"
+  }
+}

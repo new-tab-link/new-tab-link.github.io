@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "jerbal ko ilikin",
+    "description": "Ñe kwoj click juon link, kwomaroñ kōjjelaik external service eo bwe emoj click juon link Kwomaroñ kōjerbal function in elañe kwoj aikuj in ukōt browser eo ñan browse.",
+    "service": {
+      "title": "Kwoj aikuj juon jerbal jen ilikin ñan kōmmane jerbal in, kim lewoj juon beta version in jerbal in",
+      "linkName": "Link in bōk",
+      "linkExplain": "Kwomaroñ download application eo ekkar ñan operating system eo kwoj kajerbale. Ejjab alikar bwe emaron jerbal ilo jimwe iumin aolep system ko. Elañe kwoj iion apañ ko, elañe kwomaroñ melele kin kajin in program eo, kwomaroñ in bōk source code eo im make kōmmane.",
+      "sourceLink": "Source code download"
+    },
+    "sendParams": {
+      "title": "Ñe ej kōmman matching, juon men enaj jilkinlok ñan ilikin ilo an kajerbal {{0}}, im ewōr ie men kein:",
+      "page": "Address eo an peij eo kiõ",
+      "link": "Link address eo kar click"
+    }
+  },
+  "menu": {
+    "main": "jerbal ko ilikin"
+  }
+}

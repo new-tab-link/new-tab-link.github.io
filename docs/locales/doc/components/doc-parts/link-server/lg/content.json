@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "empeereza ez’ebweru",
+    "description": "Bw’onyiga ku link, osobola okutegeeza empeereza ey’ebweru nti link enyigiddwa Osobola okukozesa omulimu guno bw’oba ​​weetaaga okukyusa browser okusobola okulambula.",
+    "service": {
+      "title": "Okwetaaga empeereza ey’ebweru okussa mu nkola omulimu guno, tuwa enkyusa ya beta ey’empeereza",
+      "linkName": "Download link",
+      "linkExplain": "Osobola okuwanula enkola ekwatagana okusinziira ku nkola y’emirimu gy’okozesa. Tekikakasibwa nti esobola okutambula mu ngeri eya bulijjo wansi w'enkola zonna Bw'osanga obuzibu, bw'oba osobola okutegeera olulimi lwa pulogulaamu {{0}}, osobola okuwanula koodi y'ensibuko n'ogikung'aanya ggwe kennyini.",
+      "sourceLink": "Ensibuko ya koodi download"
+    },
+    "sendParams": {
+      "title": "Okukwatagana bwe kunyigirizibwa, ekintu kijja kusindikibwa ebweru nga kikozesa {{0}}, nga kirimu ebintu bino wammanga:",
+      "page": "Endagiriro y’olupapula oluliwo kati",
+      "link": "Endagiriro ya link enyigiddwa"
+    }
+  },
+  "menu": {
+    "main": "empeereza ez’ebweru"
+  }
+}

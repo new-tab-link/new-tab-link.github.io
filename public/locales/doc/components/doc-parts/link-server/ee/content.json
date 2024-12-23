@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "gotagome dɔwɔnawo",
+    "description": "Ne èzi kadodo aɖe dzi la, àte ŋu ana gotagome dɔwɔƒea nanya be wozi kadodo aɖe dzi Àte ŋu azã dɔwɔnu sia ne ehiã be nàtrɔ web-browser la be nàʋu.",
+    "service": {
+      "title": "Èhiã gotagome dɔwɔƒe aɖe be nàwɔ dɔ sia, míenaa subɔsubɔdɔa ƒe beta tɔ",
+      "linkName": "Download ƒe kadodoa",
+      "linkExplain": "Àte ŋu awɔ dɔwɔnu si sɔ la ƒe kɔpi le dɔwɔɖoɖo si zãm nèle nu. Womeɖo kpe edzi be ateŋu awɔ dɔ le ɖoɖowo katã te o. Ne èdo go kuxiwo, ne èteŋu se {{0}} dɔwɔɖoɖowo gɔme la, àteŋu awɔ dzɔtsoƒe ƒe kɔpi la ƒe kɔpi eye wò ŋutɔ nàƒoe nu ƒu.",
+      "sourceLink": "Dzɔtsoƒe ƒe kɔpi ƒe kɔpi"
+    },
+    "sendParams": {
+      "title": "Ne wozi tsɔtsɔ sɔ kple wo nɔewo dzi la, woaɖo nu ɖe ​​gota to {{0}} zazã me, si me nɔnɔme siwo gbɔna le:",
+      "page": "Adrɛs si le axa si li fifia dzi",
+      "link": "Zi kadodo ƒe adrɛs dzi"
+    }
+  },
+  "menu": {
+    "main": "gotagome dɔwɔnawo"
+  }
+}

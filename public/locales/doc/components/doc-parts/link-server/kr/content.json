@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "cidawa diyabe",
+    "description": "Sa link laa rattəyin ma, raksə sabis diyabe dəro link laa rattəyin nojin Raktə faida adə faidatin browser dəga faltəro məradəzənaro waljiya.",
+    "service": {
+      "title": "Nyiye sabis diyabe məradəzəna faida adəga diwo nankaro, andeye jili sabis betabe cin",
+      "linkName": "Link downloadbe",
+      "linkExplain": "Raktə application do sha faidatin dəga download dimin futu operating system do faidatin dəro. Tawattəgənyi kəla shidə kalkalro cidajin cidiya nizam sammaben Kaziyi sorinro waljiya, təlam programmingbe {{0}} asutinro waljiya, raknəm source codedəga saudin kuru kəlanzəlaro kəljin.",
+      "sourceLink": "Lamba fərtəbe satuluwu"
+    },
+    "sendParams": {
+      "title": "Sa matching dəga təkkiya, awo laa diyaro zuwatin {{0}} faidatəlan, suronzən awowa anyi mbeji:",
+      "page": "Address warak kərmabedə",
+      "link": "Adǝres linkbe rattǝna"
+    }
+  },
+  "menu": {
+    "main": "cidawa diyabe"
+  }
+}

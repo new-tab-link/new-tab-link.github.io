@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "servizi esterni",
+    "description": "Quando si fa clic su un collegamento, è possibile notificare al servizio esterno che è stato fatto clic su un collegamento. È possibile utilizzare questa funzione se è necessario cambiare browser per navigare.",
+    "service": {
+      "title": "È necessario un servizio esterno per implementare questa funzione, forniamo una versione beta del servizio",
+      "linkName": "Collegamento per il download",
+      "linkExplain": "Puoi scaricare l'applicazione corrispondente in base al sistema operativo che stai utilizzando. Non è confermato che possa funzionare normalmente su tutti i sistemi. Se riscontri problemi, se riesci a comprendere il linguaggio di programmazione {{0}}, puoi scaricare il codice sorgente e compilarlo tu stesso.",
+      "sourceLink": "Scaricamento del codice sorgente"
+    },
+    "sendParams": {
+      "title": "Quando si fa clic sulla corrispondenza, un oggetto verrà inviato esternamente utilizzando {{0}}, contenente i seguenti attributi:",
+      "page": "L'indirizzo della pagina corrente",
+      "link": "Indirizzo del collegamento cliccato"
+    }
+  },
+  "menu": {
+    "main": "servizi esterni"
+  }
+}

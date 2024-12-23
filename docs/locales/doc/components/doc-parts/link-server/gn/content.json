@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "umi servicio okapegua",
+    "description": "Emboguejy jave peteĩ joajuha, ikatu reikuaauka servicio okapegua ojepyso hague peteĩ joajuha Ikatu reipuru ko tembiaporã tekotevẽramo remoambue kundahára rehesa’ỹijo hag̃ua.",
+    "service": {
+      "title": "Tekotevẽ peteĩ servicio okapegua emoañetévo ko tembiaporã, rome’ẽ peteĩ versión beta servicio rehegua",
+      "linkName": "Emboguejy enlace",
+      "linkExplain": "Ikatu remboguejy pe aplicación correspondiente según pe sistema operativo reiporúva. Noñemoañetei ikatuha oñemboguata jepi opaite sistema guýpe Rejuhúramo apañuãi, ikatúramo rentende {{0}} ñeꞌepykuaa, ikatu emboguejy pe código fuente ha emohenda ndete voi.",
+      "sourceLink": "Código fuente ñemboguejy"
+    },
+    "sendParams": {
+      "title": "Ojepyso jave joaju, oñemondota peteĩ mba’e oka gotyo ojeporúvo {{0}}, oguerekóva ko’ã mba’ekuaarã:",
+      "page": "Pe direksión oĩva pe páhina koʼag̃aguápe",
+      "link": "Ojepyso enlace dirección rehe"
+    }
+  },
+  "menu": {
+    "main": "umi servicio okapegua"
+  }
+}

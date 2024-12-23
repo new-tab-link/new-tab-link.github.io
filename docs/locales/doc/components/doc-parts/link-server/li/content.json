@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "externe deenste",
+    "description": "Es geer op un link klikt, kin geer de externe service informere dat geer op un link is geklik.",
+    "service": {
+      "title": "Geer heet un externe deens nuudig um dees functie te implementere, ver biede un betaversie vaan de deens",
+      "linkName": "Downloadlink",
+      "linkExplain": "Geer kin de bijbehurende applicatie downloade volgens ut besturingssysteem det geer gebruuk. ‘t Is neet bevesteg dat ‘t normaal kin wèrke oonder alle systeme.",
+      "sourceLink": "Broncode downloade"
+    },
+    "sendParams": {
+      "title": "Es euvereinsjtömming weurt geklik, weurt ‘n objek extern gestuurd mit behulp vaan {{0}}, mit de volgende kenmerke:",
+      "page": "‘t Adres vaan de huidige pagina",
+      "link": "Geklikte linkadres"
+    }
+  },
+  "menu": {
+    "main": "externe deenste"
+  }
+}

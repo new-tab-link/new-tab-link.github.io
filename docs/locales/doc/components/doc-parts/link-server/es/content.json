@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "servicios externos",
+    "description": "Cuando hace clic en un enlace, puede notificar al servicio externo que se ha hecho clic en un enlace. Puede utilizar esta función si necesita cambiar el navegador para navegar.",
+    "service": {
+      "title": "Necesita un servicio externo para implementar esta función, proporcionamos una versión beta del servicio",
+      "linkName": "Enlace de descarga",
+      "linkExplain": "Podrás descargar la aplicación correspondiente según el sistema operativo que estés utilizando. No está confirmado que pueda ejecutarse normalmente en todos los sistemas. Si encuentra problemas, si puede comprender el lenguaje de programación {{0}}, puede descargar el código fuente y compilarlo usted mismo.",
+      "sourceLink": "Descarga del código fuente"
+    },
+    "sendParams": {
+      "title": "Cuando se hace clic en la coincidencia, se enviará un objeto externamente usando {{0}}, que contiene los siguientes atributos:",
+      "page": "La dirección de la página actual.",
+      "link": "Dirección del enlace en el que se hizo clic"
+    }
+  },
+  "menu": {
+    "main": "servicios externos"
+  }
+}

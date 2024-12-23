@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ditshebeletso tsa kantle",
+    "description": "Ha o tobetsa sehokelo, o ka tsebisa tšebeletso ea kantle hore sehokelo se tobetse U ka sebelisa ts'ebetso ena haeba u hloka ho fetola sebatli hore se shebe.",
+    "service": {
+      "title": "U hloka tšebeletso ea kantle ho kenya tšebetsong ts'ebetso ena, re fana ka mofuta oa beta oa ts'ebeletso",
+      "linkName": "Khoasolla sehokelo",
+      "linkExplain": "U ka khoasolla sesebelisoa se lumellanang ho latela sistimi eo u e sebelisang. Ha hoa netefatsoa hore e ka sebetsa ka mokhoa o tloaelehileng tlas'a litsamaiso tsohle Haeba u ka kopana le mathata, haeba u ka utloisisa {{0}} puo ea lenaneo, u ka khoasolla khoutu ea mohloli 'me oa e bokella ka bouena.",
+      "sourceLink": "Khoutu ea ho khoasolla"
+    },
+    "sendParams": {
+      "title": "Ha ho penya ho nyallana, ntho e tla romelloa kantle ho sebelisoa {{0}}, e nang le litšobotsi tse latelang:",
+      "page": "Aterese ea leqephe la hajoale",
+      "link": "Aterese ea lihokelo e tobetse"
+    }
+  },
+  "menu": {
+    "main": "ditshebeletso tsa kantle"
+  }
+}

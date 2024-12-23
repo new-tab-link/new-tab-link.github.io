@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "külső szolgáltatások",
+    "description": "Amikor rákattint egy hivatkozásra, értesítheti a külső szolgáltatót, hogy egy hivatkozásra kattintottak. Ezt a funkciót akkor használhatja, ha a böngészéshez módosítania kell a böngészőt.",
+    "service": {
+      "title": "A funkció megvalósításához külső szolgáltatásra van szüksége, mi biztosítjuk a szolgáltatás béta verzióját",
+      "linkName": "Letöltési link",
+      "linkExplain": "Letöltheti a megfelelő alkalmazást az Ön által használt operációs rendszernek megfelelően. Nincs megerősítve, hogy minden rendszeren normálisan működik.",
+      "sourceLink": "Forráskód letöltése"
+    },
+    "sendParams": {
+      "title": "Ha az egyezésre kattint, a rendszer egy objektumot küld kifelé a {{0}} használatával, amely a következő attribútumokat tartalmazza:",
+      "page": "Az aktuális oldal címe",
+      "link": "Kattintott link címe"
+    }
+  },
+  "menu": {
+    "main": "külső szolgáltatások"
+  }
+}

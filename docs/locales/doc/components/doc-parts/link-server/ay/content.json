@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "anqäxankir servicios ukanaka",
+    "description": "Kunawsatix mä link ukar ch’iqt’ayki ukhax anqäx servicio ukarux yatiyasmawa mä link ukar ch’iqt’atapata Aka lurawix apnaqasispawa navegador ukar mayjt’ayañax wakisispa ukhaxa.",
+    "service": {
+      "title": "Aka lurawi phuqhañatakixa mä anqäxa lurawiwa wakisi, jiwasaxa mä versión beta uka lurawimpiwa churapxtanxa",
+      "linkName": "Uka link ukar apkatañamawa",
+      "linkExplain": "Uka aplicación correspondiente ukaxa sistema operativo ukampi apnaqata ukarjamawa apkatasispa. Janiw chiqanchatäkiti taqi sistemas ukanx normalmente apnaqasispawa.",
+      "sourceLink": "Código fuente ukax apkatatawa"
+    },
+    "sendParams": {
+      "title": "Kunawsatix chikancht’asiñax ch’iqt’atäki ukhax mä yäx anqäx tuqir apayatäni {{0}} apnaqasa, ukax aka atributos ukaniwa:",
+      "page": "Jichha pachanxa dirección",
+      "link": "Ukax link dirección ukar ch’iqt’atawa"
+    }
+  },
+  "menu": {
+    "main": "anqäxankir servicios ukanaka"
+  }
+}

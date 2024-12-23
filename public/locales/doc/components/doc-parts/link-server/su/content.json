@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "jasa éksternal",
+    "description": "Nalika anjeun ngaklik tautan, anjeun tiasa ngabéjaan jasa éksternal yén tautan parantos diklik.",
+    "service": {
+      "title": "Anjeun peryogi jasa éksternal pikeun ngalaksanakeun fungsi ieu, kami nyayogikeun versi béta jasa éta",
+      "linkName": "link download",
+      "linkExplain": "Anjeun tiasa ngaunduh aplikasi anu cocog dumasar kana sistem operasi anu anjeun anggo. Henteu dikonfirmasi yén éta tiasa jalan normal dina sadaya sistem Upami anjeun ngalaman masalah, upami anjeun tiasa ngartos basa pamrograman {{0}}, anjeun tiasa ngaunduh kodeu sumber sareng nyusunna nyalira.",
+      "sourceLink": "Unduh kode sumber"
+    },
+    "sendParams": {
+      "title": "Lamun cocog diklik, hiji obyék bakal dikirim jaba ngagunakeun {{0}}, ngandung atribut di handap:",
+      "page": "Alamat kaca ayeuna",
+      "link": "Alamat tautan anu diklik"
+    }
+  },
+  "menu": {
+    "main": "jasa éksternal"
+  }
+}

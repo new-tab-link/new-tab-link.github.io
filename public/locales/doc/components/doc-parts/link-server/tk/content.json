@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "daşarky hyzmatlar",
+    "description": "Bir baglanyşyga basanyňyzda, baglanyşygyň basylandygyny daşarky hyzmaty habar berip bilersiňiz. Brauzeri gözden geçirmek üçin bu funksiýany ulanyp bilersiňiz.",
+    "service": {
+      "title": "Bu funksiýany durmuşa geçirmek üçin daşarky hyzmat gerek, hyzmatyň beta wersiýasyny hödürleýäris",
+      "linkName": "Salgy göçürip al",
+      "linkExplain": "Ulanylýan operasiýa ulgamyna laýyklykda degişli programmany göçürip alyp bilersiňiz. Systemshli ulgamlaryň aşagynda kadaly işledip biljekdigi tassyklanmady, kynçylyklara duçar bolsaňyz, {{0} ing programmirleme diline düşünip bilseňiz, deslapky kody göçürip alyp bilersiňiz.",
+      "sourceLink": "Çeşme koduny göçürip almak"
+    },
+    "sendParams": {
+      "title": "Gabat gelmek basylanda, aşakdaky atributlary öz içine alýan {{0} using ulanyp, bir obýekt daşardan iberiler:",
+      "page": "Häzirki sahypanyň salgysy",
+      "link": "Baglanyş salgysy"
+    }
+  },
+  "menu": {
+    "main": "daşarky hyzmatlar"
+  }
+}

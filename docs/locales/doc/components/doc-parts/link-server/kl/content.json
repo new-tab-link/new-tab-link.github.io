@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "avataaniit sullissineq",
+    "description": "Link-imik tooruit, avatangiisinut sullissivimmut nalunaaruteqarsinnaavutit link-i toqqarneqarsimasoq Funktioni taanna atorsinnaavat, browser-imik allanngortitsisoqartariaqarpat.",
+    "service": {
+      "title": "Atortoq una atuutilersinniarlugu avataaniit sullissisoqartariaqarpoq, sullissineq beta-version-imik neqerooruteqartarpugut",
+      "linkName": "Aallaasersornissamut linki",
+      "linkExplain": "Operativsystemi atortagaq malillugu applikationi naleqquttoq aaneqarsinnaavoq. Uppernarsarneqanngilaq systemit tamarmik ataani nalinginnaasumik ingerlasinnaasoq Ajornartorsiuteqartoqarpat, {{0}} programmeringssprog paasiniarsinnaagukku, source-kode-mik aaneqarsinnaavoq namminerlu kompilersinnaallugu.",
+      "sourceLink": "Killeq kode-mik aallaasersorneq"
+    },
+    "sendParams": {
+      "title": "Matching toorneqarpat, objekti avataaniit nassiunneqassaaq {{0}} atorlugu, attributit uku imaqarluni:",
+      "page": "Ullumikkut quppernerup adressia",
+      "link": "Link adresse toqqarneqartoq"
+    }
+  },
+  "menu": {
+    "main": "avataaniit sullissineq"
+  }
+}

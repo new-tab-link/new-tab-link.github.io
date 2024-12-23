@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "imisebenzi yangaphandle",
+    "description": "Nawuqhafaza isixhumanisi, ungazisa isevisi yangaphandle bona isixhumanisi siqhafaziwe Ungasebenzisa umsebenzi lo nangabe udinga ukutjhugulula isiphequluli.",
+    "service": {
+      "title": "Udinga isevisi yangaphandle ukusebenzisa umsebenzi lo, sinikela ngenguqulo ye-beta yesevisi",
+      "linkName": "Isixhumanisi sokudawuniloda",
+      "linkExplain": "Ungadawuniloda i-app ehambelana nayo ngokuya ngesistimu yokusebenza oyisebenzisako. Akukaqinisekiswa bona ingasebenza kuhle ngaphasi kwazo zoke iinhlelo.",
+      "sourceLink": "Ukudawuniloda ikhodi yomthombo"
+    },
+    "sendParams": {
+      "title": "Lokha nakuqhafazwa ukumadanisa, into izokuthunyelwa ngaphandle kusetjenziswa i-{{0}}, eneemfanelo ezilandelako:",
+      "page": "Ikheli lekhasi lamanje",
+      "link": "Ikheli lekhonkco eliqhafaziweko"
+    }
+  },
+  "menu": {
+    "main": "imisebenzi yangaphandle"
+  }
+}

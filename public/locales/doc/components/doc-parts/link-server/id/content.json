@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "layanan eksternal",
+    "description": "Saat Anda mengeklik tautan, Anda dapat memberi tahu layanan eksternal bahwa tautan telah diklik. Anda dapat menggunakan fungsi ini jika Anda perlu mengubah browser untuk menjelajah.",
+    "service": {
+      "title": "Anda memerlukan layanan eksternal untuk mengimplementasikan fungsi ini, kami menyediakan layanan versi beta",
+      "linkName": "Tautan unduhan",
+      "linkExplain": "Anda dapat mendownload aplikasi yang sesuai sesuai dengan sistem operasi yang Anda gunakan. Belum dipastikan dapat berjalan normal di semua sistem. Jika Anda mengalami masalah, jika Anda dapat memahami bahasa pemrograman {{0}}, Anda dapat mengunduh kode sumber dan mengompilasinya sendiri.",
+      "sourceLink": "Pengunduhan kode sumber"
+    },
+    "sendParams": {
+      "title": "Ketika pencocokan diklik, sebuah objek akan dikirim secara eksternal menggunakan {{0}}, yang berisi atribut berikut:",
+      "page": "Alamat halaman saat ini",
+      "link": "Alamat tautan yang diklik"
+    }
+  },
+  "menu": {
+    "main": "layanan eksternal"
+  }
+}

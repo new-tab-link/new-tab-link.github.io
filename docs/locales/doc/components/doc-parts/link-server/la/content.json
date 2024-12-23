@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "externa officia",
+    "description": "Cum nexum deprimis, officium externum certiorem facere potes nexum premendi. Hoc munere uti potes si navigatrum ad percurrere debes.",
+    "service": {
+      "title": "Opus externum servitium ad hoc munus efficiendum, versionem beta servitii praebemus",
+      "linkName": "Download link",
+      "linkExplain": "Potes applicationem respondentem iuxta systema operantem uteris. Non confirmatur quod regulariter currere potest sub omnibus systematibus. Si difficultates tibi occurrant, si linguam programmandi {{0}} intellegere potes, fontem codicem detrahere potes et te ipsum compilare.",
+      "sourceLink": "Source codice download"
+    },
+    "sendParams": {
+      "title": "Cum adaptatio clicked, obiecti mittetur extrinsecus utendo {{0}}, cum his attributis:",
+      "page": "Oratio paginae hodiernae",
+      "link": "Clicked link electronica"
+    }
+  },
+  "menu": {
+    "main": "externa officia"
+  }
+}

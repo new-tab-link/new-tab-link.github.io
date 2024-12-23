@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Nga taviniraa i rapae",
+    "description": "Ia hi'opo'a ana'e outou i te hoê hono, e nehenehe ta outou e faaite i te taviniraa i rapae e, ua hi'opo'ahia te hoê hono, e nehenehe ta outou e faaohipa i teie ohipa mai te mea e, e titauhia ia outou ia taui i te rave'a hi'opo'araa.",
+    "service": {
+      "title": "E mea titauhia te hoê taviniraa no rapae mai no te faaohipa i teie ohipa, e te horo'a nei matou i te hoê huriraa beta o te taviniraa",
+      "linkName": "Tikiake hononga",
+      "linkExplain": "Ia au i te faanahoraa ohipa ta outou e faaohipa ra, e nehenehe outou e tii mai i te faanahoraa e au i te reira. Aita i haapapûhia e, e nehenehe te reira e rave maitai i roto i te mau faanahoraa atoa mai te mea e, e fifi ta outou, mai te mea e, e nehenehe ta outou e ite i te reo faanahoraa {{0}}, e nehenehe ta outou e tii mai i te waehere puna e e haaputuputu i te reira.",
+      "sourceLink": "Tikiake code puna"
+    },
+    "sendParams": {
+      "title": "Ia tairihia te hoê mea, e tonohia te hoê tao'a i rapae ma te faaohipa i te {{0}}, e te mau huru i muri nei:",
+      "page": "Te vahi nohoraa o te api i teie nei",
+      "link": "Hi'opo'a i te vahi nohoraa"
+    }
+  },
+  "menu": {
+    "main": "Nga taviniraa i rapae"
+  }
+}

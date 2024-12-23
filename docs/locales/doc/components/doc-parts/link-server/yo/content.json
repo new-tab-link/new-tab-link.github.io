@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ita awọn iṣẹ",
+    "description": "Nigbati o ba tẹ ọna asopọ kan, o le sọ fun iṣẹ ita gbangba pe ọna asopọ kan ti tẹ O le lo iṣẹ yii ti o ba nilo lati yi ẹrọ aṣawakiri pada lati lọ kiri.",
+    "service": {
+      "title": "O nilo iṣẹ ita lati ṣe iṣẹ yii, a pese ẹya beta ti iṣẹ naa",
+      "linkName": "Download ọna asopọ",
+      "linkExplain": "O le ṣe igbasilẹ ohun elo ti o baamu gẹgẹbi ẹrọ ṣiṣe ti o nlo. A ko fi idi rẹ mulẹ pe o le ṣiṣẹ ni deede labẹ gbogbo awọn eto Ti o ba pade awọn iṣoro, ti o ba le loye ede siseto {{0}}, o le ṣe igbasilẹ koodu orisun ati ṣajọ rẹ funrararẹ.",
+      "sourceLink": "Gbigba koodu orisun"
+    },
+    "sendParams": {
+      "title": "Nigbati a ba tẹ ibaramu, ohun kan yoo firanṣẹ ni ita ni lilo {{0}}, ti o ni awọn abuda wọnyi ninu:",
+      "page": "Adirẹsi ti oju-iwe lọwọlọwọ",
+      "link": "Tẹ adirẹsi ọna asopọ"
+    }
+  },
+  "menu": {
+    "main": "ita awọn iṣẹ"
+  }
+}

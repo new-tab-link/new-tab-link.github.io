@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "eksterne tsjinsten",
+    "description": "As jo ​​op in keppeling klikke, kinne jo de eksterne tsjinst ynformearje dat in keppeling is oanklikt. Jo kinne dizze funksje brûke as jo de browser feroarje moatte om te blêdzjen.",
+    "service": {
+      "title": "Jo hawwe in eksterne tsjinst nedich om dizze funksje út te fieren, wy leverje in beta-ferzje fan 'e tsjinst",
+      "linkName": "Download keppeling",
+      "linkExplain": "Jo kinne de oerienkommende applikaasje downloade neffens it bestjoeringssysteem dat jo brûke. It is net befêstige dat it normaal rinne kin ûnder alle systemen As jo ​​problemen tsjinkomme, as jo de programmeartaal {{0}} kinne ferstean, kinne jo de boarnekoade downloade en sels kompilearje.",
+      "sourceLink": "Boarnekoade download"
+    },
+    "sendParams": {
+      "title": "As oerienkomst wurdt oanklikt, sil in objekt ekstern ferstjoerd wurde mei {{0}}, mei de folgjende attributen:",
+      "page": "It adres fan de aktuele side",
+      "link": "Klike keppeling adres"
+    }
+  },
+  "menu": {
+    "main": "eksterne tsjinsten"
+  }
+}

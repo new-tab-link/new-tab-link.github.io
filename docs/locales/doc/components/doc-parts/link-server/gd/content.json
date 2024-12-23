@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "seirbheisean a-muigh",
+    "description": "Nuair a phutas tu air ceangal, faodaidh tu innse don t-seirbheis a-muigh gun deach ceangal a bhriogadh Faodaidh tu an gnìomh seo a chleachdadh ma dh’ fheumas tu am brabhsair atharrachadh airson brobhsadh.",
+    "service": {
+      "title": "Feumaidh tu seirbheis bhon taobh a-muigh gus an gnìomh seo a bhuileachadh, bheir sinn seachad dreach beta den t-seirbheis",
+      "linkName": "Luchdaich sìos ceangal",
+      "linkExplain": "Faodaidh tu an tagradh co-fhreagarrach a luchdachadh sìos a rèir an t-siostam obrachaidh a tha thu a’ cleachdadh. Chan eil e air a dhearbhadh gun urrainn dha ruith gu h-àbhaisteach fo gach siostam.",
+      "sourceLink": "Source code luchdadh a-nuas"
+    },
+    "sendParams": {
+      "title": "Nuair a bhriogas tu air maidseadh, thèid nì a chuir a-mach air an taobh a-muigh a’ cleachdadh {{0}}, anns a bheil na buadhan a leanas:",
+      "page": "Seòladh na duilleige làithreach",
+      "link": "Cliog air seòladh ceangail"
+    }
+  },
+  "menu": {
+    "main": "seirbheisean a-muigh"
+  }
+}

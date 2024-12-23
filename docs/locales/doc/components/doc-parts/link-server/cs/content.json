@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "externí služby",
+    "description": "Když kliknete na odkaz, můžete externí službě oznámit, že bylo kliknuto na odkaz. Tuto funkci můžete použít, pokud potřebujete změnit prohlížeč pro prohlížení.",
+    "service": {
+      "title": "K implementaci této funkce potřebujete externí službu, poskytujeme beta verzi služby",
+      "linkName": "Odkaz ke stažení",
+      "linkExplain": "Můžete si stáhnout odpovídající aplikaci podle operačního systému, který používáte. Není potvrzeno, že může běžet normálně pod všemi systémy. Pokud narazíte na problémy a rozumíte programovacímu jazyku {{0}}, můžete si stáhnout zdrojový kód a zkompilovat jej sami.",
+      "sourceLink": "Zdrojový kód ke stažení"
+    },
+    "sendParams": {
+      "title": "Po kliknutí na shodu bude objekt odeslán externě pomocí {{0}}, který obsahuje následující atributy:",
+      "page": "Adresa aktuální stránky",
+      "link": "Adresa kliknutí na odkaz"
+    }
+  },
+  "menu": {
+    "main": "externí služby"
+  }
+}

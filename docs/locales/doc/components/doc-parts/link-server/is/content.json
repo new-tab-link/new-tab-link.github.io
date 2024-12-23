@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ytri þjónustu",
+    "description": "Þegar þú smellir á tengil geturðu tilkynnt ytri þjónustu um að smellt hafi verið á tengil. Þú getur notað þessa aðgerð ef þú þarft að skipta um vafra til að vafra.",
+    "service": {
+      "title": "Þú þarft utanaðkomandi þjónustu til að innleiða þessa aðgerð, við bjóðum upp á beta útgáfu af þjónustunni",
+      "linkName": "Sækja hlekkur",
+      "linkExplain": "Þú getur halað niður samsvarandi forriti í samræmi við stýrikerfið sem þú notar. Það er ekki staðfest að það geti keyrt eðlilega undir öllum kerfum Ef þú lendir í vandræðum, ef þú getur skilið {{0}} forritunarmálið, geturðu sótt frumkóðann og sett hann saman.",
+      "sourceLink": "Sækja frumkóða"
+    },
+    "sendParams": {
+      "title": "Þegar smellt er á samsvörun verður hlutur sendur utan með því að nota {{0}}, sem inniheldur eftirfarandi eiginleika:",
+      "page": "Heimilisfang núverandi síðu",
+      "link": "Smelltu á tengilinn heimilisfang"
+    }
+  },
+  "menu": {
+    "main": "ytri þjónustu"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "zunanje storitve",
+    "description": "Ko kliknete povezavo, lahko obvestite zunanjo storitev, da je bila povezava kliknjena. To funkcijo lahko uporabite, če želite spremeniti brskalnik za brskanje.",
+    "service": {
+      "title": "Za izvajanje te funkcije potrebujete zunanjo storitev, nudimo beta različico storitve",
+      "linkName": "Povezava za prenos",
+      "linkExplain": "Prenesete lahko ustrezno aplikacijo glede na operacijski sistem, ki ga uporabljate. Ni potrjeno, da lahko deluje normalno v vseh sistemih. Če naletite na težave in razumete programski jezik {{0}}, lahko prenesete izvorno kodo in jo prevedete sami.",
+      "sourceLink": "Prenos izvorne kode"
+    },
+    "sendParams": {
+      "title": "Ko kliknete ujemanje, bo objekt poslan navzven z uporabo {{0}}, ki vsebuje naslednje atribute:",
+      "page": "Naslov trenutne strani",
+      "link": "Naslov kliknjene povezave"
+    }
+  },
+  "menu": {
+    "main": "zunanje storitve"
+  }
+}

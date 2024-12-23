@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ditirelo tsa kwa ntle",
+    "description": "Fa o tobetsa kgokagano, o ka itsise tirelo ya kwa ntle gore kgokagano e tobeditswe O ka dirisa tiro eno fa o tlhoka go fetola sebatli gore o batlisise.",
+    "service": {
+      "title": "O tlhoka tirelo ya kwa ntle go diragatsa tiro eno, re tlamela ka mofuta wa beta wa tirelo",
+      "linkName": "Kgokagano ya go laisolola",
+      "linkExplain": "O ka laisolola kopo e e tsamaelanang go ya ka tsamaiso ya tiriso e o e dirisang. Ga go a netefadiwa gore e ka dira sentle ka fa tlase ga ditsamaiso tsotlhe Fa o kopana le mathata, fa o kgona go tlhaloganya puo ya go dira diporokeramo ya {{0}}, o ka laisolola khoutu ya motswedi mme wa e kokoanya ka bowena.",
+      "sourceLink": "Laisolola khoutu ya motswedi"
+    },
+    "sendParams": {
+      "title": "Fa go tobediwa go tshwantshanya, selo se tla romelwa kwa ntle se dirisa {{0}}, se se nang le diponagalo tse di latelang:",
+      "page": "Aterese ya tsebe ya ga jaana",
+      "link": "Aterese ya kgokagano e e tobeditsweng"
+    }
+  },
+  "menu": {
+    "main": "ditirelo tsa kwa ntle"
+  }
+}

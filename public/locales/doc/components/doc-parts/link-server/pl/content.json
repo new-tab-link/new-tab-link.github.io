@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "usługi zewnętrzne",
+    "description": "Klikając w link, możesz powiadomić serwis zewnętrzny o kliknięciu linku. Możesz skorzystać z tej funkcji, jeśli chcesz zmienić przeglądarkę, aby przeglądać.",
+    "service": {
+      "title": "Do wdrożenia tej funkcji potrzebujesz usługi zewnętrznej, udostępniamy wersję beta usługi",
+      "linkName": "Pobierz łącze",
+      "linkExplain": "Możesz pobrać odpowiednią aplikację w zależności od używanego systemu operacyjnego. Nie potwierdzono, że może działać normalnie na wszystkich systemach. Jeśli napotkasz problemy, jeśli znasz język programowania {{0}}, możesz pobrać kod źródłowy i skompilować go samodzielnie.",
+      "sourceLink": "Pobieranie kodu źródłowego"
+    },
+    "sendParams": {
+      "title": "Po kliknięciu dopasowania obiekt zostanie wysłany na zewnątrz za pomocą {{0}}, zawierający następujące atrybuty:",
+      "page": "Adres bieżącej strony",
+      "link": "Kliknięty adres linku"
+    }
+  },
+  "menu": {
+    "main": "usługi zewnętrzne"
+  }
+}

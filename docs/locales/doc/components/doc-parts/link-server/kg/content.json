@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "bisalu ya nganda",
+    "description": "Kana nge me niema lien mosi, nge lenda zabisa service ya nganda nde bo me niema lien mosi Nge lenda sadila kisalu yai kana nge kele na mfunu ya kusoba navigateur sambu na kutala.",
+    "service": {
+      "title": "Nge kele na mfunu ya kisalu ya nganda sambu na kusadila kisalu yai, beto ke pesa version beta ya kisalu .",
+      "linkName": "Lien ya kubaka",
+      "linkExplain": "Nge lenda baka application yina ke wakana ti yo na kutadila systeme d’exploitation yina nge ke sadila. Yo me ndimama ve nde yo lenda sala mbote na nsi ya ba systeme yonso Kana nge me kutana ti ba mpasi, kana nge lenda bakisa ndinga ya programe {{0}}, nge lenda baka kode ya kisina mpi kuyidika yo nge mosi.",
+      "sourceLink": "Kubaka kode ya kisina"
+    },
+    "sendParams": {
+      "title": "Kana nge me niema kisika ya kufwanana, kima mosi ta tindama na nganda na kusadilaka {{0}}, yina kele ti bikalulu yai:",
+      "page": "Adresi ya mukanda ya sesepi",
+      "link": "Adresi yina bo me niema"
+    }
+  },
+  "menu": {
+    "main": "bisalu ya nganda"
+  }
+}

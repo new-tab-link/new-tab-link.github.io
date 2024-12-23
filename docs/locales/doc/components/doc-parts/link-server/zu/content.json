@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "amasevisi angaphandle",
+    "description": "Uma uchofoza isixhumanisi, ungazisa isevisi yangaphandle ukuthi isixhumanisi sichofoziwe Ungasebenzisa lo msebenzi uma udinga ukushintsha isiphequluli ukuze uphequlule.",
+    "service": {
+      "title": "Udinga isevisi yangaphandle ukuze usebenzise lo msebenzi, sinikeza inguqulo ye-beta yesevisi",
+      "linkName": "Landa isixhumanisi",
+      "linkExplain": "Ungalanda uhlelo lokusebenza oluhambisanayo ngokuya ngesistimu yokusebenza oyisebenzisayo. Akuqinisekisiwe ukuthi ingasebenza ngokujwayelekile ngaphansi kwawo wonke amasistimu Uma uhlangabezana nezinkinga, uma ukwazi ukuqonda {{0}} ulimi lokuhlela, ungadawuniloda ikhodi yomthombo bese uzihlanganisela yona.",
+      "sourceLink": "Ukulanda ikhodi yomthombo"
+    },
+    "sendParams": {
+      "title": "Uma ukufanisa kuchofozwa, into izothunyelwa ngaphandle kusetshenziswa i-{{0}}, equkethe izibaluli ezilandelayo:",
+      "page": "Ikheli lekhasi lamanje",
+      "link": "Ikheli lesixhumanisi elichofoziwe"
+    }
+  },
+  "menu": {
+    "main": "amasevisi angaphandle"
+  }
+}

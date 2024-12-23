@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "mabasa ekunze",
+    "description": "Paunodzvanya chinongedzo, unogona kuzivisa sevhisi yekunze kuti chinongedzo chadzvanywa Unogona kushandisa basa iri kana uchida kushandura browser kuti utarise.",
+    "service": {
+      "title": "Unoda sevhisi yekunze kuti uite basa iri, tinopa beta vhezheni yesevhisi",
+      "linkName": "Dhaunirodha link",
+      "linkExplain": "Unogona kudhawunirodha inoenderana application zvinoenderana neanoshanda sisitimu yauri kushandisa. Hazvina kusimbiswa kuti inogona kushanda zvakajairika pasi pemasisitimu ese ukasangana nematambudziko, kana uchikwanisa kunzwisisa {{0}} mutauro wekuronga, unogona kudhaunirodha kodhi yacho woiunganidza wega.",
+      "sourceLink": "Source code download"
+    },
+    "sendParams": {
+      "title": "Kana kuenzanisa kuchidzvanywa, chinhu chinotumirwa kunze pachishandiswa {{0}}, chine hunhu hunotevera:",
+      "page": "Kero yepeji iripo",
+      "link": "Wadzvanya kero yekubatanidza"
+    }
+  },
+  "menu": {
+    "main": "mabasa ekunze"
+  }
+}

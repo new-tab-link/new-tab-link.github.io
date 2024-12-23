@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "serivisi zo hanze",
+    "description": "Iyo ukanze umurongo, urashobora kumenyesha serivise yo hanze ko umurongo wakanze. Urashobora gukoresha iyi mikorere niba ukeneye guhindura mushakisha kugirango urebe.",
+    "service": {
+      "title": "Ukeneye serivisi yo hanze kugirango ushyire mubikorwa iki gikorwa, dutanga verisiyo ya beta ya serivisi",
+      "linkName": "Kuramo umurongo",
+      "linkExplain": "Urashobora gukuramo porogaramu ijyanye na sisitemu y'imikorere ukoresha. Ntabwo byemejwe ko ishobora gukora mubisanzwe munsi ya sisitemu zose Niba uhuye nibibazo, niba ushobora kumva ururimi rwa programme {{0}}, urashobora gukuramo code yinkomoko hanyuma ukayikora wenyine.",
+      "sourceLink": "Gukuramo kode y'inkomoko"
+    },
+    "sendParams": {
+      "title": "Iyo guhuza gukanda, ikintu kizoherezwa hanze ukoresheje {{0}}, gikubiyemo ibiranga bikurikira:",
+      "page": "Aderesi yurupapuro rwubu",
+      "link": "Kanda ahanditse adresse"
+    }
+  },
+  "menu": {
+    "main": "serivisi zo hanze"
+  }
+}

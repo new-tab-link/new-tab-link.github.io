@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "eksterne dienste",
+    "description": "Wanneer jy op 'n skakel klik, kan jy die eksterne diens in kennis stel dat 'n skakel geklik is. Jy kan hierdie funksie gebruik as jy die blaaier moet verander om te blaai.",
+    "service": {
+      "title": "Jy benodig 'n eksterne diens om hierdie funksie te implementeer, ons verskaf 'n beta-weergawe van die diens",
+      "linkName": "Aflaai skakel",
+      "linkExplain": "U kan die ooreenstemmende toepassing aflaai volgens die bedryfstelsel wat u gebruik. Dit is nie bevestig dat dit normaalweg onder alle stelsels kan werk nie. As jy probleme ondervind, as jy die {{0}}-programmeertaal kan verstaan, kan jy die bronkode aflaai en dit self saamstel.",
+      "sourceLink": "Bronkode aflaai"
+    },
+    "sendParams": {
+      "title": "Wanneer passing geklik word, sal 'n voorwerp ekstern gestuur word deur {{0}} te gebruik, wat die volgende kenmerke bevat:",
+      "page": "Die adres van die huidige bladsy",
+      "link": "Geklikte skakeladres"
+    }
+  },
+  "menu": {
+    "main": "eksterne dienste"
+  }
+}

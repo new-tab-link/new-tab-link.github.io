@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "sèvis ekstèn",
+    "description": "Lè ou klike sou yon lyen, ou ka fè sèvis ekstèn lan konnen yo te klike sou yon lyen. Ou ka itilize fonksyon sa a si w bezwen chanje navigatè a pou w navige.",
+    "service": {
+      "title": "Ou bezwen yon sèvis ekstèn pou aplike fonksyon sa a, nou bay yon vèsyon beta nan sèvis la",
+      "linkName": "Telechaje lyen",
+      "linkExplain": "Ou ka telechaje aplikasyon korespondan an selon sistèm operasyon w ap itilize a. Li pa konfime ke li ka kouri nòmalman anba tout sistèm yo.",
+      "sourceLink": "Telechaje kòd sous"
+    },
+    "sendParams": {
+      "title": "Lè yo klike sou matche, yo pral voye yon objè deyò lè l sèvi avèk {{0}}, ki gen atribi sa yo:",
+      "page": "Adrès paj aktyèl la",
+      "link": "Klike sou adrès lyen an"
+    }
+  },
+  "menu": {
+    "main": "sèvis ekstèn"
+  }
+}

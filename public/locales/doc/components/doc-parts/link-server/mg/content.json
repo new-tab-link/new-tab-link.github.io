@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "serivisy ivelany",
+    "description": "Rehefa manindry rohy ianao dia azonao atao ny mampahafantatra ny serivisy ivelany fa voakitika ny rohy iray Azonao atao ny mampiasa ity fiasa ity raha mila manova ny navigateur ianao.",
+    "service": {
+      "title": "Mila serivisy ivelany ianao mba hampiharana an'io fiasa io, manome version beta an'ny serivisy izahay",
+      "linkName": "Rohy misintona",
+      "linkExplain": "Azonao atao ny misintona ny rindranasa mifanaraka amin'izany araka ny rafitra fiasanao ampiasainao. Tsy voamarina fa afaka mandeha ara-dalàna amin'ny rafitra rehetra izy Raha sendra olana ianao, raha azonao ny fiteny fandaharana {{0}} dia azonao atao ny misintona ny kaody loharano ary manangona azy.",
+      "sourceLink": "Fisintonana kaody loharano"
+    },
+    "sendParams": {
+      "title": "Rehefa kitihina ny mifanandrify dia alefa any ivelany ny zavatra iray amin'ny alalan'ny {{0}}, misy ireto toetra manaraka ireto:",
+      "page": "Ny adiresin'ny pejy ankehitriny",
+      "link": "Adiresy rohy voakitika"
+    }
+  },
+  "menu": {
+    "main": "serivisy ivelany"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "adeegyada dibadda",
+    "description": "Markaad gujiso xiriiriye, waxaad ogeysiin kartaa adeegga dibadda in xiriiriye la gujiyay Waxaad isticmaali kartaa shaqadan haddii aad u baahan tahay inaad bedesho browserka si aad u baadho.",
+    "service": {
+      "title": "Waxaad u baahan tahay adeeg dibadeed si aad hawshan u hirgeliso, waxaanu ku siinaynaa nooca beta ee adeega",
+      "linkName": "Soo deji linkiga",
+      "linkExplain": "Waxaad soo dejisan kartaa codsiga u dhigma iyadoo la raacayo nidaamka hawlgalka ee aad isticmaalayso. Lama xaqiijin in ay si caadi ah u hoos shaqeyn karto dhammaan nidaamyada. Haddii aad la kulanto dhibaatooyin, haddii aad fahmi karto {{0}} luqadda barnaamijka, waxaad soo dejisan kartaa koodka isha oo aad isku dubaridi karto.",
+      "sourceLink": "Source code download"
+    },
+    "sendParams": {
+      "title": "Marka isbarbardhigga la gujiyo, shay ayaa dibadda loo diri doonaa iyadoo la adeegsanayo {{0}}, oo ka kooban sifooyinka soo socda:",
+      "page": "Cinwaanka bogga hadda",
+      "link": "Cinwaanka isku xirka la gujiyay"
+    }
+  },
+  "menu": {
+    "main": "adeegyada dibadda"
+  }
+}

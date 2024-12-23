@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ayyuka na waje",
+    "description": "Lokacin da ka danna hanyar haɗi, za ka iya sanar da sabis na waje cewa an danna hanyar haɗi Za ka iya amfani da wannan aikin idan kana buƙatar canza mai bincike don lilo.",
+    "service": {
+      "title": "Kuna buƙatar sabis na waje don aiwatar da wannan aikin, muna samar da sigar sabis ɗin beta",
+      "linkName": "Zazzage hanyar haɗin gwiwa",
+      "linkExplain": "Kuna iya saukar da aikace-aikacen da ya dace bisa ga tsarin aiki da kuke amfani da su. Ba a tabbatar da cewa yana iya aiki bisa ga ka'ida ba a ƙarƙashin duk tsarin idan kun haɗu da matsaloli, idan kuna iya fahimtar yaren shirye-shiryen {{0}}, zaku iya zazzage lambar tushe kuma ku haɗa ta da kanku.",
+      "sourceLink": "Zazzage lambar tushe"
+    },
+    "sendParams": {
+      "title": "Lokacin da aka danna matching, za a aika wani abu a waje ta amfani da {{0}}, mai ɗauke da sifofi masu zuwa:",
+      "page": "Adireshin shafin na yanzu",
+      "link": "adireshin mahaɗin da aka danna"
+    }
+  },
+  "menu": {
+    "main": "ayyuka na waje"
+  }
+}

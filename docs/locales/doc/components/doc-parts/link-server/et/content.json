@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "välisteenused",
+    "description": "Kui klõpsate lingil, saate välist teenust teavitada, et lingil on klõpsatud. Seda funktsiooni saate kasutada, kui peate sirvimiseks brauserit vahetama.",
+    "service": {
+      "title": "Selle funktsiooni rakendamiseks vajate välist teenust, pakume teenuse beetaversiooni",
+      "linkName": "Laadi alla link",
+      "linkExplain": "Vastava rakenduse saate alla laadida vastavalt kasutatavale operatsioonisüsteemile. Ei ole kinnitatud, et see töötab normaalselt kõigis süsteemides. Kui teil tekib probleeme, saate lähtekoodi alla laadida ja ise kompileerida.",
+      "sourceLink": "Lähtekoodi allalaadimine"
+    },
+    "sendParams": {
+      "title": "Kui klõpsatakse sobitamisel, saadetakse objekt väliselt, kasutades {{0}}, mis sisaldab järgmisi atribuute:",
+      "page": "Praeguse lehe aadress",
+      "link": "Klikitud lingi aadress"
+    }
+  },
+  "menu": {
+    "main": "välisteenused"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "servicii externe",
+    "description": "Când faceți clic pe un link, puteți notifica serviciul extern că a fost făcut clic pe un link. Puteți utiliza această funcție dacă trebuie să schimbați browserul pentru a naviga.",
+    "service": {
+      "title": "Aveți nevoie de un serviciu extern pentru a implementa această funcție, oferim o versiune beta a serviciului",
+      "linkName": "Link de descărcare",
+      "linkExplain": "Puteți descărca aplicația corespunzătoare în funcție de sistemul de operare pe care îl utilizați. Nu este confirmat că poate rula normal în toate sistemele Dacă întâmpinați probleme, dacă înțelegeți limbajul de programare {{0}}, puteți descărca codul sursă și îl puteți compila singur.",
+      "sourceLink": "Descărcare cod sursă"
+    },
+    "sendParams": {
+      "title": "Când se face clic pe potrivire, un obiect va fi trimis extern folosind {{0}}, care conține următoarele atribute:",
+      "page": "Adresa paginii curente",
+      "link": "S-a făcut clic pe adresa linkului"
+    }
+  },
+  "menu": {
+    "main": "servicii externe"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "xizmetên derve",
+    "description": "Dema ku hûn li ser girêdanek bikirtînin, hûn dikarin karûbarê derveyî agahdar bikin ku zencîreyek hatî klîk kirin Heke hûn hewce ne ku gerokê biguherînin da ku hûn lêgerin bikin.",
+    "service": {
+      "title": "Ji bo pêkanîna vê fonksiyonê hûn hewceyê karûbarek derveyî ne, em guhertoyek beta ya karûbarê peyda dikin",
+      "linkName": "Girêdana daxistinê",
+      "linkExplain": "Hûn dikarin serîlêdana têkildar li gorî pergala xebitandinê ya ku hûn bikar tînin dakêşin. Nayê piştrast kirin ku ew dikare di bin hemî pergalên normal de bixebite.",
+      "sourceLink": "Daxistina koda çavkaniyê"
+    },
+    "sendParams": {
+      "title": "Dema ku lihevhatin were klîk kirin, tiştek dê bi karanîna {{0}} ji derve were şandin, ku taybetmendiyên jêrîn tê de hene:",
+      "page": "Navnîşana rûpela heyî",
+      "link": "Navnîşana girêdanê bitikîne"
+    }
+  },
+  "menu": {
+    "main": "xizmetên derve"
+  }
+}

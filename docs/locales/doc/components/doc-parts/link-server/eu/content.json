@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "kanpoko zerbitzuak",
+    "description": "Esteka batean klik egiten duzunean, kanpoko zerbitzuari jakinarazi diezaiokezu esteka batean klik egin dela. Funtzio hau erabil dezakezu arakatzailea aldatu behar baduzu.",
+    "service": {
+      "title": "Funtzio hau ezartzeko kanpoko zerbitzu bat behar duzu, zerbitzuaren beta bertsioa eskaintzen dugu",
+      "linkName": "Deskargatzeko esteka",
+      "linkExplain": "Erabiltzen ari zaren sistema eragilearen arabera dagokion aplikazioa deskargatu dezakezu. Ez dago ziurtatzen sistema guztietan normal exekutatu daitekeenik Arazoak aurkitzen badituzu, {{0}} programazio-lengoaia ulertzen baduzu, iturburu-kodea deskargatu eta zuk zeuk konpila dezakezu.",
+      "sourceLink": "Iturburu kodea deskargatzea"
+    },
+    "sendParams": {
+      "title": "Bat-etortzea sakatzen denean, objektu bat bidaliko da kanpotik {{0}} erabiliz, atributu hauek dituena:",
+      "page": "Uneko orriaren helbidea",
+      "link": "Sakatutako estekaren helbidea"
+    }
+  },
+  "menu": {
+    "main": "kanpoko zerbitzuak"
+  }
+}

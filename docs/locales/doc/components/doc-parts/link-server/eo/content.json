@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "eksteraj servoj",
+    "description": "Kiam vi alklakas ligilon, vi povas sciigi la eksteran servon, ke ligilo estas klakita. Vi povas uzi ĉi tiun funkcion se vi bezonas ŝanĝi la retumilon por foliumi.",
+    "service": {
+      "title": "Vi bezonas eksteran servon por efektivigi ĉi tiun funkcion, ni provizas beta-version de la servo",
+      "linkName": "Elŝuta ligilo",
+      "linkExplain": "Vi povas elŝuti la respondan aplikaĵon laŭ la operaciumo, kiun vi uzas. Ne estas konfirmite, ke ĝi povas funkcii normale en ĉiuj sistemoj Se vi renkontas problemojn, se vi povas kompreni la programlingvon {{0}}, vi povas elŝuti la fontkodon kaj kompili ĝin mem.",
+      "sourceLink": "Elŝuto de fontkodo"
+    },
+    "sendParams": {
+      "title": "Kiam kongruo estas klakita, objekto estos sendita ekstere uzante {{0}}, enhavanta la jenajn atributojn:",
+      "page": "La adreso de la nuna paĝo",
+      "link": "Klakita ligilo adreso"
+    }
+  },
+  "menu": {
+    "main": "eksteraj servoj"
+  }
+}

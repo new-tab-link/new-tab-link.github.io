@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "eksterne tjenester",
+    "description": "Når du klikker på en lenke, kan du varsle den eksterne tjenesten om at en lenke har blitt klikket på. Du kan bruke denne funksjonen hvis du trenger å endre nettleseren for å surfe.",
+    "service": {
+      "title": "Du trenger en ekstern tjeneste for å implementere denne funksjonen, vi tilbyr en betaversjon av tjenesten",
+      "linkName": "Last ned link",
+      "linkExplain": "Du kan laste ned den tilsvarende applikasjonen i henhold til operativsystemet du bruker. Det er ikke bekreftet at det kan kjøre normalt under alle systemer Hvis du støter på problemer, hvis du forstår programmeringsspråket {{0}}, kan du laste ned kildekoden og kompilere den selv.",
+      "sourceLink": "Last ned kildekode"
+    },
+    "sendParams": {
+      "title": "Når matching klikkes, vil et objekt bli sendt eksternt ved hjelp av {{0}}, som inneholder følgende attributter:",
+      "page": "Adressen til gjeldende side",
+      "link": "Klikket lenkeadresse"
+    }
+  },
+  "menu": {
+    "main": "eksterne tjenester"
+  }
+}

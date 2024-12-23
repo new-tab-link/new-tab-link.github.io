@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "sarwisaaji yaajɗi",
+    "description": "So a ɓuuɓtii jokkorde, aɗa waawi humpitaade sarwiis yaajɗo wonde jokkorde ɓuuɓnaama Aɗa waawi huutoraade ndee gollal so aɗa yiɗi waylude feerorde ngam feewnude.",
+    "service": {
+      "title": "Aɗa sokli sarwiis yaajɗo ngam huutoraade ngal gollal, min ndokka sarwiis oo mbaydi beta",
+      "linkName": "Jokkorde ƴettugol",
+      "linkExplain": "Aɗa waawi ƴettude applikation potɗo fawaade e system operation mo kuutorto-ɗaa oo. Tabitinaaka wonde ina waawi dogde no haanirta nii e les njuɓɓudiiji kala So a hawrii e caɗeele, so aɗa waawi faamde ɗemngal porogaraam {{0}}, aɗa waawi ƴettude kod iwdi ndii, mooftaa ɗum e hoore maa.",
+      "sourceLink": "Kod iwdi ƴettugol"
+    },
+    "sendParams": {
+      "title": "So matching ɓuuɓnaama, huunde neldetee ko e yaasi huutoraade {{0}}, tawa ina waɗi ɗeeɗoo sifaaji:",
+      "page": "Adres hello jooni ngoo",
+      "link": "Adres jokkorde ɓuuɓnde"
+    }
+  },
+  "menu": {
+    "main": "sarwisaaji yaajɗi"
+  }
+}

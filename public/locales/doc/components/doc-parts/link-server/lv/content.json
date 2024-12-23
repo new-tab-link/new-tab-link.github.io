@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "ārējie pakalpojumi",
+    "description": "Noklikšķinot uz saites, varat paziņot ārējam pakalpojumam, ka uz saites ir noklikšķināts. Šo funkciju varat izmantot, ja pārlūkošanai ir jāmaina pārlūkprogramma.",
+    "service": {
+      "title": "Šīs funkcijas ieviešanai nepieciešams ārējais pakalpojums, mēs piedāvājam pakalpojuma beta versiju",
+      "linkName": "Lejupielādes saite",
+      "linkExplain": "Varat lejupielādēt atbilstošo lietojumprogrammu atbilstoši izmantotajai operētājsistēmai. Nav apstiprināts, ka tas var normāli darboties visās sistēmās. Ja rodas problēmas un saprotat {{0}} programmēšanas valodu, varat lejupielādēt avota kodu un pats to kompilēt.",
+      "sourceLink": "Avota koda lejupielāde"
+    },
+    "sendParams": {
+      "title": "Noklikšķinot uz atbilstības, objekts tiks nosūtīts ārēji, izmantojot {{0}}, kas satur šādus atribūtus:",
+      "page": "Pašreizējās lapas adrese",
+      "link": "Noklikšķinātās saites adrese"
+    }
+  },
+  "menu": {
+    "main": "ārējie pakalpojumi"
+  }
+}

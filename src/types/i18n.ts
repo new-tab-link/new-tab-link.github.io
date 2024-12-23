@@ -7,6 +7,7 @@ import type doc__components__doc___parts__export from '../../i18n-raw/origin/com
 import type doc__components__doc___parts__global from '../../i18n-raw/origin/components/doc-parts/global/content.json'
 import type doc__components__doc___parts__global___script from '../../i18n-raw/origin/components/doc-parts/global-script/content.json'
 import type doc__components__doc___parts__import from '../../i18n-raw/origin/components/doc-parts/import/content.json'
+import type doc__components__doc___parts__link___server from '../../i18n-raw/origin/components/doc-parts/link-server/content.json'
 import type doc__components__doc___parts__overview from '../../i18n-raw/origin/components/doc-parts/overview/content.json'
 import type doc__components__doc___parts__rule___method from '../../i18n-raw/origin/components/doc-parts/rule-method/content.json'
 import type doc__components__doc___parts__rule___sort from '../../i18n-raw/origin/components/doc-parts/rule-sort/content.json'
@@ -28,6 +29,7 @@ declare module 'i18next' {
       ["doc/components/doc-parts/global/content"]: typeof doc__components__doc___parts__global,
       ["doc/components/doc-parts/global-script/content"]: typeof doc__components__doc___parts__global___script,
       ["doc/components/doc-parts/import/content"]: typeof doc__components__doc___parts__import,
+      ["doc/components/doc-parts/link-server/content"]: typeof doc__components__doc___parts__link___server,
       ["doc/components/doc-parts/overview/content"]: typeof doc__components__doc___parts__overview,
       ["doc/components/doc-parts/rule-method/content"]: typeof doc__components__doc___parts__rule___method,
       ["doc/components/doc-parts/rule-sort/content"]: typeof doc__components__doc___parts__rule___sort,

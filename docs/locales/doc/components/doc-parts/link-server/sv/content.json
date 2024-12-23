@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "externa tjänster",
+    "description": "När du klickar på en länk kan du meddela den externa tjänsten att en länk har klickats. Du kan använda den här funktionen om du behöver byta webbläsare för att surfa.",
+    "service": {
+      "title": "Du behöver en extern tjänst för att implementera denna funktion, vi tillhandahåller en betaversion av tjänsten",
+      "linkName": "Ladda ner länk",
+      "linkExplain": "Du kan ladda ner motsvarande applikation beroende på vilket operativsystem du använder. Det är inte bekräftat att det kan köras normalt under alla system Om du stöter på problem, om du kan förstå programmeringsspråket {{0}}, kan du ladda ner källkoden och kompilera den själv.",
+      "sourceLink": "Ladda ner källkod"
+    },
+    "sendParams": {
+      "title": "När matchning klickas kommer ett objekt att skickas externt med {{0}}, som innehåller följande attribut:",
+      "page": "Adressen till den aktuella sidan",
+      "link": "Klickad länkadress"
+    }
+  },
+  "menu": {
+    "main": "externa tjänster"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "doc": {
+    "title": "域名不同的链接",
+    "checkedUseSetting": "勾选可以启用此设置。",
+    "excludeDomains": "添加要排除的域名，每次只能添加一条。",
+    "seeExcludeExamplesLink": "示例",
+    "description": "域名不同时触发此配置",
+    "exclude": {
+      "example": {
+        "domain": "您可以添加一个域名，例如<code>{{url}}</code>，排除整个域名。",
+        "url": "您可以添加一个链接，例如<code>{{url}}</code>，排除具体链接。",
+        "glob": "您可以添加一个{{glob}}模式，例如<code>{{minimatch}}</code>，模糊匹配。"
+      }
+    }
+  },
+  "menu": {
+    "main": "域名不同"
+  }
+}

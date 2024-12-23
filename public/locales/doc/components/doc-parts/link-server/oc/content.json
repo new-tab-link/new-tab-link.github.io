@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "servicis extèrnes",
+    "description": "Quand clicatz sus un ligam, podètz avisar lo servici extèrne qu'un ligam es estat clicat Podètz utilizar aquesta foncion se avètz besonh de cambiar lo navigador per navigar.",
+    "service": {
+      "title": "Avètz besonh d'un servici extèrne per implementar aquesta foncion, provesissèm una version beta del servici",
+      "linkName": "Ligam de telecargament",
+      "linkExplain": "Podètz telecargar l'aplicacion correspondenta segon lo sistèma operatiu qu'utilizatz. Es pas confirmat que pòt foncionar normalament jos totes los sistèmas Se rencontratz de problèmas, se podètz comprene lo lengatge de programacion {{0}}, podètz telecargar lo còde font e lo compilar vos-meteis.",
+      "sourceLink": "Telecargament de còde font"
+    },
+    "sendParams": {
+      "title": "Quand la correspondéncia es clicada, un objècte serà mandat extèrnament en utilizant {{0}}, contenent los atributs seguents :",
+      "page": "L'adreça de la pagina actuala",
+      "link": "Adreça de ligam clicat"
+    }
+  },
+  "menu": {
+    "main": "servicis extèrnes"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "Iroh ayfaafayitte",
+    "description": "Atu xakab xagta waqdi, xakab xagtem iroh ayfaafay taysixxigem duddah Atu ta tuxxiiqit tantifiqem duddah browser milaagtam faxxek.",
+    "service": {
+      "title": "Atu ta abto abbinossuh iroh ayfaf faxxa, nanu ayfaafak betah bicsa xayyosna",
+      "linkName": "Oobis yasgaarawi",
+      "linkExplain": "Atu oobissam duddah ramad le assabalta atu edde tantifiqeh tan taamah maknayat rakitak. Inkih tan maknayitteh addat qaadiik taamitam duudam diggoysaanam maduudan, {{0}} porograamih af ceddam duddah, raceenah koox oobissam kee isih kobxissam duddah.",
+      "sourceLink": "Raceena mudenta oobisiyya"
+    },
+    "sendParams": {
+      "title": "ramaddos xukkutan wak, abto iroh ruubelon {{0}}, ciggiltah tan weeloola addat le:",
+      "page": "Away yan galih sugmenta",
+      "link": "xukkuteenih yasgaarawih guub"
+    }
+  },
+  "menu": {
+    "main": "Iroh ayfaafayitte"
+  }
+}

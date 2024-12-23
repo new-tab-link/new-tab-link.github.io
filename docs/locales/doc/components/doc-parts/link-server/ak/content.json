@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "abɔnten so nnwuma",
+    "description": "Sɛ wo klik link bi so a, wobɛtumi abɔ abɔnten so dwumadie no amanneɛ sɛ wɔakliki link bi so a, wobɛtumi de saa dwumadie yi adi dwuma sɛ ɛhia sɛ wo sesa browser no na woatumi ahwehwɛ.",
+    "service": {
+      "title": "Wohia abɔnten so dwumadie bi na wode saa dwumadie yi adi dwuma, yɛde dwumadie no beta version ma",
+      "linkName": "Twe link no",
+      "linkExplain": "Wubetumi atwe application a ɛne no hyia no sɛnea operating system a wode redi dwuma no te. Wɔnnsi so dua sɛ ebetumi ayɛ adwuma sɛnea ɛsɛ wɔ nhyehyɛe nyinaa ase Sɛ wuhyia ɔhaw ahorow a, sɛ wubetumi ate {{0}} nhyehyɛe kasa ase a, wubetumi atwe fibea koodu no na w'ankasa woaboaboa ano.",
+      "sourceLink": "Source code a wɔde bɛtwe"
+    },
+    "sendParams": {
+      "title": "Sɛ wɔkliki matching a, wɔde ade bi bɛkɔ abɔnten denam {{0}} so, a su ahorow a edidi so yi wom:",
+      "page": "Address a ɛwɔ kratafa a ɛwɔ hɔ mprempren no so",
+      "link": "Klik link address no so"
+    }
+  },
+  "menu": {
+    "main": "abɔnten so nnwuma"
+  }
+}

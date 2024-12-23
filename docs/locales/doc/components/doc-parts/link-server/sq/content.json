@@ -1,0 +1,20 @@
+{
+  "doc": {
+    "title": "shërbimet e jashtme",
+    "description": "Kur klikoni një lidhje, mund të njoftoni shërbimin e jashtëm që një lidhje është klikuar. Mund ta përdorni këtë funksion nëse duhet të ndryshoni shfletuesin për të shfletuar.",
+    "service": {
+      "title": "Ju duhet një shërbim i jashtëm për të zbatuar këtë funksion, ne ofrojmë një version beta të shërbimit",
+      "linkName": "Lidhja e shkarkimit",
+      "linkExplain": "Ju mund të shkarkoni aplikacionin përkatës sipas sistemit operativ që po përdorni. Nuk konfirmohet që mund të funksionojë normalisht në të gjitha sistemet Nëse hasni probleme, nëse kuptoni gjuhën e programimit {{0}}, mund ta shkarkoni kodin burimor dhe ta përpiloni vetë.",
+      "sourceLink": "Shkarkimi i kodit burimor"
+    },
+    "sendParams": {
+      "title": "Kur klikohet përputhja, një objekt do të dërgohet nga jashtë duke përdorur {{0}}, që përmban atributet e mëposhtme:",
+      "page": "Adresa e faqes aktuale",
+      "link": "Adresa e lidhjes së klikuar"
+    }
+  },
+  "menu": {
+    "main": "shërbimet e jashtme"
+  }
+}
