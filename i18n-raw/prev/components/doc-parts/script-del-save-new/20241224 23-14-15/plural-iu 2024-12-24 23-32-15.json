@@ -1,0 +1,24 @@
+{
+  "doc": {
+    "title": "规则的增删改",
+    "newBtn": {
+      "title": "新建：",
+      "explain": "为规则新建一个脚本"
+    },
+    "saveBtn": {
+      "title": "保存：",
+      "explain": "保存当前规则的设置"
+    },
+    "delBtn": {
+      "title": "删除：",
+      "explain": "删除当前规则的设置"
+    },
+    "autoSave": {
+      "title": "自动保存：",
+      "explain": "每次更改都自动保存更改后的规则设置"
+    }
+  },
+  "menu": {
+    "main": "规则的增删改"
+  }
+}

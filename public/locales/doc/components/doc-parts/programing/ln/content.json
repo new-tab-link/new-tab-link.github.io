@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmation ya ba programmes",
+    "description": "Eteni oyo ezali kolobela ndenge ya kosala programɛ",
+    "example1": {
+      "title": "{{0}}Ndakisa ya code ya lokasa ya ndako",
+      "annotation1": "Boyeba soki ezali kombo ya domaine ya liboso ndenge moko Soki te, zongisa {{0}} mpe sala lisusu te.",
+      "annotation2": "Boyeba soki ezali {{0}} to lokasa ya ebandeli ya chaîne Nzela na yango ebandi na elembo @ Soki ezali bongo, zongisa {{1}}.",
+      "annotation3": "Boyeba soki ezali lokasa ya video.",
+      "annotation4": "Boyeba soki ezali lokasa ya video ya mokuse Nzela na yango ebandi na /shorts/ Soki ezali bongo, {{0}} ekozongisama.",
+      "annotation5": "Na makambo mosusu, {{0}} ezongisami."
+    }
+  },
+  "menu": {
+    "main": "programmation ya ba programmes"
+  }
+}

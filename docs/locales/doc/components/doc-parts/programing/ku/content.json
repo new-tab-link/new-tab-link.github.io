@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "bernamekirin",
+    "description": "Ev beş li ser çawaniya bernamekirinê ye",
+    "example1": {
+      "title": "{{0}}Mînaka koda rûpela malê",
+      "annotation1": "Tesbît bike ka ew heman navê domainê ye an na, vegere {{0}} û êdî nexebite.",
+      "annotation2": "Diyar bike ka ew {{0}} ye an jî rûpela sereke ya kanalê ye.",
+      "annotation3": "Tesbît bike ka ew rûpelek vîdyoyê ye an na, dê bi /watch re dest pê bike.",
+      "annotation4": "Tesbît bike ka ew rûpeleke vîdyoyê ya kurt e yan na.",
+      "annotation5": "Di rewşên din de, {{0}} tê vegerandin."
+    }
+  },
+  "menu": {
+    "main": "bernamekirin"
+  }
+}

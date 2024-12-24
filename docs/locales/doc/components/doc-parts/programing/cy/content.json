@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "rhaglennu",
+    "description": "Mae'r rhan hon yn ymwneud â sut i raglennu",
+    "example1": {
+      "title": "{{0}}Enghraifft cod tudalen gartref",
+      "annotation1": "Penderfynwch ai'r un prif enw parth ydyw. Os na, dychwelwch {{0}} a pheidio â gweithredu mwyach.",
+      "annotation2": "Darganfod a yw'n {{0}} neu hafan y sianel. Mae ei lwybr yn dechrau gyda'r symbol @.",
+      "annotation3": "Penderfynwch a yw'n dudalen fideo. Mae ei llwybr yn dechrau gyda /watch.",
+      "annotation4": "Penderfynwch a yw'n dudalen fideo fer. Mae ei llwybr yn dechrau gyda /shorts/.",
+      "annotation5": "Mewn achosion eraill, mae {{0}} yn cael ei ddychwelyd."
+    }
+  },
+  "menu": {
+    "main": "rhaglennu"
+  }
+}

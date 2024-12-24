@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmiñ |",
+    "description": "Diwar-benn penaos programmiñ eo al lodenn-mañ",
+    "example1": {
+      "title": "{{0}}Skouer kod ar bajenn degemer",
+      "annotation1": "Divizout hag-eñ eo an hevelep anv domani pennañ.",
+      "annotation2": "Divizout hag-eñ eo {{0}} pe pajenn degemer ar chadenn. Kregiñ a ra he hent gant an arouez @.",
+      "annotation3": "Divizout hag-eñ eo ur bajenn video. Kregiñ a ra he hent gant /watch.",
+      "annotation4": "Divizout hag-eñ eo ur bajenn video berr Kregiñ a ra he hent gant /shorts/.",
+      "annotation5": "E degouezhioù all e vez distroet {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programmiñ |"
+  }
+}

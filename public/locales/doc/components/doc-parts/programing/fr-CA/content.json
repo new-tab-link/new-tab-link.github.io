@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmation",
+    "description": "Cette partie explique comment programmer",
+    "example1": {
+      "title": "{{0}}Exemple de code de page d'accueil",
+      "annotation1": "Déterminez si c'est le même nom de domaine principal. Sinon, retournez {{0}} et n'exécutez plus.",
+      "annotation2": "Déterminez s'il s'agit de {{0}} ou de la page d'accueil de la chaîne.",
+      "annotation3": "Déterminez s'il s'agit d'une page vidéo.",
+      "annotation4": "Déterminez s'il s'agit d'une courte page vidéo.",
+      "annotation5": "Dans d'autres cas, {{0}} est renvoyé."
+    }
+  },
+  "menu": {
+    "main": "programmation"
+  }
+}

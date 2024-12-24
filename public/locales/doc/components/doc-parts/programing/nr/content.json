@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "ukuhlela",
+    "description": "Ingcenye le imayelana nokuthi ungahlela njani",
+    "example1": {
+      "title": "{{0}}Isibonelo sekhodi yekhasi lasekhaya",
+      "annotation1": "Hlola bona libizo lesizinda elifanako na. Nangabe akunjalo, buyisela {{0}} begodu ungasasebenzi.",
+      "annotation2": "Hlola bona ngu-{{0}} nofana ikhasi lokuthoma lesiteshi. Indlela yayo ithoma ngephawu le-@.",
+      "annotation3": "Hlola bona likhasi levidiyo na.",
+      "annotation4": "Hlola bona lilikhasi elifitjhani levidiyo. Indlela yalo ithoma nge-/shorts/.",
+      "annotation5": "Kwezinye izehlakalo, {{0}} iyabuyiselwa emuva."
+    }
+  },
+  "menu": {
+    "main": "ukuhlela"
+  }
+}

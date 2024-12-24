@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "kupanga programu",
+    "description": "Sehemu hii inahusu jinsi ya kupanga",
+    "example1": {
+      "title": "{{0}}Mfano wa msimbo wa ukurasa wa nyumbani",
+      "annotation1": "Bainisha ikiwa ni jina la kikoa lile lile la msingi ikiwa sivyo, rudisha {{0}} na usitekeleze tena.",
+      "annotation2": "Bainisha ikiwa ni {{0}} au ukurasa wa nyumbani wa kituo huanza na alama ya @ ikiwa ni hivyo, rudisha {{1}}.",
+      "annotation3": "Bainisha ikiwa ni ukurasa wa video.",
+      "annotation4": "Amua ikiwa ni ukurasa mfupi wa video.",
+      "annotation5": "Katika hali nyingine, {{0}} hurejeshwa."
+    }
+  },
+  "menu": {
+    "main": "kupanga programu"
+  }
+}

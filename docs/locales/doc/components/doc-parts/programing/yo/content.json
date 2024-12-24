@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "siseto",
+    "description": "Apakan yii jẹ nipa bi o ṣe le ṣe eto",
+    "example1": {
+      "title": "{{0}}Apẹẹrẹ koodu oju-iwe ile",
+      "annotation1": "Pinnu boya o jẹ orukọ agbegbe akọkọ kanna Ti ko ba ṣe bẹ, da {{0}} pada ko si ṣiṣẹ mọ.",
+      "annotation2": "Pinnu boya o jẹ {{0}} tabi oju-iwe akọkọ ti ikanni naa.",
+      "annotation3": "Pinnu boya oju-iwe fidio jẹ ọna rẹ bẹrẹ pẹlu / wo, {{0}} yoo da pada.",
+      "annotation4": "Pinnu boya oju-iwe fidio kukuru ni ọna rẹ bẹrẹ pẹlu /awọn kukuru/, ti o ba jẹ bẹẹ, {{0}} yoo pada.",
+      "annotation5": "Ni awọn igba miiran, {{0}} ti pada."
+    }
+  },
+  "menu": {
+    "main": "siseto"
+  }
+}

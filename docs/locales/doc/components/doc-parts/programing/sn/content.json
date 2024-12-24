@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programming",
+    "description": "Ichi chikamu chiri pamusoro pekuita chirongwa",
+    "example1": {
+      "title": "{{0}}Muenzaniso wekodhi yepeji yekumba",
+      "annotation1": "Sarudza kana iri iro rekutanga zita rezita kana risiri, dzorera {{0}} uye usaite.",
+      "annotation2": "Ona kuti iri {{0}} kana peji rekutanga rechiteshi. Nzira yacho inotanga ne @ chiratidzo, dzoka",
+      "annotation3": "Sarudza kana iri vhidhiyo peji.",
+      "annotation4": "Sarudza kana iri vhidhiyo peji pfupi.",
+      "annotation5": "Pamwe pacho, {{0}} inodzoserwa."
+    }
+  },
+  "menu": {
+    "main": "programming"
+  }
+}

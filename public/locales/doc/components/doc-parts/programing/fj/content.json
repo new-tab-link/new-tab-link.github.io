@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "porokaramu",
+    "description": "Na tikina oqo e baleta na sala me parokaramutaki kina .",
+    "example1": {
+      "title": "{{0}}Ivakaraitaki ni kode ni tabana ni vale",
+      "annotation1": "Vakadeitaka kevaka e yaca ni vanua taumada vata ga Kevaka e sega, vakasuka {{0}} ka sega tale ni vakayacora.",
+      "annotation2": "Vakadeitaka se sa {{0}} se na tabana ni vale ni sala e tekivu ena ivakatakilakila ni @ Kevaka e vakakina, vakasuka {{1}}.",
+      "annotation3": "Vakadeitaka kevaka e dua na draunipepa ni vidio Na kena sala e tekivu ena /raica, {{0}} ena vakasukai.",
+      "annotation4": "Vakadeitaka kevaka e dua na draunipepa ni vidio lekaleka Na kena sala e tekivu ena /lekaleka/ Kevaka e vakakina, {{0}} ena vakasukai.",
+      "annotation5": "Ena so tale na ituvaki, {{0}} e vakasukai."
+    }
+  },
+  "menu": {
+    "main": "porokaramu"
+  }
+}

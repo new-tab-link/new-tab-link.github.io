@@ -1,0 +1,15 @@
+{
+  "doc": {
+    "title": "导入规则",
+    "fromHistory": "从历史记录中导入",
+    "pasteFromClipboard": "从剪切板中粘贴",
+    "loadExamples": "加载示例",
+    "unselectAll": "取消已选择的规则",
+    "selectAll": "选择全部规则",
+    "use": "导入规则",
+    "selectedRule": "单击选择/取消选择"
+  },
+  "menu": {
+    "main": "导入规则"
+  }
+}

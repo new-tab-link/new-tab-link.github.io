@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmering",
+    "description": "Den här delen handlar om hur man programmerar",
+    "example1": {
+      "title": "{{0}}Exempel på startsida",
+      "annotation1": "Bestäm om det är samma primära domännamn. Om inte, returnera {{0}} och kör inte längre.",
+      "annotation2": "Bestäm om det är {{0}} eller startsidan för kanalen börjar med @-symbolen. Returnera i så fall {{1}}.",
+      "annotation3": "Bestäm om det är en videosida. Sökvägen börjar med /watch. Om så är fallet kommer {{0}} att returneras.",
+      "annotation4": "Bestäm om det är en kort videosida. Sökvägen börjar med /shorts/. Om så är fallet kommer {{0}} att returneras.",
+      "annotation5": "I andra fall returneras {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programmering"
+  }
+}

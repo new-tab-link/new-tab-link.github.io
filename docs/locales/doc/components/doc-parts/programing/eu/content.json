@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programazioa",
+    "description": "Zati hau nola programatu da",
+    "example1": {
+      "title": "{{0}}Hasierako orriaren kodearen adibidea",
+      "annotation1": "Zehaztu domeinu-izen nagusi bera den ala ez bada, itzuli {{0}} eta ez exekutatu.",
+      "annotation2": "Zehaztu {{0}} edo kanalaren hasierako orria den. Bidea @ ikurrekin hasten da. Hala bada, itzuli {{1}}.",
+      "annotation3": "Zehaztu bideo-orri bat den. Bidea /watch-ekin hasten da. Hala bada, {{0}} itzuliko da.",
+      "annotation4": "Zehaztu bideo-orri labur bat den. Bidea /laburrekin hasten da. Hala bada, {{0}} itzuliko da.",
+      "annotation5": "Beste kasu batzuetan, {{0}} itzultzen da."
+    }
+  },
+  "menu": {
+    "main": "programazioa"
+  }
+}

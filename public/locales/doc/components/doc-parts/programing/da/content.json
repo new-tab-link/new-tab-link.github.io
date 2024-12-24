@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmering",
+    "description": "Denne del handler om, hvordan man programmerer",
+    "example1": {
+      "title": "{{0}}Eksempel på startsidekode",
+      "annotation1": "Bestem, om det er det samme primære domænenavn. Hvis ikke, skal du returnere {{0}} og ikke længere udføre.",
+      "annotation2": "Bestem om det er {{0}} eller kanalens startside starter med @-symbolet. Hvis det er tilfældet, returnerer du {{1}}.",
+      "annotation3": "Bestem, om det er en videoside. Dens sti starter med /watch. Hvis ja, vil {{0}} blive returneret.",
+      "annotation4": "Bestem, om det er en kort videoside. Dens sti starter med /shorts/. Hvis ja, vil {{0}} blive returneret.",
+      "annotation5": "I andre tilfælde returneres {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programmering"
+  }
+}

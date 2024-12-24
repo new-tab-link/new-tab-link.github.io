@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "go dira diporokeramo",
+    "description": "Karolo eno e ka ga go rulaganya",
+    "example1": {
+      "title": "{{0}}Sekao sa khoutu ya tsebegae",
+      "annotation1": "Tlhomamisa gore a ke leina la kgolagano ya dikhomphiutha le le tshwanang Fa go sa nna jalo, busetsa {{0}} mme o se ka wa tlhola o diragatsa.",
+      "annotation2": "Tlhomamisa gore a ke {{0}} kgotsa tsebegae ya kanale Tsela ya yone e simolola ka letshwao la @ Fa go le jalo, busetsa {{1}}.",
+      "annotation3": "Tlhomamisa gore a ke tsebe ya vidio Tsela ya yone e simolola ka /watch Fa go le jalo, {{0}} e tla busiwa.",
+      "annotation4": "Tlhomamisa gore a ke tsebe ya vidio e khutshwane.",
+      "annotation5": "Mo maemong a mangwe, {{0}} e a busiwa."
+    }
+  },
+  "menu": {
+    "main": "go dira diporokeramo"
+  }
+}

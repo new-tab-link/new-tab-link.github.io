@@ -5,27 +5,22 @@ import i18n from '@src/i18nconf/i18nSetting';
 import React, { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 const ii = i18n
-console.log('ii', ii.language)
 export function LanguageSelect() {
   const lm = googleGeminiIntersectionLocale;
   
   const { t, i18n } = useTranslation('doc/components/language-selector/content');
   let lng = i18n.language;
-  console.log('ii2', ii.language)
-  console.log('lng1', lng)
   if (!(lng in lm)) {
     lng = lng.split('-')[0];
   }
-  console.log('lng2', lng)
   if (!(lng in lm)) {
     lng = 'en';
   }
-  console.log('lng3', lng)
   const [language, setLanguage] = React.useState(lng);
   const handleChange = (event: SelectChangeEvent) => {
     const cl = event.target.value;
     setLanguage(event.target.value as string);
-    i18n.changeLanguage(cl);
+    // i18n.changeLanguage(cl);
     ii.changeLanguage(cl)
   };
   useEffect(() => {

@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "ríomhchlárú",
+    "description": "Tá an chuid seo faoi conas a ríomhchlárú",
+    "example1": {
+      "title": "{{0}}Sampla cód leathanach baile",
+      "annotation1": "Faigh amach cé acu an príomhainm fearainn céanna é. Mura bhfuil, tabhair {{0}} ar ais agus ní rith a thuilleadh.",
+      "annotation2": "Faigh amach cé acu {{0}} nó leathanach baile an chainéil a thosaíonn a chonair leis an tsiombail @ Más amhlaidh, tabhair ar ais {{1}}.",
+      "annotation3": "Faigh amach cé acu an bhfuil sé ina leathanach físeáin.",
+      "annotation4": "Faigh amach cé acu an bhfuil sé ina leathanach físeán gearr.",
+      "annotation5": "I gcásanna eile, cuirtear {{0}} ar ais."
+    }
+  },
+  "menu": {
+    "main": "ríomhchlárú"
+  }
+}

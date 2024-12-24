@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmazzjoni",
+    "description": "Din il-parti hija dwar kif tipprogramma",
+    "example1": {
+      "title": "{{0}}Eżempju tal-kodiċi tal-paġna ewlenija",
+      "annotation1": "Iddetermina jekk huwiex l-istess isem tad-dominju primarju Jekk le, irritorna {{0}} u m'għadux tesegwixxi.",
+      "annotation2": "Iddetermina jekk huwiex {{0}} jew il-homepage tal-kanal Il-passaġġ tiegħu jibda bis-simbolu @. Jekk iva, irritorna {{1}}.",
+      "annotation3": "Iddetermina jekk hijiex paġna tal-vidjow. It-triq tagħha tibda b' /watch.",
+      "annotation4": "Iddetermina jekk hijiex paġna tal-vidjo qasira. It-triq tagħha tibda bi /shorts/.",
+      "annotation5": "F'każijiet oħra, {{0}} jiġi rritornat."
+    }
+  },
+  "menu": {
+    "main": "programmazzjoni"
+  }
+}

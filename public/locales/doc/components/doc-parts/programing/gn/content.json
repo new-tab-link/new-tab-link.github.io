@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programación rehegua",
+    "description": "Ko párte oñeʼẽ mbaʼéichapa ikatu oñeprograma",
+    "example1": {
+      "title": "{{0}}Página ypykue kódigo techapyrã",
+      "annotation1": "Eikuaa ha’épa peteĩchagua dominio tenondegua réra Ndaha’éiramo, ejevy {{0}} ha ani ejejapove.",
+      "annotation2": "Eikuaa ha’épa {{0}} térã pe canal ñepyrũha Ihape oñepyrũ @ símbolo reheve.",
+      "annotation3": "Eikuaa ha’épa peteĩ ta’ãngamýi página oñepyrũ /watch reheve.",
+      "annotation4": "Eikuaa ha’épa peteĩ video página mbykymi Itape oñepyrũ /shorts/ reheve, upéicharamo, {{0}} ojegueru jeýta.",
+      "annotation5": "Ambue kásope, {{0}} ojegueru jey."
+    }
+  },
+  "menu": {
+    "main": "programación rehegua"
+  }
+}

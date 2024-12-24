@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "nhyehyɛe a wɔyɛ",
+    "description": "Saa ɔfã yi fa sɛnea wɔyɛ nhyehyɛe ho",
+    "example1": {
+      "title": "{{0}}Home page koodu nhwɛso",
+      "annotation1": "Hwɛ sɛ ɛyɛ domain din titiriw koro no ara Sɛ ɛnte saa a, san kɔ {{0}} na nnyɛ adwuma bio.",
+      "annotation2": "Hwɛ sɛ ɛyɛ {{0}} anaasɛ ɔkwan no fie krataafa Ne kwan no fi ase wɔ @ agyiraehyɛde no so.",
+      "annotation3": "Hwɛ sɛ ɛyɛ video krataafa anaa.",
+      "annotation4": "Hwɛ sɛ ɛyɛ video krataafa tiawa anaa.",
+      "annotation5": "Wɔ tebea foforo mu no, wɔsan de {{0}} ba."
+    }
+  },
+  "menu": {
+    "main": "nhyehyɛe a wɔyɛ"
+  }
+}

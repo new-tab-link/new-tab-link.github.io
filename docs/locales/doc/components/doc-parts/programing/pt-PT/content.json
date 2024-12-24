@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programação",
+    "description": "Esta parte é sobre como programar",
+    "example1": {
+      "title": "{{0}}Exemplo de código da página inicial",
+      "annotation1": "Determine se é o mesmo nome de domínio primário.",
+      "annotation2": "Determine se é {{0}} ou a página inicial do canal.",
+      "annotation3": "Determine se é uma página de vídeo. O seu caminho começa por /watch.",
+      "annotation4": "Determine se é uma página de vídeo curta.",
+      "annotation5": "Noutros casos, é devolvido {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programação"
+  }
+}

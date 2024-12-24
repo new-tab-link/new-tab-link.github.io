@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "būrookraam",
+    "description": "Mõttan in ej kin ewi wawein program",
+    "example1": {
+      "title": "{{0}}Home page code waanjonok",
+      "annotation1": "Lale elañe ej ejja etan domain eo wot. Elañe jaab, jeblak {{0}} im jab bar kōmmane.",
+      "annotation2": "Lale elañe ej {{0}} ak homepage eo an channel eo. Ial eo an ej jino kin @ symbol eo.",
+      "annotation3": "Lale elañe ej juon peij in video. Ial eo an ej jino kin /watch Elañe eindein, {{0}} enaj bar jeblak.",
+      "annotation4": "Lale elañe ej juon peij in video eo edik.",
+      "annotation5": "Ilo jet ien, {{0}} ej bar jeblak."
+    }
+  },
+  "menu": {
+    "main": "būrookraam"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programming",
+    "description": "Haec pars est quomodo programmata",
+    "example1": {
+      "title": "{{0}} Exempli paginae paginae domesticae",
+      "annotation1": "Decerne an idem sit nomen dominii primarii. Si non, revertere {{0}} et non amplius exsequere.",
+      "annotation2": "Decerne utrum sit {{0}} vel protocollum canalis.",
+      "annotation3": "Decerne an sit pagina video. Semita eius ab / vigilia incipit.",
+      "annotation4": "Decerne num sit pagina video brevis.",
+      "annotation5": "in aliis casibus {{0}} redditur."
+    }
+  },
+  "menu": {
+    "main": "programming"
+  }
+}

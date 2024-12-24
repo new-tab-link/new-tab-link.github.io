@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "taddiira",
+    "description": "Ta exxa mannal porograam abaanam wagittaama",
+    "example1": {
+      "title": "{{0}}Buxah addah galih bedih ceelallo",
+      "annotation1": "Baxxaaqis toh inkinnale domain migaq akke waytek, uduur {{0}} kee mangom mabbinoosa.",
+      "annotation2": "{{0}} kinnim kee tet gita @ asta kinnim tamixxige.",
+      "annotation3": "viidiyoh gali kinnim kee waytam baxis tet gita /wagit, {{0}} aduurele.",
+      "annotation4": "ux viidiyoh gali kinnim kee gita /uxxuk/ qimbisele, {{0}} aduurele.",
+      "annotation5": "gersi caalatal, {{0}} aduurele."
+    }
+  },
+  "menu": {
+    "main": "taddiira"
+  }
+}

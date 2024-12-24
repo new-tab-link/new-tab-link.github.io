@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "pwogramasyon",
+    "description": "Pati sa a se sou kijan pou pwogram",
+    "example1": {
+      "title": "{{0}}Egzanp kòd paj lakay ou",
+      "annotation1": "Detèmine si se menm non domèn prensipal la.",
+      "annotation2": "Detèmine si se {{0}} oswa paj dakèy chanèl la kòmanse ak senbòl @ Si se konsa, retounen {{1}}.",
+      "annotation3": "Detèmine si se yon paj videyo Chemen li kòmanse ak /watch.",
+      "annotation4": "Detèmine si se yon paj videyo ki kout Chemen li kòmanse ak /shorts/.",
+      "annotation5": "Nan lòt ka, yo retounen {{0}}."
+    }
+  },
+  "menu": {
+    "main": "pwogramasyon"
+  }
+}

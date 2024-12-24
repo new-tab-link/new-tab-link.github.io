@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "lập trình",
+    "description": "Phần này nói về cách lập trình",
+    "example1": {
+      "title": "{{0}}Ví dụ về mã trang chủ",
+      "annotation1": "Xác định xem đó có phải là tên miền chính hay không. Nếu không, hãy trả về {{0}} và không thực thi nữa.",
+      "annotation2": "Xác định xem đó là {{0}} hay trang chủ của kênh. Đường dẫn của nó bắt đầu bằng ký hiệu @. Nếu vậy, hãy quay lại {{1}}.",
+      "annotation3": "Xác định xem đó có phải là trang video hay không. Đường dẫn của nó bắt đầu bằng /watch. Nếu vậy, {{0}} sẽ được trả về.",
+      "annotation4": "Xác định xem đây có phải là một trang video ngắn hay không. Đường dẫn của nó bắt đầu bằng /shorts/.",
+      "annotation5": "Trong các trường hợp khác, {{0}} được trả về."
+    }
+  },
+  "menu": {
+    "main": "lập trình"
+  }
+}

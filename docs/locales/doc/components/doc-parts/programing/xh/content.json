@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "inkqubo",
+    "description": "Eli candelo limalunga nendlela yokucwangcisa",
+    "example1": {
+      "title": "{{0}}Umzekelo wekhowudi yephepha lasekhaya",
+      "annotation1": "Qinisekisa ukuba ikwalilo na igama lesizinda ukuba akunjalo, buyisela {{0}} kwaye awusayi kuphumeza.",
+      "annotation2": "Qinisekisa ukuba yi {{0}} okanye iphepha lasekhaya letshaneli Indlela yayo iqala ngophawu @ ukuba kunjalo, buyisela {{1}}.",
+      "annotation3": "Qinisekisa ukuba ingaba liphepha levidiyo na.",
+      "annotation4": "Qinisekisa ukuba ingaba liphepha levidiyo elifutshane na.",
+      "annotation5": "Kwezinye iimeko, {{0}} ibuyiselwe."
+    }
+  },
+  "menu": {
+    "main": "inkqubo"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "prograam",
+    "description": "Wàll wii dafay wax ni ñuy prograame",
+    "example1": {
+      "title": "{{0}}Misaalu kodu xëtu dalal",
+      "annotation1": "Saytu ndax benn tur domen bu njëkk la, sudee kontaanoo ci, delloosi {{0}} te dootoo def.",
+      "annotation2": "Saytu ndax {{0}} la wala xëtu dalal chaine bi.",
+      "annotation3": "Seetal ndax xëtu wideo la am déet, yoon wi mu tàmbalee ci /watch, {{0}} lay delloo.",
+      "annotation4": "Seetal ndax xëtu wideo bu gàtt la, yoon wi mu tàmbalee ci /shorts/ Su ko defee, {{0}} dina ñu ko delloo.",
+      "annotation5": "Ci yeneen mbir, {{0}} lañuy delloo."
+    }
+  },
+  "menu": {
+    "main": "prograam"
+  }
+}

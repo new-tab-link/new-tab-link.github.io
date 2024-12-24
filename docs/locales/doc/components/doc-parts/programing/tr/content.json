@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programlama",
+    "description": "Bu bölüm nasıl programlanacağıyla ilgilidir",
+    "example1": {
+      "title": "{{0}}Ana sayfa kodu örneği",
+      "annotation1": "Aynı birincil alan adı olup olmadığını belirleyin. Değilse, {{0}} değerini döndürün ve artık yürütmeyin.",
+      "annotation2": "Bunun {{0}} mı yoksa kanalın ana sayfası mı olduğunu belirleyin. Eğer öyleyse, {{1}} değerini döndürün.",
+      "annotation3": "Bunun bir video sayfası olup olmadığını belirleyin. Eğer öyleyse, {{0}} döndürülecektir.",
+      "annotation4": "Kısa bir video sayfası olup olmadığını belirleyin. Eğer öyleyse, {{0}} döndürülecektir.",
+      "annotation5": "Diğer durumlarda {{0}} döndürülür."
+    }
+  },
+  "menu": {
+    "main": "programlama"
+  }
+}

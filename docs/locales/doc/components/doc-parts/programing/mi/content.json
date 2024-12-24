@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "hōtaka",
+    "description": "Ko tenei waahanga e pa ana ki te whakatakoto kaupapa",
+    "example1": {
+      "title": "{{0}}He tauira waehere whārangi kāinga",
+      "annotation1": "Whakatauhia mehemea he rite tonu te ingoa rohe tuatahi Ki te kore, whakahokia {{0}} kia kaua e mahia.",
+      "annotation2": "Whakatauhia ko te {{0}} ranei te wharangi kainga o te hongere ka timata ki te tohu @.",
+      "annotation3": "Whakatauhia he wharangi ataata ka timata ki te /watch.",
+      "annotation4": "Whakatauhia he wharangi ataata poto ka timata ki te /shorts/.",
+      "annotation5": "I etahi atu take, ka whakahokia mai a {{0}}."
+    }
+  },
+  "menu": {
+    "main": "hōtaka"
+  }
+}

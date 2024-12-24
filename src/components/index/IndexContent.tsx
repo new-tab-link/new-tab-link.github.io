@@ -18,6 +18,7 @@ import { DocExport } from "../doc-parts/export/DocExport";
 import { DocImport } from "../doc-parts/import/DocImport";
 import { DocRuleSort } from "../doc-parts/rule-sort/RuleSort";
 import { DocLinkServer } from "../doc-parts/link-server/LinkServer";
+import { DocPrograming } from "../doc-parts/programing/Programing";
 
 
 const Root = styled('div')(({ theme }) => {
@@ -84,6 +85,7 @@ function LeftMenu() {
         <DocExport.Menu/>
         <DocImport.Menu />
         <DocLinkServer.Menu />
+        <DocPrograming.Menu />
     </MenuContainer>
 }
 
@@ -134,6 +136,7 @@ export function IndexContent() {
                         <DocExport.Doc />
                         <DocImport.Doc />
                         <DocLinkServer.Doc />
+                        <DocPrograming.Doc />
                         {/* <MediaQuery /> */}
                     </div>
                 </Stack>

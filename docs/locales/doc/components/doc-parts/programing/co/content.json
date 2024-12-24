@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "prugrammazione",
+    "description": "Sta parte hè di quantu à u prugramma",
+    "example1": {
+      "title": "{{0}}Esempiu di codice di a pagina iniziale",
+      "annotation1": "Determina s'ellu hè u listessu nome di duminiu primariu Se no, torna {{0}} è ùn eseguisce più.",
+      "annotation2": "Determina s'ellu hè {{0}} o a homepage di u canali A so strada principia cù u simbulu @ In casu, torna {{1}}.",
+      "annotation3": "Determinà s'ellu hè una pagina di video A so strada principia cù /watch.",
+      "annotation4": "Determina s'ellu hè una pagina di video breve U so percorsu principia cù /shorts/.",
+      "annotation5": "In altri casi, {{0}} hè tornatu."
+    }
+  },
+  "menu": {
+    "main": "prugrammazione"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmere",
+    "description": "Dit deil geit euver hoe me kin programmere",
+    "example1": {
+      "title": "{{0}}Veurbeeld vaan de startpaginacode",
+      "annotation1": "Bepaol of ‘t dezelfde primaire domeinnaom is, es neet, retour {{0}} en voer ‘t neet langer oet.",
+      "annotation2": "Bepaol of ‘t {{0}} is of de startpagina vaan ‘t kanaal. ‘t Paad begint mit ‘t @-symbool.",
+      "annotation3": "Bepaol of ut un videopagina is. De weeg begint mit /watch.",
+      "annotation4": "Bepaol of ut un korte videopagina is. De weeg begint mit /shorts/.",
+      "annotation5": "In anger gevalle weurt {{0}} geretourneerd."
+    }
+  },
+  "menu": {
+    "main": "programmere"
+  }
+}

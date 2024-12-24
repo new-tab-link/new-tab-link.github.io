@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programació",
+    "description": "Aquesta part tracta sobre com programar",
+    "example1": {
+      "title": "{{0}}Exemple de codi de pàgina d'inici",
+      "annotation1": "Determineu si és el mateix nom de domini principal. Si no, retorneu {{0}} i ja no l'executeu.",
+      "annotation2": "Determina si és {{0}} o la pàgina d'inici del canal. El seu camí comença amb el símbol @. Si és així, torna {{1}}.",
+      "annotation3": "Determineu si és una pàgina de vídeo. El seu camí comença amb /watch. Si és així, es retornarà {{0}}.",
+      "annotation4": "Determina si es tracta d'una pàgina de vídeo curta. El seu camí comença amb /shorts/. Si és així, es retornarà {{0}}.",
+      "annotation5": "En altres casos, es retorna {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programació"
+  }
+}

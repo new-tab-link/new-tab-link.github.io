@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programozás",
+    "description": "Ez a rész a programozásról szól",
+    "example1": {
+      "title": "{{0}}Példa a kezdőlap kódjára",
+      "annotation1": "Határozza meg, hogy ez ugyanaz az elsődleges domain név, ha nem, adja vissza a következőt: {{0}}, és ne hajtsa végre.",
+      "annotation2": "Határozza meg, hogy ez a {{0}}, vagy a csatorna kezdőlapja. Ha igen, adja vissza a következőt: {{1}}.",
+      "annotation3": "Határozza meg, hogy az elérési útja a /watch karakterrel kezdődik.",
+      "annotation4": "Határozza meg, hogy ez egy rövid videóoldal-e, az elérési útja a /shorts/ karakterrel kezdődik.",
+      "annotation5": "Más esetekben {{0}} kerül visszaadásra."
+    }
+  },
+  "menu": {
+    "main": "programozás"
+  }
+}

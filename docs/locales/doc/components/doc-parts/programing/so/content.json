@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "barnaamijyada",
+    "description": "Qaybtani waxa ay ku saabsan tahay sida barnaamijka loo sameeyo",
+    "example1": {
+      "title": "{{0}}Tusaale summada bogga guriga",
+      "annotation1": "Go'aanso in uu yahay isla magaca domainka hoose haddii kale, soo celi {{0}} oo mar dambe ha fulin.",
+      "annotation2": "Go'aanso inay tahay {{0}} ama bogga hoyga kanaalka jidkiisu wuxuu ka bilaabmaa @ sumadda, ku celi {{1}}",
+      "annotation3": "Go'aanso in uu yahay bog muuqaal ah.",
+      "annotation4": "Go'aanso in ay tahay bog fiidyow oo gaaban.",
+      "annotation5": "Xaalado kale, {{0}} waa la soo celiyay."
+    }
+  },
+  "menu": {
+    "main": "barnaamijyada"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "porogaramuw dilanni",
+    "description": "Nin yɔrɔ in bɛ kuma porogaramu kɛcogo kan",
+    "example1": {
+      "title": "{{0}}So ɲɛ kode misali",
+      "annotation1": "A dɔn ni a ye domani tɔgɔ fɔlɔ kelen ye Ni o tɛ, i ka segin {{0}} kan ani i kana baara kɛ tugun.",
+      "annotation2": "A dɔn ni {{0}} ye walima ni kanal ka daminɛyɔrɔ ye A sira bɛ daminɛ ni @ taamasiyɛn ye.",
+      "annotation3": "A dɔn ni a ye wideyo ɲɛ ye.",
+      "annotation4": "A dɔn ni a ye wideyo ɲɛ surun ye.",
+      "annotation5": "Ko wɛrɛw la, {{0}} bɛ segin."
+    }
+  },
+  "menu": {
+    "main": "porogaramuw dilanni"
+  }
+}

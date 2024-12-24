@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programe",
+    "description": "Kitini yai ketubila mutindu ya kusala programe .",
+    "example1": {
+      "title": "{{0}}Mbandu ya kode ya lutiti ya luyantiku",
+      "annotation1": "Zaba kana yo kele zina ya domaine ya ntete kana ve, vutula {{0}} mpi sala diaka ve.",
+      "annotation2": "Zaya kana yo kele {{0}} to mukanda ya luyantiku ya nzila.",
+      "annotation3": "Zaba kana yo kele mukanda ya video Nzila na yo ke yantika na /watch Kana mpidina, {{0}} ta vutuka.",
+      "annotation4": "Zaba kana yo kele mukanda ya video ya nkufi Nzila na yo ke yantika na /shorts/ Kana mpidina, {{0}} ta vutuka.",
+      "annotation5": "Na ba ntangu ya nkaka, {{0}} ke vutuka."
+    }
+  },
+  "menu": {
+    "main": "programe"
+  }
+}

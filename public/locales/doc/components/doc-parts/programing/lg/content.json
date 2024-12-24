@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "okukola pulogulaamu",
+    "description": "Ekitundu kino kikwata ku ngeri y’okukolamu pulogulaamu",
+    "example1": {
+      "title": "{{0}}Ekyokulabirako kya koodi y'olupapula lw'awaka",
+      "annotation1": "Salawo oba lye linnya lye limu ery'ekifo ekisookerwako Bwe kitaba bwe kityo, zzaayo {{0}} era tokyakola.",
+      "annotation2": "Salawo oba ye {{0}} oba omukutu gwayo ogutandikira ku kabonero @ Bwe kiba bwe kityo, zzaayo {{1}}.",
+      "annotation3": "Salawo oba lupapula lwa vidiyo lutandikira ku /watch Bwe kiba bwe kityo, {{0}} ejja kuddizibwa.",
+      "annotation4": "Salawo oba lupapula lwa vidiyo olumpi ekkubo lyayo litandikira ku /shorts/ Bwe kiba bwe kityo, {{0}} ejja kuddizibwa.",
+      "annotation5": "Mu mbeera endala, {{0}} ekomezeddwawo."
+    }
+  },
+  "menu": {
+    "main": "okukola pulogulaamu"
+  }
+}

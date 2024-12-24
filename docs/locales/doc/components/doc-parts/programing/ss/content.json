@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "kuhlela",
+    "description": "Le ngxenye imayelana nendlela yekuhlela .",
+    "example1": {
+      "title": "{{0}}Sibonelo sekhodi yelikhasi lasekhaya",
+      "annotation1": "Tfola kutsi ligama lesizinda lelifanako yini Uma kungasinjalo, buyisela {{0}} futsi ungasasebentisi.",
+      "annotation2": "Tfola kutsi {{0}} noma likhasi lasekhaya lesiteshi.",
+      "annotation3": "Tfola kutsi likhasi levidiyo yini Indlela yalo icala nga /watch Uma kunjalo, {{0}} itawubuyiselwa.",
+      "annotation4": "Tfola kutsi likhasi levidiyo lemfisha yini indlela yalo icala nga /shorts/ Uma kunjalo, {{0}} itawubuyiselwa.",
+      "annotation5": "Ngaletinye tikhatsi, {{0}} iyabuyiselwa."
+    }
+  },
+  "menu": {
+    "main": "kuhlela"
+  }
+}

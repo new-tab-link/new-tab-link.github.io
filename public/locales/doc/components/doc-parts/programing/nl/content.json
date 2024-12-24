@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmering",
+    "description": "Dit deel gaat over programmeren",
+    "example1": {
+      "title": "{{0}}Codevoorbeeld van de startpagina",
+      "annotation1": "Bepaal of het dezelfde primaire domeinnaam is. Zo niet, retourneer dan {{0}} en voer niet langer uit.",
+      "annotation2": "Bepaal of dit {{0}} is of de startpagina van het kanaal. Het pad begint met het @-symbool.",
+      "annotation3": "Bepaal of het een videopagina is. Het pad begint met /watch. Als dit het geval is, wordt {{0}} geretourneerd.",
+      "annotation4": "Bepaal of het een korte videopagina is. Het pad begint met /shorts/. Als dit het geval is, wordt {{0}} geretourneerd.",
+      "annotation5": "In andere gevallen wordt {{0}} geretourneerd."
+    }
+  },
+  "menu": {
+    "main": "programmering"
+  }
+}

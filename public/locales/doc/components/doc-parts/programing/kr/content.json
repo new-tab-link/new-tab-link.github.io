@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "faraskǝram",
+    "description": "Nasha adə kəla futu programmingben",
+    "example1": {
+      "title": "{{0}}Misal warak fatobe",
+      "annotation1": "Notə waneye su korkorbedə tilo gənyiro waljiya, waltə {{0}} kuru waltə cidajinba.",
+      "annotation2": "Notə shidə {{0}} au warak fatobedə alama @ lan badijin waneye, waltə {{1}}.",
+      "annotation3": "Warak videobe notə Diwalnzədə /watch lan badijin, {{0}} waltəyin.",
+      "annotation4": "Warak videobe korinro notə Diwalnzədə /shorts/ lan badijin, {{0}} waltəyin.",
+      "annotation5": "Lamarra gadelan, {{0}} waltəyin."
+    }
+  },
+  "menu": {
+    "main": "faraskǝram"
+  }
+}

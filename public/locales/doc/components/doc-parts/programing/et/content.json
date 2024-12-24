@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmeerimine",
+    "description": "See osa räägib programmeerimisest",
+    "example1": {
+      "title": "{{0}}Avalehe koodi näide",
+      "annotation1": "Tehke kindlaks, kas tegemist on sama esmase domeeninimega. Kui mitte, tagastage {{0}} ja ärge enam käivitage.",
+      "annotation2": "Määrake, kas see on {{0}} või kanali avaleht. Kui jah, tagastage {{1}}.",
+      "annotation3": "Määrake, kas see on videoleht, mille tee algab tähega /watch. Kui jah, tagastatakse {{0}}.",
+      "annotation4": "Tehke kindlaks, kas see on lühike videoleht. Kui jah, siis tagastatakse {{0}}.",
+      "annotation5": "Muudel juhtudel tagastatakse {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programmeerimine"
+  }
+}

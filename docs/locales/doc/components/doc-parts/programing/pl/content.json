@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programowanie",
+    "description": "Ta część dotyczy programowania",
+    "example1": {
+      "title": "{{0}}Przykładowy kod strony głównej",
+      "annotation1": "Sprawdź, czy jest to ta sama nazwa domeny podstawowej. Jeśli nie, zwróć {{0}} i nie wykonuj więcej.",
+      "annotation2": "Określ, czy jest to {{0}}, czy strona główna kanału. Jego ścieżka zaczyna się od symbolu @. Jeśli tak, zwróć {{1}}.",
+      "annotation3": "Określ, czy jest to strona wideo. Jej ścieżka zaczyna się od /watch. Jeśli tak, zostanie zwrócone {{0}}.",
+      "annotation4": "Określ, czy jest to krótka strona wideo. Jej ścieżka zaczyna się od /shorts/. Jeśli tak, zostanie zwrócony element {{0}}.",
+      "annotation5": "W innych przypadkach zwracane jest {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programowanie"
+  }
+}

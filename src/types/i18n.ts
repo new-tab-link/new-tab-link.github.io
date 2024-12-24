@@ -18,6 +18,7 @@ import type doc__components__index from '../../i18n-raw/origin/components/index/
 import type doc__components__language___selector from '../../i18n-raw/origin/components/language-selector/content.json'
 import type doc__components__theme___model from '../../i18n-raw/origin/components/theme-model/content.json'
 import type doc__pages__about from '../../i18n-raw/origin/pages/about/content.json'
+import type doc__components__doc___parts__programing from '../../i18n-raw/origin/components/doc-parts/programing/content.json'
 
 declare module 'i18next' {
   interface CustomTypeOptions {
@@ -39,7 +40,8 @@ declare module 'i18next' {
       ["doc/components/index/content"]: typeof doc__components__index,
       ["doc/components/language-selector/content"]: typeof doc__components__language___selector,
       ["doc/components/theme-model/content"]: typeof doc__components__theme___model,
-      ["doc/pages/about/content"]: typeof doc__pages__about
+      ["doc/pages/about/content"]: typeof doc__pages__about,
+      ["doc/components/doc-parts/programing/content"]: typeof doc__components__doc___parts__programing
     }
   }
 }

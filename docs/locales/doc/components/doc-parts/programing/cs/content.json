@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programování",
+    "description": "Tato část je o tom, jak programovat",
+    "example1": {
+      "title": "{{0}}Příklad kódu domovské stránky",
+      "annotation1": "Zjistěte, zda se jedná o stejný název primární domény. Pokud ne, vraťte {{0}} a již nespouštějte.",
+      "annotation2": "Určete, zda se jedná o {{0}} nebo o domovskou stránku kanálu. Pokud ano, vraťte {{1}}.",
+      "annotation3": "Určete, zda se jedná o stránku videa, její cesta začíná řetězcem /watch. Pokud ano, vrátí se {{0}}.",
+      "annotation4": "Určete, zda se jedná o stránku s krátkým videem, její cesta začíná /shorts/. Pokud ano, vrátí se {{0}}.",
+      "annotation5": "V ostatních případech je vráceno {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programování"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "proqramlaşdırma",
+    "description": "Bu hissə proqramlaşdırma haqqındadır",
+    "example1": {
+      "title": "{{0}}Ana səhifə kodu nümunəsi",
+      "annotation1": "Onun eyni əsas domen adı olub-olmadığını müəyyənləşdirin, əgər yoxsa, {{0}} qaytarın və daha icra etməyin.",
+      "annotation2": "Onun {{0}} və ya kanalın əsas səhifəsi olduğunu müəyyənləşdirin. Əgər varsa, {{1}} işarəsi ilə başlayır.",
+      "annotation3": "Bunun video səhifəsi olub-olmadığını müəyyənləşdirin. Onun yolu /watch ilə başlayırsa, {{0}} qaytarılacaq.",
+      "annotation4": "Bunun qısa bir video səhifəsi olub olmadığını müəyyənləşdirin. Onun yolu /shorts/ ilə başlayırsa, {{0}} qaytarılacaq.",
+      "annotation5": "Digər hallarda {{0}} qaytarılır."
+    }
+  },
+  "menu": {
+    "main": "proqramlaşdırma"
+  }
+}

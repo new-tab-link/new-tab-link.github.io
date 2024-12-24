@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "porogaramu",
+    "description": "Iki gice kijyanye nuburyo bwo gukora gahunda",
+    "example1": {
+      "title": "{{0}} Urupapuro rwibanze rwa kode y'urugero",
+      "annotation1": "Menya niba ari izina ryibanze rya domaine Niba atariyo, garuka {{0}} kandi ntuzongere gukora.",
+      "annotation2": "Menya niba ari {{0}} cyangwa urupapuro rwibanze rwumuyoboro. Inzira yacyo itangirana na @ ikimenyetso.",
+      "annotation3": "Menya niba ari page ya videwo. Inzira yayo itangirana / kureba. Niba aribyo, {{0}} izasubizwa.",
+      "annotation4": "Menya niba ari page ya videwo ngufi. Inzira yayo itangirana na / ikabutura /. Niba aribyo, {{0}} izasubizwa.",
+      "annotation5": "Mu bindi bihe, {{0}} isubizwa."
+    }
+  },
+  "menu": {
+    "main": "porogaramu"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "mmemme",
+    "description": "Akụkụ a bụ maka otu esi eme mmemme",
+    "example1": {
+      "title": "{{0}} Ihe atụ koodu ibe",
+      "annotation1": "Kpebie ma ọ bụ otu aha ngalaba ma ọ bụghị, laghachi na {{0}} na agaghịzi eme ya.",
+      "annotation2": "Kpebie ma ọ bụ {{0}} ma ọ bụ ibe nke ọwa ahụ na-amalite na akara @ Ọ bụrụ otu ahụ, laghachi na {{1}.",
+      "annotation3": "Kpebie ma ọ bụ ibe vidiyo na-amalite na /ekiri, ọ bụrụ otu a, {{0}} ga-eweghachi.",
+      "annotation4": "Kpebie ma ọ bụ ibe vidiyo dị nkenke na-amalite na /mkpirisi/ Ọ bụrụ otu ahụ, {{0}} ga-eweghachi.",
+      "annotation5": "N'ọnọdụ ndị ọzọ, {{0}} eweghachitela."
+    }
+  },
+  "menu": {
+    "main": "mmemme"
+  }
+}

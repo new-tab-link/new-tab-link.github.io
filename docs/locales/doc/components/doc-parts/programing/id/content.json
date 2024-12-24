@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "pemrograman",
+    "description": "Bagian ini tentang cara memprogram",
+    "example1": {
+      "title": "{{0}}Contoh kode laman beranda",
+      "annotation1": "Tentukan apakah itu nama domain primer yang sama. Jika tidak, kembalikan {{0}} dan jangan jalankan lagi.",
+      "annotation2": "Tentukan apakah itu {{0}} atau beranda saluran. Jalurnya dimulai dengan simbol @. Jika demikian, kembalikan {{1}}.",
+      "annotation3": "Tentukan apakah itu laman video. Jalurnya dimulai dengan /watch. Jika demikian, {{0}} akan dikembalikan.",
+      "annotation4": "Tentukan apakah ini laman video pendek. Jalurnya dimulai dengan /shorts/. Jika demikian, {{0}} akan dikembalikan.",
+      "annotation5": "Dalam kasus lain, {{0}} dikembalikan."
+    }
+  },
+  "menu": {
+    "main": "pemrograman"
+  }
+}

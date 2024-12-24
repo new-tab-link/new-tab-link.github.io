@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "dasturlash",
+    "description": "Bu qism qanday dasturlash haqida",
+    "example1": {
+      "title": "{{0}}Uy sahifa kodi misoli",
+      "annotation1": "Bu bir xil asosiy domen nomi yoki yoʻqligini aniqlang, agar boʻlmasa, {{0}} ni qaytaring va endi bajarmang.",
+      "annotation2": "Bu {{0}} yoki kanalning bosh sahifasi ekanligini aniqlang. Agar shunday bo'lsa, {{1}} belgisini qaytaring.",
+      "annotation3": "Uning video sahifasi ekanligini aniqlang. Agar shunday bo'lsa, {{0}} qaytariladi.",
+      "annotation4": "Uning yoʻli /shorts/ bilan boshlanadimi yoki yoʻqligini aniqlang, agar shunday boʻlsa, {{0}} qaytariladi.",
+      "annotation5": "Boshqa hollarda {{0}} qaytariladi."
+    }
+  },
+  "menu": {
+    "main": "dasturlash"
+  }
+}

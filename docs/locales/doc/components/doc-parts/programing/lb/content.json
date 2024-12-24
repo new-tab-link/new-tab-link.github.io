@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programméiere",
+    "description": "Dësen Deel ass iwwer wéi programméiere",
+    "example1": {
+      "title": "{{0}}Homepage Code Beispill",
+      "annotation1": "Bestëmmt ob et dee selwechte primäre Domainnumm ass Wann net, gitt {{0}} zréck an net méi ausféieren.",
+      "annotation2": "Bestëmmt ob et {{0}} ass oder d'Homepage vum Kanal fänkt mat dem @ Symbol un.",
+      "annotation3": "Bestëmmt ob et eng Videosäit ass. Seng Wee fänkt mat /watch un.",
+      "annotation4": "Bestëmmt ob et eng kuerz Video Säit ass. De Wee fänkt mat /shorts/ un.",
+      "annotation5": "An anere Fäll gëtt {{0}} zréckginn."
+    }
+  },
+  "menu": {
+    "main": "programméiere"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "forritun",
+    "description": "Þessi hluti snýst um hvernig á að forrita",
+    "example1": {
+      "title": "{{0}}Dæmi um heimasíðukóða",
+      "annotation1": "Ákvarðaðu hvort það sé sama aðallén. Ef ekki, skilaðu {{0}} og ekki lengur.",
+      "annotation2": "Ákveða hvort það er {{0}} eða heimasíða rásarinnar byrjar á @ tákninu. Ef svo er, skilaðu {{1}}.",
+      "annotation3": "Ákvarða hvort það sé myndbandssíða hennar byrjar á /watch Ef svo er, verður {{0}} skilað.",
+      "annotation4": "Ákvarða hvort það sé stutt myndbandssíða hennar byrjar á /shorts/. Ef svo er mun {{0}} verða skilað.",
+      "annotation5": "Í öðrum tilvikum er {{0}} skilað."
+    }
+  },
+  "menu": {
+    "main": "forritun"
+  }
+}

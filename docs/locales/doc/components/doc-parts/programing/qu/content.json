@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programacionta ruway",
+    "description": "Kay parteqa imayna programanapaqmi",
+    "example1": {
+      "title": "{{0}}Wasi p'anqap chiqap rikch'aynin",
+      "annotation1": "Kikin ñawpaq kamachiy sutichu icha manachu, {{0}} kutichiy, amataq ruraychu.",
+      "annotation2": "{{0}} icha kanalpa qallariy p'anqan kasqanmanta tanteay Ñan @ nisqawan qallarin.",
+      "annotation3": "Video p'anqa kasqanmanta yachay ñannin /watch nisqawan qallarin.",
+      "annotation4": "Pisi video p'anqa kasqanmanta yachay ñannin /shorts/ nisqawan qallarikun chayqa, {{0}} kutichisqa kanqa.",
+      "annotation5": "Huk casokunapiqa {{0}} kutichisqa."
+    }
+  },
+  "menu": {
+    "main": "programacionta ruway"
+  }
+}

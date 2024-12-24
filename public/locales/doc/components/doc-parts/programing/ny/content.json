@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "kupanga mapulogalamu",
+    "description": "Gawo ili ndi momwe mungapangire",
+    "example1": {
+      "title": "{{0}}Chitsanzo cha nambala yatsamba loyambira",
+      "annotation1": "Tsimikizirani ngati ndi dzina loyambirira lomweli ngati silo, bweretsani {{0}} ndipo osayimitsanso.",
+      "annotation2": "Dziwani ngati ndi {{0}} kapena tsamba loyamba la tchanelo.",
+      "annotation3": "Tsimikizirani ngati ndi tsamba lamavidiyo.",
+      "annotation4": "Tsimikizirani ngati ndi tsamba lalifupi la kanema.",
+      "annotation5": "Nthawi zina, {{0}} imabwezedwa."
+    }
+  },
+  "menu": {
+    "main": "kupanga mapulogalamu"
+  }
+}

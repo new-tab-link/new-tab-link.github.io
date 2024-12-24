@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "porogaraamuuji",
+    "description": "Ndee feccere ko no porogaraam",
+    "example1": {
+      "title": "{{0}}Yeru kodde hello jaɓɓorgo",
+      "annotation1": "Anndu so tawii ko innde domen adannde wootere So wonaa ɗuum, ngartir {{0}}, natta huutoraade.",
+      "annotation2": "Anndu so tawii ko {{0}} walla hello jaɓɓorgo kanel ngel Laawol maggol fuɗɗotoo ko e maande @ So tawii ko noon, ngartir {{1}}.",
+      "annotation3": "Anndu so tawii ko hello wideyoo Laawol maggol fuɗɗotoo ko e /watch So tawii ko noon, maa {{0}} artu.",
+      "annotation4": "Anndu so tawii ko hello wideyoo juutngo Laawol maggol fuɗɗotoo ko e /shorts/ So tawii ko noon, maa {{0}} artu.",
+      "annotation5": "E geɗe goɗɗe, {{0}} ina wartiree."
+    }
+  },
+  "menu": {
+    "main": "porogaraamuuji"
+  }
+}

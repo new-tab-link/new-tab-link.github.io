@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmey;",
+    "description": "Ta'n ayrn shoh mychione myr dy phrogrammey",
+    "example1": {
+      "title": "{{0}}Eisht code y duillag thie",
+      "annotation1": "Determine my she'n un ainm-domain bun-sgoillagh t'ayn, cur {{0}} er-gerrey as ny jean eh ymmyd jeh.",
+      "annotation2": "Soilshaghey magh my she {{0}} eh ny duillag-thie y chanel. T'eh toshiaght rish y symbol @ My she shen, cur {{1}}.",
+      "annotation3": "Soilshaghey magh my she duillag video t'eh toshiaght lesh /watch My she shen, bee {{0}} er ny choyrt reesht.",
+      "annotation4": "Soilshaghey magh my she duillag video gearr eh, t'eh toshiaght lesh /shorts/ My she shen, bee {{0}} er ny choyrt reesht.",
+      "annotation5": "Ayns cassyn elley, t'eh {{0}} er ny choyrt."
+    }
+  },
+  "menu": {
+    "main": "programmey;"
+  }
+}

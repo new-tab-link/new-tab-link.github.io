@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programiranje",
+    "description": "Ta del govori o tem, kako programirati",
+    "example1": {
+      "title": "{{0}}Primer kode domače strani",
+      "annotation1": "Ugotovite, ali gre za isto ime primarne domene. Če ni, vrnite {{0}} in ne izvajajte več.",
+      "annotation2": "Ugotovite, ali je to {{0}} ali domača stran kanala. Če je tako, vrnite {{1}}.",
+      "annotation3": "Ugotovite, ali se njegova pot začne z /watch.",
+      "annotation4": "Ugotovite, ali je to kratka stran z videoposnetkom. Če je tako, bo vrnjeno {{0}}.",
+      "annotation5": "V drugih primerih se vrne {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programiranje"
+  }
+}

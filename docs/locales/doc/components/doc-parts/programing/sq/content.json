@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programimit",
+    "description": "Kjo pjesë ka të bëjë me mënyrën e programimit",
+    "example1": {
+      "title": "{{0}}Shembulli i kodit të faqes kryesore",
+      "annotation1": "Përcaktoni nëse është i njëjti emër domeni kryesor nëse jo, kthejeni {{0}} dhe mos ekzekutoni më.",
+      "annotation2": "Përcaktoni nëse është {{0}} ose faqja kryesore e kanalit. Nëse po, kthejeni {{1}}.",
+      "annotation3": "Përcaktoni nëse është një faqe videoje, shtegu i saj fillon me /watch, do të kthehet.",
+      "annotation4": "Përcaktoni nëse është një faqe e shkurtër videoje, shtegu i saj fillon me /shorts/.",
+      "annotation5": "Në raste të tjera, {{0}} kthehet."
+    }
+  },
+  "menu": {
+    "main": "programimit"
+  }
+}

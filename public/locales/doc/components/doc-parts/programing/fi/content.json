@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "ohjelmointi",
+    "description": "Tämä osa käsittelee ohjelmointia",
+    "example1": {
+      "title": "{{0}}Etusivun koodiesimerkki",
+      "annotation1": "Selvitä, onko kyseessä sama ensisijainen verkkotunnuksen nimi. Jos ei, palauta {{0}} äläkä enää suorita.",
+      "annotation2": "Määritä, onko se {{0}} vai kanavan kotisivu. Jos on, palauta {{1}}.",
+      "annotation3": "Määritä, onko se videosivu, jonka polku alkaa /watch. Jos näin on, palautetaan {{0}}.",
+      "annotation4": "Selvitä, onko se lyhyt videosivu, jonka polku alkaa /shorts/.",
+      "annotation5": "Muissa tapauksissa {{0}} palautetaan."
+    }
+  },
+  "menu": {
+    "main": "ohjelmointi"
+  }
+}

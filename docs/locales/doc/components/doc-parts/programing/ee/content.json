@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "ɖoɖowɔɖiwo wɔwɔ",
+    "description": "Akpa sia ku ɖe alesi woawɔ ɖoɖowɔɖia ŋu",
+    "example1": {
+      "title": "{{0}}Aƒeme axa ƒe kɔda ƒe kpɔɖeŋu",
+      "annotation1": "Kpɔe ɖa be enye domenyiŋusẽfianu ƒe ŋkɔ gbãtɔ ma ke Ne menye nenema o la, trɔ {{0}} eye mègawɔe o.",
+      "annotation2": "Kpɔe ɖa be enye {{0}} alo mɔ̃a ƒe gɔmedzedze Eƒe mɔ dze egɔme kple @ dzesi.",
+      "annotation3": "Kpɔe ɖa be video ƒe axae wònye hã.",
+      "annotation4": "Kpɔe ɖa be video ƒe axa kpui aɖee wònye hã.",
+      "annotation5": "Le go bubuwo me la, wogbugbɔa {{0}} ɖona."
+    }
+  },
+  "menu": {
+    "main": "ɖoɖowɔɖiwo wɔwɔ"
+  }
+}

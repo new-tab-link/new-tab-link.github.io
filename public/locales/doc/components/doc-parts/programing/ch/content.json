@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "prugraman",
+    "description": "Este na påtte put taimanu para un prugraman",
+    "example1": {
+      "title": "{{0}}Ehemplon kodu gi i tutuhon",
+      "annotation1": "Na'siguru na parehu ha' i na'an i lugåt. Yanggen ti, bira {{0}} ya ti un cho'gue.",
+      "annotation2": "Na'siguru na {{0}} pat i homepage gi i kanåli. I chalan-ña ha tutuhon gi i simbolon @ Yanggen hunggan, na'hånao {{1}}.",
+      "annotation3": "Na'siguru na un pahina video. I chalan-ña ha tutuhon gi /watch Yanggen hunggan, {{0}} para u ma bira.",
+      "annotation4": "Na'siguru na un dikike' na pahina video. I chalan-ña ha tutuhon gi /shorts/. Yanggen hunggan, {{0}} para u ma bira.",
+      "annotation5": "Gi otro na biåhi, {{0}} ma bira tatte."
+    }
+  },
+  "menu": {
+    "main": "prugraman"
+  }
+}

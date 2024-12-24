@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "faanahoraa",
+    "description": "Te faataa ra teie tuhaa nahea ia faanaho",
+    "example1": {
+      "title": "{{0}}Hi'oraa o te api matamua",
+      "annotation1": "Mai te mea e, aita, a faaho'i mai i te {{0}} e eiaha e faaohipa faahou.",
+      "annotation2": "A hi'opo'a e, o te {{0}} anei e aore râ, te api matamua o te tahua.",
+      "annotation3": "A hi'opo'a e, e api video anei te reira, e haamata to'na e'a i te /hi'o.",
+      "annotation4": "A hi'opo'a e, e api video poto anei te reira, e haamata to'na e'a i te /shorts/ Mai te mea e, e faaho'i-faahou-hia mai te {{0}}.",
+      "annotation5": "I roto i te tahi atu mau tupuraa, e faaho'i-faahou-hia mai {{0}}."
+    }
+  },
+  "menu": {
+    "main": "faanahoraa"
+  }
+}

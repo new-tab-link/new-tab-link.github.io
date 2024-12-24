@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "fandaharana",
+    "description": "Ity ampahany ity dia momba ny fomba fandaharana",
+    "example1": {
+      "title": "{{0}}Ohatra kaody pejy fandraisana",
+      "annotation1": "Fantaro raha mitovy ny anaran-tsehatra voalohany Raha tsy izany dia avereno {{0}} ary aza tanterahana intsony.",
+      "annotation2": "Fantaro raha {{0}} io na ny pejy fandraisana ny fantsona dia manomboka amin'ny marika @ raha eny, avereno {{1}}.",
+      "annotation3": "Fantaro raha toa ka pejy vidéo io dia manomboka amin'ny /watch.",
+      "annotation4": "Fantaro raha toa ka pejy vidéo fohy izy io dia manomboka amin'ny /shorts/.",
+      "annotation5": "Amin'ny tranga hafa dia averina ny {{0}}."
+    }
+  },
+  "menu": {
+    "main": "fandaharana"
+  }
+}

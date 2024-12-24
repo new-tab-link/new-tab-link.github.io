@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmiliorneq",
+    "description": "Immikkoortoq una qanoq programmeqarnissaq pillugu",
+    "example1": {
+      "title": "{{0}}Quppernerup kode-a assersuut",
+      "annotation1": "Aalajangiuk taanna pingaarnertut domain-navn-iunersoq Taamaattoqanngippat, {{0}} utertiguk aammalu ingerlatiinnarnagu.",
+      "annotation2": "Aalajangiuk taanna {{0}} imaluunniit kanalip hjemmesiden-iunersoq Aqqut taanna @-symbolimik aallartissaaq Taamaappat {{1}} utertiguk.",
+      "annotation3": "Aalajangiuk video-qupperneq taanna Aqqut /watch-imik aallartissaaq Taamaappat {{0}} uteqqinneqassaaq.",
+      "annotation4": "Aalajangiuk videomik qupperneq piviusunngortinneqartoq Aqqut /shorts/-imik aallartissaaq Taamaappat {{0}} uteqqinneqassaaq.",
+      "annotation5": "Allani {{0}} uteqqinneqartarpoq."
+    }
+  },
+  "menu": {
+    "main": "programmiliorneq"
+  }
+}

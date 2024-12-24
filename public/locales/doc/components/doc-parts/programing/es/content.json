@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programación",
+    "description": "Esta parte trata sobre cómo programar.",
+    "example1": {
+      "title": "{{0}}Ejemplo de código de página de inicio",
+      "annotation1": "Determine si es el mismo nombre de dominio principal. De lo contrario, devuelva {{0}} y no ejecute más.",
+      "annotation2": "Determine si es {{0}} o la página de inicio del canal. Su ruta comienza con el símbolo @. Si es así, devuelva {{1}}.",
+      "annotation3": "Determine si es una página de video. Su ruta comienza con /watch. Si es así, se devolverá {{0}}.",
+      "annotation4": "Determine si es una página de video corta. Su ruta comienza con /shorts/. Si es así, se devolverá {{0}}.",
+      "annotation5": "En otros casos, se devuelve {{0}}."
+    }
+  },
+  "menu": {
+    "main": "programación"
+  }
+}

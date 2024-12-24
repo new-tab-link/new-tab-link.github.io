@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "programmirlemek",
+    "description": "Bu bölüm nädip programma düzmelidigi barada",
+    "example1": {
+      "title": "{{0}} Baş sahypa kody mysal",
+      "annotation1": "Şol bir esasy domen adynyň bardygyny kesgitläň, ýok bolsa, {{0} return yzyna gaýtaryň we ýerine ýetirmäň.",
+      "annotation2": "{{0} is ýa-da kanalyň baş sahypasydygyny kesgitläň. Onuň ýoly @ nyşany bilen başlaýar.",
+      "annotation3": "Wideo sahypasydygyny ýa-da ýokdugyny kesgitläň. Onuň ýoly / sagady bilen başlanýar.",
+      "annotation4": "Gysga wideo sahypasydygyny ýa-da ýokdugyny kesgitläň. Onuň ýoly / şort / bilen başlaýar.",
+      "annotation5": "Beýleki ýagdaýlarda {{0}} yzyna gaýtarylýar."
+    }
+  },
+  "menu": {
+    "main": "programmirlemek"
+  }
+}

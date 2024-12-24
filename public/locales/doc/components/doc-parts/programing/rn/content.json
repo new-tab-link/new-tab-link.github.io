@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "Porogaramu",
+    "description": "Iki gice kivuga ku buryo bwo gukora porogarama .",
+    "example1": {
+      "title": "{{0}}Urugero rwa kode ya paji y'intango",
+      "annotation1": "Menya neza nimba ari izina ry'ibanze ry'ibanze, subiramwo {{0}} ntusubire gukora.",
+      "annotation2": "Menya neza nimba ari {{0}} canke urubuga rwayo rutangura n'ikimenyetso @ Niba ari uko biri, subiramwo {{1}}.",
+      "annotation3": "Raba nimba ari urupapuro rwa videwo Inzira yayo itangura na /watch Niba ari uko biri, {{0}} izogaruka.",
+      "annotation4": "Raba nimba ari urupapuro rwa videwo rugufi Inzira yarwo itangura na /shorts/ Niba ari uko biri, {{0}} izogaruka.",
+      "annotation5": "Mu bindi bihe, {{0}} iragaruka."
+    }
+  },
+  "menu": {
+    "main": "Porogaramu"
+  }
+}

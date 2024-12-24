@@ -1,0 +1,17 @@
+{
+  "doc": {
+    "title": "forritan",
+    "description": "Hesin parturin snýr seg um, hvussu tú forritast",
+    "example1": {
+      "title": "{{0}}Heimasíðukotudømi",
+      "annotation1": "Áset um tað er sama primæra økisnavn Um ikki, so send {{0}} aftur og útfør ikki longur.",
+      "annotation2": "Áset um tað er {{0}} ella heimasíðan á rásini byrjar við @-merkinum Um so er, send aftur {{1}}.",
+      "annotation3": "Áset um tað er ein videosíða Slóðin hjá henni byrjar við /watch Um so er, verður {{0}} send aftur.",
+      "annotation4": "Áset um talan er um eina stutta videosíðu byrjar við /shorts/ Um so er, verður {{0}} send aftur.",
+      "annotation5": "Í øðrum førum verður {{0}} send aftur."
+    }
+  },
+  "menu": {
+    "main": "forritan"
+  }
+}
