@@ -8,7 +8,8 @@
       "annotation2": "Lale elañe ej {{0}} ak homepage eo an channel eo. Ial eo an ej jino kin @ symbol eo.",
       "annotation3": "Lale elañe ej juon peij in video. Ial eo an ej jino kin /watch Elañe eindein, {{0}} enaj bar jeblak.",
       "annotation4": "Lale elañe ej juon peij in video eo edik.",
-      "annotation5": "Ilo jet ien, {{0}} ej bar jeblak."
+      "annotation5": "Lale elañe ej juon peij in post. Ial eo an ej jino kin /post/ Elañe eindein, {{0}} enaj bar jeblak.",
+      "annotation6": "Ilo jet ien, {{0}} ej bar jeblak."
     }
   },
   "menu": {

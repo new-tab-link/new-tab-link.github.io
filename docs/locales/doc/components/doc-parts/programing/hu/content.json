@@ -8,7 +8,8 @@
       "annotation2": "Határozza meg, hogy ez a {{0}}, vagy a csatorna kezdőlapja. Ha igen, adja vissza a következőt: {{1}}.",
       "annotation3": "Határozza meg, hogy az elérési útja a /watch karakterrel kezdődik.",
       "annotation4": "Határozza meg, hogy ez egy rövid videóoldal-e, az elérési útja a /shorts/ karakterrel kezdődik.",
-      "annotation5": "Más esetekben {{0}} kerül visszaadásra."
+      "annotation5": "Határozza meg, hogy az elérési útja a /post/ karakterrel kezdődik.",
+      "annotation6": "Más esetekben {{0}} kerül visszaadásra."
     }
   },
   "menu": {

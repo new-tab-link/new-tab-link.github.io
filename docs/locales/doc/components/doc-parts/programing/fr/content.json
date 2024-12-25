@@ -8,7 +8,8 @@
       "annotation2": "Déterminez s'il s'agit de {{0}} ou de la page d'accueil de la chaîne. Son chemin commence par le symbole @. Si tel est le cas, renvoyez {{1}}.",
       "annotation3": "Déterminez s'il s'agit d'une page vidéo. Son chemin commence par /watch Si tel est le cas, {{0}} sera renvoyé.",
       "annotation4": "Déterminez s'il s'agit d'une courte page vidéo. Son chemin commence par /shorts/. Si tel est le cas, {{0}} sera renvoyé.",
-      "annotation5": "Dans d'autres cas, {{0}} est renvoyé."
+      "annotation5": "Déterminez s'il s'agit d'une page de publication. Son chemin commence par /post/. Si tel est le cas, {{0}} sera renvoyé.",
+      "annotation6": "Dans d'autres cas, {{0}} est renvoyé."
     }
   },
   "menu": {

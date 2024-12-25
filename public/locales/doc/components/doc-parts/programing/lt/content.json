@@ -8,7 +8,8 @@
       "annotation2": "Nustatykite, ar tai yra {{0}}, ar pagrindinis kanalo puslapis. Jei taip, grąžinkite {{1}}.",
       "annotation3": "Nustatykite, ar tai vaizdo įrašo puslapis. Jei taip, bus grąžintas {{0}}.",
       "annotation4": "Nustatykite, ar tai yra trumpas vaizdo įrašo puslapis. Jei taip, bus grąžintas {{0}}.",
-      "annotation5": "Kitais atvejais grąžinamas {{0}}."
+      "annotation5": "Nustatykite, ar tai yra įrašo puslapis. Jei taip, bus grąžintas {{0}}.",
+      "annotation6": "Kitais atvejais grąžinamas {{0}}."
     }
   },
   "menu": {

@@ -8,7 +8,8 @@
       "annotation2": "Finn ut om det er {{0}} eller startsiden til kanalen starter med @-symbolet. Returner i så fall {{1}}.",
       "annotation3": "Finn ut om det er en videoside som starter med /watch. Hvis ja, vil {{0}} bli returnert.",
       "annotation4": "Finn ut om det er en kort videoside. Dens bane starter med /shorts/. I så fall vil {{0}} bli returnert.",
-      "annotation5": "I andre tilfeller returneres {{0}}."
+      "annotation5": "Bestem om det er en innleggsside som starter med /post/. I så fall vil {{0}} bli returnert.",
+      "annotation6": "I andre tilfeller returneres {{0}}."
     }
   },
   "menu": {

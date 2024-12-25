@@ -8,7 +8,8 @@
       "annotation2": "Bu {{0}} yoki kanalning bosh sahifasi ekanligini aniqlang. Agar shunday bo'lsa, {{1}} belgisini qaytaring.",
       "annotation3": "Uning video sahifasi ekanligini aniqlang. Agar shunday bo'lsa, {{0}} qaytariladi.",
       "annotation4": "Uning yoʻli /shorts/ bilan boshlanadimi yoki yoʻqligini aniqlang, agar shunday boʻlsa, {{0}} qaytariladi.",
-      "annotation5": "Boshqa hollarda {{0}} qaytariladi."
+      "annotation5": "Bu post sahifasi yoki yo'qligini aniqlang. Agar shunday bo'lsa, {{0}} qaytariladi.",
+      "annotation6": "Boshqa hollarda {{0}} qaytariladi."
     }
   },
   "menu": {

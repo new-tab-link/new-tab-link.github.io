@@ -25,7 +25,7 @@ function Doc(){
         <Box>
             <Box>
             {t('doc.service.title')}
-            <a href="https://github.com/new-tab-link/go-external/releases" target="_blank">
+            <a href="https://github.com/new-tab-link/go-external/releases/tag/v1.0.0" target="_blank">
                 {t('doc.service.linkName')}
             </a>
             </Box>

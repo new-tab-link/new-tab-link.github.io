@@ -8,7 +8,8 @@
       "annotation2": "Bestäm om det är {{0}} eller startsidan för kanalen börjar med @-symbolen. Returnera i så fall {{1}}.",
       "annotation3": "Bestäm om det är en videosida. Sökvägen börjar med /watch. Om så är fallet kommer {{0}} att returneras.",
       "annotation4": "Bestäm om det är en kort videosida. Sökvägen börjar med /shorts/. Om så är fallet kommer {{0}} att returneras.",
-      "annotation5": "I andra fall returneras {{0}}."
+      "annotation5": "Bestäm om det är en inläggssida. Dess sökväg börjar med /post/. Om så är fallet kommer {{0}} att returneras.",
+      "annotation6": "I andra fall returneras {{0}}."
     }
   },
   "menu": {

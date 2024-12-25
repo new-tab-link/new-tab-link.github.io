@@ -8,7 +8,8 @@
       "annotation2": "Bepaal of dit {{0}} is of de startpagina van het kanaal. Het pad begint met het @-symbool.",
       "annotation3": "Bepaal of het een videopagina is. Het pad begint met /watch. Als dit het geval is, wordt {{0}} geretourneerd.",
       "annotation4": "Bepaal of het een korte videopagina is. Het pad begint met /shorts/. Als dit het geval is, wordt {{0}} geretourneerd.",
-      "annotation5": "In andere gevallen wordt {{0}} geretourneerd."
+      "annotation5": "Bepaal of het een berichtpagina is. Het pad begint met /post/. Als dit het geval is, wordt {{0}} geretourneerd.",
+      "annotation6": "In andere gevallen wordt {{0}} geretourneerd."
     }
   },
   "menu": {

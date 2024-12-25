@@ -8,7 +8,8 @@
       "annotation2": "Iddetermina jekk huwiex {{0}} jew il-homepage tal-kanal Il-passaġġ tiegħu jibda bis-simbolu @. Jekk iva, irritorna {{1}}.",
       "annotation3": "Iddetermina jekk hijiex paġna tal-vidjow. It-triq tagħha tibda b' /watch.",
       "annotation4": "Iddetermina jekk hijiex paġna tal-vidjo qasira. It-triq tagħha tibda bi /shorts/.",
-      "annotation5": "F'każijiet oħra, {{0}} jiġi rritornat."
+      "annotation5": "Iddetermina jekk hijiex paġna ta' post. It-triq tagħha tibda b' /post/.",
+      "annotation6": "F'każijiet oħra, {{0}} jiġi rritornat."
     }
   },
   "menu": {

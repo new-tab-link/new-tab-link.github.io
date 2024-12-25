@@ -8,7 +8,8 @@
       "annotation2": "Determini ĉu ĝi estas {{0}} aŭ la hejmpaĝo de la kanalo Ĝia vojo komenciĝas per la simbolo @ Se jes, revenu {{1}}.",
       "annotation3": "Determini ĉu ĝi estas videopaĝo Ĝia vojo komenciĝas per /watch Se jes, {{0}} estos resendita.",
       "annotation4": "Determini ĉu ĝi estas mallonga videopaĝo Ĝia vojo komenciĝas per /shorts/. Se jes, {{0}} estos resendita.",
-      "annotation5": "En aliaj kazoj, {{0}} estas resendita."
+      "annotation5": "Determini ĉu ĝi estas afiŝo-paĝo Ĝia vojo komenciĝas per /post/ Se jes, {{0}} estos resendita.",
+      "annotation6": "En aliaj kazoj, {{0}} estas resendita."
     }
   },
   "menu": {

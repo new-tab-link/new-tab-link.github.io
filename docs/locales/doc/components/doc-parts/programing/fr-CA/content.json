@@ -8,7 +8,8 @@
       "annotation2": "Déterminez s'il s'agit de {{0}} ou de la page d'accueil de la chaîne.",
       "annotation3": "Déterminez s'il s'agit d'une page vidéo.",
       "annotation4": "Déterminez s'il s'agit d'une courte page vidéo.",
-      "annotation5": "Dans d'autres cas, {{0}} est renvoyé."
+      "annotation5": "Déterminez s'il s'agit d'une page de publication.",
+      "annotation6": "Dans d'autres cas, {{0}} est renvoyé."
     }
   },
   "menu": {

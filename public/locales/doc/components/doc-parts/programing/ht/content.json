@@ -8,7 +8,8 @@
       "annotation2": "Detèmine si se {{0}} oswa paj dakèy chanèl la kòmanse ak senbòl @ Si se konsa, retounen {{1}}.",
       "annotation3": "Detèmine si se yon paj videyo Chemen li kòmanse ak /watch.",
       "annotation4": "Detèmine si se yon paj videyo ki kout Chemen li kòmanse ak /shorts/.",
-      "annotation5": "Nan lòt ka, yo retounen {{0}}."
+      "annotation5": "Detèmine si se yon paj pòs. Chemen li kòmanse ak /post/.",
+      "annotation6": "Nan lòt ka, yo retounen {{0}}."
     }
   },
   "menu": {

@@ -8,7 +8,8 @@
       "annotation2": "Ákveða hvort það er {{0}} eða heimasíða rásarinnar byrjar á @ tákninu. Ef svo er, skilaðu {{1}}.",
       "annotation3": "Ákvarða hvort það sé myndbandssíða hennar byrjar á /watch Ef svo er, verður {{0}} skilað.",
       "annotation4": "Ákvarða hvort það sé stutt myndbandssíða hennar byrjar á /shorts/. Ef svo er mun {{0}} verða skilað.",
-      "annotation5": "Í öðrum tilvikum er {{0}} skilað."
+      "annotation5": "Ákvarða hvort það sé póstsíða hennar byrjar á /post/. Ef svo er, verður {{0}} skilað.",
+      "annotation6": "Í öðrum tilvikum er {{0}} skilað."
     }
   },
   "menu": {

@@ -8,7 +8,8 @@
       "annotation2": "Nosakiet, vai tā ir {{0}} vai kanāla sākumlapa. Ja tā, atgriezieties {{1}}.",
       "annotation3": "Nosakiet, vai tā ir video lapa, ja tā sākas ar /watch, tiks atgriezta {{0}}.",
       "annotation4": "Nosakiet, vai tā ir īsa video lapa. Ja tā ir, tiks atgriezta {{0}}.",
-      "annotation5": "Citos gadījumos tiek atgriezts {{0}}."
+      "annotation5": "Nosakiet, vai tā ir ziņas lapa, ja tā sākas ar /post/, tiks atgriezta {{0}}.",
+      "annotation6": "Citos gadījumos tiek atgriezts {{0}}."
     }
   },
   "menu": {

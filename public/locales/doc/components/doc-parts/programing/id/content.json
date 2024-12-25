@@ -8,7 +8,8 @@
       "annotation2": "Tentukan apakah itu {{0}} atau beranda saluran. Jalurnya dimulai dengan simbol @. Jika demikian, kembalikan {{1}}.",
       "annotation3": "Tentukan apakah itu laman video. Jalurnya dimulai dengan /watch. Jika demikian, {{0}} akan dikembalikan.",
       "annotation4": "Tentukan apakah ini laman video pendek. Jalurnya dimulai dengan /shorts/. Jika demikian, {{0}} akan dikembalikan.",
-      "annotation5": "Dalam kasus lain, {{0}} dikembalikan."
+      "annotation5": "Tentukan apakah itu halaman postingan. Jalurnya dimulai dengan /post/. Jika demikian, {{0}} akan dikembalikan.",
+      "annotation6": "Dalam kasus lain, {{0}} dikembalikan."
     }
   },
   "menu": {

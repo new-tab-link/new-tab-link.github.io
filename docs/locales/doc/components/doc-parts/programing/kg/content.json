@@ -8,7 +8,8 @@
       "annotation2": "Zaya kana yo kele {{0}} to mukanda ya luyantiku ya nzila.",
       "annotation3": "Zaba kana yo kele mukanda ya video Nzila na yo ke yantika na /watch Kana mpidina, {{0}} ta vutuka.",
       "annotation4": "Zaba kana yo kele mukanda ya video ya nkufi Nzila na yo ke yantika na /shorts/ Kana mpidina, {{0}} ta vutuka.",
-      "annotation5": "Na ba ntangu ya nkaka, {{0}} ke vutuka."
+      "annotation5": "Zaba kana yau kele mukanda ya nsangu Nzila na yau ke yantika na /post/ Kana yau kele mutindu yina, {{0}} ta vutuka.",
+      "annotation6": "Na ba ntangu ya nkaka, {{0}} ke vutuka."
     }
   },
   "menu": {

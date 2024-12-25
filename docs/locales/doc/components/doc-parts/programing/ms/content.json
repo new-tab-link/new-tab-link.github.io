@@ -8,7 +8,8 @@
       "annotation2": "Tentukan sama ada ia adalah {{0}} atau halaman utama salurannya bermula dengan simbol @ Jika ya, kembalikan {{1}}.",
       "annotation3": "Tentukan sama ada ia adalah halaman video yang bermula dengan /watch Jika ya, {{0}} akan dikembalikan.",
       "annotation4": "Tentukan sama ada ia adalah halaman video pendek laluannya bermula dengan /shorts/. Jika ya, {{0}} akan dikembalikan.",
-      "annotation5": "Dalam kes lain, {{0}} dikembalikan."
+      "annotation5": "Tentukan sama ada ia adalah halaman siarannya bermula dengan /post/ Jika ya, {{0}} akan dikembalikan.",
+      "annotation6": "Dalam kes lain, {{0}} dikembalikan."
     }
   },
   "menu": {

@@ -8,7 +8,8 @@
       "annotation2": "Determine se é {{0}} ou a página inicial do canal.",
       "annotation3": "Determine se é uma página de vídeo. O seu caminho começa por /watch.",
       "annotation4": "Determine se é uma página de vídeo curta.",
-      "annotation5": "Noutros casos, é devolvido {{0}}."
+      "annotation5": "Determine se é uma página de publicação. O seu caminho começa por /post/. Nesse caso, será devolvido {{0}}.",
+      "annotation6": "Noutros casos, é devolvido {{0}}."
     }
   },
   "menu": {

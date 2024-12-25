@@ -8,7 +8,8 @@
       "annotation2": "Określ, czy jest to {{0}}, czy strona główna kanału. Jego ścieżka zaczyna się od symbolu @. Jeśli tak, zwróć {{1}}.",
       "annotation3": "Określ, czy jest to strona wideo. Jej ścieżka zaczyna się od /watch. Jeśli tak, zostanie zwrócone {{0}}.",
       "annotation4": "Określ, czy jest to krótka strona wideo. Jej ścieżka zaczyna się od /shorts/. Jeśli tak, zostanie zwrócony element {{0}}.",
-      "annotation5": "W innych przypadkach zwracane jest {{0}}."
+      "annotation5": "Określ, czy jest to strona z postem. Ścieżka zaczyna się od /post/. Jeśli tak, zostanie zwrócony element {{0}}.",
+      "annotation6": "W innych przypadkach zwracane jest {{0}}."
     }
   },
   "menu": {

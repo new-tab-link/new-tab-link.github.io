@@ -8,7 +8,8 @@
       "annotation2": "Zehaztu {{0}} edo kanalaren hasierako orria den. Bidea @ ikurrekin hasten da. Hala bada, itzuli {{1}}.",
       "annotation3": "Zehaztu bideo-orri bat den. Bidea /watch-ekin hasten da. Hala bada, {{0}} itzuliko da.",
       "annotation4": "Zehaztu bideo-orri labur bat den. Bidea /laburrekin hasten da. Hala bada, {{0}} itzuliko da.",
-      "annotation5": "Beste kasu batzuetan, {{0}} itzultzen da."
+      "annotation5": "Zehaztu argitalpen-orri bat den. Bere bidea /post/-rekin hasten da. Hala bada, {{0}} itzuliko da.",
+      "annotation6": "Beste kasu batzuetan, {{0}} itzultzen da."
     }
   },
   "menu": {

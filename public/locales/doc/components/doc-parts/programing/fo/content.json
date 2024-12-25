@@ -8,7 +8,8 @@
       "annotation2": "Áset um tað er {{0}} ella heimasíðan á rásini byrjar við @-merkinum Um so er, send aftur {{1}}.",
       "annotation3": "Áset um tað er ein videosíða Slóðin hjá henni byrjar við /watch Um so er, verður {{0}} send aftur.",
       "annotation4": "Áset um talan er um eina stutta videosíðu byrjar við /shorts/ Um so er, verður {{0}} send aftur.",
-      "annotation5": "Í øðrum førum verður {{0}} send aftur."
+      "annotation5": "Áset um talan er um eina innleggssíðu. Um so er, verður {{0}} send aftur.",
+      "annotation6": "Í øðrum førum verður {{0}} send aftur."
     }
   },
   "menu": {

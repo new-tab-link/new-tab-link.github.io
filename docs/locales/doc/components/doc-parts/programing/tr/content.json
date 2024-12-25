@@ -8,7 +8,8 @@
       "annotation2": "Bunun {{0}} mı yoksa kanalın ana sayfası mı olduğunu belirleyin. Eğer öyleyse, {{1}} değerini döndürün.",
       "annotation3": "Bunun bir video sayfası olup olmadığını belirleyin. Eğer öyleyse, {{0}} döndürülecektir.",
       "annotation4": "Kısa bir video sayfası olup olmadığını belirleyin. Eğer öyleyse, {{0}} döndürülecektir.",
-      "annotation5": "Diğer durumlarda {{0}} döndürülür."
+      "annotation5": "Bunun bir gönderi sayfası olup olmadığını belirleyin. Eğer öyleyse, {{0}} döndürülecektir.",
+      "annotation6": "Diğer durumlarda {{0}} döndürülür."
     }
   },
   "menu": {

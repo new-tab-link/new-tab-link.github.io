@@ -8,7 +8,8 @@
       "annotation2": "Përcaktoni nëse është {{0}} ose faqja kryesore e kanalit. Nëse po, kthejeni {{1}}.",
       "annotation3": "Përcaktoni nëse është një faqe videoje, shtegu i saj fillon me /watch, do të kthehet.",
       "annotation4": "Përcaktoni nëse është një faqe e shkurtër videoje, shtegu i saj fillon me /shorts/.",
-      "annotation5": "Në raste të tjera, {{0}} kthehet."
+      "annotation5": "Përcaktoni nëse është një faqe postimi, shtegu i saj fillon me /post/.",
+      "annotation6": "Në raste të tjera, {{0}} kthehet."
     }
   },
   "menu": {

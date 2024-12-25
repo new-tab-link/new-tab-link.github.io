@@ -8,7 +8,8 @@
       "annotation2": "Determina se è {{0}} o la home page del canale. Il suo percorso inizia con il simbolo @. In tal caso, restituisci {{1}}.",
       "annotation3": "Determina se si tratta di una pagina video. Il suo percorso inizia con /watch. In tal caso, verrà restituito {{0}}.",
       "annotation4": "Determina se si tratta di una pagina video breve. Il suo percorso inizia con /shorts/. In tal caso, verrà restituito {{0}}.",
-      "annotation5": "In altri casi, viene restituito {{0}}."
+      "annotation5": "Determina se si tratta di una pagina di post. Il suo percorso inizia con /post/. In tal caso, verrà restituito {{0}}.",
+      "annotation6": "In altri casi, viene restituito {{0}}."
     }
   },
   "menu": {

@@ -8,7 +8,8 @@
       "annotation2": "Määritä, onko se {{0}} vai kanavan kotisivu. Jos on, palauta {{1}}.",
       "annotation3": "Määritä, onko se videosivu, jonka polku alkaa /watch. Jos näin on, palautetaan {{0}}.",
       "annotation4": "Selvitä, onko se lyhyt videosivu, jonka polku alkaa /shorts/.",
-      "annotation5": "Muissa tapauksissa {{0}} palautetaan."
+      "annotation5": "Selvitä, onko se viestisivu. Jos näin on, {{0}} palautetaan.",
+      "annotation6": "Muissa tapauksissa {{0}} palautetaan."
     }
   },
   "menu": {

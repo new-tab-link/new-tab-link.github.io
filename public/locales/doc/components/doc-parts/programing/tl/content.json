@@ -8,7 +8,8 @@
       "annotation2": "Tukuyin kung ito ay {{0}} o ang homepage ng channel na nagsisimula sa simbolo ng @. Kung gayon, ibalik ang {{1}}.",
       "annotation3": "Tukuyin kung ito ay isang pahina ng video na nagsisimula sa /watch Kung gayon, ibabalik ang {{0}}.",
       "annotation4": "Tukuyin kung ito ay isang maikling pahina ng video na nagsisimula sa /shorts/ Kung gayon, ibabalik ang {{0}}.",
-      "annotation5": "Sa ibang mga kaso, ang {{0}} ay ibinalik."
+      "annotation5": "Tukuyin kung ito ay isang pahina ng post na nagsisimula sa /post/ Kung gayon, ibabalik ang {{0}}.",
+      "annotation6": "Sa ibang mga kaso, ang {{0}} ay ibinalik."
     }
   },
   "menu": {

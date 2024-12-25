@@ -8,7 +8,8 @@
       "annotation2": "Determina s'ellu hè {{0}} o a homepage di u canali A so strada principia cù u simbulu @ In casu, torna {{1}}.",
       "annotation3": "Determinà s'ellu hè una pagina di video A so strada principia cù /watch.",
       "annotation4": "Determina s'ellu hè una pagina di video breve U so percorsu principia cù /shorts/.",
-      "annotation5": "In altri casi, {{0}} hè tornatu."
+      "annotation5": "Determina s'ellu hè una pagina di post A so strada principia cù /post/.",
+      "annotation6": "In altri casi, {{0}} hè tornatu."
     }
   },
   "menu": {

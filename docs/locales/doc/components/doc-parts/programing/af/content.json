@@ -8,7 +8,8 @@
       "annotation2": "Bepaal of dit {{0}} of die tuisblad van die kanaal is, begin met die @-simbool. Indien wel, gee terug {{1}}.",
       "annotation3": "Bepaal of dit 'n videobladsy is, begin met /watch. Indien wel, sal {{0}} teruggestuur word.",
       "annotation4": "Bepaal of dit 'n kort videobladsy is, begin met /shorts/. Indien wel, sal {{0}} teruggestuur word.",
-      "annotation5": "In ander gevalle word {{0}} teruggestuur."
+      "annotation5": "Bepaal of dit 'n posbladsy is, begin met /post/. Indien wel, sal {{0}} teruggestuur word.",
+      "annotation6": "In ander gevalle word {{0}} teruggestuur."
     }
   },
   "menu": {

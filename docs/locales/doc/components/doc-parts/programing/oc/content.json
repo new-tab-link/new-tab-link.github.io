@@ -8,7 +8,8 @@
       "annotation2": "Determinatz s'es {{0}} o la pagina d'acuèlh del canal Son camin comença amb lo simbòl @ Se òc, retornatz {{1}}.",
       "annotation3": "Determinatz s'es una pagina vidèo Son camin comença per /watch Se òc, {{0}} serà retornat.",
       "annotation4": "Determinatz s'es una pagina vidèo corta Son camin comença per /shorts/ Se òc, {{0}} serà retornat.",
-      "annotation5": "Dins d'autres cases, {{0}} es retornat."
+      "annotation5": "Determinatz s'es una pagina de messatge Son camin comença per /post/ Se òc, {{0}} serà retornat.",
+      "annotation6": "Dins d'autres cases, {{0}} es retornat."
     }
   },
   "menu": {

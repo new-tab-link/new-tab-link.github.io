@@ -8,7 +8,8 @@
       "annotation2": "Määrake, kas see on {{0}} või kanali avaleht. Kui jah, tagastage {{1}}.",
       "annotation3": "Määrake, kas see on videoleht, mille tee algab tähega /watch. Kui jah, tagastatakse {{0}}.",
       "annotation4": "Tehke kindlaks, kas see on lühike videoleht. Kui jah, siis tagastatakse {{0}}.",
-      "annotation5": "Muudel juhtudel tagastatakse {{0}}."
+      "annotation5": "Määrake, kas see on postituse leht. Kui jah, tagastatakse {{0}}.",
+      "annotation6": "Muudel juhtudel tagastatakse {{0}}."
     }
   },
   "menu": {

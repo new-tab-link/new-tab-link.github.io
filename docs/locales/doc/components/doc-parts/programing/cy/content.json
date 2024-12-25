@@ -8,7 +8,8 @@
       "annotation2": "Darganfod a yw'n {{0}} neu hafan y sianel. Mae ei lwybr yn dechrau gyda'r symbol @.",
       "annotation3": "Penderfynwch a yw'n dudalen fideo. Mae ei llwybr yn dechrau gyda /watch.",
       "annotation4": "Penderfynwch a yw'n dudalen fideo fer. Mae ei llwybr yn dechrau gyda /shorts/.",
-      "annotation5": "Mewn achosion eraill, mae {{0}} yn cael ei ddychwelyd."
+      "annotation5": "Penderfynwch a yw'n dudalen postio. Mae ei llwybr yn dechrau gyda /post/.",
+      "annotation6": "Mewn achosion eraill, mae {{0}} yn cael ei ddychwelyd."
     }
   },
   "menu": {

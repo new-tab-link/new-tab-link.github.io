@@ -8,7 +8,8 @@
       "annotation2": "Bepaol of ‘t {{0}} is of de startpagina vaan ‘t kanaal. ‘t Paad begint mit ‘t @-symbool.",
       "annotation3": "Bepaol of ut un videopagina is. De weeg begint mit /watch.",
       "annotation4": "Bepaol of ut un korte videopagina is. De weeg begint mit /shorts/.",
-      "annotation5": "In anger gevalle weurt {{0}} geretourneerd."
+      "annotation5": "Bepaol of ut un postpagina is. De paad begint mit /post/.",
+      "annotation6": "In anger gevalle weurt {{0}} geretourneerd."
     }
   },
   "menu": {

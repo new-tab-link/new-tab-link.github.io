@@ -8,7 +8,8 @@
       "annotation2": "Bestëmmt ob et {{0}} ass oder d'Homepage vum Kanal fänkt mat dem @ Symbol un.",
       "annotation3": "Bestëmmt ob et eng Videosäit ass. Seng Wee fänkt mat /watch un.",
       "annotation4": "Bestëmmt ob et eng kuerz Video Säit ass. De Wee fänkt mat /shorts/ un.",
-      "annotation5": "An anere Fäll gëtt {{0}} zréckginn."
+      "annotation5": "Bestëmmt ob et eng Post Säit ass. De Wee fänkt mat /post/ un.",
+      "annotation6": "An anere Fäll gëtt {{0}} zréckginn."
     }
   },
   "menu": {

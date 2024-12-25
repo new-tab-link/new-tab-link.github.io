@@ -95,7 +95,7 @@ function YoutubeMainPage() {
           <Annotation indent={2}>
             <Trans
               t={t}
-              i18nKey="doc.example1.annotation5"
+              i18nKey="doc.example1.annotation6"
               values={{ "0": "false" }}
             ></Trans>
           </Annotation>

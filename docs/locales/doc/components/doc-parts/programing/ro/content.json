@@ -8,7 +8,8 @@
       "annotation2": "Determinați dacă este {{0}} sau pagina de pornire a canalului. Calea acestuia începe cu simbolul @. Dacă da, returnați {{1}}.",
       "annotation3": "Determinați dacă este o pagină video. Calea acesteia începe cu /watch. Dacă da, va fi returnat {{0}}.",
       "annotation4": "Determinați dacă este o pagină video scurtă. Calea sa începe cu /shorts/. Dacă da, va fi returnat {{0}}.",
-      "annotation5": "În alte cazuri, {{0}} este returnat."
+      "annotation5": "Determinați dacă este o pagină de postare. Calea începe cu /post/.",
+      "annotation6": "În alte cazuri, {{0}} este returnat."
     }
   },
   "menu": {

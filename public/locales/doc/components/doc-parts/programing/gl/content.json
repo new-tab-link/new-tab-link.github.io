@@ -8,7 +8,8 @@
       "annotation2": "Determina se é {{0}} ou a páxina de inicio da canle. A súa ruta comeza co símbolo @. Se é así, devolve {{1}}.",
       "annotation3": "Determina se é unha páxina de vídeo. A súa ruta comeza por /watch. Se é así, devolverase {{0}}.",
       "annotation4": "Determina se é unha páxina de vídeo curta. O seu camiño comeza con /shorts/. Se é así, devolverase {{0}}.",
-      "annotation5": "Noutros casos, devólvese {{0}}."
+      "annotation5": "Determina se é unha páxina de publicación. O seu camiño comeza por /post/.",
+      "annotation6": "Noutros casos, devólvese {{0}}."
     }
   },
   "menu": {

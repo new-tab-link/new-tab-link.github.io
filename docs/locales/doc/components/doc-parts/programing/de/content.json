@@ -8,7 +8,8 @@
       "annotation2": "Bestimmen Sie, ob es sich um {{0}} oder die Homepage des Kanals handelt. Wenn ja, geben Sie {{1}} zurück.",
       "annotation3": "Stellen Sie fest, ob es sich um eine Videoseite handelt. Wenn ja, wird {{0}} zurückgegeben.",
       "annotation4": "Stellen Sie fest, ob es sich um eine kurze Videoseite handelt. Wenn ja, wird {{0}} zurückgegeben.",
-      "annotation5": "In anderen Fällen wird {{0}} zurückgegeben."
+      "annotation5": "Stellen Sie fest, ob es sich um eine Beitragsseite handelt. Wenn ja, wird {{0}} zurückgegeben.",
+      "annotation6": "In anderen Fällen wird {{0}} zurückgegeben."
     }
   },
   "menu": {

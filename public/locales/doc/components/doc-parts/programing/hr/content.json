@@ -8,7 +8,8 @@
       "annotation2": "Odredite je li to {{0}} ili početna stranica kanala. Ako je tako, vratite {{1}}.",
       "annotation3": "Odredite je li to video stranica. Ako je tako, bit će vraćeno {{0}}.",
       "annotation4": "Odredite je li kratka video stranica počinje s /shorts/ Ako je tako, {{0}} će biti vraćeno.",
-      "annotation5": "U drugim slučajevima vraća se {{0}}."
+      "annotation5": "Odredite je li to stranica s objavom. Ako je tako, bit će vraćeno {{0}}.",
+      "annotation6": "U drugim slučajevima vraća se {{0}}."
     }
   },
   "menu": {

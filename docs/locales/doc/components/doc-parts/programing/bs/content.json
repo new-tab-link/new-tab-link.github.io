@@ -8,7 +8,8 @@
       "annotation2": "Odredite da li je to {{0}} ili njegova putanja počinje sa simbolom @, vratite {{1}}.",
       "annotation3": "Odredite da li je to video stranica. Ako je tako, {{0}} će biti vraćeno.",
       "annotation4": "Odredite da li je to kratka video stranica. Ako je tako, vratit će se {{0}}.",
-      "annotation5": "U drugim slučajevima, {{0}} se vraća."
+      "annotation5": "Odredite da li je to stranica s porukom. Ako je tako, {{0}} će biti vraćeno.",
+      "annotation6": "U drugim slučajevima, {{0}} se vraća."
     }
   },
   "menu": {

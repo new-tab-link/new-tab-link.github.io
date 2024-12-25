@@ -8,7 +8,8 @@
       "annotation2": "Tangtukeun naha éta téh {{0}} atawa halaman utama saluranna dimimitian ku simbol @, balikkeun {{1}}.",
       "annotation3": "Tangtukeun naha éta téh kaca video na dimimitian ku /watch Lamun kitu, {{0}} bakal balik.",
       "annotation4": "Tangtukeun naha éta téh kaca video pondok na dimimitian ku /shorts/ Lamun kitu, {{0}} bakal balik.",
-      "annotation5": "Dina kasus séjén, {{0}} dibalikeun."
+      "annotation5": "Tangtukeun naha éta mangrupa kaca pos na dimimitian ku /post/.",
+      "annotation6": "Dina kasus séjén, {{0}} dibalikeun."
     }
   },
   "menu": {

@@ -8,7 +8,8 @@
       "annotation2": "Určete, zda se jedná o {{0}} nebo o domovskou stránku kanálu. Pokud ano, vraťte {{1}}.",
       "annotation3": "Určete, zda se jedná o stránku videa, její cesta začíná řetězcem /watch. Pokud ano, vrátí se {{0}}.",
       "annotation4": "Určete, zda se jedná o stránku s krátkým videem, její cesta začíná /shorts/. Pokud ano, vrátí se {{0}}.",
-      "annotation5": "V ostatních případech je vráceno {{0}}."
+      "annotation5": "Určete, zda se jedná o stránku příspěvku, její cesta začíná /post/. Pokud ano, bude vráceno {{0}}.",
+      "annotation6": "V ostatních případech je vráceno {{0}}."
     }
   },
   "menu": {
